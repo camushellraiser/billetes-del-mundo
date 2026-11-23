@@ -1729,7 +1729,15 @@
     "series": "Cuarta serie",
     "seriesEn": "Cuarta serie",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm1",
+    "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
+    "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
+    "backDescription": "Cometa tradicional wau bulan",
+    "backDescriptionEn": "Traditional wau bulan kite",
+    "reviewedAt": "2026-11-23",
+    "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
+    "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
   {
     "id": "my-5",
@@ -1738,7 +1746,15 @@
     "series": "Cuarta serie",
     "seriesEn": "Cuarta serie",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm5",
+    "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
+    "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
+    "backDescription": "Cálao rinoceronte de Malasia",
+    "backDescriptionEn": "Malaysian rhinoceros hornbill",
+    "reviewedAt": "2026-11-23",
+    "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
+    "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
   {
     "id": "my-10",
@@ -1747,7 +1763,15 @@
     "series": "Cuarta serie",
     "seriesEn": "Cuarta serie",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm10",
+    "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
+    "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
+    "backDescription": "Flor Rafflesia azlanii",
+    "backDescriptionEn": "Rafflesia azlanii flower",
+    "reviewedAt": "2026-11-23",
+    "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
+    "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
   {
     "id": "my-20",
@@ -1756,7 +1780,15 @@
     "series": "Cuarta serie",
     "seriesEn": "Cuarta serie",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm20",
+    "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
+    "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
+    "backDescription": "Tortugas carey y laúd",
+    "backDescriptionEn": "Hawksbill and leatherback turtles",
+    "reviewedAt": "2026-11-23",
+    "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
+    "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
   {
     "id": "my-50",
@@ -1765,7 +1797,15 @@
     "series": "Cuarta serie",
     "seriesEn": "Cuarta serie",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm50",
+    "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
+    "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
+    "backDescription": "Palma aceitera y biotecnología",
+    "backDescriptionEn": "Oil palm and biotechnology",
+    "reviewedAt": "2026-11-23",
+    "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
+    "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
   {
     "id": "my-100",
@@ -1774,7 +1814,15 @@
     "series": "Cuarta serie",
     "seriesEn": "Cuarta serie",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm100",
+    "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
+    "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
+    "backDescription": "Monte Kinabalu y pináculos de Gunung Api",
+    "backDescriptionEn": "Mount Kinabalu and Gunung Api limestone pinnacles",
+    "reviewedAt": "2026-11-23",
+    "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
+    "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
   {
     "id": "id-1000",
