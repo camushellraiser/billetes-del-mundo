@@ -2,7 +2,7 @@
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizárrez**.
 
-**Versión:** 1.1.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 16 (7 de Estados Unidos, 6 del euro y 3 de Japón). **Enlaces oficiales de México:** 6 denominaciones, familia G.
+**Versión:** 1.1.1 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 16 (7 de Estados Unidos, 6 del euro y 3 de Japón). **Enlaces oficiales:** 6 denominaciones de México (familia G) y 4 del Reino Unido (Carlos III).
 
 ## Explora el catálogo
 
@@ -35,7 +35,7 @@ Son *endpoints estáticos de solo lectura*, no una API de escritura ni una API e
 
 ## Fotografías, vigencia y licencias
 
-**Importante:** los 164 registros del catálogo no equivalen a 164 pares de fotografías disponibles. Esta versión incluye referencias de imagen seleccionadas para 16 pares (Estados Unidos, euro y Japón); en las demás denominaciones se muestra un marcador elegante de foto pendiente. Para México, la interfaz proporciona enlaces directos a los seis billetes de la familia G en la web de Banco de México, sin copiar ni alojar las imágenes: según el Artículo 17 de la Ley Monetaria, su reproducción requiere autorización expresa. Si una imagen de Wikimedia no está accesible, el visor muestra un estado de error, no una imagen inventada.
+**Importante:** los 164 registros del catálogo no equivalen a 164 pares de fotografías disponibles. Esta versión incluye referencias de imagen seleccionadas para 16 pares (Estados Unidos, euro y Japón); en las demás denominaciones se muestra un marcador elegante de foto pendiente. Para México y Reino Unido, la interfaz proporciona enlaces directos a los bancos centrales. Para México, la interfaz proporciona enlaces directos a los seis billetes de la familia G en la web de Banco de México, sin copiar ni alojar las imágenes: según el Artículo 17 de la Ley Monetaria, su reproducción requiere autorización expresa. Si una imagen de Wikimedia no está accesible, el visor muestra un estado de error, no una imagen inventada.
 
 Las imágenes se obtienen de archivos externos y están sujetas a la disponibilidad, licencias, atribución y legislación de reproducción de billetes de cada país. La presencia de una referencia no implica autorización ilimitada para comercializar la imagen. Antes de ampliar cobertura, confirmar contra fuentes oficiales que el diseño es el más reciente de la denominación y revisar permisos aplicables.
 
@@ -62,3 +62,9 @@ El catálogo prioriza **las series de diseño más recientes**, no todas las ser
 - Respaldos disponibles: `backup/v1.0.0` y `backup/pre-v1.1-current-billetes`.
 
 **Importante:** el resto de países todavía necesita una auditoría de las series recientes y de los permisos de reproducción. Evitar sustituir los pendientes por billetes antiguos.
+
+## Actualización 1.1.1 — Reino Unido
+
+- Fichas oficiales enlazadas individualmente del Banco de Inglaterra para los cuatro billetes actuales con Carlos III: £5, £10, £20 y £50.
+- Motivos explicados en ambas caras: Winston Churchill, Jane Austen, J. M. W. Turner y Alan Turing.
+- Etiquetas de enlace adaptadas al banco central de cada país.
