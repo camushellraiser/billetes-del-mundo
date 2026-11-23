@@ -12,8 +12,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700;750;800&family=Manrope:wght@400;500;600;700;800&display=swap" />
-  <link rel="stylesheet" href="assets/style.css?v=1.0.0" />
-  <script src="assets/app.js?v=1.0.0" defer></script>
+  <link rel="stylesheet" href="assets/style.css?v=1.1.0" />
+  <script src="assets/app.js?v=1.1.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -80,11 +80,11 @@
         <div class="detail-layout">
           <div class="note-display">
             <div class="display-top"><span class="image-status" id="image-status"><span class="live-dot"></span><span id="image-status-text">IMAGEN VERIFICADA</span></span><span class="note-counter" id="note-count"></span></div>
-            <div class="note-canvas" id="note-canvas"><div class="note-stage" id="note-stage"><div id="note-image" class="note-image-wrap"></div><div id="note-placeholder" class="note-placeholder" hidden><div class="placeholder-inner"><div class="placeholder-symbol">✳</div><div class="placeholder-note-value" id="placeholder-value"></div><p data-i18n="pendingPhoto">Fotografía pendiente de verificación</p></div></div></div></div>
+            <div class="note-canvas" id="note-canvas"><div class="note-stage" id="note-stage"><div id="note-image" class="note-image-wrap"></div><div id="note-placeholder" class="note-placeholder" hidden><div class="placeholder-inner"><div class="placeholder-symbol">✳</div><div class="placeholder-note-value" id="placeholder-value"></div><p data-i18n="pendingPhoto">Fotografía pendiente de verificación</p><a class="official-preview-link" id="official-note-link" target="_blank" rel="noopener noreferrer" hidden>Ver imágenes oficiales ↗</a></div></div></div></div>
             <div class="image-tools"><div class="side-switch" role="group" aria-label="Lado del billete"><button type="button" class="side-switch-btn selected" id="front-button" data-i18n="front">Anverso</button><button type="button" class="side-switch-btn" id="back-button" data-i18n="back">Reverso</button></div><button class="tool-button" type="button" id="zoom-button" title="Ampliar fotografía" disabled><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5M8 10.5h5M10.5 8v5"/></svg><span data-i18n="zoom">Ampliar</span></button></div>
             <div class="image-source" id="image-source" hidden></div>
           </div>
-          <div class="denom-panel"><span class="section-kicker"><span class="kicker-dot"></span><span data-i18n="selectDenom">ELIGE UNA DENOMINACIÓN</span></span><h2 data-i18n-html="banknotesCountry">Los billetes del país<span class="accent-period">.</span></h2><p data-i18n="selectDenomDesc">Selecciona un valor para ver el diseño de cada billete.</p><div class="denom-buttons" id="denom-buttons"></div><div class="selected-summary"><span data-i18n="selectedBanknote">BILLETE SELECCIONADO</span><strong id="selected-denomination"></strong><span id="selected-status"></span></div><div class="fun-fact"><div class="fun-icon">✦</div><div><span data-i18n="aCuriosity">UNA CURIOSIDAD</span><p id="country-fact"></p></div></div><div class="source-link-container"><a class="official-link" id="official-source" target="_blank" rel="noopener noreferrer"><span data-i18n="officialSource">Consultar banco central</span>↗</a></div></div>
+          <div class="denom-panel"><span class="section-kicker"><span class="kicker-dot"></span><span data-i18n="selectDenom">ELIGE UNA DENOMINACIÓN</span></span><h2 data-i18n-html="banknotesCountry">Los billetes del país<span class="accent-period">.</span></h2><p data-i18n="selectDenomDesc">Selecciona un valor para ver el diseño de cada billete.</p><div class="denom-buttons" id="denom-buttons"></div><div class="selected-summary"><span data-i18n="selectedBanknote">BILLETE SELECCIONADO</span><strong id="selected-denomination"></strong><span id="selected-status"></span></div><div class="note-story" id="note-story" hidden><span class="note-story-label" id="note-story-label"></span><p id="note-story-text"></p></div><div class="fun-fact"><div class="fun-icon">✦</div><div><span data-i18n="aCuriosity">UNA CURIOSIDAD</span><p id="country-fact"></p></div></div><div class="source-link-container"><a class="official-link" id="official-source" target="_blank" rel="noopener noreferrer"><span data-i18n="officialSource">Consultar banco central</span>↗</a></div></div>
         </div>
         <div class="next-journey"><span data-i18n="keepExploring">SIGUE EXPLORANDO</span><button type="button" id="next-country"><span data-i18n="otherDestination">Descubre otro destino</span><span>↗</span></button></div>
       </section>
