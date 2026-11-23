@@ -1,13 +1,14 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
-  "verifiedImagePairs": 10,
-  "imagePolicy": "Las imágenes solo se muestran cuando la serie está seleccionada; se debe respetar la licencia y las normas de reproducción originales.",
+  "verifiedImagePairs": 16,
+  "imagePolicy": "Fotografías curadas de diseños actuales mediante Wikimedia Commons; para México se enlazan las fichas oficiales de Banco de México sin republicar las imágenes; todas las reproducciones están sujetas a permisos y normativas locales.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
-  ]
+  ],
+  "officialDenominationReferences": 6
 }
