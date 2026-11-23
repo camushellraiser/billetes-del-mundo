@@ -1,0 +1,1528 @@
+[
+  {
+    "id": "mx-20",
+    "countryId": "mx",
+    "value": 20,
+    "series": "Familia G",
+    "seriesEn": "Familia G",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mx-50",
+    "countryId": "mx",
+    "value": 50,
+    "series": "Familia G",
+    "seriesEn": "Familia G",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mx-100",
+    "countryId": "mx",
+    "value": 100,
+    "series": "Familia G",
+    "seriesEn": "Familia G",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mx-200",
+    "countryId": "mx",
+    "value": 200,
+    "series": "Familia G",
+    "seriesEn": "Familia G",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mx-500",
+    "countryId": "mx",
+    "value": 500,
+    "series": "Familia G",
+    "seriesEn": "Familia G",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "mx-1000",
+    "countryId": "mx",
+    "value": 1000,
+    "series": "Familia G",
+    "seriesEn": "Familia G",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-1",
+    "countryId": "us",
+    "value": 1,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-2",
+    "countryId": "us",
+    "value": 2,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-5",
+    "countryId": "us",
+    "value": 5,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-10",
+    "countryId": "us",
+    "value": 10,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-20",
+    "countryId": "us",
+    "value": 20,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-50",
+    "countryId": "us",
+    "value": 50,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "us-100",
+    "countryId": "us",
+    "value": 100,
+    "series": "Diseño actual",
+    "seriesEn": "Diseño actual",
+    "photos": {
+      "front": "Series 2013 $100 bill front.jpg",
+      "back": "Series 2013 $100 bill back.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "ca-5",
+    "countryId": "ca",
+    "value": 5,
+    "series": "Polímero",
+    "seriesEn": "Polímero",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ca-10",
+    "countryId": "ca",
+    "value": 10,
+    "series": "Polímero",
+    "seriesEn": "Polímero",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ca-20",
+    "countryId": "ca",
+    "value": 20,
+    "series": "Polímero",
+    "seriesEn": "Polímero",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ca-50",
+    "countryId": "ca",
+    "value": 50,
+    "series": "Polímero",
+    "seriesEn": "Polímero",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ca-100",
+    "countryId": "ca",
+    "value": 100,
+    "series": "Polímero",
+    "seriesEn": "Polímero",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-2",
+    "countryId": "br",
+    "value": 2,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-5",
+    "countryId": "br",
+    "value": 5,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-10",
+    "countryId": "br",
+    "value": 10,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-20",
+    "countryId": "br",
+    "value": 20,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-50",
+    "countryId": "br",
+    "value": 50,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-100",
+    "countryId": "br",
+    "value": 100,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "br-200",
+    "countryId": "br",
+    "value": 200,
+    "series": "Segunda familia",
+    "seriesEn": "Segunda familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ar-1000",
+    "countryId": "ar",
+    "value": 1000,
+    "series": "Emisiones recientes",
+    "seriesEn": "Emisiones recientes",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ar-2000",
+    "countryId": "ar",
+    "value": 2000,
+    "series": "Emisiones recientes",
+    "seriesEn": "Emisiones recientes",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ar-10000",
+    "countryId": "ar",
+    "value": 10000,
+    "series": "Emisiones recientes",
+    "seriesEn": "Emisiones recientes",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ar-20000",
+    "countryId": "ar",
+    "value": 20000,
+    "series": "Emisiones recientes",
+    "seriesEn": "Emisiones recientes",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cl-1000",
+    "countryId": "cl",
+    "value": 1000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cl-2000",
+    "countryId": "cl",
+    "value": 2000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cl-5000",
+    "countryId": "cl",
+    "value": 5000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cl-10000",
+    "countryId": "cl",
+    "value": 10000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cl-20000",
+    "countryId": "cl",
+    "value": 20000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "co-2000",
+    "countryId": "co",
+    "value": 2000,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "co-5000",
+    "countryId": "co",
+    "value": 5000,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "co-10000",
+    "countryId": "co",
+    "value": 10000,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "co-20000",
+    "countryId": "co",
+    "value": 20000,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "co-50000",
+    "countryId": "co",
+    "value": 50000,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "co-100000",
+    "countryId": "co",
+    "value": 100000,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pe-10",
+    "countryId": "pe",
+    "value": 10,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pe-20",
+    "countryId": "pe",
+    "value": 20,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pe-50",
+    "countryId": "pe",
+    "value": 50,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pe-100",
+    "countryId": "pe",
+    "value": 100,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pe-200",
+    "countryId": "pe",
+    "value": 200,
+    "series": "Nueva familia",
+    "seriesEn": "Nueva familia",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "gb-5",
+    "countryId": "gb",
+    "value": 5,
+    "series": "Carlos III · 2024",
+    "seriesEn": "Carlos III · 2024",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "gb-10",
+    "countryId": "gb",
+    "value": 10,
+    "series": "Carlos III · 2024",
+    "seriesEn": "Carlos III · 2024",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "gb-20",
+    "countryId": "gb",
+    "value": 20,
+    "series": "Carlos III · 2024",
+    "seriesEn": "Carlos III · 2024",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "gb-50",
+    "countryId": "gb",
+    "value": 50,
+    "series": "Carlos III · 2024",
+    "seriesEn": "Carlos III · 2024",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "fr-5",
+    "countryId": "fr",
+    "value": 5,
+    "series": "Serie Europa",
+    "seriesEn": "Serie Europa",
+    "photos": {
+      "front": "EUR 5 obverse (2013 issue).png",
+      "back": "EUR 5 reverse (2013 issue).png",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "fr-10",
+    "countryId": "fr",
+    "value": 10,
+    "series": "Serie Europa",
+    "seriesEn": "Serie Europa",
+    "photos": {
+      "front": "EUR 10 obverse (2014 issue).png",
+      "back": "EUR 10 reverse (2014 issue).png",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "fr-20",
+    "countryId": "fr",
+    "value": 20,
+    "series": "Serie Europa",
+    "seriesEn": "Serie Europa",
+    "photos": {
+      "front": "The Europa series 20 € obverse side.jpg",
+      "back": "The Europa series 20 € reverse side.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "fr-50",
+    "countryId": "fr",
+    "value": 50,
+    "series": "Serie Europa",
+    "seriesEn": "Serie Europa",
+    "photos": {
+      "front": "The Europa series 50 € obverse side.png",
+      "back": "The Europa series 50 € reverse side.png",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "fr-100",
+    "countryId": "fr",
+    "value": 100,
+    "series": "Serie Europa",
+    "seriesEn": "Serie Europa",
+    "photos": {
+      "front": "The Europa series 100 € obverse side.jpg",
+      "back": "The Europa series 100 € reverse side.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "fr-200",
+    "countryId": "fr",
+    "value": 200,
+    "series": "Serie Europa",
+    "seriesEn": "Serie Europa",
+    "photos": {
+      "front": "The Europa series 200 € obverse side.jpg",
+      "back": "The Europa series 200 € reverse side.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "ch-10",
+    "countryId": "ch",
+    "value": 10,
+    "series": "Novena serie",
+    "seriesEn": "Novena serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ch-20",
+    "countryId": "ch",
+    "value": 20,
+    "series": "Novena serie",
+    "seriesEn": "Novena serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ch-50",
+    "countryId": "ch",
+    "value": 50,
+    "series": "Novena serie",
+    "seriesEn": "Novena serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ch-100",
+    "countryId": "ch",
+    "value": 100,
+    "series": "Novena serie",
+    "seriesEn": "Novena serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ch-200",
+    "countryId": "ch",
+    "value": 200,
+    "series": "Novena serie",
+    "seriesEn": "Novena serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ch-1000",
+    "countryId": "ch",
+    "value": 1000,
+    "series": "Novena serie",
+    "seriesEn": "Novena serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "se-20",
+    "countryId": "se",
+    "value": 20,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "se-50",
+    "countryId": "se",
+    "value": 50,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "se-100",
+    "countryId": "se",
+    "value": 100,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "se-200",
+    "countryId": "se",
+    "value": 200,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "se-500",
+    "countryId": "se",
+    "value": 500,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "se-1000",
+    "countryId": "se",
+    "value": 1000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "no-50",
+    "countryId": "no",
+    "value": 50,
+    "series": "Serie VIII",
+    "seriesEn": "Serie VIII",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "no-100",
+    "countryId": "no",
+    "value": 100,
+    "series": "Serie VIII",
+    "seriesEn": "Serie VIII",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "no-200",
+    "countryId": "no",
+    "value": 200,
+    "series": "Serie VIII",
+    "seriesEn": "Serie VIII",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "no-500",
+    "countryId": "no",
+    "value": 500,
+    "series": "Serie VIII",
+    "seriesEn": "Serie VIII",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "no-1000",
+    "countryId": "no",
+    "value": 1000,
+    "series": "Serie VIII",
+    "seriesEn": "Serie VIII",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pl-10",
+    "countryId": "pl",
+    "value": 10,
+    "series": "Serie modernizada",
+    "seriesEn": "Serie modernizada",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pl-20",
+    "countryId": "pl",
+    "value": 20,
+    "series": "Serie modernizada",
+    "seriesEn": "Serie modernizada",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pl-50",
+    "countryId": "pl",
+    "value": 50,
+    "series": "Serie modernizada",
+    "seriesEn": "Serie modernizada",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pl-100",
+    "countryId": "pl",
+    "value": 100,
+    "series": "Serie modernizada",
+    "seriesEn": "Serie modernizada",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pl-200",
+    "countryId": "pl",
+    "value": 200,
+    "series": "Serie modernizada",
+    "seriesEn": "Serie modernizada",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "pl-500",
+    "countryId": "pl",
+    "value": 500,
+    "series": "Serie modernizada",
+    "seriesEn": "Serie modernizada",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "tr-5",
+    "countryId": "tr",
+    "value": 5,
+    "series": "Novena emisión",
+    "seriesEn": "Novena emisión",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "tr-10",
+    "countryId": "tr",
+    "value": 10,
+    "series": "Novena emisión",
+    "seriesEn": "Novena emisión",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "tr-20",
+    "countryId": "tr",
+    "value": 20,
+    "series": "Novena emisión",
+    "seriesEn": "Novena emisión",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "tr-50",
+    "countryId": "tr",
+    "value": 50,
+    "series": "Novena emisión",
+    "seriesEn": "Novena emisión",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "tr-100",
+    "countryId": "tr",
+    "value": 100,
+    "series": "Novena emisión",
+    "seriesEn": "Novena emisión",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "tr-200",
+    "countryId": "tr",
+    "value": 200,
+    "series": "Novena emisión",
+    "seriesEn": "Novena emisión",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "jp-1000",
+    "countryId": "jp",
+    "value": 1000,
+    "series": "Serie F · 2024",
+    "seriesEn": "Serie F · 2024",
+    "photos": {
+      "front": "Series F 1,000 yen note front.jpg",
+      "back": "Series F 1,000 yen note reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "jp-5000",
+    "countryId": "jp",
+    "value": 5000,
+    "series": "Serie F · 2024",
+    "seriesEn": "Serie F · 2024",
+    "photos": {
+      "front": "Series F 5000 yen front.jpg",
+      "back": "Series F 5,000 yen reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "jp-10000",
+    "countryId": "jp",
+    "value": 10000,
+    "series": "Serie F · 2024",
+    "seriesEn": "Serie F · 2024",
+    "photos": {
+      "front": "Series F 10000 yen front.jpg",
+      "back": "Series F 10000 yen back.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true
+    },
+    "imageStatus": "curated"
+  },
+  {
+    "id": "cn-1",
+    "countryId": "cn",
+    "value": 1,
+    "series": "Quinta serie",
+    "seriesEn": "Quinta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cn-5",
+    "countryId": "cn",
+    "value": 5,
+    "series": "Quinta serie",
+    "seriesEn": "Quinta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cn-10",
+    "countryId": "cn",
+    "value": 10,
+    "series": "Quinta serie",
+    "seriesEn": "Quinta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cn-20",
+    "countryId": "cn",
+    "value": 20,
+    "series": "Quinta serie",
+    "seriesEn": "Quinta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cn-50",
+    "countryId": "cn",
+    "value": 50,
+    "series": "Quinta serie",
+    "seriesEn": "Quinta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "cn-100",
+    "countryId": "cn",
+    "value": 100,
+    "series": "Quinta serie",
+    "seriesEn": "Quinta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "kr-1000",
+    "countryId": "kr",
+    "value": 1000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "kr-5000",
+    "countryId": "kr",
+    "value": 5000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "kr-10000",
+    "countryId": "kr",
+    "value": 10000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "kr-50000",
+    "countryId": "kr",
+    "value": 50000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "in-10",
+    "countryId": "in",
+    "value": 10,
+    "series": "Mahatma Gandhi (nueva)",
+    "seriesEn": "Mahatma Gandhi (nueva)",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "in-20",
+    "countryId": "in",
+    "value": 20,
+    "series": "Mahatma Gandhi (nueva)",
+    "seriesEn": "Mahatma Gandhi (nueva)",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "in-50",
+    "countryId": "in",
+    "value": 50,
+    "series": "Mahatma Gandhi (nueva)",
+    "seriesEn": "Mahatma Gandhi (nueva)",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "in-100",
+    "countryId": "in",
+    "value": 100,
+    "series": "Mahatma Gandhi (nueva)",
+    "seriesEn": "Mahatma Gandhi (nueva)",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "in-200",
+    "countryId": "in",
+    "value": 200,
+    "series": "Mahatma Gandhi (nueva)",
+    "seriesEn": "Mahatma Gandhi (nueva)",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "in-500",
+    "countryId": "in",
+    "value": 500,
+    "series": "Mahatma Gandhi (nueva)",
+    "seriesEn": "Mahatma Gandhi (nueva)",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "th-20",
+    "countryId": "th",
+    "value": 20,
+    "series": "Emisión actual",
+    "seriesEn": "Emisión actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "th-50",
+    "countryId": "th",
+    "value": 50,
+    "series": "Emisión actual",
+    "seriesEn": "Emisión actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "th-100",
+    "countryId": "th",
+    "value": 100,
+    "series": "Emisión actual",
+    "seriesEn": "Emisión actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "th-500",
+    "countryId": "th",
+    "value": 500,
+    "series": "Emisión actual",
+    "seriesEn": "Emisión actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "th-1000",
+    "countryId": "th",
+    "value": 1000,
+    "series": "Emisión actual",
+    "seriesEn": "Emisión actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sg-2",
+    "countryId": "sg",
+    "value": 2,
+    "series": "Serie retratos",
+    "seriesEn": "Serie retratos",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sg-5",
+    "countryId": "sg",
+    "value": 5,
+    "series": "Serie retratos",
+    "seriesEn": "Serie retratos",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sg-10",
+    "countryId": "sg",
+    "value": 10,
+    "series": "Serie retratos",
+    "seriesEn": "Serie retratos",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sg-50",
+    "countryId": "sg",
+    "value": 50,
+    "series": "Serie retratos",
+    "seriesEn": "Serie retratos",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "sg-100",
+    "countryId": "sg",
+    "value": 100,
+    "series": "Serie retratos",
+    "seriesEn": "Serie retratos",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "my-1",
+    "countryId": "my",
+    "value": 1,
+    "series": "Cuarta serie",
+    "seriesEn": "Cuarta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "my-5",
+    "countryId": "my",
+    "value": 5,
+    "series": "Cuarta serie",
+    "seriesEn": "Cuarta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "my-10",
+    "countryId": "my",
+    "value": 10,
+    "series": "Cuarta serie",
+    "seriesEn": "Cuarta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "my-20",
+    "countryId": "my",
+    "value": 20,
+    "series": "Cuarta serie",
+    "seriesEn": "Cuarta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "my-50",
+    "countryId": "my",
+    "value": 50,
+    "series": "Cuarta serie",
+    "seriesEn": "Cuarta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "my-100",
+    "countryId": "my",
+    "value": 100,
+    "series": "Cuarta serie",
+    "seriesEn": "Cuarta serie",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-1000",
+    "countryId": "id",
+    "value": 1000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-2000",
+    "countryId": "id",
+    "value": 2000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-5000",
+    "countryId": "id",
+    "value": 5000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-10000",
+    "countryId": "id",
+    "value": 10000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-20000",
+    "countryId": "id",
+    "value": 20000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-50000",
+    "countryId": "id",
+    "value": 50000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "id-100000",
+    "countryId": "id",
+    "value": 100000,
+    "series": "Emisión 2022",
+    "seriesEn": "Emisión 2022",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ph-50",
+    "countryId": "ph",
+    "value": 50,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ph-100",
+    "countryId": "ph",
+    "value": 100,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ph-200",
+    "countryId": "ph",
+    "value": 200,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ph-500",
+    "countryId": "ph",
+    "value": 500,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ph-1000",
+    "countryId": "ph",
+    "value": 1000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-1000",
+    "countryId": "vn",
+    "value": 1000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-2000",
+    "countryId": "vn",
+    "value": 2000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-5000",
+    "countryId": "vn",
+    "value": 5000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-10000",
+    "countryId": "vn",
+    "value": 10000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-20000",
+    "countryId": "vn",
+    "value": 20000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-50000",
+    "countryId": "vn",
+    "value": 50000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-100000",
+    "countryId": "vn",
+    "value": 100000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-200000",
+    "countryId": "vn",
+    "value": 200000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "vn-500000",
+    "countryId": "vn",
+    "value": 500000,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "au-5",
+    "countryId": "au",
+    "value": 5,
+    "series": "Nueva generación",
+    "seriesEn": "Nueva generación",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "au-10",
+    "countryId": "au",
+    "value": 10,
+    "series": "Nueva generación",
+    "seriesEn": "Nueva generación",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "au-20",
+    "countryId": "au",
+    "value": 20,
+    "series": "Nueva generación",
+    "seriesEn": "Nueva generación",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "au-50",
+    "countryId": "au",
+    "value": 50,
+    "series": "Nueva generación",
+    "seriesEn": "Nueva generación",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "au-100",
+    "countryId": "au",
+    "value": 100,
+    "series": "Nueva generación",
+    "seriesEn": "Nueva generación",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "nz-5",
+    "countryId": "nz",
+    "value": 5,
+    "series": "Serie Brighter Money",
+    "seriesEn": "Serie Brighter Money",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "nz-10",
+    "countryId": "nz",
+    "value": 10,
+    "series": "Serie Brighter Money",
+    "seriesEn": "Serie Brighter Money",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "nz-20",
+    "countryId": "nz",
+    "value": 20,
+    "series": "Serie Brighter Money",
+    "seriesEn": "Serie Brighter Money",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "nz-50",
+    "countryId": "nz",
+    "value": 50,
+    "series": "Serie Brighter Money",
+    "seriesEn": "Serie Brighter Money",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "nz-100",
+    "countryId": "nz",
+    "value": 100,
+    "series": "Serie Brighter Money",
+    "seriesEn": "Serie Brighter Money",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "za-10",
+    "countryId": "za",
+    "value": 10,
+    "series": "Serie 2023",
+    "seriesEn": "Serie 2023",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "za-20",
+    "countryId": "za",
+    "value": 20,
+    "series": "Serie 2023",
+    "seriesEn": "Serie 2023",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "za-50",
+    "countryId": "za",
+    "value": 50,
+    "series": "Serie 2023",
+    "seriesEn": "Serie 2023",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "za-100",
+    "countryId": "za",
+    "value": 100,
+    "series": "Serie 2023",
+    "seriesEn": "Serie 2023",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "za-200",
+    "countryId": "za",
+    "value": 200,
+    "series": "Serie 2023",
+    "seriesEn": "Serie 2023",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "eg-10",
+    "countryId": "eg",
+    "value": 10,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "eg-20",
+    "countryId": "eg",
+    "value": 20,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "eg-50",
+    "countryId": "eg",
+    "value": 50,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "eg-100",
+    "countryId": "eg",
+    "value": 100,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "eg-200",
+    "countryId": "eg",
+    "value": 200,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ma-20",
+    "countryId": "ma",
+    "value": 20,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ma-50",
+    "countryId": "ma",
+    "value": 50,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ma-100",
+    "countryId": "ma",
+    "value": 100,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  },
+  {
+    "id": "ma-200",
+    "countryId": "ma",
+    "value": 200,
+    "series": "Serie actual",
+    "seriesEn": "Serie actual",
+    "photos": null,
+    "imageStatus": "pending"
+  }
+]
