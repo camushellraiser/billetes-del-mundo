@@ -115,3 +115,15 @@ Fuentes oficiales: [Riksbank, billetes válidos](https://www.riksbank.se/en-gb/p
 **Estado después de este bloque:** 164 denominaciones en 30 países; **62 pares de imágenes registrados**, **102 pares pendientes**; **57 fichas de denominación enlazadas al banco central** (antes 40). Esta versión mejora la precisión de las referencias, pero **no añade nuevas fotografías**; no se cuentan fichas externas como imágenes cargadas. La marca `photos.verified` no garantiza disponibilidad real de la URL ni permiso legal permanente; la auditoría de imágenes y la compatibilidad de Safari/iPhone siguen siendo necesarias.
 
 Respaldo: `backup/pre-v1.4-nordic-polish-sources-20261123`.
+
+## Versión 1.5.0 — Chile y Colombia (23 de noviembre de 2026)
+
+Se incorporaron **11 enlaces oficiales específicos** para las denominaciones vigentes de Chile (1.000, 2.000, 5.000, 10.000 y 20.000 pesos) y Colombia (2.000, 5.000, 10.000, 20.000, 50.000 y 100.000 pesos), con motivos del anverso y reverso en español e inglés. Las fichas chilenas son del Banco Central de Chile y las colombianas de la Nueva Familia del Banco de la República (2016), que sigue en circulación.
+
+**Reproducción de imágenes chilenas:** el Banco Central de Chile permite reproducciones parciales con fines educativos, numismáticos y culturales sujetas a un reglamento; la reproducción del anverso **y** reverso requiere autorización previa. Por tanto, no se publicaron imágenes de ambas caras sin dicha autorización. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes
+
+**Reproducción de imágenes colombianas:** se conservan enlaces a las fichas originales; no se publicaron copias sin licencia de reutilización comprobada. https://www.banrep.gov.co/es/billetes-monedas/billetes-en-circulacion
+
+**Cobertura:** 30 países, 164 denominaciones, 62 pares de imágenes registrados, 102 sin imágenes y 68 fichas con enlaces oficiales. **Pares de imágenes añadidos en esta versión: 0.** Los enlaces de imagen registrados no equivalen a una prueba visual de carga en móviles.
+
+Respaldo anterior a estos cambios: `backup/pre-v1.5-chile-colombia-20261123`. Se mantiene la URL de Pages y la firma `Developed by Aldo Lizares`.
