@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
   "verifiedImagePairs": 62,
-  "imagePolicy": "62 pares de referencias de anverso/reverso registrados; 102 aún pendientes. 57 denominaciones con ficha de banco central enlazada, incluidas 17 fichas nuevas de Suecia, Noruega y Polonia. Las imágenes de bancos centrales con derechos de autor o restricciones de reproducción NO se incorporan sin permiso. El atributo photos.verified significa referencia registrada, no verificación automatizada de disponibilidad en todos los dispositivos.",
+  "imagePolicy": "62 pares de referencias de anverso/reverso registrados; 102 aún pendientes. 68 denominaciones enlazadas a páginas oficiales, incluidas 11 nuevas fichas de Chile y Colombia. Chile permite reproducciones parciales educativas, numismáticas y culturales bajo su Reglamento Operativo; reproducir ambas caras exige autorización previa. No publicar fotos de bancos centrales sin permiso explícito. photos.verified indica referencia registrada, no comprobación automatizada en cada dispositivo.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 57,
+  "officialDenominationReferences": 68,
   "pendingImagePairs": 102,
   "illustratedCountries": [
     "us",
