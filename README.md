@@ -2,7 +2,7 @@
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
 
-**Versión:** 1.2.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 57 de 164 denominaciones (10 países con al menos una fotografía registrada). **Enlaces oficiales:** 6 denominaciones de México, 4 del Reino Unido y 5 de Nueva Zelanda (Series 7).
+**Versión:** 1.3.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 62 de 164 denominaciones (11 países con referencias de imágenes registradas). **Enlaces oficiales por denominación:** 40, entre ellos México, Reino Unido, Nueva Zelanda, Canadá, Singapur, Australia, Tailandia y Sudáfrica.
 
 ## Explora el catálogo
 
@@ -93,3 +93,15 @@ Países cuyos pares de imágenes se ampliaron en esta versión:
 Se añadieron cinco enlaces directos a las fichas oficiales de la Serie 7 del Banco de la Reserva de Nueva Zelanda, con descripciones del anverso y reverso. A diferencia de los 57 pares incrustados desde Wikimedia, **estas cinco fichas todavía no muestran fotografías en el visor propio**. Las imágenes deben consultarse en la página enlazada de la autoridad emisora.
 
 **Respaldo adicional:** `backup/v1.1.1-before-photo-expansion`, que conserva la versión anterior.
+
+## Versión 1.3.0 — fuentes oficiales y más imágenes
+
+- **Sudáfrica:** 5 pares reales de anverso y reverso de la serie actual del South African Reserve Bank, alojados en el sitio oficial y enlazados externamente desde el visor. Las imágenes de este banco incluyen la marca de agua `IMAGE-NOT LEGAL TENDER`. El SARB permite utilizar sus imágenes de galería para fines **no comerciales** siempre que no se alteren, se cite al SARB y se respete su política de reproducción. Fuente: https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes
+- **Canadá:** 5 páginas individualizadas de la emisión más reciente por denominación. El nuevo billete vertical de 20 dólares con Carlos III está anunciado para febrero de 2027, de modo que en noviembre de 2026 todavía corresponde el de Isabel II. Fuente: https://www.bankofcanada.ca/banknotes/
+- **Singapur:** 5 denominaciones de la Portrait Series con sus motivos actuales. El sitio de MAS restringe la republicación de fotografías propias sin consentimiento, por lo que estas fichas conservan referencias oficiales, sin fotocopiar sus activos.
+- **Australia:** 5 fichas individuales de la nueva serie de polímero; se respetan las restricciones de tamaño y reproducción indicadas por el Reserve Bank of Australia.
+- **Tailandia:** 5 fichas vigentes enlazadas al catálogo del Banco de Tailandia. La reproducción de imágenes exige autorización previa; no se incorporan fotografías ajenas sin permiso.
+
+**Cobertura de la versión:** 30 países, 164 denominaciones, 62 pares de fotografías con referencia seleccionada, 102 denominaciones sin fotografía propia y 40 fichas con enlace individual a una página oficial. La accesibilidad real de las imágenes externas depende del navegador, del proveedor y de sus cambios de sitio.
+
+Respaldo previo: `backup/pre-v1.3-images-official-20261123`. Se mantiene la URL de GitHub Pages y el footer `Developed by Aldo Lizares`.
