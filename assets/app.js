@@ -90,8 +90,9 @@ $("note-story").hidden=!info;
 $("note-story-label").textContent=tr("storyHeading")+(n.frontDescription?" · "+tr(state.side):"");
 $("note-story-text").textContent=info||"";
 const ref=$("official-note-link");
-ref.hidden=!n.officialPage;
-if(n.officialPage){ref.href=n.officialPage;ref.textContent=tr(c.id==="mx"?"viewOfficialImages":"viewOfficialBankImages");}
+ref.hidden=has||!(n.officialPage||c.officialSource);
+ref.href=n.officialPage||c.officialSource||"#";
+ref.textContent=n.officialPage?tr(c.id==="mx"?"viewOfficialImages":"viewOfficialBankImages"):tr("viewOfficialBankImages");
 state.imageOk=false;
 $("front-button").classList.toggle("selected",state.side==="front");
 $("back-button").classList.toggle("selected",state.side==="back");
