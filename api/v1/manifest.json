@@ -10,7 +10,7 @@
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 10,
+  "officialDenominationReferences": 15,
   "pendingImagePairs": 107,
   "illustratedCountries": [
     "us",
