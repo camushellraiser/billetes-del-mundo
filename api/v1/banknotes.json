@@ -234,7 +234,13 @@
     "series": "Polímero",
     "seriesEn": "Polímero",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofcanada.ca/banknotes/5-polymer-note-security-features/",
+    "frontDescription": "El anverso presenta a Sir Wilfrid Laurier.",
+    "backDescription": "El reverso representa el canadarm2 y la estación espacial internacional.",
+    "frontDescriptionEn": "The front features Sir Wilfrid Laurier.",
+    "backDescriptionEn": "The reverse shows canadarm2 and the international space station.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ca-10",
@@ -243,7 +249,13 @@
     "series": "Polímero",
     "seriesEn": "Polímero",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofcanada.ca/banknotes/vertical-10-note-security-features/",
+    "frontDescription": "El anverso presenta a Viola Desmond.",
+    "backDescription": "El reverso representa el museo canadiense para los derechos humanos.",
+    "frontDescriptionEn": "The front features Viola Desmond.",
+    "backDescriptionEn": "The reverse shows the canadian museum for human rights.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ca-20",
@@ -252,7 +264,13 @@
     "series": "Polímero",
     "seriesEn": "Polímero",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofcanada.ca/banknotes/20-polymer-note-security-features/",
+    "frontDescription": "El anverso presenta a Isabel II.",
+    "backDescription": "El reverso representa el monumento de vimy, homenaje a soldados canadienses.",
+    "frontDescriptionEn": "The front features Queen Elizabeth II.",
+    "backDescriptionEn": "The reverse shows the canadian national vimy memorial.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ca-50",
@@ -261,7 +279,13 @@
     "series": "Polímero",
     "seriesEn": "Polímero",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofcanada.ca/banknotes/50-polymer-note-security-features/",
+    "frontDescription": "El anverso presenta a William Lyon Mackenzie King.",
+    "backDescription": "El reverso representa un rompehielos de investigación del ártico.",
+    "frontDescriptionEn": "The front features William Lyon Mackenzie King.",
+    "backDescriptionEn": "The reverse shows an arctic research icebreaker.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ca-100",
@@ -270,7 +294,13 @@
     "series": "Polímero",
     "seriesEn": "Polímero",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofcanada.ca/banknotes/100-polymer-note-security-features/",
+    "frontDescription": "El anverso presenta a Robert Borden.",
+    "backDescription": "El reverso representa innovaciones en investigación médica.",
+    "frontDescriptionEn": "The front features Robert Borden.",
+    "backDescriptionEn": "The reverse shows medical research innovations.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-2",
@@ -1382,7 +1412,11 @@
     "series": "Emisión actual",
     "seriesEn": "Emisión actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
+    "fact": "Diseño actual: 20 baht en polímero. Consulta las imágenes en el Banco de Tailandia.",
+    "factEn": "Current design: 20 baht polymer. See the images at the Bank of Thailand.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "th-50",
@@ -1391,7 +1425,11 @@
     "series": "Emisión actual",
     "seriesEn": "Emisión actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
+    "fact": "Diseño actual: 50 baht en polímero. Consulta las imágenes en el Banco de Tailandia.",
+    "factEn": "Current design: 50 baht polymer. See the images at the Bank of Thailand.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "th-100",
@@ -1400,7 +1438,11 @@
     "series": "Emisión actual",
     "seriesEn": "Emisión actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
+    "fact": "Diseño actual: 100 baht en polímero. Consulta las imágenes en el Banco de Tailandia.",
+    "factEn": "Current design: 100 baht polymer. See the images at the Bank of Thailand.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "th-500",
@@ -1409,7 +1451,11 @@
     "series": "Emisión actual",
     "seriesEn": "Emisión actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
+    "fact": "Diseño actual: 500 baht de la serie actual. Consulta las imágenes en el Banco de Tailandia.",
+    "factEn": "Current design: 500 baht current issue. See the images at the Bank of Thailand.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "th-1000",
@@ -1418,7 +1464,11 @@
     "series": "Emisión actual",
     "seriesEn": "Emisión actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
+    "fact": "Diseño actual: 1000 baht de la serie actual. Consulta las imágenes en el Banco de Tailandia.",
+    "factEn": "Current design: 1000 baht current issue. See the images at the Bank of Thailand.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "sg-2",
@@ -1427,7 +1477,13 @@
     "series": "Serie retratos",
     "seriesEn": "Serie retratos",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+    "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
+    "backDescription": "Educación y escuelas de Singapur",
+    "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
+    "backDescriptionEn": "Education and Singapore schools",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "sg-5",
@@ -1436,7 +1492,13 @@
     "series": "Serie retratos",
     "seriesEn": "Serie retratos",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+    "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
+    "backDescription": "Ciudad jardín y el árbol tembusu",
+    "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
+    "backDescriptionEn": "The Garden City and tembusu tree",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "sg-10",
@@ -1445,7 +1507,13 @@
     "series": "Serie retratos",
     "seriesEn": "Serie retratos",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+    "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
+    "backDescription": "Deportes como fútbol, tenis, natación y vela",
+    "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
+    "backDescriptionEn": "Sports including soccer, tennis, swimming and sailing",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "sg-50",
@@ -1454,7 +1522,13 @@
     "series": "Serie retratos",
     "seriesEn": "Serie retratos",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+    "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
+    "backDescription": "Instrumentos musicales y artes",
+    "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
+    "backDescriptionEn": "Musical instruments and the arts",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "sg-100",
@@ -1463,7 +1537,13 @@
     "series": "Serie retratos",
     "seriesEn": "Serie retratos",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+    "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
+    "backDescription": "Juventud y servicio comunitario",
+    "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
+    "backDescriptionEn": "Youth and community service",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "my-1",
@@ -1792,7 +1872,13 @@
     "series": "Nueva generación",
     "seriesEn": "Nueva generación",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/five-dollar/",
+    "frontDescription": "El diseño actual incluye Isabel II.",
+    "backDescription": "Federation Pavilion y elementos naturales",
+    "frontDescriptionEn": "Current design features Queen Elizabeth II.",
+    "backDescriptionEn": "Federation Pavilion and native flora",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "au-10",
@@ -1801,7 +1887,13 @@
     "series": "Nueva generación",
     "seriesEn": "Nueva generación",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/ten-dollar/",
+    "frontDescription": "El diseño actual incluye Banjo Paterson y Dame Mary Gilmore.",
+    "backDescription": "Flores de acacia y aves autóctonas",
+    "frontDescriptionEn": "Current design features Banjo Paterson and Dame Mary Gilmore.",
+    "backDescriptionEn": "Acacia flowers and native birds",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "au-20",
@@ -1810,7 +1902,13 @@
     "series": "Nueva generación",
     "seriesEn": "Nueva generación",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/twenty-dollar/",
+    "frontDescription": "El diseño actual incluye Mary Reibey y John Flynn.",
+    "backDescription": "Temas comerciales y sanitarios",
+    "frontDescriptionEn": "Current design features Mary Reibey and John Flynn.",
+    "backDescriptionEn": "Trading and medical-aviation themes",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "au-50",
@@ -1819,7 +1917,13 @@
     "series": "Nueva generación",
     "seriesEn": "Nueva generación",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/fifty-dollar/",
+    "frontDescription": "El diseño actual incluye David Unaipon y Edith Cowan.",
+    "backDescription": "Aportes indígenas y derechos cívicos",
+    "frontDescriptionEn": "Current design features David Unaipon and Edith Cowan.",
+    "backDescriptionEn": "Indigenous achievements and civil rights",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "au-100",
@@ -1828,7 +1932,13 @@
     "series": "Nueva generación",
     "seriesEn": "Nueva generación",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/hundred-dollar/",
+    "frontDescription": "El diseño actual incluye Nellie Melba y John Monash.",
+    "backDescription": "Homenaje a la música y la ingeniería",
+    "frontDescriptionEn": "Current design features Nellie Melba and John Monash.",
+    "backDescriptionEn": "Celebrating music and engineering",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "nz-5",
@@ -1909,46 +2019,116 @@
     "id": "za-10",
     "countryId": "za",
     "value": 10,
-    "series": "Serie 2023",
-    "seriesEn": "Serie 2023",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Serie mejorada de 2023",
+    "seriesEn": "2023 upgraded series",
+    "photos": {
+      "front": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R10_Front.jpg.coredownload.inline.jpeg",
+      "back": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R10_Back.jpg.coredownload.inline.jpeg",
+      "verified": true,
+      "provider": "South African Reserve Bank",
+      "sourcePage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+      "license": "Images for non-commercial use only; unaltered, source: South African Reserve Bank; IMAGE-NOT LEGAL TENDER watermark",
+      "licenseUrl": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes"
+    },
+    "imageStatus": "official_image",
+    "officialPage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+    "frontDescription": "Nelson Mandela y motivos de seguridad de la serie mejorada de 2023.",
+    "frontDescriptionEn": "Nelson Mandela and security elements from the upgraded 2023 series.",
+    "backDescription": "El reverso muestra un rinoceronte.",
+    "backDescriptionEn": "The back features a rhinoceros.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "za-20",
     "countryId": "za",
     "value": 20,
-    "series": "Serie 2023",
-    "seriesEn": "Serie 2023",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Serie mejorada de 2023",
+    "seriesEn": "2023 upgraded series",
+    "photos": {
+      "front": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R20_Front.jpg.coredownload.inline.jpeg",
+      "back": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R20_Back.jpg.coredownload.inline.jpeg",
+      "verified": true,
+      "provider": "South African Reserve Bank",
+      "sourcePage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+      "license": "Images for non-commercial use only; unaltered, source: South African Reserve Bank; IMAGE-NOT LEGAL TENDER watermark",
+      "licenseUrl": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes"
+    },
+    "imageStatus": "official_image",
+    "officialPage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+    "frontDescription": "Nelson Mandela y motivos de seguridad de la serie mejorada de 2023.",
+    "frontDescriptionEn": "Nelson Mandela and security elements from the upgraded 2023 series.",
+    "backDescription": "El reverso muestra un elefante.",
+    "backDescriptionEn": "The back features a elephant.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "za-50",
     "countryId": "za",
     "value": 50,
-    "series": "Serie 2023",
-    "seriesEn": "Serie 2023",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Serie mejorada de 2023",
+    "seriesEn": "2023 upgraded series",
+    "photos": {
+      "front": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R50_Front.jpg.coredownload.inline.jpeg",
+      "back": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R50_Back.jpg.coredownload.inline.jpeg",
+      "verified": true,
+      "provider": "South African Reserve Bank",
+      "sourcePage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+      "license": "Images for non-commercial use only; unaltered, source: South African Reserve Bank; IMAGE-NOT LEGAL TENDER watermark",
+      "licenseUrl": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes"
+    },
+    "imageStatus": "official_image",
+    "officialPage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+    "frontDescription": "Nelson Mandela y motivos de seguridad de la serie mejorada de 2023.",
+    "frontDescriptionEn": "Nelson Mandela and security elements from the upgraded 2023 series.",
+    "backDescription": "El reverso muestra un león.",
+    "backDescriptionEn": "The back features a lion.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "za-100",
     "countryId": "za",
     "value": 100,
-    "series": "Serie 2023",
-    "seriesEn": "Serie 2023",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Serie mejorada de 2023",
+    "seriesEn": "2023 upgraded series",
+    "photos": {
+      "front": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R100_Front.jpg.coredownload.inline.jpeg",
+      "back": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R100_Back.jpg.coredownload.inline.jpeg",
+      "verified": true,
+      "provider": "South African Reserve Bank",
+      "sourcePage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+      "license": "Images for non-commercial use only; unaltered, source: South African Reserve Bank; IMAGE-NOT LEGAL TENDER watermark",
+      "licenseUrl": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes"
+    },
+    "imageStatus": "official_image",
+    "officialPage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+    "frontDescription": "Nelson Mandela y motivos de seguridad de la serie mejorada de 2023.",
+    "frontDescriptionEn": "Nelson Mandela and security elements from the upgraded 2023 series.",
+    "backDescription": "El reverso muestra un búfalo africano.",
+    "backDescriptionEn": "The back features a Cape buffalo.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "za-200",
     "countryId": "za",
     "value": 200,
-    "series": "Serie 2023",
-    "seriesEn": "Serie 2023",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Serie mejorada de 2023",
+    "seriesEn": "2023 upgraded series",
+    "photos": {
+      "front": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R200_Front.jpg.coredownload.inline.jpeg",
+      "back": "https://www.resbank.co.za/content/dam/sarb/what-we-do/banknotes-and-coin/distribution-images/R200_Back.jpg.coredownload.inline.jpeg",
+      "verified": true,
+      "provider": "South African Reserve Bank",
+      "sourcePage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+      "license": "Images for non-commercial use only; unaltered, source: South African Reserve Bank; IMAGE-NOT LEGAL TENDER watermark",
+      "licenseUrl": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes"
+    },
+    "imageStatus": "official_image",
+    "officialPage": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Use-of-banknotes",
+    "frontDescription": "Nelson Mandela y motivos de seguridad de la serie mejorada de 2023.",
+    "frontDescriptionEn": "Nelson Mandela and security elements from the upgraded 2023 series.",
+    "backDescription": "El reverso muestra un leopardo.",
+    "backDescriptionEn": "The back features a leopard.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "eg-10",
