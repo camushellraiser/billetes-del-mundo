@@ -471,7 +471,14 @@
     "series": "Serie actual",
     "seriesEn": "Serie actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/1000",
+    "frontDescription": "Retrato de Ignacio Carrera Pinto.",
+    "backDescription": "Torres del Paine y guanacos",
+    "frontDescriptionEn": "Portrait of Ignacio Carrera Pinto.",
+    "backDescriptionEn": "Torres del Paine and guanacos",
+    "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "cl-2000",
@@ -480,7 +487,14 @@
     "series": "Serie actual",
     "seriesEn": "Serie actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/2000",
+    "frontDescription": "Retrato de Manuel Rodríguez.",
+    "backDescription": "Reserva Nacional Nalcas y loro choroy",
+    "frontDescriptionEn": "Portrait of Manuel Rodríguez.",
+    "backDescriptionEn": "Nalcas National Reserve and the choroy parrot",
+    "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "cl-5000",
@@ -489,7 +503,14 @@
     "series": "Serie actual",
     "seriesEn": "Serie actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/5000",
+    "frontDescription": "Retrato de Gabriela Mistral.",
+    "backDescription": "Parque Nacional La Campana y tucúquere",
+    "frontDescriptionEn": "Portrait of Gabriela Mistral.",
+    "backDescriptionEn": "La Campana National Park and the great horned owl",
+    "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "cl-10000",
@@ -498,7 +519,14 @@
     "series": "Serie actual",
     "seriesEn": "Serie actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/10000",
+    "frontDescription": "Retrato de Arturo Prat.",
+    "backDescription": "Parque Nacional Alberto de Agostini y cóndor",
+    "frontDescriptionEn": "Portrait of Arturo Prat.",
+    "backDescriptionEn": "Alberto de Agostini National Park and condor",
+    "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "cl-20000",
@@ -507,7 +535,14 @@
     "series": "Serie actual",
     "seriesEn": "Serie actual",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/20000",
+    "frontDescription": "Retrato de Andrés Bello.",
+    "backDescription": "Salar de Surire y flamenco",
+    "frontDescriptionEn": "Portrait of Andrés Bello.",
+    "backDescriptionEn": "Surire salt flat and flamingo",
+    "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "co-2000",
@@ -516,7 +551,14 @@
     "series": "Nueva familia",
     "seriesEn": "Nueva familia",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-2-mil-pesos-cinco-pasos-reconocerlo",
+    "frontDescription": "Retrato de Débora Arango.",
+    "backDescription": "Caño Cristales",
+    "frontDescriptionEn": "Portrait of Débora Arango.",
+    "backDescriptionEn": "Caño Cristales",
+    "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "co-5000",
@@ -525,7 +567,14 @@
     "series": "Nueva familia",
     "seriesEn": "Nueva familia",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-5-mil-pesos-cinco-pasos-reconocerlo",
+    "frontDescription": "Retrato de José Asunción Silva.",
+    "backDescription": "Páramos colombianos, oso de anteojos y cóndor",
+    "frontDescriptionEn": "Portrait of José Asunción Silva.",
+    "backDescriptionEn": "Colombian páramos, spectacled bear and condor",
+    "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "co-10000",
@@ -534,7 +583,14 @@
     "series": "Nueva familia",
     "seriesEn": "Nueva familia",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-10-mil-pesos-cinco-pasos-reconocerlo",
+    "frontDescription": "Retrato de Virginia Gutiérrez.",
+    "backDescription": "Amazonía, río y pescador en canoa",
+    "frontDescriptionEn": "Portrait of Virginia Gutiérrez.",
+    "backDescriptionEn": "Amazon rainforest, river and fisherman in canoe",
+    "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "co-20000",
@@ -543,7 +599,14 @@
     "series": "Nueva familia",
     "seriesEn": "Nueva familia",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-20-mil-pesos-cinco-pasos-reconocerlo",
+    "frontDescription": "Retrato de Alfonso López Michelsen.",
+    "backDescription": "Canales de La Mojana",
+    "frontDescriptionEn": "Portrait of Alfonso López Michelsen.",
+    "backDescriptionEn": "La Mojana waterways",
+    "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "co-50000",
@@ -552,7 +615,14 @@
     "series": "Nueva familia",
     "seriesEn": "Nueva familia",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-50-mil-pesos-cinco-pasos-reconocerlo",
+    "frontDescription": "Retrato de Gabriel García Márquez.",
+    "backDescription": "Ciudad Perdida y cultura tayrona",
+    "frontDescriptionEn": "Portrait of Gabriel García Márquez.",
+    "backDescriptionEn": "Lost City and Tayrona culture",
+    "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "co-100000",
@@ -561,7 +631,14 @@
     "series": "Nueva familia",
     "seriesEn": "Nueva familia",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-100-mil-pesos-cinco-pasos-reconocerlo",
+    "frontDescription": "Retrato de Carlos Lleras Restrepo.",
+    "backDescription": "Valle de Cocora y palma de cera",
+    "frontDescriptionEn": "Portrait of Carlos Lleras Restrepo.",
+    "backDescriptionEn": "Cocora Valley and wax palms",
+    "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "pe-10",
