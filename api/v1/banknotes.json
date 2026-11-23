@@ -522,7 +522,15 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofengland.co.uk/banknotes/5-pound-note",
+    "frontDescription": "El rey Carlos III y una ventana de seguridad transparente.",
+    "backDescription": "Winston Churchill y el Palacio de Westminster con la torre del Big Ben.",
+    "frontDescriptionEn": "King Charles III and a transparent security window.",
+    "backDescriptionEn": "Winston Churchill and the Palace of Westminster, with Big Ben.",
+    "fact": "Winston Churchill y el Palacio de Westminster con la torre del Big Ben.",
+    "factEn": "Winston Churchill and the Palace of Westminster, with Big Ben.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "gb-10",
@@ -531,7 +539,15 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofengland.co.uk/banknotes/polymer-10-pound-note",
+    "frontDescription": "El rey Carlos III aparece en el anverso del billete de polímero.",
+    "backDescription": "La escritora Jane Austen y una ilustración de su obra.",
+    "frontDescriptionEn": "King Charles III appears on the front of this polymer banknote.",
+    "backDescriptionEn": "The novelist Jane Austen and artwork inspired by her writing.",
+    "fact": "La escritora Jane Austen y una ilustración de su obra.",
+    "factEn": "The novelist Jane Austen and artwork inspired by her writing.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "gb-20",
@@ -540,7 +556,15 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofengland.co.uk/banknotes/polymer-20-pound-note",
+    "frontDescription": "El rey Carlos III aparece en el anverso del billete de polímero.",
+    "backDescription": "El pintor J. M. W. Turner y motivos de su arte.",
+    "frontDescriptionEn": "King Charles III appears on the front of this polymer banknote.",
+    "backDescriptionEn": "The painter J. M. W. Turner and details celebrating his art.",
+    "fact": "El pintor J. M. W. Turner y motivos de su arte.",
+    "factEn": "The painter J. M. W. Turner and details celebrating his art.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "gb-50",
@@ -549,7 +573,15 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.bankofengland.co.uk/banknotes/polymer-50-pound-note",
+    "frontDescription": "El rey Carlos III aparece en el anverso del billete de polímero.",
+    "backDescription": "Alan Turing, una máquina de computación y fórmulas que ayudaron a crear la informática moderna.",
+    "frontDescriptionEn": "King Charles III appears on the front of this polymer banknote.",
+    "backDescriptionEn": "Alan Turing, an early computing machine, and formulas foundational to modern computing.",
+    "fact": "Alan Turing, una máquina de computación y fórmulas que ayudaron a crear la informática moderna.",
+    "factEn": "Alan Turing, an early computing machine, and formulas foundational to modern computing.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "fr-5",
