@@ -1870,46 +1870,81 @@
     "id": "eg-10",
     "countryId": "eg",
     "value": 10,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de polímero (2022)",
+    "seriesEn": "Current polymer series",
+    "photos": {
+      "front": "10polemr-face-2022.jpg",
+      "back": "10polemr-back-2022.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Egypt",
+      "license": "PD-Egypt-official — review reproduction rules"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "eg-20",
     "countryId": "eg",
     "value": 20,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de polímero (2023)",
+    "seriesEn": "Current polymer series",
+    "photos": {
+      "front": "20 EGP 2022 Polymer - front 01.jpg",
+      "back": "20 EGP 2022 Polymer - rear.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Egypt",
+      "license": "PD-Egypt-official — review reproduction rules"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "eg-50",
     "countryId": "eg",
     "value": 50,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de papel en circulación",
+    "seriesEn": "Current paper series",
+    "photos": {
+      "front": "50 EGP obverse 2011-5-4.jpg",
+      "back": "50 EGP reverse 2011-5-4.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Egypt",
+      "license": "PD-Egypt-official — review reproduction rules"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "eg-100",
     "countryId": "eg",
     "value": 100,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de papel en circulación",
+    "seriesEn": "Current paper series",
+    "photos": {
+      "front": "100 EGP obverse 2014-1-26.jpg",
+      "back": "100 EGP reverse 2014-1-26.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Egypt",
+      "license": "PD-Egypt-official — review reproduction rules"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "eg-200",
     "countryId": "eg",
     "value": 200,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de papel en circulación",
+    "seriesEn": "Current paper series",
+    "photos": {
+      "front": "200 EGP obverse 2010-1-2.jpg",
+      "back": "200 EGP reverse 2010-1-2.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Egypt",
+      "license": "PD-Egypt-official — review reproduction rules"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ma-20",
