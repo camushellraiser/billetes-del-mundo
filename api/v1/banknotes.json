@@ -1147,8 +1147,17 @@
     "value": 1000,
     "series": "Serie actual",
     "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "1000 KRW 2009 ob.jpg",
+      "back": "1000 KRW 2009 rev.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank of Korea",
+      "license": "Korean currency reproduction restrictions apply; see file page"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "fact": "Yi Hwang",
+    "factEn": "Yi Hwang"
   },
   {
     "id": "kr-5000",
@@ -1156,8 +1165,17 @@
     "value": 5000,
     "series": "Serie actual",
     "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "5000 won serieV obverse.jpeg",
+      "back": "5000 won serieV reverse.jpeg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank of Korea",
+      "license": "Korean currency reproduction restrictions apply; see file page"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "fact": "Yi I",
+    "factEn": "Yi I"
   },
   {
     "id": "kr-10000",
@@ -1165,8 +1183,17 @@
     "value": 10000,
     "series": "Serie actual",
     "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "10000 won serieVI obverse.jpeg",
+      "back": "10000 won serieVI reverse.jpeg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank of Korea",
+      "license": "Korean currency reproduction restrictions apply; see file page"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "fact": "Rey Sejong el Grande",
+    "factEn": "Rey Sejong el Grande"
   },
   {
     "id": "kr-50000",
@@ -1174,8 +1201,17 @@
     "value": 50000,
     "series": "Serie actual",
     "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "50000 KRW 2009 ob.jpg",
+      "back": "50000 KRW 2009 rev.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank of Korea",
+      "license": "Korean currency reproduction restrictions apply; see file page"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "fact": "Shin Saimdang",
+    "factEn": "Shin Saimdang"
   },
   {
     "id": "in-10",
