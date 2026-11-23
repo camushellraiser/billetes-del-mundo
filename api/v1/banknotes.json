@@ -6,7 +6,15 @@
     "series": "Familia G",
     "seriesEn": "Familia G",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-20-pesos-conmemorat.html",
+    "fact": "La entrada del Ejército de las Tres Garantías a la Ciudad de México, en 1821.",
+    "factEn": "The Army of the Three Guarantees entering Mexico City in 1821.",
+    "frontDescription": "La entrada del Ejército de las Tres Garantías a la Ciudad de México, en 1821.",
+    "backDescription": "Un cocodrilo mexicano y una garza chocolatera en Sian Ka’an.",
+    "frontDescriptionEn": "The Army of the Three Guarantees entering Mexico City in 1821.",
+    "backDescriptionEn": "A Mexican crocodile and a reddish egret in Sian Ka’an.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "mx-50",
@@ -15,7 +23,15 @@
     "series": "Familia G",
     "seriesEn": "Familia G",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-50-pesos-familia-g.html",
+    "fact": "El México antiguo y la ciudad de Tenochtitlan.",
+    "factEn": "Ancient Mexico and the city of Tenochtitlan.",
+    "frontDescription": "El México antiguo y la ciudad de Tenochtitlan.",
+    "backDescription": "Un ajolote y el maíz en los canales de Xochimilco.",
+    "frontDescriptionEn": "Ancient Mexico and the city of Tenochtitlan.",
+    "backDescriptionEn": "An axolotl and corn in the Xochimilco canals.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "mx-100",
@@ -24,7 +40,15 @@
     "series": "Familia G",
     "seriesEn": "Familia G",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-100-pesos-familia-g.html",
+    "fact": "Sor Juana Inés de la Cruz y el antiguo Colegio de San Ildefonso.",
+    "factEn": "Sor Juana Inés de la Cruz and the historic Colegio de San Ildefonso.",
+    "frontDescription": "Sor Juana Inés de la Cruz y el antiguo Colegio de San Ildefonso.",
+    "backDescription": "Mariposas monarca en los bosques de Michoacán y del Estado de México.",
+    "frontDescriptionEn": "Sor Juana Inés de la Cruz and the historic Colegio de San Ildefonso.",
+    "backDescriptionEn": "Monarch butterflies in the forests of central Mexico.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "mx-200",
@@ -33,7 +57,15 @@
     "series": "Familia G",
     "seriesEn": "Familia G",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-200-pesos-familia-g.html",
+    "fact": "Miguel Hidalgo, José María Morelos y la Campana de Dolores.",
+    "factEn": "Miguel Hidalgo, José María Morelos and the Bell of Dolores.",
+    "frontDescription": "Miguel Hidalgo, José María Morelos y la Campana de Dolores.",
+    "backDescription": "Un águila real y el Gran Desierto de Altar, en Sonora.",
+    "frontDescriptionEn": "Miguel Hidalgo, José María Morelos and the Bell of Dolores.",
+    "backDescriptionEn": "A golden eagle and the Gran Desierto de Altar in Sonora.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "mx-500",
@@ -42,7 +74,15 @@
     "series": "Familia G",
     "seriesEn": "Familia G",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-500-pesos-familia-g-c.html",
+    "fact": "Benito Juárez y el periodo de la Reforma.",
+    "factEn": "Benito Juárez and Mexico’s Reform era.",
+    "frontDescription": "Benito Juárez y el periodo de la Reforma.",
+    "backDescription": "Una ballena gris con su cría en la Reserva de El Vizcaíno.",
+    "frontDescriptionEn": "Benito Juárez and Mexico’s Reform era.",
+    "backDescriptionEn": "A gray whale and calf in the El Vizcaíno reserve.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "mx-1000",
@@ -51,7 +91,15 @@
     "series": "Familia G",
     "seriesEn": "Familia G",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-1000-pesos-familia-.html",
+    "fact": "Francisco I. Madero, Hermila Galindo y Carmen Serdán.",
+    "factEn": "Francisco I. Madero, Hermila Galindo and Carmen Serdán.",
+    "frontDescription": "Francisco I. Madero, Hermila Galindo y Carmen Serdán.",
+    "backDescription": "Un jaguar en la selva de Calakmul, Campeche.",
+    "frontDescriptionEn": "Francisco I. Madero, Hermila Galindo and Carmen Serdán.",
+    "backDescriptionEn": "A jaguar in the Calakmul rainforest in Campeche.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-1",
@@ -59,8 +107,17 @@
     "value": 1,
     "series": "Diseño actual",
     "seriesEn": "Diseño actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "Obverse of the series 2021 $1 Federal Reserve Note.jpg",
+      "back": "Reverse of the series 2021 $1 Federal Reserve Note.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true,
+      "license": "PD-US-money"
+    },
+    "imageStatus": "curated",
+    "fact": "George Washington y el Gran Sello de Estados Unidos.",
+    "factEn": "George Washington and the Great Seal of the United States.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-2",
@@ -68,8 +125,17 @@
     "value": 2,
     "series": "Diseño actual",
     "seriesEn": "Diseño actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "2 USD 2013 obverse B.jpg",
+      "back": "US $2 reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true,
+      "license": "PD-US-money"
+    },
+    "imageStatus": "curated",
+    "fact": "Thomas Jefferson y la firma de la Declaración de Independencia.",
+    "factEn": "Thomas Jefferson and the signing of the Declaration of Independence.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-5",
@@ -77,8 +143,17 @@
     "value": 5,
     "series": "Diseño actual",
     "seriesEn": "Diseño actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "Obverse of the series 2021 $5 Federal Reserve Note.jpg",
+      "back": "Reverse of the series 2021 $5 Federal Reserve Note.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true,
+      "license": "PD-US-money"
+    },
+    "imageStatus": "curated",
+    "fact": "Abraham Lincoln y el monumento en su honor, en Washington.",
+    "factEn": "Abraham Lincoln and the Lincoln Memorial in Washington.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-10",
@@ -86,8 +161,17 @@
     "value": 10,
     "series": "Diseño actual",
     "seriesEn": "Diseño actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "Obverse of the series 2021 $10 Federal Reserve Note.jpg",
+      "back": "Reverse of the series 2021 $10 Federal Reserve Note.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true,
+      "license": "PD-US-money"
+    },
+    "imageStatus": "curated",
+    "fact": "Alexander Hamilton y el edificio del Departamento del Tesoro.",
+    "factEn": "Alexander Hamilton and the U.S. Treasury Building.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-20",
@@ -95,8 +179,17 @@
     "value": 20,
     "series": "Diseño actual",
     "seriesEn": "Diseño actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "Obverse of the series 2017A $20 Federal Reserve Note.jpg",
+      "back": "Reverse of the series 2017A $20 Federal Reserve Note.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true,
+      "license": "PD-US-money"
+    },
+    "imageStatus": "curated",
+    "fact": "Andrew Jackson y la Casa Blanca.",
+    "factEn": "Andrew Jackson and the White House.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-50",
@@ -104,8 +197,17 @@
     "value": 50,
     "series": "Diseño actual",
     "seriesEn": "Diseño actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "photos": {
+      "front": "50 USD Series 2004 Note Front.jpg",
+      "back": "50 USD Series 2004 Note Back.jpg",
+      "provider": "Wikimedia Commons",
+      "verified": true,
+      "license": "PD-US-money"
+    },
+    "imageStatus": "curated",
+    "fact": "Ulysses S. Grant y el Capitolio de Estados Unidos.",
+    "factEn": "Ulysses S. Grant and the United States Capitol.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "us-100",
@@ -117,9 +219,13 @@
       "front": "Series 2013 $100 bill front.jpg",
       "back": "Series 2013 $100 bill back.jpg",
       "provider": "Wikimedia Commons",
-      "verified": true
+      "verified": true,
+      "license": "PD-US-money"
     },
-    "imageStatus": "curated"
+    "imageStatus": "curated",
+    "fact": "Benjamin Franklin y el Independence Hall en Filadelfia.",
+    "factEn": "Benjamin Franklin and Independence Hall in Philadelphia.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ca-5",
@@ -800,9 +906,13 @@
       "front": "Series F 1,000 yen note front.jpg",
       "back": "Series F 1,000 yen note reverse.jpg",
       "provider": "Wikimedia Commons",
-      "verified": true
+      "verified": true,
+      "license": "CC BY 4.0 — see file page"
     },
-    "imageStatus": "curated"
+    "imageStatus": "curated",
+    "fact": "Shibasaburō Kitasato aparece en el anverso y La gran ola de Kanagawa de Hokusai en el reverso.",
+    "factEn": "Shibasaburō Kitasato appears on the front and Hokusai’s Great Wave on the back.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "jp-5000",
@@ -814,9 +924,13 @@
       "front": "Series F 5000 yen front.jpg",
       "back": "Series F 5,000 yen reverse.jpg",
       "provider": "Wikimedia Commons",
-      "verified": true
+      "verified": true,
+      "license": "CC BY 4.0 — see file page"
     },
-    "imageStatus": "curated"
+    "imageStatus": "curated",
+    "fact": "Umeko Tsuda aparece en el anverso; las flores de glicina en el reverso.",
+    "factEn": "Umeko Tsuda appears on the front; wisteria blossoms decorate the reverse.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "jp-10000",
@@ -828,9 +942,13 @@
       "front": "Series F 10000 yen front.jpg",
       "back": "Series F 10000 yen back.jpg",
       "provider": "Wikimedia Commons",
-      "verified": true
+      "verified": true,
+      "license": "CC BY 4.0 — see file page"
     },
-    "imageStatus": "curated"
+    "imageStatus": "curated",
+    "fact": "Eiichi Shibusawa aparece en el anverso y la estación de Tokio en el reverso.",
+    "factEn": "Eiichi Shibusawa appears on the front and Tokyo Station on the back.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "cn-1",
