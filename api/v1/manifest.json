@@ -1,14 +1,27 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
-  "verifiedImagePairs": 16,
-  "imagePolicy": "Fotografías curadas de diseños actuales mediante Wikimedia Commons; para México se enlazan las fichas oficiales de Banco de México sin republicar las imágenes; todas las reproducciones están sujetas a permisos y normativas locales.",
+  "verifiedImagePairs": 57,
+  "imagePolicy": "Solo mostrar pares anverso/reverso de diseños actuales. Imágenes enlazadas desde Wikimedia Commons y sometidas a sus licencias y normas de reproducción. Si faltan fotografías, enlazar al banco central correspondiente, sin generar diseños falsos.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 10
+  "officialDenominationReferences": 10,
+  "pendingImagePairs": 107,
+  "illustratedCountries": [
+    "us",
+    "fr",
+    "jp",
+    "br",
+    "ch",
+    "id",
+    "in",
+    "kr",
+    "eg",
+    "tr"
+  ]
 }
