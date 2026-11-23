@@ -983,55 +983,109 @@
     "id": "tr-5",
     "countryId": "tr",
     "value": 5,
-    "series": "Novena emisión",
-    "seriesEn": "Novena emisión",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisión E9 · diseño vigente",
+    "seriesEn": "E9 emission · current design",
+    "photos": {
+      "front": "5-II Türk Lirası front.jpg",
+      "back": "5-II Türk Lirası reverse.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Türkiye",
+      "license": "PD-TR-currency — reproduction requires specimen markings and ≤72 dpi"
+    },
+    "imageStatus": "curated",
+    "fact": "El anverso presenta a Atatürk y el reverso a Aydın Sayılı.",
+    "factEn": "The front shows Atatürk and the reverse features Aydın Sayılı.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "tr-10",
     "countryId": "tr",
     "value": 10,
-    "series": "Novena emisión",
-    "seriesEn": "Novena emisión",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisión E9 · diseño vigente",
+    "seriesEn": "E9 emission · current design",
+    "photos": {
+      "front": "10 Türk Lirası front.jpg",
+      "back": "10 Türk Lirası reverse.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Türkiye",
+      "license": "PD-TR-currency — reproduction requires specimen markings and ≤72 dpi"
+    },
+    "imageStatus": "curated",
+    "fact": "El anverso presenta a Atatürk y el reverso a Cahit Arf.",
+    "factEn": "The front shows Atatürk and the reverse features Cahit Arf.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "tr-20",
     "countryId": "tr",
     "value": 20,
-    "series": "Novena emisión",
-    "seriesEn": "Novena emisión",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisión E9 · diseño vigente",
+    "seriesEn": "E9 emission · current design",
+    "photos": {
+      "front": "20 Türk Lirası front.jpg",
+      "back": "20 Türk Lirası reverse.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Türkiye",
+      "license": "PD-TR-currency — reproduction requires specimen markings and ≤72 dpi"
+    },
+    "imageStatus": "curated",
+    "fact": "El anverso presenta a Atatürk y el reverso a Mimar Kemaleddin.",
+    "factEn": "The front shows Atatürk and the reverse features Mimar Kemaleddin.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "tr-50",
     "countryId": "tr",
     "value": 50,
-    "series": "Novena emisión",
-    "seriesEn": "Novena emisión",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisión E9 · diseño vigente",
+    "seriesEn": "E9 emission · current design",
+    "photos": {
+      "front": "50 Türk Lirası front.jpg",
+      "back": "50 Türk Lirası reverse.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Türkiye",
+      "license": "PD-TR-currency — reproduction requires specimen markings and ≤72 dpi"
+    },
+    "imageStatus": "curated",
+    "fact": "El anverso presenta a Atatürk y el reverso a Fatma Aliye.",
+    "factEn": "The front shows Atatürk and the reverse features Fatma Aliye.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "tr-100",
     "countryId": "tr",
     "value": 100,
-    "series": "Novena emisión",
-    "seriesEn": "Novena emisión",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisión E9 · diseño vigente",
+    "seriesEn": "E9 emission · current design",
+    "photos": {
+      "front": "100 Türk Lirası front.jpg",
+      "back": "100 Türk Lirası reverse.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Türkiye",
+      "license": "PD-TR-currency — reproduction requires specimen markings and ≤72 dpi"
+    },
+    "imageStatus": "curated",
+    "fact": "El anverso presenta a Atatürk y el reverso a Buhurizade Mustafa Itri.",
+    "factEn": "The front shows Atatürk and the reverse features Buhurizade Mustafa Itri.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "tr-200",
     "countryId": "tr",
     "value": 200,
-    "series": "Novena emisión",
-    "seriesEn": "Novena emisión",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisión E9 · diseño vigente",
+    "seriesEn": "E9 emission · current design",
+    "photos": {
+      "front": "200 Türk Lirası front.jpg",
+      "back": "200 Türk Lirası reverse.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Central Bank of Türkiye",
+      "license": "PD-TR-currency — reproduction requires specimen markings and ≤72 dpi"
+    },
+    "imageStatus": "curated",
+    "fact": "El anverso presenta a Atatürk y el reverso a Yunus Emre.",
+    "factEn": "The front shows Atatürk and the reverse features Yunus Emre.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "jp-1000",
