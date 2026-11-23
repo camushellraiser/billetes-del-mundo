@@ -672,54 +672,96 @@
     "countryId": "ch",
     "value": 10,
     "series": "Novena serie",
-    "seriesEn": "Novena serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "Ninth series",
+    "photos": {
+      "front": "CHF 10 9 front.jpg",
+      "back": "CHF 10 9 back.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Swiss National Bank",
+      "license": "PD-Switzerland-official; reproduction conditions apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ch-20",
     "countryId": "ch",
     "value": 20,
     "series": "Novena serie",
-    "seriesEn": "Novena serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "Ninth series",
+    "photos": {
+      "front": "CHF 20 9 front.jpg",
+      "back": "CHF 20 9 back.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Swiss National Bank",
+      "license": "PD-Switzerland-official; reproduction conditions apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ch-50",
     "countryId": "ch",
     "value": 50,
     "series": "Novena serie",
-    "seriesEn": "Novena serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "Ninth series",
+    "photos": {
+      "front": "CHF 50 9 front.jpg",
+      "back": "CHF 50 9 back.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Swiss National Bank",
+      "license": "PD-Switzerland-official; reproduction conditions apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ch-100",
     "countryId": "ch",
     "value": 100,
     "series": "Novena serie",
-    "seriesEn": "Novena serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "Ninth series",
+    "photos": {
+      "front": "CHF 100 9 front.jpg",
+      "back": "CHF 100 9 back.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Swiss National Bank",
+      "license": "PD-Switzerland-official; reproduction conditions apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ch-200",
     "countryId": "ch",
     "value": 200,
     "series": "Novena serie",
-    "seriesEn": "Novena serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "Ninth series",
+    "photos": {
+      "front": "CHF 200 9 front.jpg",
+      "back": "CHF 200 9 back.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Swiss National Bank",
+      "license": "PD-Switzerland-official; reproduction conditions apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ch-1000",
     "countryId": "ch",
     "value": 1000,
     "series": "Novena serie",
-    "seriesEn": "Novena serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "Ninth series",
+    "photos": {
+      "front": "CHF 1000 9 front.jpg",
+      "back": "CHF 1000 9 back.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Swiss National Bank",
+      "license": "PD-Switzerland-official; reproduction conditions apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "se-20",
@@ -1275,63 +1317,140 @@
     "countryId": "id",
     "value": 1000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-1000-depan.jpg",
+      "back": "TE-2022-1000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "Tjut Meutia",
+    "backDescription": "Danza tifa y las islas Banda",
+    "frontDescriptionEn": "Tjut Meutia",
+    "backDescriptionEn": "Danza tifa y las islas Banda"
   },
   {
     "id": "id-2000",
     "countryId": "id",
     "value": 2000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-2000-depan.jpg",
+      "back": "TE-2022-2000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "Mohammad Husni Thamrin",
+    "backDescription": "Danza piring y cañón Sianok",
+    "frontDescriptionEn": "Mohammad Husni Thamrin",
+    "backDescriptionEn": "Danza piring y cañón Sianok"
   },
   {
     "id": "id-5000",
     "countryId": "id",
     "value": 5000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-5000-depan.jpg",
+      "back": "TE-2022-5000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "Idham Chalid",
+    "backDescription": "Danza gambyong y monte Bromo",
+    "frontDescriptionEn": "Idham Chalid",
+    "backDescriptionEn": "Danza gambyong y monte Bromo"
   },
   {
     "id": "id-10000",
     "countryId": "id",
     "value": 10000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-10000-depan.jpg",
+      "back": "TE-2022-10000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "Frans Kaisiepo",
+    "backDescription": "Danza pakarena y parque nacional Wakatobi",
+    "frontDescriptionEn": "Frans Kaisiepo",
+    "backDescriptionEn": "Danza pakarena y parque nacional Wakatobi"
   },
   {
     "id": "id-20000",
     "countryId": "id",
     "value": 20000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-20000-depan.jpg",
+      "back": "TE-2022-20000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "G. S. S. J. Ratulangi",
+    "backDescription": "Danza gong y las islas Derawan",
+    "frontDescriptionEn": "G. S. S. J. Ratulangi",
+    "backDescriptionEn": "Danza gong y las islas Derawan"
   },
   {
     "id": "id-50000",
     "countryId": "id",
     "value": 50000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-50000-depan.jpg",
+      "back": "TE-2022-50000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "Djuanda Kartawidjaja",
+    "backDescription": "Danza legong y el Parque Nacional de Komodo",
+    "frontDescriptionEn": "Djuanda Kartawidjaja",
+    "backDescriptionEn": "Danza legong y el Parque Nacional de Komodo"
   },
   {
     "id": "id-100000",
     "countryId": "id",
     "value": 100000,
     "series": "Emisión 2022",
-    "seriesEn": "Emisión 2022",
-    "photos": null,
-    "imageStatus": "pending"
+    "seriesEn": "2022 issue",
+    "photos": {
+      "front": "TE-2022-100000-depan.jpg",
+      "back": "TE-2022-100000-belakang.jpg",
+      "verified": true,
+      "provider": "Wikimedia Commons / Bank Indonesia",
+      "license": "PD-IDGov; Indonesian currency reproduction laws apply"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-23",
+    "frontDescription": "Sukarno y Mohammad Hatta",
+    "backDescription": "Danza topeng Betawi y las islas Raja Ampat",
+    "frontDescriptionEn": "Sukarno y Mohammad Hatta",
+    "backDescriptionEn": "Danza topeng Betawi y las islas Raja Ampat"
   },
   {
     "id": "ph-50",
