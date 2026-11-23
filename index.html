@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#081715" />
+  <meta name="description" content="Billetes del Mundo — Un museo visual e interactivo para descubrir los billetes actuales de 30 países. Creado por Aldo Lizárrez." />
+  <meta property="og:title" content="Billetes del Mundo | Un museo en tu bolsillo" />
+  <meta property="og:description" content="Explora países, monedas y denominaciones. Una pequeña aventura alrededor del mundo." />
+  <title>Billetes del Mundo — Descubre el dinero del planeta</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700;750;800&family=Manrope:wght@400;500;600;700;800&display=swap" />
+  <link rel="stylesheet" href="assets/style.css?v=1.0.0" />
+  <script src="assets/app.js?v=1.0.0" defer></script>
+</head>
+<body>
+  <div class="app-shell">
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header" id="site-header">
+      <a class="brand" href="#/" aria-label="Volver al inicio de Billetes del Mundo">
+        <span class="brand-logo" aria-hidden="true"><span class="logo-planet"></span><span class="logo-orbit"></span></span>
+        <span class="brand-copy"><strong>Billetes<span>del Mundo</span></strong><small data-i18n="brandSubtitle">UN ATLAS DE PAPEL</small></span>
+      </a>
+      <div class="top-actions">
+        <span class="edition-tag"><span class="edition-dot"></span><span data-i18n="edition">EDICIÓN 01 · 2026</span></span>
+        <button type="button" id="language-button" class="language-button" aria-label="Change language"><span class="language-dot">ES</span><span> / EN</span></button>
+      </div>
+    </header>
+
+    <main id="app">
+      <section id="home-view" class="home-view">
+        <div class="hero">
+          <div class="hero-glow" aria-hidden="true"></div>
+          <div class="hero-grid">
+            <div class="hero-copy">
+              <div class="eyebrow"><span class="eyebrow-line"></span><span data-i18n="eyebrow">UNA AVENTURA ENTRE PAÍSES Y CULTURAS</span></div>
+              <h1 data-i18n-html="headline">El mundo tiene<br/><em>mucho que contar.</em></h1>
+              <p data-i18n="heroDesc">Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.</p>
+              <div class="hero-buttons">
+                <a href="#explore" class="button button-primary" id="explore-button"><span data-i18n="exploreNow">Empezar a explorar</span><span class="arrow-diag">↗</span></a>
+                <button type="button" class="button button-ghost" id="surprise-button"><span class="sparkle">✦</span><span data-i18n="surprise">Sorpréndeme</span></button>
+              </div>
+              <div class="hero-stats" aria-label="Datos del catálogo">
+                <div><strong id="stat-countries">30</strong><small data-i18n="countries">PAÍSES</small></div>
+                <span class="stat-separator"></span>
+                <div><strong id="stat-denoms">164</strong><small data-i18n="denominations">DENOMINACIONES</small></div>
+                <span class="stat-separator"></span>
+                <div><strong>05</strong><small data-i18n="regions">REGIONES</small></div>
+              </div>
+            </div>
+            <div class="hero-art" aria-hidden="true">
+              <div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div>
+              <div class="hero-star star-one">✳</div><div class="hero-star star-two">✦</div>
+              <div class="hero-banknote note-one"><div class="hero-note-img" id="hero-note-img-one"></div><div class="hero-note-line"><span>JAPAN</span><span>¥ 1,000</span></div></div>
+              <div class="hero-banknote note-two"><div class="hero-note-img" id="hero-note-img-two"></div><div class="hero-note-line"><span>UNITED STATES</span><span>$ 100</span></div></div>
+              <div class="floating-stamp"><span>✳</span><small>WORLD<br/>CURRENCY<br/>ATLAS</small></div>
+            </div>
+          </div>
+          <div class="hero-bottom-line"><span data-i18n="heroBottom">30 destinos. Infinitas historias.</span><span>↙ &nbsp; SCROLL TO DISCOVER</span></div>
+        </div>
+
+        <section class="explore-section" id="explore" aria-labelledby="explore-heading">
+          <div class="section-intro"><div><span class="section-kicker"><span class="kicker-dot"></span><span data-i18n="chooseDestination">ELIGE TU DESTINO</span></span><h2 id="explore-heading" data-i18n-html="exploreTitle">Un mundo por descubrir<span class="accent-period">.</span></h2><p data-i18n="exploreDesc">Elige una bandera y comienza el viaje.</p></div><div class="section-sidenote">01 / <span data-i18n="indexLabel">ÍNDICE DE PAÍSES</span></div></div>
+          <div class="explore-toolbar">
+            <label class="search-field"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.5"/><path d="m16 16 5 5"/></svg><input id="country-search" type="search" data-placeholder-es="Buscar país o moneda..." data-placeholder-en="Search country or currency..." placeholder="Buscar país o moneda..." autocomplete="off" aria-label="Buscar países"/><kbd>/</kbd></label>
+            <div class="filter-scroll" id="region-filters" role="group" aria-label="Filtrar regiones"></div>
+          </div>
+          <div class="results-caption"><span id="results-count">30 países</span><label class="verified-only"><input type="checkbox" id="verified-only"/><span class="check-faux"></span><span data-i18n="photosOnly">Solo con fotografías</span></label></div>
+          <div id="country-grid" class="country-grid"></div>
+          <div id="empty-state" class="empty-state" hidden><span>⌕</span><h3 data-i18n="noResults">No encontramos ese destino</h3><p data-i18n="tryAnother">Intenta buscar otro país o moneda.</p><button type="button" class="button button-secondary" id="reset-search" data-i18n="reset">Borrar filtros</button></div>
+        </section>
+        <section class="discovery-strip"><div class="discovery-symbol">✳</div><div><span class="section-kicker" data-i18n="didYouKnow">¿SABÍAS QUE...?</span><h3 data-i18n="discoveryTitle">Un billete puede ser una obra de arte.</h3><p data-i18n="discoveryDesc">Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.</p></div><button class="round-arrow" id="random-bottom" type="button" title="Descubrir un país al azar">↗</button></section>
+      </section>
+
+      <section id="country-view" class="country-view" hidden aria-live="polite">
+        <nav class="breadcrumb"><a href="#/" id="back-link"><span>←</span> <span data-i18n="allCountries">Todos los países</span></a><span class="slash">/</span><span id="crumb-country"></span></nav>
+        <div class="country-title-row"><div><span class="section-kicker"><span class="kicker-dot"></span><span data-i18n="countryCollection">COLECCIÓN POR PAÍS</span></span><div class="country-title"><span id="detail-flag"></span><h1 id="detail-country"></h1></div><div class="detail-sub"><span id="detail-currency"></span><span class="tiny-dot">•</span><span id="detail-series"></span></div></div><button class="round-icon" type="button" id="random-country" title="Otro país al azar" aria-label="Descubrir otro país">↗</button></div>
+        <div class="detail-layout">
+          <div class="note-display">
+            <div class="display-top"><span class="image-status" id="image-status"><span class="live-dot"></span><span id="image-status-text">IMAGEN VERIFICADA</span></span><span class="note-counter" id="note-count"></span></div>
+            <div class="note-canvas" id="note-canvas"><div class="note-stage" id="note-stage"><div id="note-image" class="note-image-wrap"></div><div id="note-placeholder" class="note-placeholder" hidden><div class="placeholder-inner"><div class="placeholder-symbol">✳</div><div class="placeholder-note-value" id="placeholder-value"></div><p data-i18n="pendingPhoto">Fotografía pendiente de verificación</p></div></div></div></div>
+            <div class="image-tools"><div class="side-switch" role="group" aria-label="Lado del billete"><button type="button" class="side-switch-btn selected" id="front-button" data-i18n="front">Anverso</button><button type="button" class="side-switch-btn" id="back-button" data-i18n="back">Reverso</button></div><button class="tool-button" type="button" id="zoom-button" title="Ampliar fotografía" disabled><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5M8 10.5h5M10.5 8v5"/></svg><span data-i18n="zoom">Ampliar</span></button></div>
+            <div class="image-source" id="image-source" hidden></div>
+          </div>
+          <div class="denom-panel"><span class="section-kicker"><span class="kicker-dot"></span><span data-i18n="selectDenom">ELIGE UNA DENOMINACIÓN</span></span><h2 data-i18n-html="banknotesCountry">Los billetes del país<span class="accent-period">.</span></h2><p data-i18n="selectDenomDesc">Selecciona un valor para ver el diseño de cada billete.</p><div class="denom-buttons" id="denom-buttons"></div><div class="selected-summary"><span data-i18n="selectedBanknote">BILLETE SELECCIONADO</span><strong id="selected-denomination"></strong><span id="selected-status"></span></div><div class="fun-fact"><div class="fun-icon">✦</div><div><span data-i18n="aCuriosity">UNA CURIOSIDAD</span><p id="country-fact"></p></div></div><div class="source-link-container"><a class="official-link" id="official-source" target="_blank" rel="noopener noreferrer"><span data-i18n="officialSource">Consultar banco central</span>↗</a></div></div>
+        </div>
+        <div class="next-journey"><span data-i18n="keepExploring">SIGUE EXPLORANDO</span><button type="button" id="next-country"><span data-i18n="otherDestination">Descubre otro destino</span><span>↗</span></button></div>
+      </section>
+    </main>
+
+    <footer class="footer"><div class="footer-top"><span class="footer-brand">✳ <span>Billetes del Mundo</span></span><span class="footer-motto" data-i18n="footerMotto">Hecho para mentes curiosas.</span></div><div class="footer-bottom"><span class="footer-copyright">© 2026 · <span data-i18n="footEdition">Un atlas educativo independiente</span></span><div class="signature" aria-label="Developed by Aldo Lizárrez"><span class="signature-monogram"><svg width="29" height="29" viewBox="0 0 29 29" fill="none" aria-hidden="true"><circle cx="14.5" cy="14.5" r="13.5" stroke="currentColor" stroke-opacity=".52"/><path d="M6.7 19.8 12 9.3l5.3 10.5M8.3 16.4h7.2M18.1 9.4v10.4h5.1" stroke="currentColor" stroke-width="1.12" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="signature-copy"><span>Developed by</span><strong>Aldo Lizárrez</strong></span></div></div></footer>
+  </div>
+  <dialog id="image-dialog" class="image-dialog"><div class="dialog-top"><div><strong id="dialog-title"></strong><small id="dialog-subtitle"></small></div><button class="dialog-close" id="dialog-close" aria-label="Cerrar">×</button></div><img id="dialog-image" alt="Fotografía ampliada del billete"/><div class="dialog-bottom"><span data-i18n="museumViewer">VISOR DEL MUSEO</span><button type="button" id="dialog-flip"><span data-i18n="flipNote">Voltear billete</span> ↻</button></div></dialog>
+  <noscript><div class="noscript">Para explorar el catálogo necesitas activar JavaScript.</div></noscript>
+</body>
+</html>
