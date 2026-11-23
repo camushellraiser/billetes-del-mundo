@@ -2,7 +2,7 @@
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
 
-**Versión:** 1.3.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 62 de 164 denominaciones (11 países con referencias de imágenes registradas). **Enlaces oficiales por denominación:** 40, entre ellos México, Reino Unido, Nueva Zelanda, Canadá, Singapur, Australia, Tailandia y Sudáfrica.
+**Versión:** 1.6.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes registrados:** 62 de 164 · **Pares pendientes:** 102 · **Enlaces oficiales por denominación:** 74.
 
 ## Explora el catálogo
 
@@ -127,3 +127,12 @@ Se incorporaron **11 enlaces oficiales específicos** para las denominaciones vi
 **Cobertura:** 30 países, 164 denominaciones, 62 pares de imágenes registrados, 102 sin imágenes y 68 fichas con enlaces oficiales. **Pares de imágenes añadidos en esta versión: 0.** Los enlaces de imagen registrados no equivalen a una prueba visual de carga en móviles.
 
 Respaldo anterior a estos cambios: `backup/pre-v1.5-chile-colombia-20261123`. Se mantiene la URL de Pages y la firma `Developed by Aldo Lizares`.
+
+## Versión 1.6.0 — Malasia (23 de noviembre de 2026)
+
+- Se completaron **6 fichas individuales oficiales** de la cuarta serie «Distinctively Malaysia»: RM1, RM5, RM10, RM20, RM50 y RM100, con vínculos directos a Bank Negara Malaysia y descripción bilingüe del anverso y reverso.
+- Los motivos del reverso se contrastaron con el emisor: cometa wau bulan (RM1), cálao rinoceronte (RM5), Rafflesia azlanii (RM10), tortugas carey y laúd (RM20), palma aceitera y biotecnología (RM50), y monte Kinabalu y formaciones rocosas de Gunung Api (RM100).
+- No se incorporaron fotografías de BNM sin licencia de republicación comprobada; cada ficha enlaza a imágenes oficiales de ambas caras en su propio sitio.
+- Fuentes: https://www.bnm.gov.my/currency/banknotes y https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia
+- Respaldo previo: `backup/pre-v1.6-malaysia-official-20261123`.
+- Totales: **30 países, 164 denominaciones, 62 pares de imágenes registrados, 102 pendientes, 74 fichas oficiales individuales**. La disponibilidad efectiva de cada imagen externa no está garantizada.
