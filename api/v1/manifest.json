@@ -1,6 +1,6 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
@@ -10,5 +10,5 @@
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 6
+  "officialDenominationReferences": 10
 }
