@@ -2,7 +2,7 @@
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
 
-**Versión:** 1.1.1 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 16 (7 de Estados Unidos, 6 del euro y 3 de Japón). **Enlaces oficiales:** 6 denominaciones de México (familia G) y 4 del Reino Unido (Carlos III).
+**Versión:** 1.2.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 57 de 164 denominaciones (10 países con al menos una fotografía registrada). **Enlaces oficiales:** 6 denominaciones de México (familia G) y 4 del Reino Unido (Carlos III).
 
 ## Explora el catálogo
 
@@ -35,7 +35,7 @@ Son *endpoints estáticos de solo lectura*, no una API de escritura ni una API e
 
 ## Fotografías, vigencia y licencias
 
-**Importante:** los 164 registros del catálogo no equivalen a 164 pares de fotografías disponibles. Esta versión incluye referencias de imagen seleccionadas para 16 pares (Estados Unidos, euro y Japón); en las demás denominaciones se muestra un marcador elegante de foto pendiente. Para México y Reino Unido, la interfaz proporciona enlaces directos a los bancos centrales. Para México, la interfaz proporciona enlaces directos a los seis billetes de la familia G en la web de Banco de México, sin copiar ni alojar las imágenes: según el Artículo 17 de la Ley Monetaria, su reproducción requiere autorización expresa. Si una imagen de Wikimedia no está accesible, el visor muestra un estado de error, no una imagen inventada.
+**Importante:** los 164 registros del catálogo no equivalen a 164 pares de fotografías disponibles. Esta versión incluye referencias de imagen seleccionadas para 57 pares (Estados Unidos, euro, Japón, Brasil, Suiza, Indonesia, India, Corea del Sur, Egipto y Turquía); en las demás denominaciones se muestra un marcador elegante de foto pendiente. Para México y Reino Unido, la interfaz proporciona enlaces directos a los bancos centrales. Para México, la interfaz proporciona enlaces directos a los seis billetes de la familia G en la web de Banco de México, sin copiar ni alojar las imágenes: según el Artículo 17 de la Ley Monetaria, su reproducción requiere autorización expresa. Si una imagen de Wikimedia no está accesible, el visor muestra un estado de error, no una imagen inventada.
 
 Las imágenes se obtienen de archivos externos y están sujetas a la disponibilidad, licencias, atribución y legislación de reproducción de billetes de cada país. La presencia de una referencia no implica autorización ilimitada para comercializar la imagen. Antes de ampliar cobertura, confirmar contra fuentes oficiales que el diseño es el más reciente de la denominación y revisar permisos aplicables.
 
@@ -68,3 +68,22 @@ El catálogo prioriza **las series de diseño más recientes**, no todas las ser
 - Fichas oficiales enlazadas individualmente del Banco de Inglaterra para los cuatro billetes actuales con Carlos III: £5, £10, £20 y £50.
 - Motivos explicados en ambas caras: Winston Churchill, Jane Austen, J. M. W. Turner y Alan Turing.
 - Etiquetas de enlace adaptadas al banco central de cada país.
+
+## Versión 1.2.0 — ampliación de billetes vigentes
+
+**Cobertura del catálogo:** 30 países, 164 denominaciones, 57 pares de anverso/reverso seleccionados y 107 registros pendientes de fotografías.
+
+Países cuyos pares de imágenes se ampliaron en esta versión:
+- Brasil: 7 billetes de la segunda familia (2 a 200 reales).
+- Suiza: 6 billetes de la novena serie (10 a 1,000 francos).
+- Indonesia: 7 billetes de la emisión de 2022 (1,000 a 100,000 rupias).
+- India: 6 billetes de la Mahatma Gandhi New Series (10 a 500 rupias).
+- Corea del Sur: 4 billetes de won vigentes (1,000 a 50,000).
+- Egipto: 5 billetes (polímero de 10/20 libras y papel de 50/100/200).
+- Turquía: 6 billetes de diseño E9 vigente (5 a 200 liras), con normas de imagen y watermark espécimen.
+
+**Aún pendiente:** 107 pares de imágenes. En todos esos casos el visor muestra un enlace al banco central y **no** usa imágenes antiguas para llenar huecos. Algunas jurisdicciones restringen la reproducción de su moneda (México, Reino Unido, Canadá, Argentina, Colombia, etc.), por lo que los enlaces oficiales no equivalen a una imagen incrustada.
+
+**Vista visual de cobertura:** la página principal muestra los billetes con fotografías registradas separadamente de las denominaciones del catálogo.
+
+**Autor:** Developed by Aldo Lizares.
