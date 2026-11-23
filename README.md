@@ -1,6 +1,6 @@
 # Billetes del Mundo 🌎
 
-Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizárrez**.
+Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
 
 **Versión:** 1.1.1 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 16 (7 de Estados Unidos, 6 del euro y 3 de Japón). **Enlaces oficiales:** 6 denominaciones de México (familia G) y 4 del Reino Unido (Carlos III).
 
@@ -51,7 +51,7 @@ El catálogo prioriza **las series de diseño más recientes**, no todas las ser
 
 ## Autoría
 
-**Developed by Aldo Lizárrez** · Monograma **AL** integrado discretamente en el pie de página.
+**Developed by Aldo Lizares** · Monograma **AL** integrado discretamente en el pie de página.
 
 ## Actualización 1.1.0 — 23 de noviembre de 2026
 
