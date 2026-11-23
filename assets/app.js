@@ -4,8 +4,8 @@ const $=id=>document.getElementById(id);
 const base=new URL("./",document.baseURI);
 const state={countries:[],notes:[],country:null,note:null,side:"front",region:"Todos",search:"",photoOnly:false,lang:localStorage.getItem("bdm-lang")==="en"?"en":"es",imageOk:false};
 const copy={
-es:{brandSubtitle:"UN ATLAS DE PAPEL",edition:"EDICIÓN 01 · 2026",eyebrow:"UNA AVENTURA ENTRE PAÍSES Y CULTURAS",headline:"El mundo tiene<br><em>mucho que contar.</em>",heroDesc:"Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.",exploreNow:"Empezar a explorar",surprise:"Sorpréndeme",countries:"PAÍSES",denominations:"DENOMINACIONES",regions:"REGIONES",heroBottom:"30 destinos. Infinitas historias.",chooseDestination:"ELIGE TU DESTINO",exploreTitle:"Un mundo por descubrir<span class='accent-period'>.</span>",exploreDesc:"Elige una bandera y comienza el viaje.",indexLabel:"ÍNDICE DE PAÍSES",photosOnly:"Solo con fotografías",noResults:"No encontramos ese destino",tryAnother:"Intenta buscar otro país o moneda.",reset:"Borrar filtros",didYouKnow:"¿SABÍAS QUE...?",discoveryTitle:"Un billete puede ser una obra de arte.",discoveryDesc:"Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.",allCountries:"Todos los países",countryCollection:"COLECCIÓN POR PAÍS",front:"Anverso",back:"Reverso",zoom:"Ampliar",pendingPhoto:"Fotografía pendiente de verificación",selectDenom:"ELIGE UNA DENOMINACIÓN",banknotesCountry:"Los billetes del país<span class='accent-period'>.</span>",selectDenomDesc:"Selecciona un valor para ver el diseño de cada billete.",selectedBanknote:"BILLETE SELECCIONADO",aCuriosity:"UNA CURIOSIDAD",officialSource:"Consultar banco central",keepExploring:"SIGUE EXPLORANDO",otherDestination:"Descubre otro destino",footerMotto:"Hecho para mentes curiosas.",footEdition:"Un atlas educativo independiente",museumViewer:"VISOR DEL MUSEO",flipNote:"Voltear billete",imageVerified:"FOTOGRAFÍA SELECCIONADA",imagePending:"FOTOGRAFÍA PENDIENTE",failedImage:"IMAGEN NO DISPONIBLE",photoAvailable:"Fotografía de referencia disponible",photoMissing:"Estamos verificando una fotografía actual",imageSource:"Fuente de imagen",verifiedBadge:"FOTOS",frontAlt:"Anverso",backAlt:"Reverso",resultUnit:"países",noteUnit:"billetes",all:"Todos"},
-en:{brandSubtitle:"A PAPER ATLAS",edition:"EDITION 01 · 2026",eyebrow:"A JOURNEY ACROSS COUNTRIES AND CULTURES",headline:"The world has<br><em>so much to tell.</em>",heroDesc:"Every banknote tells a story. Explore incredible places, people and animals through the money of other countries.",exploreNow:"Start exploring",surprise:"Surprise me",countries:"COUNTRIES",denominations:"DENOMINATIONS",regions:"REGIONS",heroBottom:"30 destinations. Endless stories.",chooseDestination:"PICK A DESTINATION",exploreTitle:"A world to discover<span class='accent-period'>.</span>",exploreDesc:"Choose a flag and start your journey.",indexLabel:"COUNTRY INDEX",photosOnly:"Only with photos",noResults:"No destinations found",tryAnother:"Try another country or currency.",reset:"Clear filters",didYouKnow:"DID YOU KNOW?",discoveryTitle:"A banknote can be a work of art.",discoveryDesc:"Colors, animals, architecture and history: every country has a story.",allCountries:"All countries",countryCollection:"COUNTRY COLLECTION",front:"Front",back:"Back",zoom:"Zoom",pendingPhoto:"Photo awaiting verification",selectDenom:"CHOOSE A DENOMINATION",banknotesCountry:"The country's banknotes<span class='accent-period'>.</span>",selectDenomDesc:"Choose a value to see the design of each note.",selectedBanknote:"SELECTED BANKNOTE",aCuriosity:"FUN FACT",officialSource:"Visit central bank",keepExploring:"KEEP EXPLORING",otherDestination:"Discover another country",footerMotto:"Made for curious minds.",footEdition:"An independent educational atlas",museumViewer:"MUSEUM VIEWER",flipNote:"Flip banknote",imageVerified:"CURATED PHOTOGRAPH",imagePending:"PHOTO PENDING",failedImage:"IMAGE NOT AVAILABLE",photoAvailable:"Reference photograph available",photoMissing:"We are verifying a current image",imageSource:"Image source",verifiedBadge:"PHOTOS",frontAlt:"Front",backAlt:"Back",resultUnit:"countries",noteUnit:"notes",all:"All"}
+es:{brandSubtitle:"UN ATLAS DE PAPEL",edition:"EDICIÓN 01 · 2026",eyebrow:"UNA AVENTURA ENTRE PAÍSES Y CULTURAS",headline:"El mundo tiene<br><em>mucho que contar.</em>",heroDesc:"Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.",exploreNow:"Empezar a explorar",surprise:"Sorpréndeme",countries:"PAÍSES",denominations:"DENOMINACIONES",regions:"REGIONES",heroBottom:"30 destinos. Infinitas historias.",chooseDestination:"ELIGE TU DESTINO",exploreTitle:"Un mundo por descubrir<span class='accent-period'>.</span>",exploreDesc:"Elige una bandera y comienza el viaje.",indexLabel:"ÍNDICE DE PAÍSES",photosOnly:"Solo con fotografías",noResults:"No encontramos ese destino",tryAnother:"Intenta buscar otro país o moneda.",reset:"Borrar filtros",didYouKnow:"¿SABÍAS QUE...?",discoveryTitle:"Un billete puede ser una obra de arte.",discoveryDesc:"Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.",allCountries:"Todos los países",countryCollection:"COLECCIÓN POR PAÍS",front:"Anverso",back:"Reverso",zoom:"Ampliar",pendingPhoto:"Fotografía pendiente de verificación",selectDenom:"ELIGE UNA DENOMINACIÓN",banknotesCountry:"Los billetes del país<span class='accent-period'>.</span>",selectDenomDesc:"Selecciona un valor para ver el diseño de cada billete.",selectedBanknote:"BILLETE SELECCIONADO",aCuriosity:"UNA CURIOSIDAD",officialSource:"Consultar banco central",keepExploring:"SIGUE EXPLORANDO",otherDestination:"Descubre otro destino",footerMotto:"Hecho para mentes curiosas.",footEdition:"Un atlas educativo independiente",museumViewer:"VISOR DEL MUSEO",flipNote:"Voltear billete",imageVerified:"FOTOGRAFÍA SELECCIONADA",imagePending:"FOTOGRAFÍA PENDIENTE",failedImage:"IMAGEN NO DISPONIBLE",photoAvailable:"Fotografía de referencia disponible",photoMissing:"Estamos verificando una fotografía actual",imageSource:"Fuente de imagen",verifiedBadge:"FOTOS",frontAlt:"Anverso",backAlt:"Reverso",resultUnit:"países",noteUnit:"billetes",all:"Todos",viewOfficialImages:"VER IMÁGENES EN BANXICO ↗",officialReference:"Referencia oficial disponible",storyHeading:"EL DETALLE DEL BILLETE",officialPhoto:"Ver billete en Banco de México"},
+en:{brandSubtitle:"A PAPER ATLAS",edition:"EDITION 01 · 2026",eyebrow:"A JOURNEY ACROSS COUNTRIES AND CULTURES",headline:"The world has<br><em>so much to tell.</em>",heroDesc:"Every banknote tells a story. Explore incredible places, people and animals through the money of other countries.",exploreNow:"Start exploring",surprise:"Surprise me",countries:"COUNTRIES",denominations:"DENOMINATIONS",regions:"REGIONS",heroBottom:"30 destinations. Endless stories.",chooseDestination:"PICK A DESTINATION",exploreTitle:"A world to discover<span class='accent-period'>.</span>",exploreDesc:"Choose a flag and start your journey.",indexLabel:"COUNTRY INDEX",photosOnly:"Only with photos",noResults:"No destinations found",tryAnother:"Try another country or currency.",reset:"Clear filters",didYouKnow:"DID YOU KNOW?",discoveryTitle:"A banknote can be a work of art.",discoveryDesc:"Colors, animals, architecture and history: every country has a story.",allCountries:"All countries",countryCollection:"COUNTRY COLLECTION",front:"Front",back:"Back",zoom:"Zoom",pendingPhoto:"Photo awaiting verification",selectDenom:"CHOOSE A DENOMINATION",banknotesCountry:"The country's banknotes<span class='accent-period'>.</span>",selectDenomDesc:"Choose a value to see the design of each note.",selectedBanknote:"SELECTED BANKNOTE",aCuriosity:"FUN FACT",officialSource:"Visit central bank",keepExploring:"KEEP EXPLORING",otherDestination:"Discover another country",footerMotto:"Made for curious minds.",footEdition:"An independent educational atlas",museumViewer:"MUSEUM VIEWER",flipNote:"Flip banknote",imageVerified:"CURATED PHOTOGRAPH",imagePending:"PHOTO PENDING",failedImage:"IMAGE NOT AVAILABLE",photoAvailable:"Reference photograph available",photoMissing:"We are verifying a current image",imageSource:"Image source",verifiedBadge:"PHOTOS",frontAlt:"Front",backAlt:"Back",resultUnit:"countries",noteUnit:"notes",all:"All",viewOfficialImages:"SEE IMAGES AT BANXICO ↗",officialReference:"Official reference available",storyHeading:"THE STORY ON THIS NOTE",officialPhoto:"View at Banco de México"}
 };
 const tr=k=>copy[state.lang][k]||k;
 const name=c=>state.lang==="en"?c.nameEn:c.name;
@@ -38,10 +38,14 @@ function renderFilters(){
 $("region-filters").innerHTML=countryRegion.map(region=>`<button type="button" class="filter-chip ${state.region===region?"active":""}" data-region="${region}" aria-pressed="${state.region===region}">${state.lang==="es"?region:regionEn[region]}</button>`).join("");
 }
 function renderGrid(){
-const list=listCountries();
-$("results-count").textContent=`${list.length} ${tr("resultUnit")}`;
-$("country-grid").innerHTML=list.map(c=>`<button type="button" class="country-card" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span>${hasPictures(c.id)?`<span class="card-photo-badge">✦ ${tr("verifiedBadge")}</span>`:""}<span class="country-card-arrow">↗</span></span><span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`).join("");
-$("empty-state").hidden=list.length>0;
+ const list=listCountries();
+ $("results-count").textContent=`${list.length} ${tr("resultUnit")}`;
+ $("country-grid").innerHTML=list.map(c=>{
+  const featured=state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
+  const preview=featured?`<span class="country-card-thumb" aria-hidden="true"><img loading="lazy" decoding="async" src="${fileUrl(featured.photos.front)}" alt=""></span>`:"";
+  return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span>${featured?`<span class="card-photo-badge">✦ ${tr("verifiedBadge")}</span>`:""}<span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
+ }).join("");
+ $("empty-state").hidden=list.length>0;
 }
 function chooseCountry(id){
 const country=state.countries.find(c=>c.id===id);
@@ -71,16 +75,23 @@ $("detail-country").textContent=name(c);
 $("detail-currency").textContent=`${currency(c)} · ${c.currency}`;
 $("detail-series").textContent=state.lang==="en"?c.seriesEn:c.series;
 $("country-fact").textContent=state.lang==="en"?c.funFactEn:c.funFact;
-$("official-source").href=c.officialSource;
+$("official-source").href=n.officialPage||c.officialSource;$("official-source").querySelector("[data-i18n]").textContent=n.officialPage?tr("officialPhoto"):tr("officialSource");
 $("note-count").textContent=`${String(c.denominations.indexOf(n.value)+1).padStart(2,"0")} / ${String(c.denominations.length).padStart(2,"0")}`;
 $("selected-denomination").textContent=pretty(c,n.value);
-$("selected-status").textContent=n.photos?tr("photoAvailable"):tr("photoMissing");
+$("selected-status").textContent=n.photos?tr("photoAvailable"):(n.officialPage?tr("officialReference"):tr("photoMissing"));
 $("denom-buttons").innerHTML=c.denominations.map(value=>{const item=noteFor(c.id,value);return `<button type="button" data-denom="${value}" data-has-photo="${!!item?.photos}" aria-pressed="${value===n.value}" class="denom-button ${value===n.value?"active":""}">${pretty(c,value)}</button>`;}).join("");
 renderPhoto();
 }
 function renderPhoto(){
 const c=state.country,n=state.note;if(!c||!n)return;
 const has=!!n.photos;
+const info=state.lang==="es"?(state.side==="front"?(n.frontDescription||n.fact):(n.backDescription||n.fact)):(state.side==="front"?(n.frontDescriptionEn||n.factEn):(n.backDescriptionEn||n.factEn));
+$("note-story").hidden=!info;
+$("note-story-label").textContent=tr("storyHeading")+(n.frontDescription?" · "+tr(state.side):"");
+$("note-story-text").textContent=info||"";
+const ref=$("official-note-link");
+ref.hidden=!n.officialPage;
+if(n.officialPage){ref.href=n.officialPage;ref.textContent=tr("viewOfficialImages");}
 state.imageOk=false;
 $("front-button").classList.toggle("selected",state.side==="front");
 $("back-button").classList.toggle("selected",state.side==="back");
@@ -91,7 +102,7 @@ $("note-image").hidden=!has;
 $("note-placeholder").hidden=has;
 $("placeholder-value").textContent=pretty(c,n.value);
 $("image-source").hidden=!has;
-$("image-source").innerHTML=has?`${tr("imageSource")}: <a href="${commonsPage(n.photos[state.side])}" target="_blank" rel="noopener noreferrer">Wikimedia Commons ↗</a>`:"";
+$("image-source").innerHTML=has?`${tr("imageSource")}: <a href="${commonsPage(n.photos[state.side])}" target="_blank" rel="noopener noreferrer">Wikimedia Commons ↗</a>${n.photos.license?" · "+n.photos.license:""}`:"";
 const display=$("note-image");
 display.replaceChildren();
 if(!has)return;
@@ -117,6 +128,7 @@ $("country-search").addEventListener("keydown",e=>{if(e.key==="Enter"){const lis
 $("verified-only").addEventListener("change",e=>{state.photoOnly=e.target.checked;renderGrid();});
 $("region-filters").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;state.region=b.dataset.region;renderFilters();renderGrid();});
 $("country-grid").addEventListener("click",e=>{const b=e.target.closest("[data-country]");if(b)location.hash=`#/${b.dataset.country}`;});
+$("country-grid").addEventListener("error",e=>{if(e.target.matches(".country-card-thumb img"))e.target.closest(".country-card-thumb")?.remove();},true);
 $("denom-buttons").addEventListener("click",e=>{const b=e.target.closest("[data-denom]");if(b)selectDenom(b.dataset.denom);});
 $("front-button").addEventListener("click",()=>{if(state.side!=="front"){state.side="front";renderPhoto();}});
 $("back-button").addEventListener("click",()=>{if(state.side!=="back"){state.side="back";renderPhoto();}});
