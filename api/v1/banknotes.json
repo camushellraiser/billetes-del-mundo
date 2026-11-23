@@ -1837,7 +1837,13 @@
     "series": "Serie Brighter Money",
     "seriesEn": "Serie Brighter Money",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/5%20banknote",
+    "frontDescription": "El anverso presenta a Sir Edmund Hillary.",
+    "backDescription": "El reverso muestra Pingüino hoiho (de ojos amarillos).",
+    "frontDescriptionEn": "Front features Sir Edmund Hillary.",
+    "backDescriptionEn": "Reverse features Pingüino hoiho (de ojos amarillos).",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "nz-10",
@@ -1846,7 +1852,13 @@
     "series": "Serie Brighter Money",
     "seriesEn": "Serie Brighter Money",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/10-banknote",
+    "frontDescription": "El anverso presenta a Kate Sheppard.",
+    "backDescription": "El reverso muestra Pato azul o whio.",
+    "frontDescriptionEn": "Front features Kate Sheppard.",
+    "backDescriptionEn": "Reverse features Pato azul o whio.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "nz-20",
@@ -1855,7 +1867,13 @@
     "series": "Serie Brighter Money",
     "seriesEn": "Serie Brighter Money",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/20-banknote",
+    "frontDescription": "El anverso presenta a Isabel II.",
+    "backDescription": "El reverso muestra Halcón neozelandés o kārearea.",
+    "frontDescriptionEn": "Front features Isabel II.",
+    "backDescriptionEn": "Reverse features Halcón neozelandés o kārearea.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "nz-50",
@@ -1864,7 +1882,13 @@
     "series": "Serie Brighter Money",
     "seriesEn": "Serie Brighter Money",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/50-banknote",
+    "frontDescription": "El anverso presenta a Āpirana Ngata.",
+    "backDescription": "El reverso muestra Kōkako.",
+    "frontDescriptionEn": "Front features Āpirana Ngata.",
+    "backDescriptionEn": "Reverse features Kōkako.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "nz-100",
@@ -1873,7 +1897,13 @@
     "series": "Serie Brighter Money",
     "seriesEn": "Serie Brighter Money",
     "photos": null,
-    "imageStatus": "pending"
+    "imageStatus": "official_reference",
+    "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/100-banknote",
+    "frontDescription": "El anverso presenta a Ernest Rutherford.",
+    "backDescription": "El reverso muestra Mohua.",
+    "frontDescriptionEn": "Front features Ernest Rutherford.",
+    "backDescriptionEn": "Reverse features Mohua.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "za-10",
