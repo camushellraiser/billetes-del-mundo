@@ -1,0 +1,13 @@
+{
+  "name": "Billetes del Mundo",
+  "version": "1.0.0",
+  "lastReviewed": "2026-11-23",
+  "countryCount": 30,
+  "banknoteCount": 164,
+  "verifiedImagePairs": 10,
+  "imagePolicy": "Las imágenes solo se muestran cuando la serie está seleccionada; se debe respetar la licencia y las normas de reproducción originales.",
+  "endpoints": [
+    "./api/v1/countries.json",
+    "./api/v1/banknotes.json"
+  ]
+}
