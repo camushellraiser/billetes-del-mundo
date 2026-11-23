@@ -276,64 +276,127 @@
     "id": "br-2",
     "countryId": "br",
     "value": 2,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "2 Brazil real Second Obverse.jpg",
+      "back": "2 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: tortuga marina.",
+    "factEn": "The reverse features a Brazilian animal: sea turtle.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-5",
     "countryId": "br",
     "value": 5,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "5 Brazil real Second Obverse.jpg",
+      "back": "5 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: garza blanca.",
+    "factEn": "The reverse features a Brazilian animal: great egret.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-10",
     "countryId": "br",
     "value": 10,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "10 Brazil real Second Obverse.jpg",
+      "back": "10 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: guacamaya roja.",
+    "factEn": "The reverse features a Brazilian animal: red-and-green macaw.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-20",
     "countryId": "br",
     "value": 20,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "20 Brazil real Second Obverse.jpg",
+      "back": "20 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: tití león dorado.",
+    "factEn": "The reverse features a Brazilian animal: golden lion tamarin.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-50",
     "countryId": "br",
     "value": 50,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "50 Brazil real Second Obverse.jpg",
+      "back": "50 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: jaguar.",
+    "factEn": "The reverse features a Brazilian animal: jaguar.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-100",
     "countryId": "br",
     "value": 100,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "100 Brazil real Second Obverse.jpg",
+      "back": "100 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: mero marino.",
+    "factEn": "The reverse features a Brazilian animal: dusky grouper.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "br-200",
     "countryId": "br",
     "value": 200,
-    "series": "Segunda familia",
-    "seriesEn": "Segunda familia",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Segunda familia (diseño vigente)",
+    "seriesEn": "Second series (current design)",
+    "photos": {
+      "front": "200 Brazil real Second Obverse.jpg",
+      "back": "200 Brazil real Second Reverse.jpg",
+      "provider": "Wikimedia Commons / Banco Central do Brasil",
+      "verified": true,
+      "license": "PD-Brazil-Gov + author CC BY-SA 4.0; SEM VALOR specimen restrictions"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra un animal de Brasil: lobo de crin.",
+    "factEn": "The reverse features a Brazilian animal: maned wolf.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "ar-1000",
