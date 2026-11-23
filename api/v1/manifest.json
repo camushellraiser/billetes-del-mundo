@@ -1,17 +1,17 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
-  "verifiedImagePairs": 57,
-  "imagePolicy": "Solo mostrar pares anverso/reverso de diseños actuales. Imágenes enlazadas desde Wikimedia Commons y sometidas a sus licencias y normas de reproducción. Si faltan fotografías, enlazar al banco central correspondiente, sin generar diseños falsos.",
+  "verifiedImagePairs": 62,
+  "imagePolicy": "62 pares de referencias con anverso y reverso, incluidos 5 pares de imágenes originales de South African Reserve Bank autorizados para uso no comercial sin alteración y con atribución. Enlaces por denominación a bancos centrales para otros casos con límites de reproducción. Siempre comprobar permisos, accesibilidad y que el diseño sea la serie actual; la presencia de URL no garantiza que cargue en todos los navegadores.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 15,
-  "pendingImagePairs": 107,
+  "officialDenominationReferences": 40,
+  "pendingImagePairs": 102,
   "illustratedCountries": [
     "us",
     "fr",
@@ -22,6 +22,7 @@
     "in",
     "kr",
     "eg",
-    "tr"
+    "tr",
+    "za"
   ]
 }
