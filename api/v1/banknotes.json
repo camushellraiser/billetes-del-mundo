@@ -1181,55 +1181,109 @@
     "id": "in-10",
     "countryId": "in",
     "value": 10,
-    "series": "Mahatma Gandhi (nueva)",
-    "seriesEn": "Mahatma Gandhi (nueva)",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Mahatma Gandhi New Series",
+    "seriesEn": "Mahatma Gandhi New Series",
+    "photos": {
+      "front": "India new 10 INR, MG series, 2018, obverse.jpg",
+      "back": "India new 10 INR, MG series, 2018, reverse.jpg",
+      "provider": "Wikimedia Commons / Reserve Bank of India",
+      "verified": true,
+      "license": "GODL-India; attribution and currency reproduction rules apply"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra el templo del sol de konark.",
+    "factEn": "The reverse depicts konark sun temple.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "in-20",
     "countryId": "in",
     "value": 20,
-    "series": "Mahatma Gandhi (nueva)",
-    "seriesEn": "Mahatma Gandhi (nueva)",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Mahatma Gandhi New Series",
+    "seriesEn": "Mahatma Gandhi New Series",
+    "photos": {
+      "front": "India new 20 INR, MG series, 2019, obverse.jpg",
+      "back": "India new 20 INR, MG series, 2019, reverse.jpg",
+      "provider": "Wikimedia Commons / Reserve Bank of India",
+      "verified": true,
+      "license": "GODL-India; attribution and currency reproduction rules apply"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra cuevas de ellora.",
+    "factEn": "The reverse depicts ellora caves.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "in-50",
     "countryId": "in",
     "value": 50,
-    "series": "Mahatma Gandhi (nueva)",
-    "seriesEn": "Mahatma Gandhi (nueva)",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Mahatma Gandhi New Series",
+    "seriesEn": "Mahatma Gandhi New Series",
+    "photos": {
+      "front": "India new 50 INR, MG series, 2018, obverse.jpg",
+      "back": "India new 50 INR, MG series, 2018, reverse.jpg",
+      "provider": "Wikimedia Commons / Reserve Bank of India",
+      "verified": true,
+      "license": "GODL-India; attribution and currency reproduction rules apply"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra los monumentos de hampi.",
+    "factEn": "The reverse depicts hampi monuments.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "in-100",
     "countryId": "in",
     "value": 100,
-    "series": "Mahatma Gandhi (nueva)",
-    "seriesEn": "Mahatma Gandhi (nueva)",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Mahatma Gandhi New Series",
+    "seriesEn": "Mahatma Gandhi New Series",
+    "photos": {
+      "front": "India new 100 INR, Mahatma Gandhi New Series, 2018, obverse.png",
+      "back": "India new 100 INR, Mahatma Gandhi New Series, 2018, reverse.png",
+      "provider": "Wikimedia Commons / Reserve Bank of India",
+      "verified": true,
+      "license": "GODL-India; attribution and currency reproduction rules apply"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra rani ki vav, un pozo escalonado histórico.",
+    "factEn": "The reverse depicts rani ki vav, an ancient stepwell.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "in-200",
     "countryId": "in",
     "value": 200,
-    "series": "Mahatma Gandhi (nueva)",
-    "seriesEn": "Mahatma Gandhi (nueva)",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Mahatma Gandhi New Series",
+    "seriesEn": "Mahatma Gandhi New Series",
+    "photos": {
+      "front": "India, 200 INR, 2018, obverse.jpg",
+      "back": "India, 200 INR, 2018, reverse.jpg",
+      "provider": "Wikimedia Commons / Reserve Bank of India",
+      "verified": true,
+      "license": "GODL-India; attribution and currency reproduction rules apply"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra la estupa de sanchi.",
+    "factEn": "The reverse depicts the sanchi stupa.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "in-500",
     "countryId": "in",
     "value": 500,
-    "series": "Mahatma Gandhi (nueva)",
-    "seriesEn": "Mahatma Gandhi (nueva)",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Mahatma Gandhi New Series",
+    "seriesEn": "Mahatma Gandhi New Series",
+    "photos": {
+      "front": "India new 500 INR, MG series, 2016, obverse.jpg",
+      "back": "India new 500 INR, MG series, 2016, reverse.jpg",
+      "provider": "Wikimedia Commons / Reserve Bank of India",
+      "verified": true,
+      "license": "GODL-India; attribution and currency reproduction rules apply"
+    },
+    "imageStatus": "curated",
+    "fact": "El reverso muestra el fuerte rojo de delhi.",
+    "factEn": "The reverse depicts the red fort in delhi.",
+    "reviewedAt": "2026-11-23"
   },
   {
     "id": "th-20",
