@@ -105,3 +105,13 @@ Se añadieron cinco enlaces directos a las fichas oficiales de la Serie 7 del Ba
 **Cobertura de la versión:** 30 países, 164 denominaciones, 62 pares de fotografías con referencia seleccionada, 102 denominaciones sin fotografía propia y 40 fichas con enlace individual a una página oficial. La accesibilidad real de las imágenes externas depende del navegador, del proveedor y de sus cambios de sitio.
 
 Respaldo previo: `backup/pre-v1.3-images-official-20261123`. Se mantiene la URL de GitHub Pages y el footer `Developed by Aldo Lizares`.
+
+## Versión 1.4.0 — países nórdicos y Polonia (23 noviembre 2026)
+
+Se añadieron **17 fichas individuales oficiales**, sin modificar el conjunto de 30 países ni introducir series históricas: **Suecia** (20, 50, 100, 200, 500, 1.000 SEK; Sveriges Riksbank, serie 2015–2016), **Noruega** (50, 100, 200, 500, 1.000 NOK; Norges Bank, serie VIII 2017–2019), **Polonia** (10, 20, 50, 100, 200, 500 PLN; NBP, seguridad modernizada 2014–2017). Cada ficha incluye el enlace de su denominación y el motivo por el que no se republica su imagen sin autorización.
+
+Fuentes oficiales: [Riksbank, billetes válidos](https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/), [Riksbank, condiciones de reproducción](https://www.riksbank.se/en-gb/payments--cash/notes--coins/copying-and-advertising/), [Norges Bank, serie VIII](https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/), [Norges Bank, 1000 NOK aún de curso legal en abril de 2026](https://www.norges-bank.no/en/news-events/news/Press-releases/2026/2026-04-29-bank-notes/), [NBP, seis denominaciones](https://static.nbp.pl/strony/bezpiecznepieniadze/index.html).
+
+**Estado después de este bloque:** 164 denominaciones en 30 países; **62 pares de imágenes registrados**, **102 pares pendientes**; **57 fichas de denominación enlazadas al banco central** (antes 40). Esta versión mejora la precisión de las referencias, pero **no añade nuevas fotografías**; no se cuentan fichas externas como imágenes cargadas. La marca `photos.verified` no garantiza disponibilidad real de la URL ni permiso legal permanente; la auditoría de imágenes y la compatibilidad de Safari/iPhone siguen siendo necesarias.
+
+Respaldo: `backup/pre-v1.4-nordic-polish-sources-20261123`.
