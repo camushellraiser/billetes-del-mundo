@@ -2,7 +2,7 @@
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
 
-**Versión:** 1.2.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 57 de 164 denominaciones (10 países con al menos una fotografía registrada). **Enlaces oficiales:** 6 denominaciones de México (familia G) y 4 del Reino Unido (Carlos III).
+**Versión:** 1.2.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes de referencia:** 57 de 164 denominaciones (10 países con al menos una fotografía registrada). **Enlaces oficiales:** 6 denominaciones de México, 4 del Reino Unido y 5 de Nueva Zelanda (Series 7).
 
 ## Explora el catálogo
 
@@ -87,3 +87,9 @@ Países cuyos pares de imágenes se ampliaron en esta versión:
 **Vista visual de cobertura:** la página principal muestra los billetes con fotografías registradas separadamente de las denominaciones del catálogo.
 
 **Autor:** Developed by Aldo Lizares.
+
+### Nueva Zelanda: referencias visuales oficiales
+
+Se añadieron cinco enlaces directos a las fichas oficiales de la Serie 7 del Banco de la Reserva de Nueva Zelanda, con descripciones del anverso y reverso. A diferencia de los 57 pares incrustados desde Wikimedia, **estas cinco fichas todavía no muestran fotografías en el visor propio**. Las imágenes deben consultarse en la página enlazada de la autoridad emisora.
+
+**Respaldo adicional:** `backup/v1.1.1-before-photo-expansion`, que conserva la versión anterior.
