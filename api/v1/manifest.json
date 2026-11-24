@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
   "verifiedImagePairs": 62,
-  "imagePolicy": "62 pares de referencias de anverso/reverso registrados; 102 aún pendientes. 74 denominaciones con enlace oficial individual, incluidas 6 nuevas fichas de Malasia con descripciones de ambas caras. No republicar imágenes de BNM sin confirmar permiso explícito; sus fichas permiten consultar las imágenes directamente. photos.verified indica referencia registrada, no comprobación automatizada en cada dispositivo.",
+  "imagePolicy": "62 pares registrados; 102 pendientes. 79 fichas con enlace oficial, incluidas cinco de Perú. Las imágenes peruanas no se republican sin permiso confirmado. Las referencias registradas no garantizan carga en todos los dispositivos.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 74,
+  "officialDenominationReferences": 79,
   "pendingImagePairs": 102,
   "illustratedCountries": [
     "us",
