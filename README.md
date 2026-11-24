@@ -136,3 +136,7 @@ Respaldo anterior a estos cambios: `backup/pre-v1.5-chile-colombia-20261123`. Se
 - Fuentes: https://www.bnm.gov.my/currency/banknotes y https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia
 - Respaldo previo: `backup/pre-v1.6-malaysia-official-20261123`.
 - Totales: **30 países, 164 denominaciones, 62 pares de imágenes registrados, 102 pendientes, 74 fichas oficiales individuales**. La disponibilidad efectiva de cada imagen externa no está garantizada.
+
+## 1.7.0 — Perú
+
+Cinco fichas de la nueva familia 2021–2023, con motivos bilingües y enlaces a los comunicados oficiales de emisión de 2021 y 2022 y a la memoria 2023 del BCRP (p. 160, S/ 200). No se incorporan imágenes sin permiso confirmado. Cobertura: 30 países, 164 denominaciones, 62 pares registrados, 102 pendientes, 79 fichas con referencia oficial.
