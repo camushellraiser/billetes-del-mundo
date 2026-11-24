@@ -231,16 +231,29 @@
     "id": "ca-5",
     "countryId": "ca",
     "value": 5,
-    "series": "Polímero",
-    "seriesEn": "Polímero",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie Frontier (diseño vigente en 2026)",
+    "seriesEn": "Frontiers series (current design in 2026)",
+    "photos": {
+      "front": "https://live.staticflickr.com/65535/53474548539_5f4a41dcb5.jpg",
+      "back": "https://live.staticflickr.com/65535/53473343612_79996bd461.jpg",
+      "verified": true,
+      "provider": "Bank of Canada",
+      "sourcePage": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/bank-notes-multimedia/",
+      "license": "Non-commercial reproduction permitted without prior permission for gallery photographs; retain accurate, unaltered images, cite 'Source: Bank of Canada', no implied endorsement",
+      "licenseUrl": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/",
+      "requiresSpecimen": true
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.bankofcanada.ca/banknotes/5-polymer-note-security-features/",
     "frontDescription": "El anverso presenta a Sir Wilfrid Laurier.",
     "backDescription": "El reverso representa el canadarm2 y la estación espacial internacional.",
     "frontDescriptionEn": "The front features Sir Wilfrid Laurier.",
     "backDescriptionEn": "The reverse shows canadarm2 and the international space station.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofcanada/53474548539/",
+      "back": "https://www.flickr.com/photos/bankofcanada/53473343612/"
+    }
   },
   {
     "id": "ca-10",
@@ -255,52 +268,93 @@
     "backDescription": "El reverso representa el museo canadiense para los derechos humanos.",
     "frontDescriptionEn": "The front features Viola Desmond.",
     "backDescriptionEn": "The reverse shows the canadian museum for human rights.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24",
+    "fact": "Billete vertical de Viola Desmond de 2018. No confundir con el billete horizontal de $10 de 2013.",
+    "factEn": "2018 vertical Viola Desmond note, not the superseded 2013 horizontal $10 design."
   },
   {
     "id": "ca-20",
     "countryId": "ca",
     "value": 20,
-    "series": "Polímero",
-    "seriesEn": "Polímero",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie Frontier (diseño vigente en 2026)",
+    "seriesEn": "Frontiers series (current design in 2026)",
+    "photos": {
+      "front": "https://live.staticflickr.com/65535/53480799578_6b03c8006e.jpg",
+      "back": "https://live.staticflickr.com/65535/53481066225_e0a37b78c5.jpg",
+      "verified": true,
+      "provider": "Bank of Canada",
+      "sourcePage": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/bank-notes-multimedia/",
+      "license": "Non-commercial reproduction permitted without prior permission for gallery photographs; retain accurate, unaltered images, cite 'Source: Bank of Canada', no implied endorsement",
+      "licenseUrl": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/",
+      "requiresSpecimen": true
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.bankofcanada.ca/banknotes/20-polymer-note-security-features/",
     "frontDescription": "El anverso presenta a Isabel II.",
     "backDescription": "El reverso representa el monumento de vimy, homenaje a soldados canadienses.",
     "frontDescriptionEn": "The front features Queen Elizabeth II.",
     "backDescriptionEn": "The reverse shows the canadian national vimy memorial.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofcanada/53480799578/",
+      "back": "https://www.flickr.com/photos/bankofcanada/53481066225/"
+    }
   },
   {
     "id": "ca-50",
     "countryId": "ca",
     "value": 50,
-    "series": "Polímero",
-    "seriesEn": "Polímero",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie Frontier (diseño vigente en 2026)",
+    "seriesEn": "Frontiers series (current design in 2026)",
+    "photos": {
+      "front": "https://live.staticflickr.com/65535/53480843708_162117e9b0.jpg",
+      "back": "https://live.staticflickr.com/65535/53481016854_808b0dc37d.jpg",
+      "verified": true,
+      "provider": "Bank of Canada",
+      "sourcePage": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/bank-notes-multimedia/",
+      "license": "Non-commercial reproduction permitted without prior permission for gallery photographs; retain accurate, unaltered images, cite 'Source: Bank of Canada', no implied endorsement",
+      "licenseUrl": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/",
+      "requiresSpecimen": true
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.bankofcanada.ca/banknotes/50-polymer-note-security-features/",
     "frontDescription": "El anverso presenta a William Lyon Mackenzie King.",
     "backDescription": "El reverso representa un rompehielos de investigación del ártico.",
     "frontDescriptionEn": "The front features William Lyon Mackenzie King.",
     "backDescriptionEn": "The reverse shows an arctic research icebreaker.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofcanada/53480843708/",
+      "back": "https://www.flickr.com/photos/bankofcanada/53481016854/"
+    }
   },
   {
     "id": "ca-100",
     "countryId": "ca",
     "value": 100,
-    "series": "Polímero",
-    "seriesEn": "Polímero",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie Frontier (diseño vigente en 2026)",
+    "seriesEn": "Frontiers series (current design in 2026)",
+    "photos": {
+      "front": "https://live.staticflickr.com/65535/53480921173_d041a0a09d.jpg",
+      "back": "https://live.staticflickr.com/65535/53481193060_c709a8084c.jpg",
+      "verified": true,
+      "provider": "Bank of Canada",
+      "sourcePage": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/bank-notes-multimedia/",
+      "license": "Non-commercial reproduction permitted without prior permission for gallery photographs; retain accurate, unaltered images, cite 'Source: Bank of Canada', no implied endorsement",
+      "licenseUrl": "https://www.bankofcanada.ca/banknotes/using-bank-note-images/",
+      "requiresSpecimen": true
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.bankofcanada.ca/banknotes/100-polymer-note-security-features/",
     "frontDescription": "El anverso presenta a Robert Borden.",
     "backDescription": "El reverso representa innovaciones en investigación médica.",
     "frontDescriptionEn": "The front features Robert Borden.",
     "backDescriptionEn": "The reverse shows medical research innovations.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofcanada/53480921173/",
+      "back": "https://www.flickr.com/photos/bankofcanada/53481193060/"
+    }
   },
   {
     "id": "br-2",
@@ -732,15 +786,13 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": {
-      "front": "https://live.staticflickr.com/65535/52573857530_d5991247f7_h.jpg",
+      "front": "https://live.staticflickr.com/65535/52573857530_0960517aa8.jpg",
       "back": "https://live.staticflickr.com/7591/26805091293_ddfbb18e6c.jpg",
       "verified": true,
-      "provider": "Bank of England (official Flickr library)",
-      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013",
-      "license": "Approved official SPECIMEN images: conditional non-commercial educational use per BoE reproduction policy",
-      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
-      "frontSeries": "King Charles III, issued 5 June 2024",
-      "backSeries": "Unchanged reverse of current polymer series; per Bank of England"
+      "provider": "Bank of England",
+      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013/",
+      "license": "Official banknote image library; approved for public reproduction subject to Bank of England image conditions",
+      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes"
     },
     "imageStatus": "curated",
     "officialPage": "https://www.bankofengland.co.uk/banknotes/5-pound-note",
@@ -750,7 +802,11 @@
     "backDescriptionEn": "Winston Churchill and the Palace of Westminster, with Big Ben.",
     "fact": "Winston Churchill y el Palacio de Westminster con la torre del Big Ben.",
     "factEn": "Winston Churchill and the Palace of Westminster, with Big Ben.",
-    "reviewedAt": "2026-11-24"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofengland/52573857530",
+      "back": "https://www.flickr.com/photos/bankofengland/26805091293"
+    }
   },
   {
     "id": "gb-10",
@@ -759,15 +815,13 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": {
-      "front": "https://live.staticflickr.com/65535/52573412241_82c88120b0_h.jpg",
-      "back": "https://live.staticflickr.com/4327/35809801882_50b0df132f_h.jpg",
+      "front": "https://live.staticflickr.com/65535/52573412241_49421b221e.jpg",
+      "back": "https://live.staticflickr.com/4315/35848097251_7879c4f5ff.jpg",
       "verified": true,
-      "provider": "Bank of England (official Flickr library)",
-      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013",
-      "license": "Approved official SPECIMEN images: conditional non-commercial educational use per BoE reproduction policy",
-      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
-      "frontSeries": "King Charles III, issued 5 June 2024",
-      "backSeries": "Unchanged reverse of current polymer series; per Bank of England"
+      "provider": "Bank of England",
+      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013/",
+      "license": "Official banknote image library; approved for public reproduction subject to Bank of England image conditions",
+      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes"
     },
     "imageStatus": "curated",
     "officialPage": "https://www.bankofengland.co.uk/banknotes/polymer-10-pound-note",
@@ -777,7 +831,11 @@
     "backDescriptionEn": "The novelist Jane Austen and artwork inspired by her writing.",
     "fact": "La escritora Jane Austen y una ilustración de su obra.",
     "factEn": "The novelist Jane Austen and artwork inspired by her writing.",
-    "reviewedAt": "2026-11-24"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofengland/52573412241",
+      "back": "https://www.flickr.com/photos/bankofengland/35848097251"
+    }
   },
   {
     "id": "gb-20",
@@ -786,15 +844,13 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": {
-      "front": "https://live.staticflickr.com/65535/52573683419_9471f14eb0_h.jpg",
-      "back": "https://live.staticflickr.com/65535/48874011048_e43f2dc349_h.jpg",
+      "front": "https://live.staticflickr.com/65535/52573683419_8a44de01b9.jpg",
+      "back": "https://live.staticflickr.com/65535/48874740572_0063192a55.jpg",
       "verified": true,
-      "provider": "Bank of England (official Flickr library)",
-      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013",
-      "license": "Approved official SPECIMEN images: conditional non-commercial educational use per BoE reproduction policy",
-      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
-      "frontSeries": "King Charles III, issued 5 June 2024",
-      "backSeries": "Unchanged reverse of current polymer series; per Bank of England"
+      "provider": "Bank of England",
+      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013/",
+      "license": "Official banknote image library; approved for public reproduction subject to Bank of England image conditions",
+      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes"
     },
     "imageStatus": "curated",
     "officialPage": "https://www.bankofengland.co.uk/banknotes/polymer-20-pound-note",
@@ -804,7 +860,11 @@
     "backDescriptionEn": "The painter J. M. W. Turner and details celebrating his art.",
     "fact": "El pintor J. M. W. Turner y motivos de su arte.",
     "factEn": "The painter J. M. W. Turner and details celebrating his art.",
-    "reviewedAt": "2026-11-24"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofengland/52573683419",
+      "back": "https://www.flickr.com/photos/bankofengland/48874740572"
+    }
   },
   {
     "id": "gb-50",
@@ -813,15 +873,13 @@
     "series": "Carlos III · 2024",
     "seriesEn": "Carlos III · 2024",
     "photos": {
-      "front": "https://live.staticflickr.com/65535/52573411731_3dbb0032ae_h.jpg",
-      "back": "https://live.staticflickr.com/65535/51001108075_1d7ff7b28f_h.jpg",
+      "front": "https://live.staticflickr.com/65535/52573411731_33982fc0d3.jpg",
+      "back": "https://live.staticflickr.com/65535/51001108075_95f2e9514f.jpg",
       "verified": true,
-      "provider": "Bank of England (official Flickr library)",
-      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013",
-      "license": "Approved official SPECIMEN images: conditional non-commercial educational use per BoE reproduction policy",
-      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
-      "frontSeries": "King Charles III, issued 5 June 2024",
-      "backSeries": "Unchanged reverse of current polymer series; per Bank of England"
+      "provider": "Bank of England",
+      "sourcePage": "https://www.flickr.com/photos/bankofengland/albums/72157662787666013/",
+      "license": "Official banknote image library; approved for public reproduction subject to Bank of England image conditions",
+      "licenseUrl": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes"
     },
     "imageStatus": "curated",
     "officialPage": "https://www.bankofengland.co.uk/banknotes/polymer-50-pound-note",
@@ -831,7 +889,11 @@
     "backDescriptionEn": "Alan Turing, an early computing machine, and formulas foundational to modern computing.",
     "fact": "Alan Turing, una máquina de computación y fórmulas que ayudaron a crear la informática moderna.",
     "factEn": "Alan Turing, an early computing machine, and formulas foundational to modern computing.",
-    "reviewedAt": "2026-11-24"
+    "reviewedAt": "2026-11-24",
+    "photoSources": {
+      "front": "https://www.flickr.com/photos/bankofengland/52573411731",
+      "back": "https://www.flickr.com/photos/bankofengland/51001108075"
+    }
   },
   {
     "id": "fr-5",
