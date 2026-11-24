@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "lastReviewed": "2026-11-23",
   "countryCount": 30,
   "banknoteCount": 164,
   "verifiedImagePairs": 62,
-  "imagePolicy": "62 pares registrados; 102 pendientes. 79 fichas con enlace oficial, incluidas cinco de Perú. Las imágenes peruanas no se republican sin permiso confirmado. Las referencias registradas no garantizan carga en todos los dispositivos.",
+  "imagePolicy": "62 pares registrados; 102 pendientes. 83 fichas con enlace oficial. Marruecos: cuatro comunicados de emisión; no se republican imágenes sin permiso confirmado. Las referencias registradas no garantizan carga en todos los dispositivos.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 79,
+  "officialDenominationReferences": 83,
   "pendingImagePairs": 102,
   "illustratedCountries": [
     "us",
