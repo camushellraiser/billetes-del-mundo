@@ -2,7 +2,7 @@
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
 
-**Versión:** 1.6.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes registrados:** 62 de 164 · **Pares pendientes:** 102 · **Enlaces oficiales por denominación:** 74.
+**Versión:** 1.9.0 · **Países:** 30 · **Denominaciones catalogadas:** 164 · **Pares de imágenes registrados:** 70 de 164 · **Pares pendientes:** 94 · **Enlaces oficiales individuales:** 83.
 
 ## Explora el catálogo
 
@@ -11,7 +11,9 @@ La aplicación es estática y funciona en **GitHub Pages** sin servidor, bases d
 - Búsqueda de países y monedas, filtros por continente y opción de mostrar solo países que tienen referencias fotográficas.
 - Selección de denominación y consulta de anverso/reverso.
 - Visor ampliado, navegación aleatoria y curiosidades.
-- Tarjetas con vistas previas discretas de los billetes cuando existe fotografía seleccionada.\n- Datos interesantes por denominación y, para México, explicaciones de anverso y reverso.\n- Fichas oficiales por denominación de Banco de México para ver las imágenes originales en su sitio.
+- Tarjetas con vistas previas discretas de los billetes cuando existe fotografía seleccionada.
+- Datos interesantes por denominación y, para México, explicaciones de anverso y reverso.
+- Fichas oficiales por denominación de Banco de México para ver las imágenes originales en su sitio.
 
 ## Publicación en GitHub Pages
 
@@ -150,3 +152,17 @@ Cuatro fichas de la serie 2023–2024, con fecha de emisión y motivos bilingüe
 - 200 DH (2024-01-12): https://www.bkam.ma/en/content/download/798470/8826499/CdP_nouvelle%20serie_EN.pdf
 
 No se incorporan fotografías: no se ha confirmado permiso de republicación. Cobertura: 30 países, 164 denominaciones, 62 pares registrados, 102 pendientes, 83 referencias oficiales. Respaldo: `backup/pre-v1.8-morocco-20261123`. Se mantiene la firma Developed by Aldo Lizares.
+
+## Versión 1.9.0 — Actualización manual de imágenes (24 de noviembre de 2026)
+
+- La automatización horaria **fue desactivada** por solicitud del propietario. La actualización se realizó directamente en la rama `main`.
+- **Reino Unido:** 4 pares de imágenes oficiales (Carlos III al frente, reversos de la serie polímero). Se corrigieron direcciones Flickr erróneas y un reverso que apuntaba al anverso.
+- **Canadá:** 4 pares de imágenes Frontiers (5, 20, 50 y 100 CAD) de la galería del Bank of Canada. El actual billete de 10 CAD es el vertical Viola Desmond de 2018: no se ha elegido una pareja de imágenes hasta verificar las dos caras.
+- **Visualización:** indicador `x/y` de fotos por país, enlace a la foto exacta en su origen y señalización SPECIMEN para Canadá.
+- **Cobertura:** 30 países, 164 denominaciones, **70** pares de fotos registrados, **94** pendientes de imágenes.
+- **Auditoría por los 30 países:** [docs/coverage-audit-2026-11-24.md](docs/coverage-audit-2026-11-24.md), con lista completa de denominaciones pendientes.
+- **Respaldo para rollback:** `backup/pre-manual-photos-2026-11-24`.
+- **Fuentes reutilizables sin solicitud individual:** biblioteca de imágenes del Bank of England y galería del Bank of Canada (uso educativo no comercial sujeto a condiciones; se respetan marcas y fuentes).
+- **Importante:** los 70 pares son **referencias seleccionadas**; no se ha confirmado que cada CDN permita incrustar la imagen directamente en iPhone. Si falla, la interfaz ofrece ir a la fuente.
+
+**Autor:** Developed by Aldo Lizares.
