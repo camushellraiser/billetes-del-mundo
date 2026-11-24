@@ -41,9 +41,10 @@ function renderGrid(){
  const list=listCountries();
  $("results-count").textContent=`${list.length} ${tr("resultUnit")}`;
  $("country-grid").innerHTML=list.map(c=>{
-  const featured=state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
+  const photoCount=state.notes.filter(n=>n.countryId===c.id&&n.photos?.verified).length;
+   const featured=state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
   const preview=featured?`<span class="country-card-thumb" aria-hidden="true"><img loading="lazy" decoding="async" src="${fileUrl(featured.photos.front)}" alt=""></span>`:"";
-  return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span>${featured?`<span class="card-photo-badge">✦ ${tr("verifiedBadge")}</span>`:""}<span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
+  return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" aria-label="${photoCount} de ${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
  }).join("");
  $("empty-state").hidden=list.length>0;
 }
@@ -103,10 +104,11 @@ $("note-image").hidden=!has;
 $("note-placeholder").hidden=has;
 $("placeholder-value").textContent=pretty(c,n.value);
 $("image-source").hidden=!has;
-const sourceUrl=has?(n.photos.sourcePage||commonsPage(n.photos[state.side])):"";
+const sourceUrl=has?(n.photoSources?.[state.side]||n.photos.sourcePage||commonsPage(n.photos[state.side])):"";
 const sourceLabel=has?(n.photos.provider||"Wikimedia Commons"):"";
 $("image-source").innerHTML=has?`${tr("imageSource")}: <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer">${sourceLabel} ↗</a>${n.photos.license?" · "+n.photos.license:""}`:"";
 const display=$("note-image");
+display.classList.toggle("specimen-required",Boolean(n.photos?.requiresSpecimen));
 display.replaceChildren();
 if(!has)return;
 display.innerHTML='<span class="image-loading">✳ &nbsp; LOADING IMAGE</span>';
@@ -116,12 +118,12 @@ img.referrerPolicy="no-referrer";
 img.decoding="async";
 img.alt=`${state.side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(c,n.value)} · ${name(c)}`;
 img.onload=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren(img);state.imageOk=true;$("zoom-button").disabled=false;}};
-img.onerror=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");state.imageOk=false;}};
+img.onerror=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");state.imageOk=false;const fallback=$("official-note-link");fallback.hidden=false;fallback.href=n.photoSources?.[expectedSide]||n.photos?.sourcePage||n.officialPage||c.officialSource||"#";fallback.textContent=state.lang==="es"?"VER IMAGEN EN LA FUENTE ↗":"VIEW IMAGE AT SOURCE ↗";}};
 img.src=fileUrl(n.photos[state.side]);
 }
 function selectDenom(value){if(!state.country)return;const n=noteFor(state.country.id,value);if(!n)return;state.note=n;state.side="front";renderCountry();}
 function flip(){state.side=state.side==="front"?"back":"front";renderPhoto();if($("image-dialog").open)showDialogImage();}
-function showDialogImage(){if(!state.country||!state.note?.photos)return;$("dialog-title").textContent=`${name(state.country)} · ${pretty(state.country,state.note.value)}`;$("dialog-subtitle").textContent=state.side==="front"?tr("front"):tr("back");$("dialog-image").src=fileUrl(state.note.photos[state.side]);}
+function showDialogImage(){if(!state.country||!state.note?.photos)return;$("dialog-image-frame").classList.toggle("specimen-required",Boolean(state.note.photos.requiresSpecimen));$("dialog-title").textContent=`${name(state.country)} · ${pretty(state.country,state.note.value)}`;$("dialog-subtitle").textContent=state.side==="front"?tr("front"):tr("back");$("dialog-image").src=fileUrl(state.note.photos[state.side]);}
 function zoom(){if(!state.note?.photos||!state.imageOk)return;showDialogImage();if(!$("image-dialog").open)$("image-dialog").showModal();}
 function randomCountry(){const available=state.countries.filter(c=>hasPictures(c.id));const pool=available.length?available:state.countries;const pick=pool[Math.floor(Math.random()*pool.length)];if(pick)location.hash=`#/${pick.id}`;}
 function bind(){
