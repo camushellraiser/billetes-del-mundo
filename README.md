@@ -140,3 +140,13 @@ Respaldo anterior a estos cambios: `backup/pre-v1.5-chile-colombia-20261123`. Se
 ## 1.7.0 — Perú
 
 Cinco fichas de la nueva familia 2021–2023, con motivos bilingües y enlaces a los comunicados oficiales de emisión de 2021 y 2022 y a la memoria 2023 del BCRP (p. 160, S/ 200). No se incorporan imágenes sin permiso confirmado. Cobertura: 30 países, 164 denominaciones, 62 pares registrados, 102 pendientes, 79 fichas con referencia oficial.
+
+## 1.8.0 — Marruecos
+
+Cuatro fichas de la serie 2023–2024, con fecha de emisión y motivos bilingües, enlazadas a los comunicados individuales de Bank Al-Maghrib:
+- 20 DH (2024-08-21): https://www.bkam.ma/en/content/download/810715/8910395/CdP_nouvelle%20serie%2020dhs%20EN.pdf
+- 50 DH (2024-07-30): https://www.bkam.ma/en/content/download/809676/8903453/CdP_nouvelle%20serie%2050dhs%20EN.pdf
+- 100 DH (2023-11-24): https://www.bkam.ma/en/content/download/795904/8808984/CdP_nouvelle%20serie_En.pdf
+- 200 DH (2024-01-12): https://www.bkam.ma/en/content/download/798470/8826499/CdP_nouvelle%20serie_EN.pdf
+
+No se incorporan fotografías: no se ha confirmado permiso de republicación. Cobertura: 30 países, 164 denominaciones, 62 pares registrados, 102 pendientes, 83 referencias oficiales. Respaldo: `backup/pre-v1.8-morocco-20261123`. Se mantiene la firma Developed by Aldo Lizares.
