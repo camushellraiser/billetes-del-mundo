@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.3",
+  "version": "2.4.4",
   "lastReviewed": "2026-11-24",
   "countryCount": 70,
   "banknoteCount": 412,
-  "imagePolicy": "31 nuevas parejas de archivos identificados en Wikimedia Commons. No se comprobó visualmente su contenido individual ni carga HTTP: el acceso directo a los binarios desde el entorno de ejecución está bloqueado. Algunas referencias moldavas son impresiones previas de la familia. Quedan 63 parejas pendientes.",
+  "imagePolicy": "42 parejas agregadas en v2.4.3 y v2.4.4; 5 de Fiji abiertas e inspeccionadas y 37 identificadas por archivo en Wikimedia Commons sin inspección visual individual. Pendientes 52 parejas. Carga general en navegador aún no comprobada.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 312,
-  "pendingImagePairs": 63,
+  "pendingImagePairs": 52,
   "illustratedCountries": [
     "mx",
     "us",
@@ -71,15 +71,17 @@
     "md",
     "ge",
     "am",
+    "kz",
     "uz",
     "ng",
-    "et"
+    "et",
+    "fj"
   ],
-  "coverageReport": "docs/photo-completion-v2.4.3.md",
-  "photoReferencePairs": 349,
+  "coverageReport": "docs/photo-completion-v2.4.4.md",
+  "photoReferencePairs": 360,
   "contactSheetCroppedPairs": 108,
-  "individualImagePairs": 241,
+  "individualImagePairs": 252,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 137,
+  "sourceVisuallyConfirmedPairs": 142,
   "browserVerifiedPairs": null
 }

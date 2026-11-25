@@ -10380,79 +10380,193 @@
     "id": "kz-200",
     "countryId": "kz",
     "value": 200,
-    "series": "Transición a la serie Saka 2023–2026",
-    "seriesEn": "Transition to Saka series, 2023–2026",
+    "series": "Diseño vigente de 2006",
+    "seriesEn": "Current 2006 design",
     "officialPage": "https://nationalbank.kz/en/page/money-guide",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "200 tenge (2006).jpg",
+      "back": "200 tenge (2006) r.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:200_tenge_(2006).jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Files listed in source; exact correspondence of announced design to issued version and browser rendering await visual review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:200_tenge_(2006).jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:200_tenge_(2006)_r.jpg"
+    }
   },
   {
     "id": "kz-500",
     "countryId": "kz",
     "value": 500,
-    "series": "Transición a la serie Saka 2023–2026",
-    "seriesEn": "Transition to Saka series, 2023–2026",
+    "series": "Serie Saka · emitida en 2025",
+    "seriesEn": "Saka series · issued in 2025",
     "officialPage": "https://nationalbank.kz/en/page/money-guide",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "Сакский стиль 500-лс.jpg",
+      "back": "Сакский стиль 500-ос.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_500-%D0%BB%D1%81.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Files listed in source; exact correspondence of announced design to issued version and browser rendering await visual review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_500-%D0%BB%D1%81.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_500-%D0%BE%D1%81.jpg"
+    }
   },
   {
     "id": "kz-1000",
     "countryId": "kz",
     "value": 1000,
-    "series": "Transición a la serie Saka 2023–2026",
-    "seriesEn": "Transition to Saka series, 2023–2026",
+    "series": "Serie Saka · emitida en 2025",
+    "seriesEn": "Saka series · issued in 2025",
     "officialPage": "https://nationalbank.kz/en/page/money-guide",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "Сакский стиль 1000-лс.jpg",
+      "back": "Сакский стиль 1000-ос.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_1000-%D0%BB%D1%81.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Files listed in source; exact correspondence of announced design to issued version and browser rendering await visual review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_1000-%D0%BB%D1%81.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_1000-%D0%BE%D1%81.jpg"
+    }
   },
   {
     "id": "kz-2000",
     "countryId": "kz",
     "value": 2000,
-    "series": "Transición a la serie Saka 2023–2026",
-    "seriesEn": "Transition to Saka series, 2023–2026",
+    "series": "Serie Saka · emitida en 2024",
+    "seriesEn": "Saka series · issued in 2024",
     "officialPage": "https://nationalbank.kz/en/page/money-guide",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "Сакский стиль 2000-лс.jpg",
+      "back": "Сакский стиль 2000-ос.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_2000-%D0%BB%D1%81.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Files listed in source; exact correspondence of announced design to issued version and browser rendering await visual review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_2000-%D0%BB%D1%81.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_2000-%D0%BE%D1%81.jpg"
+    }
   },
   {
     "id": "kz-5000",
     "countryId": "kz",
     "value": 5000,
-    "series": "Transición a la serie Saka 2023–2026",
-    "seriesEn": "Transition to Saka series, 2023–2026",
+    "series": "Serie Saka · emitida en 2023",
+    "seriesEn": "Saka series · issued in 2023",
     "officialPage": "https://nationalbank.kz/en/page/money-guide",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "Сакский стиль 5000-лс.jpg",
+      "back": "Сакский стиль 5000-ос.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_5000-%D0%BB%D1%81.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Files listed in source; exact correspondence of announced design to issued version and browser rendering await visual review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_5000-%D0%BB%D1%81.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_5000-%D0%BE%D1%81.jpg"
+    }
   },
   {
     "id": "kz-10000",
     "countryId": "kz",
     "value": 10000,
-    "series": "Transición a la serie Saka 2023–2026",
-    "seriesEn": "Transition to Saka series, 2023–2026",
+    "series": "Serie Saka · emitida en 2024",
+    "seriesEn": "Saka series · issued in 2024",
     "officialPage": "https://nationalbank.kz/en/page/money-guide",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "Сакский стиль 10000-лс.jpg",
+      "back": "Сакский стиль 10000-ос.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BB%D1%81.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Files listed in source; exact correspondence of announced design to issued version and browser rendering await visual review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BB%D1%81.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D1%82%D0%B8%D0%BB%D1%8C_10000-%D0%BE%D1%81.jpg"
+    }
   },
   {
     "id": "kz-20000",
@@ -11282,66 +11396,156 @@
     "id": "fj-5",
     "countryId": "fj",
     "value": 5,
-    "series": "Familia de polímero emitida en 2026",
-    "seriesEn": "Polymer family issued in 2026",
+    "series": "Polímero 2025 · emitido en 2026",
+    "seriesEn": "2025 polymer · issued in 2026",
     "officialPage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
     "referencePage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo billete de 5 dólares muestra una tortuga verde.",
-    "factEn": "The new 5-dollar note features a green turtle."
+    "factEn": "The new 5-dollar note features a green turtle.",
+    "photos": {
+      "front": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB053f.jpg",
+      "back": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB053b.jpg",
+      "provider": "Keesing Platform",
+      "sourcePage": "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Loro de garganta roja",
+    "frontDescriptionEn": "Red-throated lory",
+    "backDescription": "Tortuga verde",
+    "backDescriptionEn": "Green turtle"
   },
   {
     "id": "fj-10",
     "countryId": "fj",
     "value": 10,
-    "series": "Familia de polímero emitida en 2026",
-    "seriesEn": "Polymer family issued in 2026",
+    "series": "Polímero 2025 · emitido en 2026",
+    "seriesEn": "2025 polymer · issued in 2026",
     "officialPage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
     "referencePage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo billete de 5 dólares muestra una tortuga verde.",
-    "factEn": "The new 5-dollar note features a green turtle."
+    "factEn": "The new 5-dollar note features a green turtle.",
+    "photos": {
+      "front": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB054f.jpg",
+      "back": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB054b.jpg",
+      "provider": "Keesing Platform",
+      "sourcePage": "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Pez beli",
+    "frontDescriptionEn": "Beli fish",
+    "backDescription": "Niños plantando manglares",
+    "backDescriptionEn": "Children planting mangroves"
   },
   {
     "id": "fj-20",
     "countryId": "fj",
     "value": 20,
-    "series": "Familia de polímero emitida en 2026",
-    "seriesEn": "Polymer family issued in 2026",
+    "series": "Polímero 2025 · emitido en 2026",
+    "seriesEn": "2025 polymer · issued in 2026",
     "officialPage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
     "referencePage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo billete de 5 dólares muestra una tortuga verde.",
-    "factEn": "The new 5-dollar note features a green turtle."
+    "factEn": "The new 5-dollar note features a green turtle.",
+    "photos": {
+      "front": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB055f.jpg",
+      "back": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB055b.jpg",
+      "provider": "Keesing Platform",
+      "sourcePage": "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Petrel de Fiji",
+    "frontDescriptionEn": "Fiji petrel",
+    "backDescription": "Banco de la Reserva de Fiji",
+    "backDescriptionEn": "Reserve Bank of Fiji"
   },
   {
     "id": "fj-50",
     "countryId": "fj",
     "value": 50,
-    "series": "Familia de polímero emitida en 2026",
-    "seriesEn": "Polymer family issued in 2026",
+    "series": "Polímero 2025 · emitido en 2026",
+    "seriesEn": "2025 polymer · issued in 2026",
     "officialPage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
     "referencePage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo billete de 5 dólares muestra una tortuga verde.",
-    "factEn": "The new 5-dollar note features a green turtle."
+    "factEn": "The new 5-dollar note features a green turtle.",
+    "photos": {
+      "front": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB056f.jpg",
+      "back": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB056b.jpg",
+      "provider": "Keesing Platform",
+      "sourcePage": "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Flor tagimoucia",
+    "frontDescriptionEn": "Tagimoucia flower",
+    "backDescription": "Mujer girmitiya y buque Leonidas",
+    "backDescriptionEn": "Girmitiya woman and the ship Leonidas"
   },
   {
     "id": "fj-100",
     "countryId": "fj",
     "value": 100,
-    "series": "Familia de polímero emitida en 2026",
-    "seriesEn": "Polymer family issued in 2026",
+    "series": "Polímero 2025 · emitido en 2026",
+    "seriesEn": "2025 polymer · issued in 2026",
     "officialPage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
     "referencePage": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo billete de 5 dólares muestra una tortuga verde.",
-    "factEn": "The new 5-dollar note features a green turtle."
+    "factEn": "The new 5-dollar note features a green turtle.",
+    "photos": {
+      "front": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB057f.jpg",
+      "back": "https://platform.keesingtechnologies.com/wp-content/uploads/2026/01/FB057b-1.jpg",
+      "provider": "Keesing Platform",
+      "sourcePage": "https://platform.keesingtechnologies.com/fiji-launches-a-new-series-of-redesigned-polymer-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Cigarra nanai",
+    "frontDescriptionEn": "Nanai cicada",
+    "backDescription": "Hombre iTaukei con cuenco de kava",
+    "backDescriptionEn": "iTaukei man holding a kava bowl"
   },
   {
     "id": "pg-2",
