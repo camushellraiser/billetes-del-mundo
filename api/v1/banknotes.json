@@ -259,10 +259,31 @@
     "id": "ca-10",
     "countryId": "ca",
     "value": 10,
-    "series": "Polímero",
-    "seriesEn": "Polímero",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Billete vertical de 2018",
+    "seriesEn": "Billete vertical de 2018",
+    "photos": {
+      "front": "https://www.tresordupatrimoine.fr/38005/10-dollars-canada-2018.jpg",
+      "back": "https://www.tresordupatrimoine.fr/38005/10-dollars-canada-2018.jpg",
+      "crop": {
+        "front": [
+          0.042,
+          0.035,
+          0.43,
+          0.928
+        ],
+        "back": [
+          0.531,
+          0.035,
+          0.43,
+          0.928
+        ]
+      },
+      "verified": true,
+      "provider": "Trésor du Patrimoine / Viola Desmond",
+      "sourcePage": "https://www.tresordupatrimoine.fr/1641390-10-dollars-canada-2018.html",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bankofcanada.ca/banknotes/vertical-10-note-security-features/",
     "frontDescription": "El anverso presenta a Viola Desmond.",
     "backDescription": "El reverso representa el museo canadiense para los derechos humanos.",
@@ -1028,16 +1049,37 @@
     "id": "pe-10",
     "countryId": "pe",
     "value": 10,
-    "series": "Nueva familia (2021–2023)",
-    "seriesEn": "New family (2021–2023)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia de billetes peruanos 2021–2022",
+    "seriesEn": "Nueva familia de billetes peruanos 2021–2022",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/CZjsMb1bhy7s8eSecSEg85vEYifWSdo-dce3lvisIGk.jpg?v=1707556997",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/CZjsMb1bhy7s8eSecSEg85vEYifWSdo-dce3lvisIGk.jpg?v=1707556997",
+      "crop": {
+        "front": [
+          0.093,
+          0.107,
+          0.81,
+          0.373
+        ],
+        "back": [
+          0.093,
+          0.519,
+          0.81,
+          0.376
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money",
+      "sourcePage": "https://www.robertsworldmoney.com/products/peru-10-soles-2019-2021-b537a-pnl",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2021/nota-informativa-2021-07-22.pdf",
     "frontDescription": "Chabuca Granda",
     "frontDescriptionEn": "Chabuca Granda",
     "backDescription": "Vicuña y flor de amancaes",
     "backDescriptionEn": "Vicuña and amancaes flower",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "No se ha confirmado permiso de republicación de las imágenes; consulta el documento oficial del BCRP.",
     "imageRightsNoteEn": "Image republication permission has not been confirmed; see the official BCRP document."
   },
@@ -1045,16 +1087,37 @@
     "id": "pe-20",
     "countryId": "pe",
     "value": 20,
-    "series": "Nueva familia (2021–2023)",
-    "seriesEn": "New family (2021–2023)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia de billetes peruanos 2021–2022",
+    "seriesEn": "Nueva familia de billetes peruanos 2021–2022",
+    "photos": {
+      "front": "https://cristianocoins.it/195632/peru-20-soles-2022-2025-new-date.jpg",
+      "back": "https://cristianocoins.it/195632/peru-20-soles-2022-2025-new-date.jpg",
+      "crop": {
+        "front": [
+          0.002,
+          0.004,
+          0.994,
+          0.493
+        ],
+        "back": [
+          0.002,
+          0.505,
+          0.994,
+          0.492
+        ]
+      },
+      "verified": true,
+      "provider": "Cristiano Coins",
+      "sourcePage": "https://cristianocoins.it/it/banconote_america/105807-peru-20-soles-2022-2025-new-date.html",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2022/nota-informativa-2022-07-20.pdf",
     "frontDescription": "José María Arguedas",
     "frontDescriptionEn": "José María Arguedas",
     "backDescription": "Cóndor y flor de la cantuta",
     "backDescriptionEn": "Condor and cantuta flower",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "No se ha confirmado permiso de republicación de las imágenes; consulta el documento oficial del BCRP.",
     "imageRightsNoteEn": "Image republication permission has not been confirmed; see the official BCRP document."
   },
@@ -1062,16 +1125,37 @@
     "id": "pe-50",
     "countryId": "pe",
     "value": 50,
-    "series": "Nueva familia (2021–2023)",
-    "seriesEn": "New family (2021–2023)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia de billetes peruanos 2021–2022",
+    "seriesEn": "Nueva familia de billetes peruanos 2021–2022",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/2bAAAOSwn35jILH-/s-l1600.jpg",
+      "back": "https://i.ebayimg.com/images/g/2bAAAOSwn35jILH-/s-l1600.jpg",
+      "crop": {
+        "front": [
+          0.028,
+          0.015,
+          0.95,
+          0.45
+        ],
+        "back": [
+          0.028,
+          0.514,
+          0.95,
+          0.438
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete peruano en eBay",
+      "sourcePage": "https://www.ebay.com/itm/155997266322",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2022/nota-informativa-2022-07-20.pdf",
     "frontDescription": "María Rostworowski",
     "frontDescriptionEn": "María Rostworowski",
     "backDescription": "Jaguar y puya Raimondi",
     "backDescriptionEn": "Jaguar and queen of the Andes plant",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "No se ha confirmado permiso de republicación de las imágenes; consulta el documento oficial del BCRP.",
     "imageRightsNoteEn": "Image republication permission has not been confirmed; see the official BCRP document."
   },
@@ -1079,16 +1163,37 @@
     "id": "pe-100",
     "countryId": "pe",
     "value": 100,
-    "series": "Nueva familia (2021–2023)",
-    "seriesEn": "New family (2021–2023)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia de billetes peruanos 2021–2022",
+    "seriesEn": "Nueva familia de billetes peruanos 2021–2022",
+    "photos": {
+      "front": "https://cristianocoins.it/195635-large_default/peru-100-soles-2021-2025.jpg",
+      "back": "https://cristianocoins.it/195635-large_default/peru-100-soles-2021-2025.jpg",
+      "crop": {
+        "front": [
+          0.003,
+          0.027,
+          0.994,
+          0.46
+        ],
+        "back": [
+          0.003,
+          0.504,
+          0.994,
+          0.491
+        ]
+      },
+      "verified": true,
+      "provider": "Cristiano Coins",
+      "sourcePage": "https://cristianocoins.it/it/banconote_america/102379-peru-100-soles-2021-2025.html",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2021/nota-informativa-2021-07-22.pdf",
     "frontDescription": "Pedro Paulet",
     "frontDescriptionEn": "Pedro Paulet",
     "backDescription": "Colibrí cola de espátula y orquídea Phragmipedium kovachii",
     "backDescriptionEn": "Marvelous spatuletail hummingbird and Phragmipedium kovachii orchid",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "No se ha confirmado permiso de republicación de las imágenes; consulta el documento oficial del BCRP.",
     "imageRightsNoteEn": "Image republication permission has not been confirmed; see the official BCRP document."
   },
@@ -3011,28 +3116,94 @@
     "id": "vn-1000",
     "countryId": "vn",
     "value": 1000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de papel en circulación",
+    "seriesEn": "Billete de papel en circulación",
+    "photos": {
+      "front": "https://cdn.monetnik.ru/storage/market-lot/50/74/574350/2029485_big.jpg",
+      "back": "https://cdn.monetnik.ru/storage/market-lot/50/74/574350/2029485_big.jpg",
+      "crop": {
+        "front": [
+          0.005,
+          0.008,
+          0.49,
+          0.314
+        ],
+        "back": [
+          0.503,
+          0.008,
+          0.49,
+          0.314
+        ]
+      },
+      "verified": true,
+      "provider": "Monetnik — serie de tres billetes de papel actuales",
+      "sourcePage": "https://www.monetnik.ru/banknoty/mira/aziya/vietnam/severnyj-vetnam/vetnam-nabor-3-sht-1000-574350/",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-2000",
     "countryId": "vn",
     "value": 2000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de papel en circulación",
+    "seriesEn": "Billete de papel en circulación",
+    "photos": {
+      "front": "https://cdn.monetnik.ru/storage/market-lot/50/74/574350/2029485_big.jpg",
+      "back": "https://cdn.monetnik.ru/storage/market-lot/50/74/574350/2029485_big.jpg",
+      "crop": {
+        "front": [
+          0.005,
+          0.339,
+          0.49,
+          0.314
+        ],
+        "back": [
+          0.503,
+          0.339,
+          0.49,
+          0.314
+        ]
+      },
+      "verified": true,
+      "provider": "Monetnik — serie de tres billetes de papel actuales",
+      "sourcePage": "https://www.monetnik.ru/banknoty/mira/aziya/vietnam/severnyj-vetnam/vetnam-nabor-3-sht-1000-574350/",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-5000",
     "countryId": "vn",
     "value": 5000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billete de papel en circulación",
+    "seriesEn": "Billete de papel en circulación",
+    "photos": {
+      "front": "https://cdn.monetnik.ru/storage/market-lot/50/74/574350/2029485_big.jpg",
+      "back": "https://cdn.monetnik.ru/storage/market-lot/50/74/574350/2029485_big.jpg",
+      "crop": {
+        "front": [
+          0.005,
+          0.671,
+          0.49,
+          0.314
+        ],
+        "back": [
+          0.503,
+          0.671,
+          0.49,
+          0.314
+        ]
+      },
+      "verified": true,
+      "provider": "Monetnik — serie de tres billetes de papel actuales",
+      "sourcePage": "https://www.monetnik.ru/banknoty/mira/aziya/vietnam/severnyj-vetnam/vetnam-nabor-3-sht-1000-574350/",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-10000",
