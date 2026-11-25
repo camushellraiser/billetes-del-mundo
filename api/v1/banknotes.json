@@ -522,177 +522,419 @@
     "id": "cl-1000",
     "countryId": "cl",
     "value": 1000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Familia vigente 2009–2010",
+    "seriesEn": "Familia vigente 2009–2010",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.05,
+          0.017,
+          0.425,
+          0.18
+        ],
+        "back": [
+          0.505,
+          0.017,
+          0.44,
+          0.18
+        ]
+      },
+      "verified": true,
+      "provider": "Serie de billetes chilenos actual",
+      "sourcePage": "https://www.ebay.com/itm/256666192166",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/1000",
     "frontDescription": "Retrato de Ignacio Carrera Pinto.",
     "backDescription": "Torres del Paine y guanacos",
     "frontDescriptionEn": "Portrait of Ignacio Carrera Pinto.",
     "backDescriptionEn": "Torres del Paine and guanacos",
     "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cl-2000",
     "countryId": "cl",
     "value": 2000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Familia vigente 2009–2010",
+    "seriesEn": "Familia vigente 2009–2010",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.05,
+          0.212,
+          0.425,
+          0.18
+        ],
+        "back": [
+          0.505,
+          0.212,
+          0.44,
+          0.18
+        ]
+      },
+      "verified": true,
+      "provider": "Serie de billetes chilenos actual",
+      "sourcePage": "https://www.ebay.com/itm/256666192166",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/2000",
     "frontDescription": "Retrato de Manuel Rodríguez.",
     "backDescription": "Reserva Nacional Nalcas y loro choroy",
     "frontDescriptionEn": "Portrait of Manuel Rodríguez.",
     "backDescriptionEn": "Nalcas National Reserve and the choroy parrot",
     "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cl-5000",
     "countryId": "cl",
     "value": 5000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Familia vigente 2009–2010",
+    "seriesEn": "Familia vigente 2009–2010",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.05,
+          0.407,
+          0.425,
+          0.18
+        ],
+        "back": [
+          0.505,
+          0.407,
+          0.44,
+          0.18
+        ]
+      },
+      "verified": true,
+      "provider": "Serie de billetes chilenos actual",
+      "sourcePage": "https://www.ebay.com/itm/256666192166",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/5000",
     "frontDescription": "Retrato de Gabriela Mistral.",
     "backDescription": "Parque Nacional La Campana y tucúquere",
     "frontDescriptionEn": "Portrait of Gabriela Mistral.",
     "backDescriptionEn": "La Campana National Park and the great horned owl",
     "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cl-10000",
     "countryId": "cl",
     "value": 10000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Familia vigente 2009–2010",
+    "seriesEn": "Familia vigente 2009–2010",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.05,
+          0.602,
+          0.425,
+          0.18
+        ],
+        "back": [
+          0.505,
+          0.602,
+          0.44,
+          0.18
+        ]
+      },
+      "verified": true,
+      "provider": "Serie de billetes chilenos actual",
+      "sourcePage": "https://www.ebay.com/itm/256666192166",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/10000",
     "frontDescription": "Retrato de Arturo Prat.",
     "backDescription": "Parque Nacional Alberto de Agostini y cóndor",
     "frontDescriptionEn": "Portrait of Arturo Prat.",
     "backDescriptionEn": "Alberto de Agostini National Park and condor",
     "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cl-20000",
     "countryId": "cl",
     "value": 20000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Familia vigente 2009–2010",
+    "seriesEn": "Familia vigente 2009–2010",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IEgAAOSw4VdnAWyZ/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.05,
+          0.797,
+          0.425,
+          0.18
+        ],
+        "back": [
+          0.505,
+          0.797,
+          0.44,
+          0.18
+        ]
+      },
+      "verified": true,
+      "provider": "Serie de billetes chilenos actual",
+      "sourcePage": "https://www.ebay.com/itm/256666192166",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.billetesymonedas.cl/Billetes/BilleteActual/20000",
     "frontDescription": "Retrato de Andrés Bello.",
     "backDescription": "Salar de Surire y flamenco",
     "frontDescriptionEn": "Portrait of Andrés Bello.",
     "backDescriptionEn": "Surire salt flat and flamingo",
     "imageReuseNote": "El Banco Central de Chile autoriza reproducciones parciales bajo condiciones específicas; la reproducción de anverso y reverso requiere autorización previa. https://www.billetesymonedas.cl/InformacionNormativa/UsoImagenes",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "co-2000",
     "countryId": "co",
     "value": 2000,
-    "series": "Nueva familia",
-    "seriesEn": "Nueva familia",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia 2016",
+    "seriesEn": "Nueva familia 2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "crop": {
+        "front": [
+          0.18,
+          0.055,
+          0.3,
+          0.117
+        ],
+        "back": [
+          0.525,
+          0.055,
+          0.305,
+          0.117
+        ]
+      },
+      "verified": true,
+      "provider": "Colección Colombia, familia de billetes 2016",
+      "sourcePage": "https://www.robertsworldmoney.com/collections/colombia",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-2-mil-pesos-cinco-pasos-reconocerlo",
     "frontDescription": "Retrato de Débora Arango.",
     "backDescription": "Caño Cristales",
     "frontDescriptionEn": "Portrait of Débora Arango.",
     "backDescriptionEn": "Caño Cristales",
     "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "co-5000",
     "countryId": "co",
     "value": 5000,
-    "series": "Nueva familia",
-    "seriesEn": "Nueva familia",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia 2016",
+    "seriesEn": "Nueva familia 2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "crop": {
+        "front": [
+          0.18,
+          0.219,
+          0.3,
+          0.117
+        ],
+        "back": [
+          0.525,
+          0.219,
+          0.305,
+          0.117
+        ]
+      },
+      "verified": true,
+      "provider": "Colección Colombia, familia de billetes 2016",
+      "sourcePage": "https://www.robertsworldmoney.com/collections/colombia",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-5-mil-pesos-cinco-pasos-reconocerlo",
     "frontDescription": "Retrato de José Asunción Silva.",
     "backDescription": "Páramos colombianos, oso de anteojos y cóndor",
     "frontDescriptionEn": "Portrait of José Asunción Silva.",
     "backDescriptionEn": "Colombian páramos, spectacled bear and condor",
     "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "co-10000",
     "countryId": "co",
     "value": 10000,
-    "series": "Nueva familia",
-    "seriesEn": "Nueva familia",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia 2016",
+    "seriesEn": "Nueva familia 2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "crop": {
+        "front": [
+          0.18,
+          0.383,
+          0.3,
+          0.117
+        ],
+        "back": [
+          0.525,
+          0.383,
+          0.305,
+          0.117
+        ]
+      },
+      "verified": true,
+      "provider": "Colección Colombia, familia de billetes 2016",
+      "sourcePage": "https://www.robertsworldmoney.com/collections/colombia",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-10-mil-pesos-cinco-pasos-reconocerlo",
     "frontDescription": "Retrato de Virginia Gutiérrez.",
     "backDescription": "Amazonía, río y pescador en canoa",
     "frontDescriptionEn": "Portrait of Virginia Gutiérrez.",
     "backDescriptionEn": "Amazon rainforest, river and fisherman in canoe",
     "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "co-20000",
     "countryId": "co",
     "value": 20000,
-    "series": "Nueva familia",
-    "seriesEn": "Nueva familia",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia 2016",
+    "seriesEn": "Nueva familia 2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "crop": {
+        "front": [
+          0.18,
+          0.547,
+          0.3,
+          0.117
+        ],
+        "back": [
+          0.525,
+          0.547,
+          0.305,
+          0.117
+        ]
+      },
+      "verified": true,
+      "provider": "Colección Colombia, familia de billetes 2016",
+      "sourcePage": "https://www.robertsworldmoney.com/collections/colombia",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-20-mil-pesos-cinco-pasos-reconocerlo",
     "frontDescription": "Retrato de Alfonso López Michelsen.",
     "backDescription": "Canales de La Mojana",
     "frontDescriptionEn": "Portrait of Alfonso López Michelsen.",
     "backDescriptionEn": "La Mojana waterways",
     "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "co-50000",
     "countryId": "co",
     "value": 50000,
-    "series": "Nueva familia",
-    "seriesEn": "Nueva familia",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia 2016",
+    "seriesEn": "Nueva familia 2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "crop": {
+        "front": [
+          0.18,
+          0.711,
+          0.3,
+          0.117
+        ],
+        "back": [
+          0.525,
+          0.711,
+          0.305,
+          0.117
+        ]
+      },
+      "verified": true,
+      "provider": "Colección Colombia, familia de billetes 2016",
+      "sourcePage": "https://www.robertsworldmoney.com/collections/colombia",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-50-mil-pesos-cinco-pasos-reconocerlo",
     "frontDescription": "Retrato de Gabriel García Márquez.",
     "backDescription": "Ciudad Perdida y cultura tayrona",
     "frontDescriptionEn": "Portrait of Gabriel García Márquez.",
     "backDescriptionEn": "Lost City and Tayrona culture",
     "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "co-100000",
     "countryId": "co",
     "value": 100000,
-    "series": "Nueva familia",
-    "seriesEn": "Nueva familia",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Nueva familia 2016",
+    "seriesEn": "Nueva familia 2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Colombia_Set_B993-B998_w_fr_1850x.jpg?v=1704076543",
+      "crop": {
+        "front": [
+          0.18,
+          0.875,
+          0.3,
+          0.117
+        ],
+        "back": [
+          0.525,
+          0.875,
+          0.305,
+          0.117
+        ]
+      },
+      "verified": true,
+      "provider": "Colección Colombia, familia de billetes 2016",
+      "sourcePage": "https://www.robertsworldmoney.com/collections/colombia",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banrep.gov.co/es/billetes-monedas/billete-100-mil-pesos-cinco-pasos-reconocerlo",
     "frontDescription": "Retrato de Carlos Lleras Restrepo.",
     "backDescription": "Valle de Cocora y palma de cera",
     "frontDescriptionEn": "Portrait of Carlos Lleras Restrepo.",
     "backDescriptionEn": "Cocora Valley and wax palms",
     "imageReuseNote": "Enlace al Banco de la República. No se republican imágenes de anverso y reverso sin licencia de reutilización verificada.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "pe-10",
@@ -768,14 +1010,36 @@
     "value": 200,
     "series": "Nueva familia (2021–2023)",
     "seriesEn": "New family (2021–2023)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://tombanknoter.pl/userdata/public/gfx/7888/PES200_24.jpg",
+      "back": "https://tombanknoter.pl/userdata/public/gfx/7888/PES200_24.jpg",
+      "crop": {
+        "front": [
+          0.015,
+          0.012,
+          0.97,
+          0.472
+        ],
+        "back": [
+          0.015,
+          0.516,
+          0.97,
+          0.472
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete peruano de 200 soles, serie 2024",
+      "sourcePage": "https://tombanknoter.pl/pl/p/Peru-200-soles-2024-2026-W200b-ptak/2627",
+      "origin": "Fotografía de anverso/reverso publicada por coleccionista",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bcrp.gob.pe/docs/Publicaciones/Memoria/2023/memoria-bcrp-2023-6.pdf",
     "frontDescription": "Tilsa Tsuchiya",
     "frontDescriptionEn": "Tilsa Tsuchiya",
     "backDescription": "Gallito de las rocas y flor bella abanquina",
     "backDescriptionEn": "Andean cock-of-the-rock and bella abanquina flower",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "No se ha confirmado permiso de republicación de las imágenes; consulta el documento oficial del BCRP.",
     "imageRightsNoteEn": "Image republication permission has not been confirmed; see the official BCRP document."
   },
@@ -1157,16 +1421,38 @@
     "id": "no-50",
     "countryId": "no",
     "value": 50,
-    "series": "Serie VIII (2017–2019)",
-    "seriesEn": "Series VIII (2017–2019)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie VIII 2017–2019",
+    "seriesEn": "Serie VIII 2017–2019",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "crop": {
+        "front": [
+          0.123,
+          0.135,
+          0.33,
+          0.135
+        ],
+        "back": [
+          0.585,
+          0.135,
+          0.35,
+          0.135
+        ]
+      },
+      "verified": true,
+      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
+      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/50-krone-note/",
     "frontDescription": "Faro de Utvær",
     "backDescription": "Patrón abstracto de señal luminosa, olas y viento",
     "frontDescriptionEn": "Utvær Lighthouse",
     "backDescriptionEn": "Abstract lighthouse beam, waves and wind",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las dos caras están disponibles en la ficha oficial de Norges Bank; antes de incrustarlas debe confirmarse el permiso de reproducción y su uso seguro.",
     "imageRightsNoteEn": "Both sides are available on the Norges Bank denomination page; embedding awaits rights and safe-reproduction verification."
   },
@@ -1174,16 +1460,38 @@
     "id": "no-100",
     "countryId": "no",
     "value": 100,
-    "series": "Serie VIII (2017–2019)",
-    "seriesEn": "Series VIII (2017–2019)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie VIII 2017–2019",
+    "seriesEn": "Serie VIII 2017–2019",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "crop": {
+        "front": [
+          0.123,
+          0.298,
+          0.33,
+          0.135
+        ],
+        "back": [
+          0.585,
+          0.298,
+          0.35,
+          0.135
+        ]
+      },
+      "verified": true,
+      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
+      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/100-krone-note/",
     "frontDescription": "Barco vikingo de Gokstad",
     "backDescription": "Patrón de olas, buque mercante y constelación de Orión",
     "frontDescriptionEn": "Gokstad Viking ship",
     "backDescriptionEn": "Waves, cargo ship and Orion constellation",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las dos caras están disponibles en la ficha oficial de Norges Bank; antes de incrustarlas debe confirmarse el permiso de reproducción y su uso seguro.",
     "imageRightsNoteEn": "Both sides are available on the Norges Bank denomination page; embedding awaits rights and safe-reproduction verification."
   },
@@ -1191,16 +1499,38 @@
     "id": "no-200",
     "countryId": "no",
     "value": 200,
-    "series": "Serie VIII (2017–2019)",
-    "seriesEn": "Series VIII (2017–2019)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie VIII 2017–2019",
+    "seriesEn": "Serie VIII 2017–2019",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "crop": {
+        "front": [
+          0.123,
+          0.461,
+          0.33,
+          0.135
+        ],
+        "back": [
+          0.585,
+          0.461,
+          0.35,
+          0.135
+        ]
+      },
+      "verified": true,
+      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
+      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/200-krone-note/",
     "frontDescription": "Bacalao",
     "backDescription": "Patrón abstracto de olas y barco pesquero",
     "frontDescriptionEn": "Cod fish",
     "backDescriptionEn": "Abstract waves and fishing vessel",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las dos caras están disponibles en la ficha oficial de Norges Bank; antes de incrustarlas debe confirmarse el permiso de reproducción y su uso seguro.",
     "imageRightsNoteEn": "Both sides are available on the Norges Bank denomination page; embedding awaits rights and safe-reproduction verification."
   },
@@ -1208,16 +1538,38 @@
     "id": "no-500",
     "countryId": "no",
     "value": 500,
-    "series": "Serie VIII (2017–2019)",
-    "seriesEn": "Series VIII (2017–2019)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie VIII 2017–2019",
+    "seriesEn": "Serie VIII 2017–2019",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "crop": {
+        "front": [
+          0.123,
+          0.624,
+          0.33,
+          0.135
+        ],
+        "back": [
+          0.585,
+          0.624,
+          0.35,
+          0.135
+        ]
+      },
+      "verified": true,
+      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
+      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/500-krone-note/",
     "frontDescription": "Barco de rescate RS 14 Stavanger",
     "backDescription": "Patrón abstracto de mar y viento",
     "frontDescriptionEn": "RS 14 Stavanger rescue vessel",
     "backDescriptionEn": "Abstract sea and wind",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las dos caras están disponibles en la ficha oficial de Norges Bank; antes de incrustarlas debe confirmarse el permiso de reproducción y su uso seguro.",
     "imageRightsNoteEn": "Both sides are available on the Norges Bank denomination page; embedding awaits rights and safe-reproduction verification."
   },
@@ -1225,16 +1577,38 @@
     "id": "no-1000",
     "countryId": "no",
     "value": 1000,
-    "series": "Serie VIII (2017–2019)",
-    "seriesEn": "Series VIII (2017–2019)",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie VIII 2017–2019",
+    "seriesEn": "Serie VIII 2017–2019",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
+      "crop": {
+        "front": [
+          0.123,
+          0.787,
+          0.33,
+          0.135
+        ],
+        "back": [
+          0.585,
+          0.787,
+          0.35,
+          0.135
+        ]
+      },
+      "verified": true,
+      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
+      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/1000-krone-note/",
     "frontDescription": "Ola en mar abierto",
     "backDescription": "Patrón abstracto de mar y horizonte",
     "frontDescriptionEn": "Wave in the open sea",
     "backDescriptionEn": "Abstract sea and horizon",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las dos caras están disponibles en la ficha oficial de Norges Bank; antes de incrustarlas debe confirmarse el permiso de reproducción y su uso seguro.",
     "imageRightsNoteEn": "Both sides are available on the Norges Bank denomination page; embedding awaits rights and safe-reproduction verification."
   },
@@ -2110,19 +2484,65 @@
     "id": "ph-50",
     "countryId": "ph",
     "value": 50,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "First Philippine Polymer Banknote Series",
+    "seriesEn": "First Philippine Polymer Banknote Series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.01,
+          0.017,
+          0.475,
+          0.225
+        ],
+        "back": [
+          0.515,
+          0.017,
+          0.48,
+          0.225
+        ]
+      },
+      "verified": true,
+      "provider": "Serie filipina de billetes de polímero 2024–2025",
+      "sourcePage": "https://www.ebay.com/itm/297443653049",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ph-100",
     "countryId": "ph",
     "value": 100,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "First Philippine Polymer Banknote Series",
+    "seriesEn": "First Philippine Polymer Banknote Series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.01,
+          0.264,
+          0.475,
+          0.225
+        ],
+        "back": [
+          0.515,
+          0.264,
+          0.48,
+          0.225
+        ]
+      },
+      "verified": true,
+      "provider": "Serie filipina de billetes de polímero 2024–2025",
+      "sourcePage": "https://www.ebay.com/itm/297443653049",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ph-200",
@@ -2137,19 +2557,65 @@
     "id": "ph-500",
     "countryId": "ph",
     "value": 500,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "First Philippine Polymer Banknote Series",
+    "seriesEn": "First Philippine Polymer Banknote Series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.01,
+          0.511,
+          0.475,
+          0.225
+        ],
+        "back": [
+          0.515,
+          0.511,
+          0.48,
+          0.225
+        ]
+      },
+      "verified": true,
+      "provider": "Serie filipina de billetes de polímero 2024–2025",
+      "sourcePage": "https://www.ebay.com/itm/297443653049",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ph-1000",
     "countryId": "ph",
     "value": 1000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "First Philippine Polymer Banknote Series",
+    "seriesEn": "First Philippine Polymer Banknote Series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/C2YAAeSwxMFpLck4/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.01,
+          0.758,
+          0.475,
+          0.225
+        ],
+        "back": [
+          0.515,
+          0.758,
+          0.48,
+          0.225
+        ]
+      },
+      "verified": true,
+      "provider": "Serie filipina de billetes de polímero 2024–2025",
+      "sourcePage": "https://www.ebay.com/itm/297443653049",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-1000",
@@ -2311,76 +2777,186 @@
     "id": "nz-5",
     "countryId": "nz",
     "value": 5,
-    "series": "Serie Brighter Money",
-    "seriesEn": "Serie Brighter Money",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 7 / Brighter Money 2015–2016",
+    "seriesEn": "Serie 7 / Brighter Money 2015–2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "crop": {
+        "front": [
+          0.115,
+          0.052,
+          0.365,
+          0.15
+        ],
+        "back": [
+          0.52,
+          0.052,
+          0.37,
+          0.15
+        ]
+      },
+      "verified": true,
+      "provider": "Nueva Zelanda, serie 7 completa anverso y reverso",
+      "sourcePage": "https://www.robertsworldmoney.com/products/new-zealand-full-set-5-100-dollars-2015-2016-b137-b141-p191-p195-unc",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/5%20banknote",
     "frontDescription": "El anverso presenta a Sir Edmund Hillary.",
     "backDescription": "El reverso muestra Pingüino hoiho (de ojos amarillos).",
     "frontDescriptionEn": "Front features Sir Edmund Hillary.",
     "backDescriptionEn": "Reverse features Pingüino hoiho (de ojos amarillos).",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "nz-10",
     "countryId": "nz",
     "value": 10,
-    "series": "Serie Brighter Money",
-    "seriesEn": "Serie Brighter Money",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 7 / Brighter Money 2015–2016",
+    "seriesEn": "Serie 7 / Brighter Money 2015–2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "crop": {
+        "front": [
+          0.115,
+          0.236,
+          0.365,
+          0.15
+        ],
+        "back": [
+          0.52,
+          0.236,
+          0.37,
+          0.15
+        ]
+      },
+      "verified": true,
+      "provider": "Nueva Zelanda, serie 7 completa anverso y reverso",
+      "sourcePage": "https://www.robertsworldmoney.com/products/new-zealand-full-set-5-100-dollars-2015-2016-b137-b141-p191-p195-unc",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/10-banknote",
     "frontDescription": "El anverso presenta a Kate Sheppard.",
     "backDescription": "El reverso muestra Pato azul o whio.",
     "frontDescriptionEn": "Front features Kate Sheppard.",
     "backDescriptionEn": "Reverse features Pato azul o whio.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "nz-20",
     "countryId": "nz",
     "value": 20,
-    "series": "Serie Brighter Money",
-    "seriesEn": "Serie Brighter Money",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 7 / Brighter Money 2015–2016",
+    "seriesEn": "Serie 7 / Brighter Money 2015–2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "crop": {
+        "front": [
+          0.115,
+          0.42,
+          0.365,
+          0.15
+        ],
+        "back": [
+          0.52,
+          0.42,
+          0.37,
+          0.15
+        ]
+      },
+      "verified": true,
+      "provider": "Nueva Zelanda, serie 7 completa anverso y reverso",
+      "sourcePage": "https://www.robertsworldmoney.com/products/new-zealand-full-set-5-100-dollars-2015-2016-b137-b141-p191-p195-unc",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/20-banknote",
     "frontDescription": "El anverso presenta a Isabel II.",
     "backDescription": "El reverso muestra Halcón neozelandés o kārearea.",
     "frontDescriptionEn": "Front features Isabel II.",
     "backDescriptionEn": "Reverse features Halcón neozelandés o kārearea.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "nz-50",
     "countryId": "nz",
     "value": 50,
-    "series": "Serie Brighter Money",
-    "seriesEn": "Serie Brighter Money",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 7 / Brighter Money 2015–2016",
+    "seriesEn": "Serie 7 / Brighter Money 2015–2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "crop": {
+        "front": [
+          0.115,
+          0.604,
+          0.365,
+          0.15
+        ],
+        "back": [
+          0.52,
+          0.604,
+          0.37,
+          0.15
+        ]
+      },
+      "verified": true,
+      "provider": "Nueva Zelanda, serie 7 completa anverso y reverso",
+      "sourcePage": "https://www.robertsworldmoney.com/products/new-zealand-full-set-5-100-dollars-2015-2016-b137-b141-p191-p195-unc",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/50-banknote",
     "frontDescription": "El anverso presenta a Āpirana Ngata.",
     "backDescription": "El reverso muestra Kōkako.",
     "frontDescriptionEn": "Front features Āpirana Ngata.",
     "backDescriptionEn": "Reverse features Kōkako.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "nz-100",
     "countryId": "nz",
     "value": 100,
-    "series": "Serie Brighter Money",
-    "seriesEn": "Serie Brighter Money",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 7 / Brighter Money 2015–2016",
+    "seriesEn": "Serie 7 / Brighter Money 2015–2016",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/NewZealand_Set_B137-B141_w_fr.jpg?v=1706261382",
+      "crop": {
+        "front": [
+          0.115,
+          0.788,
+          0.365,
+          0.15
+        ],
+        "back": [
+          0.52,
+          0.788,
+          0.37,
+          0.15
+        ]
+      },
+      "verified": true,
+      "provider": "Nueva Zelanda, serie 7 completa anverso y reverso",
+      "sourcePage": "https://www.robertsworldmoney.com/products/new-zealand-full-set-5-100-dollars-2015-2016-b137-b141-p191-p195-unc",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/100-banknote",
     "frontDescription": "El anverso presenta a Ernest Rutherford.",
     "backDescription": "El reverso muestra Mohua.",
     "frontDescriptionEn": "Front features Ernest Rutherford.",
     "backDescriptionEn": "Reverse features Mohua.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "za-10",
@@ -2582,63 +3158,151 @@
     "countryId": "ma",
     "value": 20,
     "series": "Serie 2023–2024",
-    "seriesEn": "2023–2024 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "seriesEn": "Serie 2023–2024",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.025,
+          0.02,
+          0.45,
+          0.23
+        ],
+        "back": [
+          0.51,
+          0.02,
+          0.46,
+          0.23
+        ]
+      },
+      "verified": true,
+      "provider": "Colección fotográfica de billetes marroquíes 2023–2024",
+      "sourcePage": "https://www.ebay.co.uk/itm/266979374954",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bkam.ma/en/content/download/810715/8910395/CdP_nouvelle%20serie%2020dhs%20EN.pdf",
     "issueDate": "2024-08-21",
     "frontDescription": "Rey Mohammed VI y Universidad Al Quaraouiyine de Fez.",
     "backDescription": "Teatro de Rabat, museo Mohammed VI, instalaciones deportivas y kasbah de Ait Ben Haddou.",
     "frontDescriptionEn": "King Mohammed VI and Al Quaraouiyine University in Fez.",
     "backDescriptionEn": "Rabat theatre, Mohammed VI museum, sports facilities and Ait Ben Haddou kasbah.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ma-50",
     "countryId": "ma",
     "value": 50,
     "series": "Serie 2023–2024",
-    "seriesEn": "2023–2024 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "seriesEn": "Serie 2023–2024",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.025,
+          0.265,
+          0.45,
+          0.23
+        ],
+        "back": [
+          0.51,
+          0.265,
+          0.46,
+          0.23
+        ]
+      },
+      "verified": true,
+      "provider": "Colección fotográfica de billetes marroquíes 2023–2024",
+      "sourcePage": "https://www.ebay.co.uk/itm/266979374954",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bkam.ma/en/content/download/809676/8903453/CdP_nouvelle%20serie%2050dhs%20EN.pdf",
     "issueDate": "2024-07-30",
     "frontDescription": "Rey Mohammed VI y Cascadas de Ouzoud.",
     "backDescription": "Central solar Noor, aerogeneradores, presa de Ouirgane y desalinizadora de Agadir.",
     "frontDescriptionEn": "King Mohammed VI and Ouzoud Falls.",
     "backDescriptionEn": "Noor solar plant, wind turbines, Ouirgane dam and Agadir desalination plant.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ma-100",
     "countryId": "ma",
     "value": 100,
     "series": "Serie 2023–2024",
-    "seriesEn": "2023–2024 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "seriesEn": "Serie 2023–2024",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.025,
+          0.51,
+          0.45,
+          0.23
+        ],
+        "back": [
+          0.51,
+          0.51,
+          0.46,
+          0.23
+        ]
+      },
+      "verified": true,
+      "provider": "Colección fotográfica de billetes marroquíes 2023–2024",
+      "sourcePage": "https://www.ebay.co.uk/itm/266979374954",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bkam.ma/en/content/download/795904/8808984/CdP_nouvelle%20serie_En.pdf",
     "issueDate": "2023-11-24",
     "frontDescription": "Rey Mohammed VI y Arcadas de la mezquita Hassan II.",
     "backDescription": "Plaza Mechouar, carretera Tiznit-Dakhla y festival de Tan-Tan.",
     "frontDescriptionEn": "King Mohammed VI and Hassan II Mosque arcades.",
     "backDescriptionEn": "Mechouar square, Tiznit-Dakhla road and Tan-Tan festival.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ma-200",
     "countryId": "ma",
     "value": 200,
     "series": "Serie 2023–2024",
-    "seriesEn": "2023–2024 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "seriesEn": "Serie 2023–2024",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/IcIAAOSwnN1m2dun/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.025,
+          0.755,
+          0.45,
+          0.23
+        ],
+        "back": [
+          0.51,
+          0.755,
+          0.46,
+          0.23
+        ]
+      },
+      "verified": true,
+      "provider": "Colección fotográfica de billetes marroquíes 2023–2024",
+      "sourcePage": "https://www.ebay.co.uk/itm/266979374954",
+      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bkam.ma/en/content/download/798470/8826499/CdP_nouvelle%20serie_EN.pdf",
     "issueDate": "2024-01-12",
     "frontDescription": "Rey Mohammed VI y Puente Mohammed VI.",
     "backDescription": "Torre Mohammed VI, aeropuerto Marrakech-Menara y motivos industriales y digitales.",
     "frontDescriptionEn": "King Mohammed VI and Mohammed VI bridge.",
     "backDescriptionEn": "Mohammed VI tower, Marrakech-Menara airport and industrial and digital motifs.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   }
 ]
