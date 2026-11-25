@@ -14,6 +14,32 @@ const noteFor=(countryId,value)=>state.notes.find(n=>n.countryId===countryId&&Nu
 const hasPictures=id=>state.notes.some(n=>n.countryId===id&&n.photos?.verified);
 const fileUrl=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(f)+"?width=1100";
 const commonsPage=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(f).replace(/%20/g,"_");
+function cropSheetPhoto(img,rect,kind="detail"){
+ const [x,y,w,h]=rect.map(Number);
+ if(!img.naturalWidth||!img.naturalHeight||w<=0||h<=0)return img;
+ const wrap=document.createElement("span");
+ wrap.className="banknote-crop banknote-crop-"+kind;
+ wrap.style.aspectRatio=String((img.naturalWidth*w)/(img.naturalHeight*h));
+ img.style.width=(100/w)+"%";
+ img.style.left=(-100*x/w)+"%";
+ img.style.top=(-100*y/h)+"%";
+ img.style.height="auto";
+ img.decoding="async";
+ wrap.append(img);
+ return wrap;
+}
+function enhanceCardPhotos(){
+ document.querySelectorAll(".country-card-thumb[data-photo-id]").forEach(host=>{
+  const n=state.notes.find(x=>x.id===host.dataset.photoId);
+  if(!n?.photos?.crop)return;
+  const img=host.querySelector("img");
+  if(!img)return;
+  const loaded=()=>{if(host.isConnected)host.replaceChildren(cropSheetPhoto(img,n.photos.crop.front,"thumb"));};
+  img.addEventListener("load",loaded,{once:true});
+  img.addEventListener("error",()=>host.remove(),{once:true});
+  if(img.complete&&img.naturalWidth)loaded();
+ });
+}
 const pretty=(country,value)=>{const val=new Intl.NumberFormat(state.lang==="es"?"es-MX":"en-US").format(value);return country.symbol==="CHF"?`CHF ${val}`:country.symbol==="kr"?`${val} kr`:country.symbol==="DH"?`${val} DH`:`${country.symbol}${val}`;};
 const filterText=s=>(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase();
 const countryRegion=["Todos","América","Europa","Asia","Oceanía","África"];
@@ -43,10 +69,11 @@ function renderGrid(){
  $("country-grid").innerHTML=list.map(c=>{
   const photoCount=state.notes.filter(n=>n.countryId===c.id&&n.photos?.verified).length;
    const featured=state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
-  const preview=featured?`<span class="country-card-thumb" aria-hidden="true"><img loading="lazy" decoding="async" src="${fileUrl(featured.photos.front)}" alt=""></span>`:"";
+  const preview=featured?`<span class="country-card-thumb" data-photo-id="${featured.id}" aria-hidden="true"><img loading="lazy" decoding="async" src="${fileUrl(featured.photos.front)}" alt=""></span>`:"";
   return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" aria-label="${photoCount} de ${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
  }).join("");
  $("empty-state").hidden=list.length>0;
+ enhanceCardPhotos();
 }
 function chooseCountry(id){
 const country=state.countries.find(c=>c.id===id);
@@ -117,13 +144,29 @@ const img=new Image();
 img.referrerPolicy="no-referrer";
 img.decoding="async";
 img.alt=`${state.side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(c,n.value)} · ${name(c)}`;
-img.onload=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren(img);state.imageOk=true;$("zoom-button").disabled=false;}};
+img.onload=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){const node=n.photos.crop?.[expectedSide]?cropSheetPhoto(img,n.photos.crop[expectedSide]):img;display.replaceChildren(node);state.imageOk=true;$("zoom-button").disabled=false;}};
 img.onerror=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");state.imageOk=false;const fallback=$("official-note-link");fallback.hidden=false;fallback.href=n.photoSources?.[expectedSide]||n.photos?.sourcePage||n.officialPage||c.officialSource||"#";fallback.textContent=state.lang==="es"?"VER IMAGEN EN LA FUENTE ↗":"VIEW IMAGE AT SOURCE ↗";}};
 img.src=fileUrl(n.photos[state.side]);
 }
 function selectDenom(value){if(!state.country)return;const n=noteFor(state.country.id,value);if(!n)return;state.note=n;state.side="front";renderCountry();}
 function flip(){state.side=state.side==="front"?"back":"front";renderPhoto();if($("image-dialog").open)showDialogImage();}
-function showDialogImage(){if(!state.country||!state.note?.photos)return;$("dialog-image-frame").classList.toggle("specimen-required",Boolean(state.note.photos.requiresSpecimen));$("dialog-title").textContent=`${name(state.country)} · ${pretty(state.country,state.note.value)}`;$("dialog-subtitle").textContent=state.side==="front"?tr("front"):tr("back");$("dialog-image").src=fileUrl(state.note.photos[state.side]);}
+function showDialogImage(){
+ if(!state.country||!state.note?.photos)return;
+ const n=state.note,side=state.side,stage=$("dialog-image");
+ $("dialog-image-frame").classList.toggle("specimen-required",Boolean(n.photos.requiresSpecimen));
+ $("dialog-title").textContent=`${name(state.country)} · ${pretty(state.country,n.value)}`;
+ $("dialog-subtitle").textContent=side==="front"?tr("front"):tr("back");
+ stage.replaceChildren();
+ const img=new Image();
+ img.alt=`${side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(state.country,n.value)}`;
+ img.decoding="async";img.referrerPolicy="no-referrer";
+ img.onload=()=>{
+  if(state.note?.id!==n.id||state.side!==side)return;
+  stage.replaceChildren(n.photos.crop?.[side]?cropSheetPhoto(img,n.photos.crop[side],"modal"):img);
+ };
+ img.onerror=()=>{stage.textContent=state.lang==="es"?"La imagen no está disponible. Consulta la fuente.":"Image unavailable. Please check the source.";};
+ img.src=fileUrl(n.photos[side]);
+}
 function zoom(){if(!state.note?.photos||!state.imageOk)return;showDialogImage();if(!$("image-dialog").open)$("image-dialog").showModal();}
 function randomCountry(){const available=state.countries.filter(c=>hasPictures(c.id));const pool=available.length?available:state.countries;const pick=pool[Math.floor(Math.random()*pool.length)];if(pick)location.hash=`#/${pick.id}`;}
 function bind(){
