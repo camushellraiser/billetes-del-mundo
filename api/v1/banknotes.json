@@ -12454,66 +12454,141 @@
     "id": "bo-10",
     "countryId": "bo",
     "value": 10,
-    "series": "Primera familia · serie B",
-    "seriesEn": "First family · series B",
+    "series": "Primera familia · serie A",
+    "seriesEn": "First family · series A",
     "officialPage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete10.html",
     "referencePage": "https://www.bcb.gob.bo/?q=primera-familia-de-billetes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia incorpora paisajes, fauna y personajes bolivianos.",
-    "factEn": "The family features Bolivian landscapes, wildlife and historical figures."
+    "factEn": "The family features Bolivian landscapes, wildlife and historical figures.",
+    "photos": {
+      "front": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/10000/anverso10000.jpg",
+      "back": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/10000/reverso10000.jpg",
+      "provider": "Banco Central de Bolivia",
+      "sourcePage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete10.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official first-family examples, Series A; not the newer Series B printing."
+    }
   },
   {
     "id": "bo-20",
     "countryId": "bo",
     "value": 20,
-    "series": "Primera familia · serie B",
-    "seriesEn": "First family · series B",
+    "series": "Primera familia · serie A",
+    "seriesEn": "First family · series A",
     "officialPage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete20.html",
     "referencePage": "https://www.bcb.gob.bo/?q=primera-familia-de-billetes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia incorpora paisajes, fauna y personajes bolivianos.",
-    "factEn": "The family features Bolivian landscapes, wildlife and historical figures."
+    "factEn": "The family features Bolivian landscapes, wildlife and historical figures.",
+    "photos": {
+      "front": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/20000/anverso20000.jpg",
+      "back": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/20000/reverso20000.jpg",
+      "provider": "Banco Central de Bolivia",
+      "sourcePage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete20.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official first-family examples, Series A; not the newer Series B printing."
+    }
   },
   {
     "id": "bo-50",
     "countryId": "bo",
     "value": 50,
-    "series": "Primera familia · serie B",
-    "seriesEn": "First family · series B",
+    "series": "Primera familia · serie A",
+    "seriesEn": "First family · series A",
     "officialPage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete50.html",
     "referencePage": "https://www.bcb.gob.bo/?q=primera-familia-de-billetes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia incorpora paisajes, fauna y personajes bolivianos.",
-    "factEn": "The family features Bolivian landscapes, wildlife and historical figures."
+    "factEn": "The family features Bolivian landscapes, wildlife and historical figures.",
+    "photos": {
+      "front": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/50000/anverso50000.jpg",
+      "back": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/50000/reverso50000.jpg",
+      "provider": "Banco Central de Bolivia",
+      "sourcePage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete50.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official first-family examples, Series A; not the newer Series B printing."
+    }
   },
   {
     "id": "bo-100",
     "countryId": "bo",
     "value": 100,
-    "series": "Primera familia · serie B",
-    "seriesEn": "First family · series B",
+    "series": "Primera familia · serie A",
+    "seriesEn": "First family · series A",
     "officialPage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete100.html",
     "referencePage": "https://www.bcb.gob.bo/?q=primera-familia-de-billetes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia incorpora paisajes, fauna y personajes bolivianos.",
-    "factEn": "The family features Bolivian landscapes, wildlife and historical figures."
+    "factEn": "The family features Bolivian landscapes, wildlife and historical figures.",
+    "photos": {
+      "front": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/100000/anverso100000.jpg",
+      "back": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/100000/reverso100000.jpg",
+      "provider": "Banco Central de Bolivia",
+      "sourcePage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete100.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official first-family examples, Series A; not the newer Series B printing."
+    }
   },
   {
     "id": "bo-200",
     "countryId": "bo",
     "value": 200,
-    "series": "Primera familia · serie B",
-    "seriesEn": "First family · series B",
+    "series": "Primera familia · serie A",
+    "seriesEn": "First family · series A",
     "officialPage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete200.html",
     "referencePage": "https://www.bcb.gob.bo/?q=primera-familia-de-billetes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia incorpora paisajes, fauna y personajes bolivianos.",
-    "factEn": "The family features Bolivian landscapes, wildlife and historical figures."
+    "factEn": "The family features Bolivian landscapes, wildlife and historical figures.",
+    "photos": {
+      "front": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/200000/anverso200000.jpg",
+      "back": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/img/200000/reverso200000.jpg",
+      "provider": "Banco Central de Bolivia",
+      "sourcePage": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete200.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official first-family examples, Series A; not the newer Series B printing."
+    }
   },
   {
     "id": "do-50",
@@ -12718,10 +12793,29 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "10 Cordoba front 2015.jpg",
+      "back": "Banknote 10 Cordoba 2015 back.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:10_Cordoba_front_2015.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames identified in Wikimedia category Banknotes of Nicaragua; individual images and print dates await review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:10_Cordoba_front_2015.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Banknote_10_Cordoba_2015_back.jpg"
+    }
   },
   {
     "id": "ni-20",
@@ -12731,10 +12825,29 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "20 Cordobas front.jpg",
+      "back": "20 Cordobas back.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20_Cordobas_front.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames identified in Wikimedia category Banknotes of Nicaragua; individual images and print dates await review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:20_Cordobas_front.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:20_Cordobas_back.jpg"
+    }
   },
   {
     "id": "ni-50",
@@ -12744,10 +12857,29 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "NIO 50 obverse Polymer 2015 Series.jpg",
+      "back": "NIO 50 reverse 2015 Polymer.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:NIO_50_obverse_Polymer_2015_Series.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames identified in Wikimedia category Banknotes of Nicaragua; individual images and print dates await review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:NIO_50_obverse_Polymer_2015_Series.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:NIO_50_reverse_2015_Polymer.jpg"
+    }
   },
   {
     "id": "ni-100",
@@ -12757,10 +12889,29 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "NIO 100 obverse 2015 Polymer.jpg",
+      "back": "NIO 100 reverse 2015 Polymer.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:NIO_100_obverse_2015_Polymer.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames identified in Wikimedia category Banknotes of Nicaragua; individual images and print dates await review."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:NIO_100_obverse_2015_Polymer.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:NIO_100_reverse_2015_Polymer.jpg"
+    }
   },
   {
     "id": "ni-200",
@@ -13142,12 +13293,27 @@
     "value": 2,
     "series": "Héroes nacionales · 2025",
     "seriesEn": "National Heroes · 2025",
-    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
+    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_2",
     "referencePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de 2025 es la primera sin el monarca británico como retrato principal.",
-    "factEn": "The 2025 family is the first without the British monarch as its main portrait."
+    "factEn": "The 2025 family is the first without the British monarch as its main portrait.",
+    "photos": {
+      "front": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/two-front_0001.jpg?sfvrsn=e281a17c_4",
+      "back": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/two-back_0001_0001.jpg?sfvrsn=9dfc3cf5_4",
+      "provider": "Central Bank of Belize",
+      "sourcePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_2",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact URLs are linked on the official denomination page; direct image fetch returned HTTP 405."
+    }
   },
   {
     "id": "bz-5",
@@ -13155,12 +13321,27 @@
     "value": 5,
     "series": "Héroes nacionales · 2025",
     "seriesEn": "National Heroes · 2025",
-    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
+    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_5",
     "referencePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de 2025 es la primera sin el monarca británico como retrato principal.",
-    "factEn": "The 2025 family is the first without the British monarch as its main portrait."
+    "factEn": "The 2025 family is the first without the British monarch as its main portrait.",
+    "photos": {
+      "front": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/5-front_00017be15550-d175-4e65-9e14-658ed879824a.jpg?sfvrsn=77b477c8_4",
+      "back": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/5-back_0001-copy.jpg?sfvrsn=b0ee0eec_5",
+      "provider": "Central Bank of Belize",
+      "sourcePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_5",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact URLs are linked on the official denomination page; direct image fetch returned HTTP 405."
+    }
   },
   {
     "id": "bz-10",
@@ -13168,12 +13349,27 @@
     "value": 10,
     "series": "Héroes nacionales · 2025",
     "seriesEn": "National Heroes · 2025",
-    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
+    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_10",
     "referencePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de 2025 es la primera sin el monarca británico como retrato principal.",
-    "factEn": "The 2025 family is the first without the British monarch as its main portrait."
+    "factEn": "The 2025 family is the first without the British monarch as its main portrait.",
+    "photos": {
+      "front": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/10-front_0001.jpg?sfvrsn=88459f5_4",
+      "back": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/10-back_0001.jpg?sfvrsn=e8c88226_4",
+      "provider": "Central Bank of Belize",
+      "sourcePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_10",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact URLs are linked on the official denomination page; direct image fetch returned HTTP 405."
+    }
   },
   {
     "id": "bz-20",
@@ -13181,12 +13377,27 @@
     "value": 20,
     "series": "Héroes nacionales · 2025",
     "seriesEn": "National Heroes · 2025",
-    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
+    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_20",
     "referencePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de 2025 es la primera sin el monarca británico como retrato principal.",
-    "factEn": "The 2025 family is the first without the British monarch as its main portrait."
+    "factEn": "The 2025 family is the first without the British monarch as its main portrait.",
+    "photos": {
+      "front": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/20-front_0001_0001-copy.jpg?sfvrsn=7e99a3b0_4",
+      "back": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/20-front_0001-copy.jpg?sfvrsn=28dffe7a_4",
+      "provider": "Central Bank of Belize",
+      "sourcePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_20",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen, original markings retained."
+    }
   },
   {
     "id": "bz-50",
@@ -13194,12 +13405,27 @@
     "value": 50,
     "series": "Héroes nacionales · 2025",
     "seriesEn": "National Heroes · 2025",
-    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
+    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_50",
     "referencePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de 2025 es la primera sin el monarca británico como retrato principal.",
-    "factEn": "The 2025 family is the first without the British monarch as its main portrait."
+    "factEn": "The 2025 family is the first without the British monarch as its main portrait.",
+    "photos": {
+      "front": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/50-front_0001-copy.jpg?sfvrsn=4146f0b4_4",
+      "back": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/50-back_0001-copy.jpg?sfvrsn=9e0bde49_4",
+      "provider": "Central Bank of Belize",
+      "sourcePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_50",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen, original markings retained."
+    }
   },
   {
     "id": "bz-100",
@@ -13207,12 +13433,27 @@
     "value": 100,
     "series": "Héroes nacionales · 2025",
     "seriesEn": "National Heroes · 2025",
-    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
+    "officialPage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_100",
     "referencePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de 2025 es la primera sin el monarca británico como retrato principal.",
-    "factEn": "The 2025 family is the first without the British monarch as its main portrait."
+    "factEn": "The 2025 family is the first without the British monarch as its main portrait.",
+    "photos": {
+      "front": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/100-front_0001-copy.jpg?sfvrsn=9ffef328_4",
+      "back": "https://www.centralbank.org.bz/images/default-source/new-currency/specimen-notes/100-back_0001-copy.jpg?sfvrsn=5c1529c8_4",
+      "provider": "Central Bank of Belize",
+      "sourcePage": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_100",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen, original markings retained."
+    }
   },
   {
     "id": "np-5",
@@ -13896,12 +14137,26 @@
     "value": 0.25,
     "series": "Sexta emisión · 2014",
     "seriesEn": "Sixth issue · 2014",
-    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/quarter-kd-note",
     "referencePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes comparten motivos de la bandera nacional y marcas táctiles.",
-    "factEn": "The notes share flag motifs and tactile features."
+    "factEn": "The notes share flag motifs and tactile features.",
+    "photos": {
+      "front": "https://www.cbk.gov.kw/en/images/detail-image-front-1x-137664_v20_tcm10-137664.jpg",
+      "back": "https://www.cbk.gov.kw/en/images/detail-image-back-1x-137660_v20_tcm10-137660.jpg",
+      "provider": "Central Bank of Kuwait",
+      "sourcePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/quarter-kd-note",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "kw-0.5",
@@ -13909,12 +14164,26 @@
     "value": 0.5,
     "series": "Sexta emisión · 2014",
     "seriesEn": "Sixth issue · 2014",
-    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/half-kd-note",
     "referencePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes comparten motivos de la bandera nacional y marcas táctiles.",
-    "factEn": "The notes share flag motifs and tactile features."
+    "factEn": "The notes share flag motifs and tactile features.",
+    "photos": {
+      "front": "https://www.cbk.gov.kw/en/images/detail-image-front-1x-137598_v20_tcm10-137598.jpg",
+      "back": "https://www.cbk.gov.kw/en/images/detail-image-back-1x-137594_v20_tcm10-137594.jpg",
+      "provider": "Central Bank of Kuwait",
+      "sourcePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/half-kd-note",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "kw-1",
@@ -13922,12 +14191,26 @@
     "value": 1,
     "series": "Sexta emisión · 2014",
     "seriesEn": "Sixth issue · 2014",
-    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/one-kd-note",
     "referencePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes comparten motivos de la bandera nacional y marcas táctiles.",
-    "factEn": "The notes share flag motifs and tactile features."
+    "factEn": "The notes share flag motifs and tactile features.",
+    "photos": {
+      "front": "https://www.cbk.gov.kw/en/images/detail-image-front-1x-137334_v20_tcm10-137334.jpg",
+      "back": "https://www.cbk.gov.kw/en/images/detail-image-back-1x-137330_v20_tcm10-137330.jpg",
+      "provider": "Central Bank of Kuwait",
+      "sourcePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/one-kd-note",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "kw-5",
@@ -13935,12 +14218,26 @@
     "value": 5,
     "series": "Sexta emisión · 2014",
     "seriesEn": "Sixth issue · 2014",
-    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/five-kd-note",
     "referencePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes comparten motivos de la bandera nacional y marcas táctiles.",
-    "factEn": "The notes share flag motifs and tactile features."
+    "factEn": "The notes share flag motifs and tactile features.",
+    "photos": {
+      "front": "https://www.cbk.gov.kw/en/images/detail-image-front-1x-137532_v20_tcm10-137532.jpg",
+      "back": "https://www.cbk.gov.kw/en/images/detail-image-back-1x-137528_v20_tcm10-137528.jpg",
+      "provider": "Central Bank of Kuwait",
+      "sourcePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/five-kd-note",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "kw-10",
@@ -13948,12 +14245,26 @@
     "value": 10,
     "series": "Sexta emisión · 2014",
     "seriesEn": "Sixth issue · 2014",
-    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/ten-kd-note",
     "referencePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes comparten motivos de la bandera nacional y marcas táctiles.",
-    "factEn": "The notes share flag motifs and tactile features."
+    "factEn": "The notes share flag motifs and tactile features.",
+    "photos": {
+      "front": "https://www.cbk.gov.kw/en/images/detail-image-front-1x-137432_v20_tcm10-137432.jpg",
+      "back": "https://www.cbk.gov.kw/en/images/detail-image-back-1x-137428_v20_tcm10-137428.jpg",
+      "provider": "Central Bank of Kuwait",
+      "sourcePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/ten-kd-note",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "kw-20",
@@ -13961,12 +14272,26 @@
     "value": 20,
     "series": "Sexta emisión · 2014",
     "seriesEn": "Sixth issue · 2014",
-    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
+    "officialPage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/twenty-kd-note",
     "referencePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes comparten motivos de la bandera nacional y marcas táctiles.",
-    "factEn": "The notes share flag motifs and tactile features."
+    "factEn": "The notes share flag motifs and tactile features.",
+    "photos": {
+      "front": "https://www.cbk.gov.kw/en/images/detail-image-front-1x-137192_v40_tcm10-137192.jpg",
+      "back": "https://www.cbk.gov.kw/en/images/detail-image-back-1x-137191_v40_tcm10-137191.jpg",
+      "provider": "Central Bank of Kuwait",
+      "sourcePage": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/twenty-kd-note",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "bh-0.5",
@@ -14041,10 +14366,29 @@
     "seriesEn": "Fifth issue · 2022–2023",
     "officialPage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
     "referencePage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La quinta familia mejora las marcas de identificación táctil.",
-    "factEn": "The fifth family improves tactile identification features."
+    "factEn": "The fifth family improves tactile identification features.",
+    "photos": {
+      "front": "1 One Dinar Front (2022).png",
+      "back": "1 One Dinar Back(2022).png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1_One_Dinar_Front_(2022).png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames are listed in Wikimedia Commons category Banknotes of Jordan; 400px wide; not visually inspected."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:1_One_Dinar_Front_(2022).png",
+      "back": "https://commons.wikimedia.org/wiki/File:1_One_Dinar_Back(2022).png"
+    }
   },
   {
     "id": "jo-5",
@@ -14054,10 +14398,29 @@
     "seriesEn": "Fifth issue · 2022–2023",
     "officialPage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
     "referencePage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La quinta familia mejora las marcas de identificación táctil.",
-    "factEn": "The fifth family improves tactile identification features."
+    "factEn": "The fifth family improves tactile identification features.",
+    "photos": {
+      "front": "5 Five Dinars Front (2022).png",
+      "back": "5 Five Dinars Back (2022).png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:5_Five_Dinars_Front_(2022).png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames are listed in Wikimedia Commons category Banknotes of Jordan; 400px wide; not visually inspected."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:5_Five_Dinars_Front_(2022).png",
+      "back": "https://commons.wikimedia.org/wiki/File:5_Five_Dinars_Back_(2022).png"
+    }
   },
   {
     "id": "jo-10",
@@ -14067,10 +14430,29 @@
     "seriesEn": "Fifth issue · 2022–2023",
     "officialPage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
     "referencePage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La quinta familia mejora las marcas de identificación táctil.",
-    "factEn": "The fifth family improves tactile identification features."
+    "factEn": "The fifth family improves tactile identification features.",
+    "photos": {
+      "front": "10 Ten Dinars Front (2022).png",
+      "back": "10 Ten Dinars Back (2022).png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:10_Ten_Dinars_Front_(2022).png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames are listed in Wikimedia Commons category Banknotes of Jordan; 400px wide; not visually inspected."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:10_Ten_Dinars_Front_(2022).png",
+      "back": "https://commons.wikimedia.org/wiki/File:10_Ten_Dinars_Back_(2022).png"
+    }
   },
   {
     "id": "jo-20",
@@ -14080,10 +14462,29 @@
     "seriesEn": "Fifth issue · 2022–2023",
     "officialPage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
     "referencePage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La quinta familia mejora las marcas de identificación táctil.",
-    "factEn": "The fifth family improves tactile identification features."
+    "factEn": "The fifth family improves tactile identification features.",
+    "photos": {
+      "front": "20 Twenty Dinars Front (2022).png",
+      "back": "20 Twenty Dinars Back (2022).png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20_Twenty_Dinars_Front_(2022).png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames are listed in Wikimedia Commons category Banknotes of Jordan; 400px wide; not visually inspected."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:20_Twenty_Dinars_Front_(2022).png",
+      "back": "https://commons.wikimedia.org/wiki/File:20_Twenty_Dinars_Back_(2022).png"
+    }
   },
   {
     "id": "jo-50",
@@ -14093,10 +14494,29 @@
     "seriesEn": "Fifth issue · 2022–2023",
     "officialPage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
     "referencePage": "https://cbj.gov.jo/EN/List/The_Fifth_Issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La quinta familia mejora las marcas de identificación táctil.",
-    "factEn": "The fifth family improves tactile identification features."
+    "factEn": "The fifth family improves tactile identification features.",
+    "photos": {
+      "front": "50 Fifty Dinars Front (2022).png",
+      "back": "50 Fifty Dinars Back (2022).png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:50_Fifty_Dinars_Front_(2022).png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Both exact filenames are listed in Wikimedia Commons category Banknotes of Jordan; 400px wide; not visually inspected."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:50_Fifty_Dinars_Front_(2022).png",
+      "back": "https://commons.wikimedia.org/wiki/File:50_Fifty_Dinars_Back_(2022).png"
+    }
   },
   {
     "id": "iq-250",
