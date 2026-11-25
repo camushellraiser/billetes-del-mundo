@@ -94,8 +94,8 @@
   ],
   "coverageReport": "docs/photo-completion-v2.5.2.md",
   "photoReferencePairs": 460,
-  "contactSheetCroppedPairs": 179,
-  "individualImagePairs": 281,
+  "contactSheetCroppedPairs": 109,
+  "individualImagePairs": 351,
   "unverifiedExternalAvailability": true,
   "sourceVisuallyConfirmedPairs": 208,
   "browserVerifiedPairs": null
