@@ -13225,10 +13225,25 @@
     "seriesEn": "CRISP Evolution",
     "officialPage": "https://www.centralbankbahamas.com/banknotes",
     "referencePage": "https://www.centralbankbahamas.com/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El catálogo del emisor incluye los inusuales billetes de medio dólar y tres dólares.",
-    "factEn": "The issuer's catalogue includes unusual half-dollar and three-dollar notes."
+    "factEn": "The issuer's catalogue includes unusual half-dollar and three-dollar notes.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Bahamas_CBB_10_dollars_2022.00.00_B356a_PNL_A_0053434_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Bahamas_CBB_10_dollars_2022.00.00_B356a_PNL_A_0053434_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38326",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images visually checked for denomination and side. Confirmed 2022 issue; the reported November 2026 issue has not yet been confirmed by the source. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bs-20",
@@ -14047,10 +14062,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Pakistan_SBP_20_rupees_2025.00.00_B233y_P55_PT_0902569_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Pakistan_SBP_20_rupees_2025.00.00_B233y_P55_PT_0902569_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49082",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; HTTP 429 on both direct image requests, visual inspection pending. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "pk-50",
@@ -14060,10 +14090,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Pakistan_SBP_50_rupees_2025.00.00_B234x_P47_ADD_0058469_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Pakistan_SBP_50_rupees_2025.00.00_B234x_P47_ADD_0058469_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49078",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; HTTP 429 on both direct image requests, visual inspection pending. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "pk-75",
@@ -14101,10 +14146,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_100_rupees_2025.00.00_B235z_P48_AKU_2873888_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_100_rupees_2025.00.00_B235z_P48_AKU_2873888_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47809",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; HTTP 429 on both direct image requests, visual inspection pending. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "pk-500",
@@ -14114,10 +14174,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_500_rupees_2025.00.00_B237w_P49A_XS_6751089_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_500_rupees_2025.00.00_B237w_P49A_XS_6751089_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47917",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; HTTP 429 on both direct image requests, visual inspection pending. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "pk-1000",
@@ -14127,10 +14202,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_1000_rupees_2025.00.00_B238z_P50_AQF_0868531_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_1000_rupees_2025.00.00_B238z_P50_AQF_0868531_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47921",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; HTTP 429 on both direct image requests, visual inspection pending. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "pk-5000",
@@ -14140,10 +14230,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_5000_rupees_2025.00.00_B239u_P51_HU_13333531_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/09/Pakistan_SBP_5000_rupees_2025.00.00_B239u_P51_HU_13333531_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47913",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; HTTP 429 on both direct image requests, visual inspection pending. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-1",
@@ -15202,10 +15307,25 @@
     "seriesEn": "Current family · recent issues",
     "officialPage": "https://www.bct.gov.tn/",
     "referencePage": "https://www.bct.gov.tn/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Cuatro denominaciones de billetes forman el conjunto habitual de circulación.",
-    "factEn": "Four banknote denominations form the usual circulating set."
+    "factEn": "Four banknote denominations form the usual circulating set.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/04/Tunisia_BCT_5_dinars_2025.07.25_B537b_PNL_C-7_4680959_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/04/Tunisia_BCT_5_dinars_2025.07.25_B537b_PNL_C-7_4680959_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49832",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images visually checked for denomination and side. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "tn-10",
@@ -15215,10 +15335,25 @@
     "seriesEn": "Current family · recent issues",
     "officialPage": "https://www.bct.gov.tn/",
     "referencePage": "https://www.bct.gov.tn/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Cuatro denominaciones de billetes forman el conjunto habitual de circulación.",
-    "factEn": "Four banknote denominations form the usual circulating set."
+    "factEn": "Four banknote denominations form the usual circulating set.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/10/Tunisia_BCT_10_dinars_2025.07.25_B538b_PNL_D-37_7612637_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2020/06/Tunisia_BCT_10_dinars_2020.03.20_B538a_PNL_D-1_2475999_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48131",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images visually checked for denomination and side. Front dated 2025, reverse dated 2020 variant as linked by publisher; same design, different physical notes. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "tn-20",
@@ -15228,10 +15363,25 @@
     "seriesEn": "Current family · recent issues",
     "officialPage": "https://www.bct.gov.tn/",
     "referencePage": "https://www.bct.gov.tn/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Cuatro denominaciones de billetes forman el conjunto habitual de circulación.",
-    "factEn": "Four banknote denominations form the usual circulating set."
+    "factEn": "Four banknote denominations form the usual circulating set.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/04/Tunisia_BCT_20_dinars_2025.07.25_B539b_P97_E-67_0433247_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/04/Tunisia_BCT_20_dinars_2025.07.25_B539b_P97_E-67_0433247_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49730",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images visually checked for denomination and side. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "tn-50",
@@ -15241,9 +15391,24 @@
     "seriesEn": "Current family · recent issues",
     "officialPage": "https://www.bct.gov.tn/",
     "referencePage": "https://www.bct.gov.tn/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Cuatro denominaciones de billetes forman el conjunto habitual de circulación.",
-    "factEn": "Four banknote denominations form the usual circulating set."
+    "factEn": "Four banknote denominations form the usual circulating set.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/06/Tunisia_BCT_50_dinars_2022.03.20_B540a_PNL_G-1_0947678_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/06/Tunisia_BCT_50_dinars_2022.03.20_B540a_PNL_G-1_0947678_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36303",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images visually checked for denomination and side. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
   }
 ]
