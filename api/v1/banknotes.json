@@ -2471,66 +2471,171 @@
     "id": "th-20",
     "countryId": "th",
     "value": 20,
-    "series": "Emisión actual",
-    "seriesEn": "Emisión actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 17 · polímero 2022",
+    "seriesEn": "Serie 17 · polímero 2022",
+    "photos": {
+      "front": "https://i.ebayimg.com/00/s/MTYwMFgxNTE1/z/SekAAOSweV9labEV/%24_57.PNG?set_id=880000500F",
+      "back": "https://i.ebayimg.com/00/s/MTYwMFgxNTE1/z/SekAAOSweV9labEV/%24_57.PNG?set_id=880000500F",
+      "crop": {
+        "front": [
+          0.015,
+          0.014,
+          0.97,
+          0.482
+        ],
+        "back": [
+          0.015,
+          0.508,
+          0.97,
+          0.48
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete tailandés actual",
+      "sourcePage": "https://www.ebay.com/itm/166471859227",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
     "fact": "Diseño actual: 20 baht en polímero. Consulta las imágenes en el Banco de Tailandia.",
     "factEn": "Current design: 20 baht polymer. See the images at the Bank of Thailand.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "th-50",
     "countryId": "th",
     "value": 50,
-    "series": "Emisión actual",
-    "seriesEn": "Emisión actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 17 · polímero 2025",
+    "seriesEn": "Serie 17 · polímero 2025",
+    "photos": {
+      "front": "https://www.cndukat.pl/userdata/public/gfx/28000/Banknot-Tajlandia-50-Baht-2025-r.-Polimer-UNC.jpg",
+      "back": "https://www.cndukat.pl/userdata/public/gfx/28000/Banknot-Tajlandia-50-Baht-2025-r.-Polimer-UNC.jpg",
+      "crop": {
+        "front": [
+          0.068,
+          0.049,
+          0.864,
+          0.422
+        ],
+        "back": [
+          0.068,
+          0.506,
+          0.864,
+          0.438
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete tailandés actual",
+      "sourcePage": "https://www.cndukat.pl/pl/p/Tajlandia-50-Baht-2025-r.-Polimer-UNC/15161",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
     "fact": "Diseño actual: 50 baht en polímero. Consulta las imágenes en el Banco de Tailandia.",
     "factEn": "Current design: 50 baht polymer. See the images at the Bank of Thailand.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "th-100",
     "countryId": "th",
     "value": 100,
-    "series": "Emisión actual",
-    "seriesEn": "Emisión actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 17 · polímero 2025",
+    "seriesEn": "Serie 17 · polímero 2025",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ExQAAeSw5O1pLlHG/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ExQAAeSw5O1pLlHG/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.047,
+          0.043,
+          0.922,
+          0.453
+        ],
+        "back": [
+          0.047,
+          0.499,
+          0.922,
+          0.456
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete tailandés actual",
+      "sourcePage": "https://www.ebay.com/itm/389319094368",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
     "fact": "Diseño actual: 100 baht en polímero. Consulta las imágenes en el Banco de Tailandia.",
     "factEn": "Current design: 100 baht polymer. See the images at the Bank of Thailand.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "th-500",
     "countryId": "th",
     "value": 500,
-    "series": "Emisión actual",
-    "seriesEn": "Emisión actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 17 · papel 2018",
+    "seriesEn": "Serie 17 · papel 2018",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/7EAAAOSwtw1mVzWn/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/7EAAAOSwtw1mVzWn/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.015,
+          0.01,
+          0.969,
+          0.455
+        ],
+        "back": [
+          0.015,
+          0.478,
+          0.969,
+          0.506
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete tailandés actual",
+      "sourcePage": "https://www.ebay.com/itm/235585570469",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
     "fact": "Diseño actual: 500 baht de la serie actual. Consulta las imágenes en el Banco de Tailandia.",
     "factEn": "Current design: 500 baht current issue. See the images at the Bank of Thailand.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "th-1000",
     "countryId": "th",
     "value": 1000,
-    "series": "Emisión actual",
-    "seriesEn": "Emisión actual",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie 17 · papel 2018",
+    "seriesEn": "Serie 17 · papel 2018",
+    "photos": {
+      "front": "https://www.jeromecollection.com/8661-thickbox_default/thailande-billet-de-1000-baht-roi-rama-x-2018.jpg",
+      "back": "https://www.jeromecollection.com/8661-thickbox_default/thailande-billet-de-1000-baht-roi-rama-x-2018.jpg",
+      "crop": {
+        "front": [
+          0.014,
+          0.048,
+          0.972,
+          0.443
+        ],
+        "back": [
+          0.014,
+          0.51,
+          0.972,
+          0.443
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete tailandés actual",
+      "sourcePage": "https://www.jeromecollection.com/5453-thailande-billet-de-1000-baht-roi-rama-x-2018.html",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/current-series-of-banknotes.html",
     "fact": "Diseño actual: 1000 baht de la serie actual. Consulta las imágenes en el Banco de Tailandia.",
     "factEn": "Current design: 1000 baht current issue. See the images at the Bank of Thailand.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "sg-2",
