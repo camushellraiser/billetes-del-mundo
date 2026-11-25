@@ -5,8 +5,30 @@
     "value": 20,
     "series": "Familia G",
     "seriesEn": "Familia G",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "crop": {
+        "front": [
+          0.207,
+          0.045,
+          0.28,
+          0.146
+        ],
+        "back": [
+          0.517,
+          0.045,
+          0.28,
+          0.146
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — Familia G completa",
+      "sourcePage": "https://www.robertsworldmoney.com/products/mexico-full-set-20-1000-pesos-familia-g-2019-2023-b714a-b718-b726-unc",
+      "display": "external_contact_sheet",
+      "sourceType": "collector_photo"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-20-pesos-conmemorat.html",
     "fact": "La entrada del Ejército de las Tres Garantías a la Ciudad de México, en 1821.",
     "factEn": "The Army of the Three Guarantees entering Mexico City in 1821.",
@@ -14,7 +36,7 @@
     "backDescription": "Un cocodrilo mexicano y una garza chocolatera en Sian Ka’an.",
     "frontDescriptionEn": "The Army of the Three Guarantees entering Mexico City in 1821.",
     "backDescriptionEn": "A Mexican crocodile and a reddish egret in Sian Ka’an.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "mx-50",
@@ -22,8 +44,30 @@
     "value": 50,
     "series": "Familia G",
     "seriesEn": "Familia G",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "crop": {
+        "front": [
+          0.193,
+          0.201,
+          0.295,
+          0.147
+        ],
+        "back": [
+          0.512,
+          0.201,
+          0.29,
+          0.147
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — Familia G completa",
+      "sourcePage": "https://www.robertsworldmoney.com/products/mexico-full-set-20-1000-pesos-familia-g-2019-2023-b714a-b718-b726-unc",
+      "display": "external_contact_sheet",
+      "sourceType": "collector_photo"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-50-pesos-familia-g.html",
     "fact": "El México antiguo y la ciudad de Tenochtitlan.",
     "factEn": "Ancient Mexico and the city of Tenochtitlan.",
@@ -31,7 +75,7 @@
     "backDescription": "Un ajolote y el maíz en los canales de Xochimilco.",
     "frontDescriptionEn": "Ancient Mexico and the city of Tenochtitlan.",
     "backDescriptionEn": "An axolotl and corn in the Xochimilco canals.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "mx-100",
@@ -39,8 +83,30 @@
     "value": 100,
     "series": "Familia G",
     "seriesEn": "Familia G",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "crop": {
+        "front": [
+          0.182,
+          0.356,
+          0.309,
+          0.148
+        ],
+        "back": [
+          0.506,
+          0.356,
+          0.305,
+          0.148
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — Familia G completa",
+      "sourcePage": "https://www.robertsworldmoney.com/products/mexico-full-set-20-1000-pesos-familia-g-2019-2023-b714a-b718-b726-unc",
+      "display": "external_contact_sheet",
+      "sourceType": "collector_photo"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-100-pesos-familia-g.html",
     "fact": "Sor Juana Inés de la Cruz y el antiguo Colegio de San Ildefonso.",
     "factEn": "Sor Juana Inés de la Cruz and the historic Colegio de San Ildefonso.",
@@ -48,7 +114,7 @@
     "backDescription": "Mariposas monarca en los bosques de Michoacán y del Estado de México.",
     "frontDescriptionEn": "Sor Juana Inés de la Cruz and the historic Colegio de San Ildefonso.",
     "backDescriptionEn": "Monarch butterflies in the forests of central Mexico.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "mx-200",
@@ -56,8 +122,30 @@
     "value": 200,
     "series": "Familia G",
     "seriesEn": "Familia G",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "crop": {
+        "front": [
+          0.173,
+          0.514,
+          0.319,
+          0.138
+        ],
+        "back": [
+          0.501,
+          0.514,
+          0.323,
+          0.138
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — Familia G completa",
+      "sourcePage": "https://www.robertsworldmoney.com/products/mexico-full-set-20-1000-pesos-familia-g-2019-2023-b714a-b718-b726-unc",
+      "display": "external_contact_sheet",
+      "sourceType": "collector_photo"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-200-pesos-familia-g.html",
     "fact": "Miguel Hidalgo, José María Morelos y la Campana de Dolores.",
     "factEn": "Miguel Hidalgo, José María Morelos and the Bell of Dolores.",
@@ -65,7 +153,7 @@
     "backDescription": "Un águila real y el Gran Desierto de Altar, en Sonora.",
     "frontDescriptionEn": "Miguel Hidalgo, José María Morelos and the Bell of Dolores.",
     "backDescriptionEn": "A golden eagle and the Gran Desierto de Altar in Sonora.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "mx-500",
@@ -73,8 +161,30 @@
     "value": 500,
     "series": "Familia G",
     "seriesEn": "Familia G",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "crop": {
+        "front": [
+          0.152,
+          0.662,
+          0.342,
+          0.134
+        ],
+        "back": [
+          0.498,
+          0.662,
+          0.33,
+          0.134
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — Familia G completa",
+      "sourcePage": "https://www.robertsworldmoney.com/products/mexico-full-set-20-1000-pesos-familia-g-2019-2023-b714a-b718-b726-unc",
+      "display": "external_contact_sheet",
+      "sourceType": "collector_photo"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-500-pesos-familia-g-c.html",
     "fact": "Benito Juárez y el periodo de la Reforma.",
     "factEn": "Benito Juárez and Mexico’s Reform era.",
@@ -82,7 +192,7 @@
     "backDescription": "Una ballena gris con su cría en la Reserva de El Vizcaíno.",
     "frontDescriptionEn": "Benito Juárez and Mexico’s Reform era.",
     "backDescriptionEn": "A gray whale and calf in the El Vizcaíno reserve.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "mx-1000",
@@ -90,8 +200,30 @@
     "value": 1000,
     "series": "Familia G",
     "seriesEn": "Familia G",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/Mexico_Set_B714-B726_w_fr.jpg?v=1704076472",
+      "crop": {
+        "front": [
+          0.131,
+          0.808,
+          0.365,
+          0.147
+        ],
+        "back": [
+          0.496,
+          0.808,
+          0.37,
+          0.147
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — Familia G completa",
+      "sourcePage": "https://www.robertsworldmoney.com/products/mexico-full-set-20-1000-pesos-familia-g-2019-2023-b714a-b718-b726-unc",
+      "display": "external_contact_sheet",
+      "sourceType": "collector_photo"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.banxico.org.mx/billetes-y-monedas/billete-1000-pesos-familia-.html",
     "fact": "Francisco I. Madero, Hermila Galindo y Carmen Serdán.",
     "factEn": "Francisco I. Madero, Hermila Galindo and Carmen Serdán.",
@@ -99,7 +231,7 @@
     "backDescription": "Un jaguar en la selva de Calakmul, Campeche.",
     "frontDescriptionEn": "Francisco I. Madero, Hermila Galindo and Carmen Serdán.",
     "backDescriptionEn": "A jaguar in the Calakmul rainforest in Campeche.",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "us-1",
@@ -3148,10 +3280,32 @@
     "id": "ph-200",
     "countryId": "ph",
     "value": 200,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "New Generation Currency · papel",
+    "seriesEn": "New Generation Currency · papel",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/5GQAAeSw7XRof2GT/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/5GQAAeSw7XRof2GT/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.053,
+          0.101,
+          0.91,
+          0.35
+        ],
+        "back": [
+          0.053,
+          0.545,
+          0.91,
+          0.35
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete filipino de 200 pesos, serie NGC",
+      "sourcePage": "https://www.ebay.com/itm/126923620348",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ph-500",
