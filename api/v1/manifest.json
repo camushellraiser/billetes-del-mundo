@@ -1,7 +1,7 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.6",
-  "lastReviewed": "2026-11-24",
+  "version": "2.4.7",
+  "lastReviewed": "2026-11-25",
   "countryCount": 70,
   "banknoteCount": 412,
   "imagePolicy": "412 pairs registered; 25 added in v2.4.6, 15 opened and visually inspected on both sides, 10 directly linked but at least one side returned HTTP 429. No complete browser load test. Some designs are older printings of circulating families.",
@@ -83,7 +83,7 @@
     "fj",
     "pg"
   ],
-  "coverageReport": "docs/photo-completion-v2.4.6.md",
+  "coverageReport": "docs/image-loading-v2.4.7.md",
   "photoReferencePairs": 412,
   "contactSheetCroppedPairs": 109,
   "individualImagePairs": 303,

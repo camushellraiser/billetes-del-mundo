@@ -12,12 +12,8 @@ const name=c=>state.lang==="en"?c.nameEn:c.name;
 const currency=c=>state.lang==="en"?c.currencyNameEn:c.currencyName;
 const noteFor=(countryId,value)=>state.notes.find(n=>n.countryId===countryId&&Number(n.value)===Number(value));
 const hasPictures=id=>state.notes.some(n=>n.countryId===id&&n.photos?.verified);
-const fileUrl=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(f)+"?width=1100";
+const {fileUrl,load:loadPhoto,data:loadCatalog}=window.BDMImages;
 let photoRequest=0,dialogRequest=0;
-function loadPhoto(img,url,onLoad,onError){
- let settled=false;const finish=ok=>{if(settled)return;settled=true;clearTimeout(timer);img.onload=null;img.onerror=null;ok?onLoad():onError();};
- const timer=setTimeout(()=>finish(false),15000);img.onload=()=>finish(img.naturalWidth>0&&img.naturalHeight>0);img.onerror=()=>finish(false);img.src=url;
-}
 const commonsPage=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(f).replace(/%20/g,"_");
 function cropSheetPhoto(img,rect,kind="detail"){
  const [x,y,w,h]=rect.map(Number);
@@ -36,14 +32,10 @@ function cropSheetPhoto(img,rect,kind="detail"){
 }
 function enhanceCardPhotos(){
  document.querySelectorAll(".country-card-thumb[data-photo-id]").forEach(host=>{
-  const n=state.notes.find(x=>x.id===host.dataset.photoId);
-  if(!n?.photos?.crop)return;
-  const img=host.querySelector("img");
-  if(!img)return;
-  const loaded=()=>{if(host.isConnected&&!host.querySelector(".banknote-crop"))host.replaceChildren(cropSheetPhoto(img,n.photos.crop.front,"thumb"));};
-  img.addEventListener("load",loaded,{once:true});
-  img.addEventListener("error",()=>host.remove(),{once:true});
-  if(img.complete&&img.naturalWidth)loaded();
+  const featured=state.notes.find(x=>x.id===host.dataset.photoId);if(!featured)return;
+  const alternatives=[featured,...state.notes.filter(n=>n.countryId===featured.countryId&&n.id!==featured.id&&n.photos?.front)].slice(0,3);
+  const start=()=>{if(!host.isConnected)return;let i=0;function next(){if(!host.isConnected)return;const n=alternatives[i++];if(!n){host.remove();return;}const img=new Image();img.alt="";loadPhoto(img,n.photos.front,()=>{if(host.isConnected)host.replaceChildren(n.photos.crop?.front?cropSheetPhoto(img,n.photos.crop.front,"thumb"):img);},next,{retry:false});}next();};
+  if("IntersectionObserver" in window){const observer=new IntersectionObserver(entries=>{if(entries.some(x=>x.isIntersecting)){observer.disconnect();start();}else if(!host.isConnected)observer.disconnect();},{rootMargin:"120px"});observer.observe(host);}else start();
  });
 }
 const pretty=(country,value)=>{const val=new Intl.NumberFormat(state.lang==="es"?"es-MX":"en-US").format(value);return country.symbol==="CHF"?`CHF ${val}`:country.symbol==="kr"?`${val} kr`:country.symbol==="DH"?`${val} DH`:["Kč","Ft","lei","ден","soʻm","KM"].includes(country.symbol)?`${val} ${country.symbol}`:["AED","SAR","QAR","RSD"].includes(country.symbol)?`${country.symbol} ${val}`:`${country.symbol}${val}`;};
@@ -75,7 +67,7 @@ function renderGrid(){
  $("country-grid").innerHTML=list.map(c=>{
   const photoCount=state.notes.filter(n=>n.countryId===c.id&&n.photos?.verified).length;
    const featured=state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
-  const preview=featured?`<span class="country-card-thumb" data-photo-id="${featured.id}" aria-hidden="true"><img loading="lazy" decoding="async" src="${fileUrl(featured.photos.front)}" alt=""></span>`:"";
+  const preview=featured?`<span class="country-card-thumb" data-photo-id="${featured.id}" aria-hidden="true"></span>`:"";
   return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" aria-label="${photoCount} de ${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
  }).join("");
  $("empty-state").hidden=list.length>0;
@@ -125,6 +117,7 @@ const info=state.lang==="es"?(state.side==="front"?(n.frontDescription||n.fact):
 $("note-story").hidden=!info;
 $("note-story-label").textContent=tr("storyHeading")+(n.frontDescription?" · "+tr(state.side):"");
 $("note-story-text").textContent=info||"";
+document.querySelectorAll("[data-image-retry]").forEach(x=>x.remove());
 const ref=$("official-note-link");
 ref.hidden=has||!(n.officialPage||c.officialSource);
 ref.href=n.officialPage||c.officialSource||"#";
@@ -152,7 +145,7 @@ const img=new Image();
 img.referrerPolicy="no-referrer";
 img.decoding="async";
 img.alt=`${state.side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(c,n.value)} · ${name(c)}`;
-loadPhoto(img,fileUrl(n.photos[expectedSide]),()=>{if(request===photoRequest&&state.note?.id===expectedId&&state.side===expectedSide){const node=n.photos.crop?.[expectedSide]?cropSheetPhoto(img,n.photos.crop[expectedSide]):img;display.replaceChildren(node);state.imageOk=true;$("image-status-text").textContent=tr("imageVerified");$("selected-status").textContent=state.lang==="es"?"Imagen cargada en el visor":"Image loaded in viewer";$("zoom-button").disabled=false;}},()=>{if(request===photoRequest&&state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");$("selected-status").textContent=tr("failedImage");state.imageOk=false;const fallback=$("official-note-link");fallback.hidden=false;fallback.href=n.photoSources?.[expectedSide]||n.photos?.sourcePage||n.officialPage||c.officialSource||"#";fallback.textContent=state.lang==="es"?"VER IMAGEN EN LA FUENTE ↗":"VIEW IMAGE AT SOURCE ↗";}});
+loadPhoto(img,n.photos[expectedSide],()=>{if(request===photoRequest&&state.note?.id===expectedId&&state.side===expectedSide){const node=n.photos.crop?.[expectedSide]?cropSheetPhoto(img,n.photos.crop[expectedSide]):img;display.replaceChildren(node);state.imageOk=true;$("image-status-text").textContent=tr("imageVerified");$("selected-status").textContent=state.lang==="es"?"Imagen cargada en el visor":"Image loaded in viewer";$("zoom-button").disabled=false;}},()=>{if(request===photoRequest&&state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");$("selected-status").textContent=tr("failedImage");state.imageOk=false;const fallback=$("official-note-link");fallback.hidden=false;fallback.href=n.photoSources?.[expectedSide]||n.photos?.sourcePage||n.officialPage||c.officialSource||"#";fallback.textContent=state.lang==="es"?"VER IMAGEN EN LA FUENTE ↗":"VIEW IMAGE AT SOURCE ↗";const retry=document.createElement("button");retry.type="button";retry.className="official-preview-link";retry.style.cssText="display:block;margin:8px auto;background:transparent;color:inherit;border:0;cursor:pointer";retry.textContent=state.lang==="es"?"Reintentar imagen":"Retry image";retry.dataset.imageRetry="true";retry.onclick=renderPhoto;fallback.after(retry);}});
 }
 function selectDenom(value){if(!state.country)return;const n=noteFor(state.country.id,value);if(!n)return;state.note=n;state.side="front";renderCountry();}
 function flip(){state.side=state.side==="front"?"back":"front";renderPhoto();if($("image-dialog").open)showDialogImage();}
@@ -166,7 +159,7 @@ function showDialogImage(){
  const img=new Image();
  img.alt=`${side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(state.country,n.value)}`;
  img.decoding="async";img.referrerPolicy="no-referrer";
- loadPhoto(img,fileUrl(n.photos[side]),()=>{
+ loadPhoto(img,n.photos[side],()=>{
   if(request!==dialogRequest||state.note?.id!==n.id||state.side!==side)return;
   stage.replaceChildren(n.photos.crop?.[side]?cropSheetPhoto(img,n.photos.crop[side],"modal"):img);
  },()=>{if(request===dialogRequest&&state.note?.id===n.id&&state.side===side)stage.textContent=state.lang==="es"?"La imagen no está disponible. Consulta la fuente.":"Image unavailable. Please check the source.";});
@@ -180,7 +173,7 @@ $("country-search").addEventListener("keydown",e=>{if(e.key==="Enter"){const lis
 $("verified-only").addEventListener("change",e=>{state.photoOnly=e.target.checked;renderGrid();});
 $("region-filters").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;state.region=b.dataset.region;renderFilters();renderGrid();});
 $("country-grid").addEventListener("click",e=>{const b=e.target.closest("[data-country]");if(b)location.hash=`#/${b.dataset.country}`;});
-$("country-grid").addEventListener("error",e=>{if(e.target.matches(".country-card-thumb img"))e.target.closest(".country-card-thumb")?.remove();},true);
+
 $("denom-buttons").addEventListener("click",e=>{const b=e.target.closest("[data-denom]");if(b)selectDenom(b.dataset.denom);});
 $("front-button").addEventListener("click",()=>{if(state.side!=="front"){state.side="front";renderPhoto();}});
 $("back-button").addEventListener("click",()=>{if(state.side!=="back"){state.side="back";renderPhoto();}});
@@ -196,14 +189,12 @@ window.addEventListener("hashchange",route);
 }
 async function start(){
 try{
-const [a,b]=await Promise.all([fetch(new URL("api/v1/countries.json",base)),fetch(new URL("api/v1/banknotes.json",base))]);
-if(!a.ok||!b.ok)throw new Error("Catalog could not load");
-state.countries=await a.json();state.notes=await b.json();
+[state.countries,state.notes]=await Promise.all([loadCatalog("api/v1/countries.json"),loadCatalog("api/v1/banknotes.json")]);
 $("stat-countries").textContent=String(state.countries.length).padStart(2,"0");
 $("stat-denoms").textContent=String(state.notes.length).padStart(3,"0");
 $("stat-images").textContent=String(state.notes.filter(n=>n.photos?.verified).length).padStart(2,"0");
 for(const [target,id,value] of [["hero-note-img-one","jp",1000],["hero-note-img-two","us",100]]){
-const n=noteFor(id,value);if(n?.photos){const im=new Image();im.onload=()=>$(target).style.backgroundImage=`url("${fileUrl(n.photos.front)}")`;im.src=fileUrl(n.photos.front);}
+const n=noteFor(id,value);if(n?.photos){const im=new Image();loadPhoto(im,n.photos.front,()=>{$(target).style.backgroundImage=`url("${im.currentSrc||im.src}")`;},()=>{},{retry:false});}
 }
 bind();translate();route();
 }catch(err){console.error("Billetes del Mundo:",err);$("country-grid").innerHTML='<p style="padding:30px;color:#d9f5a5">No pudimos cargar la colección. Verifica tu conexión y abre el sitio desde GitHub Pages.</p>';}

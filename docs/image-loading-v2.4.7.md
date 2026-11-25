@@ -1,0 +1,3 @@
+# v2.4.7 — image loading and visual audit
+
+70 destinations and 412 banknotes unchanged. Catalog requests now use no-store and release query parameter. Shared loader retries failing images and uses Wikimedia original-file fallback; thumbnails try up to three banknotes lazily. Audit now shows both sides, source, image dimensions, failures-only filter, stop/retry and JSON export. Three concurrent workers and deduplication of identical file requests reduce pressure on image providers. JS syntax validated, but live browser and Safari execution not verified. No claim that external links were repaired or that all images load. Prior reference review: [v2.4.6](photo-completion-v2.4.6.md).
