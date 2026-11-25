@@ -5242,13 +5242,31 @@
     "id": "is-2000",
     "countryId": "is",
     "value": 2000,
-    "series": "Billetes vigentes",
-    "seriesEn": "Current notes",
-    "imageStatus": "official_reference_only",
+    "series": "1995 · curso legal, en retirada gradual",
+    "seriesEn": "1995 · legal tender, being phased out",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Islandia conserva cinco denominaciones de billetes.",
     "factEn": "Iceland has five denominations of legal-tender banknotes.",
-    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/two-thousand-kr-banknote/"
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/two-thousand-kr-banknote/",
+    "photos": {
+      "front": "https://www.realbanknotes.com/upload/123/Iceland_p57a_2000_Kronur_1995_f.jpg",
+      "back": "https://www.realbanknotes.com/upload/123/Iceland_p57a_2000_Kronur_1995_b.jpg",
+      "provider": "RealBanknotes",
+      "sourcePage": "https://www.realbanknotes.com/banknote/4564-Iceland-p57a-2000-Kronur-from-1995",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Pintor Jóhannes S. Kjarval",
+    "frontDescriptionEn": "Painter Jóhannes S. Kjarval",
+    "backDescription": "Obras de Kjarval",
+    "backDescriptionEn": "Artworks by Kjarval"
   },
   {
     "id": "is-5000",
@@ -5374,23 +5392,61 @@
     "id": "tw-500",
     "countryId": "tw",
     "value": 500,
-    "series": "Serie iniciada en 2000",
-    "seriesEn": "Series introduced in 2000",
-    "imageStatus": "official_reference_only",
+    "series": "Diseño actualizado en 2005",
+    "seriesEn": "Updated design in 2005",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La serie vigente se empezó a emitir en julio de 2000.",
-    "factEn": "The current series began to be issued in July 2000."
+    "factEn": "The current series began to be issued in July 2000.",
+    "photos": {
+      "front": "https://gallery.cbc.gov.tw/child/img/500-a.png",
+      "back": "https://gallery.cbc.gov.tw/child/img/500-b.png",
+      "provider": "Central Bank of Taiwan – digital museum",
+      "sourcePage": "https://gallery.cbc.gov.tw/child/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+    "frontDescription": "Equipo juvenil de béisbol",
+    "frontDescriptionEn": "Youth baseball team",
+    "backDescription": "Ciervo sika de Formosa y monte Dabajian",
+    "backDescriptionEn": "Formosan sika deer and Mount Dabajian"
   },
   {
     "id": "tw-1000",
     "countryId": "tw",
     "value": 1000,
-    "series": "Serie iniciada en 2000",
-    "seriesEn": "Series introduced in 2000",
-    "imageStatus": "official_reference_only",
+    "series": "Diseño actualizado en 2005",
+    "seriesEn": "Updated design in 2005",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La serie vigente se empezó a emitir en julio de 2000.",
-    "factEn": "The current series began to be issued in July 2000."
+    "factEn": "The current series began to be issued in July 2000.",
+    "photos": {
+      "front": "https://gallery.cbc.gov.tw/child/img/1000-a.png",
+      "back": "https://gallery.cbc.gov.tw/child/img/1000-b.png",
+      "provider": "Central Bank of Taiwan – digital museum",
+      "sourcePage": "https://gallery.cbc.gov.tw/child/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+    "frontDescription": "Escolares alrededor de un globo",
+    "frontDescriptionEn": "Schoolchildren around a globe",
+    "backDescription": "Faisán Mikado y monte Yushan",
+    "backDescriptionEn": "Mikado pheasant and Yushan"
   },
   {
     "id": "tw-2000",
@@ -5543,10 +5599,43 @@
     "value": 5,
     "series": "Polímero · 2022",
     "seriesEn": "Polymer · 2022",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/vm5ida3a/aed-5-new-polymer-ar-en.png",
+      "back": "https://centralbank.ae/media/vm5ida3a/aed-5-new-polymer-ar-en.png",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-5-polymer/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.5
+        ],
+        "back": [
+          0,
+          0.5,
+          1,
+          0.5
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-5-polymer/",
+    "frontDescription": "Fuerte de Ajmán",
+    "frontDescriptionEn": "Ajman Fort",
+    "backDescription": "Fuerte de Dhayah",
+    "backDescriptionEn": "Dhayah Fort"
   },
   {
     "id": "ae-10",
@@ -5554,10 +5643,43 @@
     "value": 10,
     "series": "Polímero · 2022",
     "seriesEn": "Polymer · 2022",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/1hdnirga/aed-10-new-polymer-ar-en.png",
+      "back": "https://centralbank.ae/media/1hdnirga/aed-10-new-polymer-ar-en.png",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-10-polymer/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.5
+        ],
+        "back": [
+          0,
+          0.5,
+          1,
+          0.5
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-10-polymer/",
+    "frontDescription": "Gran Mezquita Sheikh Zayed",
+    "frontDescriptionEn": "Sheikh Zayed Grand Mosque",
+    "backDescription": "Anfiteatro de Khor Fakkan",
+    "backDescriptionEn": "Khor Fakkan Amphitheatre"
   },
   {
     "id": "ae-20",
@@ -5565,10 +5687,43 @@
     "value": 20,
     "series": "Papel · 2015",
     "seriesEn": "Paper · 2015",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/pgxj5llt/aed-20-image-1.jpg",
+      "back": "https://centralbank.ae/media/pgxj5llt/aed-20-image-1.jpg",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-20/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.5,
+          0.25,
+          0.5,
+          0.235
+        ],
+        "back": [
+          0.5,
+          0.513,
+          0.5,
+          0.235
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-20/",
+    "frontDescription": "Club de golf y yates de Dubái",
+    "frontDescriptionEn": "Dubai Creek Golf and Yacht Club",
+    "backDescription": "Embarcación tradicional",
+    "backDescriptionEn": "Traditional sailing vessel"
   },
   {
     "id": "ae-50",
@@ -5576,10 +5731,43 @@
     "value": 50,
     "series": "Polímero · 2021",
     "seriesEn": "Polymer · 2021",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/ibdlm4w2/aed-50-newest-ar-en.png",
+      "back": "https://centralbank.ae/media/ibdlm4w2/aed-50-newest-ar-en.png",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-50-polymer/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.5
+        ],
+        "back": [
+          0,
+          0.5,
+          1,
+          0.5
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-50-polymer/",
+    "frontDescription": "Fundadores de la federación",
+    "frontDescriptionEn": "Founders of the federation",
+    "backDescription": "Sheikh Zayed y Museo Etihad",
+    "backDescriptionEn": "Sheikh Zayed and Etihad Museum"
   },
   {
     "id": "ae-100",
@@ -5587,10 +5775,29 @@
     "value": 100,
     "series": "Polímero · 2025",
     "seriesEn": "Polymer · 2025",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/03/United_Arab_Emirates_CBA_100_dirhams_2025.00.00_B249a_PNL_003_646400_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/03/United_Arab_Emirates_CBA_100_dirhams_2025.00.00_B249a_PNL_003_646400_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=46465",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-100-polymer/",
+    "frontDescription": "Fuerte nacional de Umm Al Quwain",
+    "frontDescriptionEn": "Umm Al Quwain National Fort",
+    "backDescription": "Tren Etihad Rail y puerto de Fujairah",
+    "backDescriptionEn": "Etihad Rail train and Fujairah port"
   },
   {
     "id": "ae-200",
@@ -5598,10 +5805,43 @@
     "value": 200,
     "series": "Papel · 2016",
     "seriesEn": "Paper · 2016",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/fhzbtvzt/aed-200-image-2016.jpg",
+      "back": "https://centralbank.ae/media/fhzbtvzt/aed-200-image-2016.jpg",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-200/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.184,
+          0.167,
+          0.627,
+          0.299
+        ],
+        "back": [
+          0.185,
+          0.499,
+          0.625,
+          0.298
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-200/",
+    "frontDescription": "Edificio judicial de Abu Dabi",
+    "frontDescriptionEn": "Abu Dhabi judicial building",
+    "backDescription": "Edificio del banco central",
+    "backDescriptionEn": "Central bank building"
   },
   {
     "id": "ae-500",
@@ -5609,10 +5849,43 @@
     "value": 500,
     "series": "Polímero · 2023",
     "seriesEn": "Polymer · 2023",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/vtih3tdx/500-both-side.jpg",
+      "back": "https://centralbank.ae/media/vtih3tdx/500-both-side.jpg",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-500-polymer/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.504
+        ],
+        "back": [
+          0,
+          0.504,
+          1,
+          0.496
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-500-polymer/",
+    "frontDescription": "Pabellón Terra de Expo City Dubái",
+    "frontDescriptionEn": "Terra Pavilion, Expo City Dubai",
+    "backDescription": "Museo del Futuro y Burj Khalifa",
+    "backDescriptionEn": "Museum of the Future and Burj Khalifa"
   },
   {
     "id": "ae-1000",
@@ -5620,10 +5893,43 @@
     "value": 1000,
     "series": "Polímero · 2022",
     "seriesEn": "Polymer · 2022",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
-    "factEn": "The polymer 100-dirham note was issued in 2025."
+    "factEn": "The polymer 100-dirham note was issued in 2025.",
+    "photos": {
+      "front": "https://centralbank.ae/media/efybw0d5/1000-bill.png",
+      "back": "https://centralbank.ae/media/efybw0d5/1000-bill.png",
+      "provider": "Central Bank of the UAE",
+      "sourcePage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-1000-polymer/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.007,
+          0.044,
+          0.984,
+          0.451
+        ],
+        "back": [
+          0.007,
+          0.505,
+          0.984,
+          0.451
+        ]
+      }
+    },
+    "officialPage": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-1000-polymer/",
+    "frontDescription": "Sheikh Zayed y exploración espacial",
+    "frontDescriptionEn": "Sheikh Zayed and space exploration",
+    "backDescription": "Central nuclear de Barakah",
+    "backDescriptionEn": "Barakah nuclear power plant"
   },
   {
     "id": "sa-5",
@@ -5893,77 +6199,211 @@
     "id": "qa-1",
     "countryId": "qa",
     "value": 1,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2025",
+    "seriesEn": "Fifth issue · 2025",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/10/Qatar_QCB_1_riyal_2025.00.00_B219c_PNL_Z-248_688903_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/10/Qatar_QCB_1_riyal_2025.00.00_B219c_PNL_Z-248_688903_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48002",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Monumento de la perla y barco tradicional",
+    "backDescriptionEn": "Pearl Monument and traditional dhow"
   },
   {
     "id": "qa-5",
     "countryId": "qa",
     "value": 5,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2025",
+    "seriesEn": "Fifth issue · 2025",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/Qatar_QCB_5_riyals_2025.00.00_B227a_PNL_W-119_018726_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/Qatar_QCB_5_riyals_2025.00.00_B227a_PNL_W-119_018726_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50040",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Fauna del desierto y tienda tradicional",
+    "backDescriptionEn": "Desert wildlife and traditional tent"
   },
   {
     "id": "qa-10",
     "countryId": "qa",
     "value": 10,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2025",
+    "seriesEn": "Fifth issue · 2025",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/Qatar_QCB_10_riyals_2025.00.00_B228a_PNL_H-141_645978_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/Qatar_QCB_10_riyals_2025.00.00_B228a_PNL_H-141_645978_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50044",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Instalaciones deportivas y Aspire Tower",
+    "backDescriptionEn": "Sports facilities and Aspire Tower"
   },
   {
     "id": "qa-50",
     "countryId": "qa",
     "value": 50,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2026",
+    "seriesEn": "Fifth issue · 2026",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/Qatar_QCB_50_riyals_2026.00.00_B229a_PNL_A-1_012345_digital_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/Qatar_QCB_50_riyals_2026.00.00_B229a_PNL_A-1_012345_digital_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50457",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Banco central y Ministerio de Finanzas",
+    "backDescriptionEn": "Central bank and Ministry of Finance"
   },
   {
     "id": "qa-100",
     "countryId": "qa",
     "value": 100,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2022",
+    "seriesEn": "Fifth issue · 2022",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/02/Qatar_QCB_100_riyals_2022.00.00_B223b_PNL_J-28_924449_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/02/Qatar_QCB_100_riyals_2022.00.00_B223b_PNL_J-28_924449_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=39256",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Mezquita Abu Al Qubaib",
+    "backDescriptionEn": "Abu Al Qubaib Mosque"
   },
   {
     "id": "qa-200",
     "countryId": "qa",
     "value": 200,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2022",
+    "seriesEn": "Fifth issue · 2022",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/02/Qatar_QCB_200_riyals_2022.00.00_B224b_PNL_B-38_194030_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/02/Qatar_QCB_200_riyals_2022.00.00_B224b_PNL_B-38_194030_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=39252",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Museos y palacio histórico",
+    "backDescriptionEn": "Museums and historic palace"
   },
   {
     "id": "qa-500",
     "countryId": "qa",
     "value": 500,
-    "series": "Quinta emisión (2020)",
-    "seriesEn": "Fifth issue (2020)",
-    "imageStatus": "official_reference_only",
+    "series": "Quinta emisión · 2022",
+    "seriesEn": "Fifth issue · 2022",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La quinta emisión introdujo el valor de 200 riyales.",
-    "factEn": "The fifth issue introduced the 200-riyal denomination."
+    "factEn": "The fifth issue introduced the 200-riyal denomination.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/02/Qatar_QCB_500_riyals_2022.00.00_B225b_PNL_A-99_198738_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/02/Qatar_QCB_500_riyals_2022.00.00_B225b_PNL_A-99_158809_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=39246",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Front and reverse from two examples of the same 2022 issue."
+    },
+    "officialPage": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+    "frontDescription": "Motivos geométricos, bandera y emblema de Catar",
+    "frontDescriptionEn": "Geometric motifs, Qatari flag and emblem",
+    "backDescription": "Instalaciones de gas y buque metanero",
+    "backDescriptionEn": "Gas facilities and LNG tanker"
   }
 ]

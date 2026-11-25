@@ -1,3 +1,5 @@
+> **v2.2.2 — 24 noviembre 2026:** 40 destinos, 223 billetes, 223 parejas de referencias, 0 pendientes de registro. Se añadieron las 18 parejas restantes de Emiratos, Catar, Taiwán e Islandia, inspeccionadas en origen. [Auditoría](docs/photo-completion-v2.2.2.md).
+
 > **v2.2.1 — 24 noviembre 2026:** 40 destinos, 223 denominaciones, 205 pares registrados y 18 pendientes. Añadidas 25 parejas; 17 inspeccionadas visualmente en origen y 8 referencias de Wikimedia Commons. [Auditoría](docs/photo-completion-v2.2.1.md).
 
 > **v2.2.0 — 24 noviembre 2026:** 40 destinos, 223 denominaciones, 180 parejas con referencias fotográficas y 43 pendientes. Añadidos diez destinos, 59 billetes y 16 pares de imágenes oficiales inspeccionados en origen. [Detalle de cobertura](docs/expansion-v2.2.md).

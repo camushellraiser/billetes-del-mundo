@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "lastReviewed": "2026-11-24",
   "countryCount": 40,
   "banknoteCount": 223,
-  "imagePolicy": "Referencias fotográficas no equivalen a pruebas de carga en navegador. Esta revisión agregó 17 pares abiertos visualmente y 8 pares listados en Wikimedia Commons (familia de diseño rumana, fechas de impresión previas). Quedan 18 pares sin referencias.",
+  "imagePolicy": "223 parejas de referencias fotográficas registradas. Las 18 parejas añadidas en esta revisión fueron abiertas e inspeccionadas en la fuente. La carga efectiva de las imágenes en GitHub Pages y Safari no está comprobada globalmente.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 106,
-  "pendingImagePairs": 18,
+  "officialDenominationReferences": 123,
+  "pendingImagePairs": 0,
   "illustratedCountries": [
     "mx",
     "us",
@@ -49,13 +49,15 @@
     "is",
     "tw",
     "il",
-    "sa"
+    "ae",
+    "sa",
+    "qa"
   ],
-  "coverageReport": "docs/photo-completion-v2.2.1.md",
-  "photoReferencePairs": 205,
-  "contactSheetCroppedPairs": 82,
-  "individualImagePairs": 123,
+  "coverageReport": "docs/photo-completion-v2.2.2.md",
+  "photoReferencePairs": 223,
+  "contactSheetCroppedPairs": 89,
+  "individualImagePairs": 134,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 34,
+  "sourceVisuallyConfirmedPairs": 52,
   "browserVerifiedPairs": null
 }
