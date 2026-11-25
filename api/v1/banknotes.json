@@ -8061,14 +8061,33 @@
     "id": "gt-0.5",
     "countryId": "gt",
     "value": 0.5,
-    "series": "Familia en circulación; emisiones recientes",
-    "seriesEn": "Current family; recent issues",
+    "series": "Emisión de 1998 · curso legal según el emisor",
+    "seriesEn": "1998 issue · legal tender according to issuer",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://www.abanknote.com/storage/images/guatemala/05_quetzal_1998-9096-obverse-s.jpg",
+      "back": "https://www.abanknote.com/storage/images/guatemala/05_quetzal_1998-9096-reverse-s.jpg",
+      "provider": "ABanknote",
+      "sourcePage": "https://www.abanknote.com/banknote/guatemala/12/quetzal/1998/9096",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Low-resolution reference. Secondary catalogue flags it demonetized; the issuer explicitly states Q0.50 retains legal tender under Article 26. https://www.banguat.gob.gt/page/preguntas-frecuentes-sobre-el-nuevo-billete-de-q20000"
+    },
+    "frontDescription": "Tecún Umán",
+    "frontDescriptionEn": "Tecún Umán",
+    "backDescription": "Templo de Tikal",
+    "backDescriptionEn": "Tikal temple"
   },
   {
     "id": "gt-1",
@@ -8111,10 +8130,25 @@
     "seriesEn": "Current family; recent issues",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://worldbanknotes.eu/wp-content/uploads/2026/05/guatemala-5-quetzales-2020-p-122a-unc-obverse-600x256.jpg.webp",
+      "back": "https://worldbanknotes.eu/wp-content/uploads/2026/05/guatemala-5-quetzales-2020-p-122a-unc-reverse-600x256.jpg.webp",
+      "provider": "WorldBanknotes.eu",
+      "sourcePage": "https://worldbanknotes.eu/banknotes/guatemala-5-quetzales-2020-p-122a-unc/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2020 printing of current design family; later printings exist."
+    }
   },
   {
     "id": "gt-10",
@@ -8124,10 +8158,25 @@
     "seriesEn": "Current family; recent issues",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://worldbanknotes.eu/wp-content/uploads/2026/05/guatemala-10-quetzales-2017-p-123a-unc-obverse-600x257.jpg.webp",
+      "back": "https://worldbanknotes.eu/wp-content/uploads/2026/05/guatemala-10-quetzales-2017-p-123a-unc-reverse-600x257.jpg.webp",
+      "provider": "WorldBanknotes.eu",
+      "sourcePage": "https://worldbanknotes.eu/banknotes/guatemala-10-quetzales-2017-p-123a-unc/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2017 printing of current design family; later printings exist."
+    }
   },
   {
     "id": "gt-20",
@@ -8137,10 +8186,25 @@
     "seriesEn": "Current family; recent issues",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://worldbanknotes.eu/wp-content/uploads/2026/10/guatemala-20-quetzales-2020-p-124-unc-obverse-600x252.jpg.webp",
+      "back": "https://worldbanknotes.eu/wp-content/uploads/2026/10/guatemala-20-quetzales-2020-p-124-unc-reverse-600x252.jpg.webp",
+      "provider": "WorldBanknotes.eu",
+      "sourcePage": "https://worldbanknotes.eu/banknotes/guatemala-20-quetzales-2020-p-124-unc/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2020 ordinary design; 2021 commemorative and later printings exist."
+    }
   },
   {
     "id": "gt-50",
@@ -8150,23 +8214,52 @@
     "seriesEn": "Current family; recent issues",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/04/Guatemala_BDG_50_quetzales_2023.03.15_B609e_P125_F_54776213_C_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/04/Guatemala_BDG_50_quetzales_2023.03.15_B609e_P125_F_54776213_C_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50015",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "gt-100",
     "countryId": "gt",
     "value": 100,
-    "series": "Familia en circulación; emisiones recientes",
-    "seriesEn": "Current family; recent issues",
+    "series": "Conmemorativo · emitido el 25 de mayo de 2026",
+    "seriesEn": "Commemorative · issued May 25, 2026",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/Guatemala_BDG_100_quetzales_2025.10.08_B613a_PNL_G_00067971_A_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/Guatemala_BDG_100_quetzales_2025.10.08_B613a_PNL_G_00067971_A_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50305",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Direct image links from the article; HTTP 429 prevented visual inspection."
+    }
   },
   {
     "id": "gt-200",
@@ -8176,10 +8269,24 @@
     "seriesEn": "Current family; recent issues",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/02/Guatemala_BDG_200_quetzales_2020.05.27_B611a_PNL_H_68333400_A_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/02/Guatemala_BDG_200_quetzales_2020.05.27_B611a_PNL_H_68333400_A_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=34938",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "cr-1000",
@@ -8344,10 +8451,25 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2021/02/Uruguay_BCU_20_pesos_uruguayos_2021.00.00_B560b_PNL_B_10743109_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2021/02/Uruguay_BCU_20_pesos_uruguayos_2021.00.00_B560b_PNL_B_10743109_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=32565",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Image links identified in source; HTTP 429 prevented individual visual inspection."
+    }
   },
   {
     "id": "uy-50",
@@ -8357,10 +8479,25 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/11/Uruguay_BCU_50_pesos_uruguayos_2021.00.00_B561b_PNL_B_12255610_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/11/Uruguay_BCU_50_pesos_uruguayos_2021.00.00_B561b_PNL_B_12255610_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=45519",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Image links identified in source; HTTP 429 prevented individual visual inspection."
+    }
   },
   {
     "id": "uy-100",
@@ -8370,10 +8507,25 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/04/Uruguay_BCU_100_pesos_uruguayos_2019.00.00_B554b_PNL_H_05008556_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/04/Uruguay_BCU_100_pesos_uruguayos_2019.00.00_B554b_PNL_H_05008556_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=39678",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Image links identified in source; HTTP 429 prevented individual visual inspection."
+    }
   },
   {
     "id": "uy-200",
@@ -8383,10 +8535,25 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/08/Uruguay_BCU_200_pesos_uruguayos_2025.00.00_B555c_P96_H_04323957_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/08/Uruguay_BCU_200_pesos_uruguayos_2025.00.00_B555c_P96_H_04323957_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50856",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Image links identified in source; HTTP 429 prevented individual visual inspection."
+    }
   },
   {
     "id": "uy-500",
@@ -8396,10 +8563,25 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/05/Uruguay_BCU_500_pesos_uruguayos_2020.00.00_B556c_P97_G_05545919_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/05/Uruguay_BCU_500_pesos_uruguayos_2020.00.00_B556c_P97_G_05545919_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=32163",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Image links identified in source; HTTP 429 prevented individual visual inspection."
+    }
   },
   {
     "id": "uy-1000",
@@ -8409,10 +8591,24 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/05/Uruguay_BCU_1000_pesos_uruguayos_2021.00.00_B557c_PNL_G_02623699_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/05/Uruguay_BCU_1000_pesos_uruguayos_2021.00.00_B557c_PNL_G_02623699_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=43049",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    }
   },
   {
     "id": "uy-2000",
@@ -8422,10 +8618,28 @@
     "seriesEn": "Current paper and polymer family",
     "officialPage": "https://subsitio.bcu.gub.uy/billetes/",
     "referencePage": "https://subsitio.bcu.gub.uy/billetes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
-    "fact": "El billete de 2000 pesos recuerda al pintor Pedro Figari.",
-    "factEn": "The 2000-peso note honors painter Pedro Figari."
+    "fact": "El billete de 2000 pesos muestra a Dámaso Antonio Larrañaga y la Biblioteca Nacional.",
+    "factEn": "The 2000-peso note features Dámaso Antonio Larrañaga and the National Library.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/11/Uruguay_BCU_2000_pesos_uruguayos_2021.00.00_B558c_P99_D_00694193_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/11/Uruguay_BCU_2000_pesos_uruguayos_2021.00.00_B558c_P99_D_00694193_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48275",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Dámaso Antonio Larrañaga",
+    "frontDescriptionEn": "Dámaso Antonio Larrañaga",
+    "backDescription": "Biblioteca Nacional",
+    "backDescriptionEn": "National Library"
   },
   {
     "id": "py-2000",
@@ -8435,10 +8649,25 @@
     "seriesEn": "Current family and 2026 transition",
     "officialPage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
     "referencePage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo diseño de 100 000 guaraníes comenzó a circular en noviembre de 2026.",
-    "factEn": "The new 100,000-guaraní design entered circulation in November 2026."
+    "factEn": "The new 100,000-guaraní design entered circulation in November 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/04/Paraguay_BCP_2000_guaranies_2023.00.00_B846e_P228_E_18700794_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/04/Paraguay_BCP_2000_guaranies_2023.00.00_B846e_P228_E_18700794_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=43793",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Current circulating prior family; new family announced but issuance not confirmed for this denomination."
+    }
   },
   {
     "id": "py-5000",
@@ -8448,10 +8677,25 @@
     "seriesEn": "Current family and 2026 transition",
     "officialPage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
     "referencePage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo diseño de 100 000 guaraníes comenzó a circular en noviembre de 2026.",
-    "factEn": "The new 100,000-guaraní design entered circulation in November 2026."
+    "factEn": "The new 100,000-guaraní design entered circulation in November 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/07/Paraguay_BCP_5000_guaranies_2022.00.00_B857d_P234_J_056767577_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/07/Paraguay_BCP_5000_guaranies_2022.00.00_B857d_P234_J_056767577_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38576",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Current prior family. Image links identified; at least one image returned HTTP 429."
+    }
   },
   {
     "id": "py-10000",
@@ -8461,10 +8705,25 @@
     "seriesEn": "Current family and 2026 transition",
     "officialPage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
     "referencePage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo diseño de 100 000 guaraníes comenzó a circular en noviembre de 2026.",
-    "factEn": "The new 100,000-guaraní design entered circulation in November 2026."
+    "factEn": "The new 100,000-guaraní design entered circulation in November 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/04/Paraguay_BCP_10000_guaranies_2024.00.00_B858e_P224_K_09803118_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/04/Paraguay_BCP_10000_guaranies_2024.00.00_B858e_P224_K_09803118_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=46501",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Current prior family. Image links identified; at least one image returned HTTP 429."
+    }
   },
   {
     "id": "py-20000",
@@ -8474,10 +8733,25 @@
     "seriesEn": "Current family and 2026 transition",
     "officialPage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
     "referencePage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo diseño de 100 000 guaraníes comenzó a circular en noviembre de 2026.",
-    "factEn": "The new 100,000-guaraní design entered circulation in November 2026."
+    "factEn": "The new 100,000-guaraní design entered circulation in November 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/01/Paraguay_BCP_20000_guaranies_2024.00.00_B862d_P238_I_00161384_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/01/Paraguay_BCP_20000_guaranies_2024.00.00_B862d_P238_I_00161384_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=45907",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Current circulating prior family; new family announced but issuance not confirmed for this denomination."
+    }
   },
   {
     "id": "py-50000",
@@ -8487,23 +8761,53 @@
     "seriesEn": "Current family and 2026 transition",
     "officialPage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
     "referencePage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo diseño de 100 000 guaraníes comenzó a circular en noviembre de 2026.",
-    "factEn": "The new 100,000-guaraní design entered circulation in November 2026."
+    "factEn": "The new 100,000-guaraní design entered circulation in November 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/10/Paraguay_BCP_50000_guaranies_2022.00.00_B863d_P239_K_00302744_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/10/Paraguay_BCP_50000_guaranies_2022.00.00_B863d_P239_K_00302744_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=45195",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Current prior family. Image links identified; at least one image returned HTTP 429."
+    }
   },
   {
     "id": "py-100000",
     "countryId": "py",
     "value": 100000,
-    "series": "Nueva familia · noviembre 2026",
+    "series": "Nueva familia · noviembre de 2026",
     "seriesEn": "New family · November 2026",
-    "officialPage": "https://www.bcp.gov.py/en/web/institucional/w/ante-la-elevada-demanda-de-efectivo-el-bcp-resolvio-adelantar-la-puesta-en-circulacion-de-billetes-de-g-100.000-con-el-nuevo-diseno",
+    "officialPage": "https://www.bcp.gov.py/es/web/institucional/w/ante-la-elevada-demanda-de-efectivo-el-bcp-resolvio-adelantar-la-puesta-en-circulacion-de-billetes-de-g-100.000-con-el-nuevo-diseno",
     "referencePage": "https://www.bcp.gov.py/en/billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nuevo diseño de 100 000 guaraníes comenzó a circular en noviembre de 2026.",
-    "factEn": "The new 100,000-guaraní design entered circulation in November 2026."
+    "factEn": "The new 100,000-guaraní design entered circulation in November 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/10/Paraguay_BCP_100000_guaranies_2026.00.00_B870as_PNLs_A_00000000_digital_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/10/Paraguay_BCP_100000_guaranies_2026.00.00_B870as_PNLs_A_00000000_digital_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51538",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "New design confirmed issued in November 2026 by central bank. Listed digital specimen images; HTTP 429 prevented visual inspection."
+    }
   },
   {
     "id": "jm-50",
@@ -10786,14 +11090,32 @@
     "id": "kz-20000",
     "countryId": "kz",
     "value": 20000,
-    "series": "Diseño vigente anterior a Saka",
-    "seriesEn": "Current pre-Saka design",
-    "officialPage": "https://nationalbank.kz/en/page/money-guide",
+    "series": "Diseño de 2022",
+    "seriesEn": "2022 design",
+    "officialPage": "https://nationalbank.kz/en/news/banknoty/6780",
     "referencePage": "https://nationalbank.kz/en/page/money-guide",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La nueva familia se inspira en el arte de la cultura saka.",
-    "factEn": "The new family is inspired by ancient Saka art."
+    "factEn": "The new family is inspired by ancient Saka art.",
+    "photos": {
+      "front": "https://www.theibns.org/joomla/images/stories/bnoy2022/KAZ-20000-Front.png",
+      "back": "https://www.theibns.org/joomla/images/stories/bnoy2022/KAZ-20000-Back.png",
+      "provider": "International Bank Note Society",
+      "sourcePage": "https://www.theibns.org/joomla/index.php?Itemid=51&catid=13&id=887&option=com_content&view=article",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Monumento Kazakh Eli y arco Mangilik El",
+    "frontDescriptionEn": "Kazakh Eli monument and Mangilik El arch",
+    "backDescription": "Panorámica de Astaná y residencia Akorda",
+    "backDescriptionEn": "Astana skyline and Akorda residence"
   },
   {
     "id": "uz-1000",
@@ -11637,14 +11959,33 @@
     "id": "et-5",
     "countryId": "et",
     "value": 5,
-    "series": "Familia 2020 y 5 birr anterior",
-    "seriesEn": "2020 family and earlier 5-birr note",
+    "series": "Emisión de 2017",
+    "seriesEn": "2017 issue",
     "officialPage": "https://nbe.gov.et/about-us/bank-notes/",
     "referencePage": "https://nbe.gov.et/about-us/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La reforma de 2020 añadió el valor de 200 birr.",
-    "factEn": "The 2020 reform added the 200-birr denomination."
+    "factEn": "The 2020 reform added the 200-birr denomination.",
+    "photos": {
+      "front": "https://www.realbanknotes.com/upload/77/Ethiopia_p47h_5_Birr_2017_f.jpg",
+      "back": "https://www.realbanknotes.com/upload/77/Ethiopia_p47h_5_Birr_2017_b.jpg",
+      "provider": "RealBanknotes",
+      "sourcePage": "https://www.realbanknotes.com/banknote/54025-Ethiopia-p47h-5-Birr-from-2017",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Older 5-birr denomination; the issuer lists it, but actual frequency in circulation is not verified."
+    },
+    "frontDescription": "Recolector de café",
+    "frontDescriptionEn": "Coffee picker",
+    "backDescription": "Kudú, caracal y montañas Simien",
+    "backDescriptionEn": "Kudu, caracal and Simien Mountains"
   },
   {
     "id": "et-10",
@@ -11722,10 +12063,28 @@
     "seriesEn": "2020 family and earlier 5-birr note",
     "officialPage": "https://nbe.gov.et/about-us/bank-notes/",
     "referencePage": "https://nbe.gov.et/about-us/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La reforma de 2020 añadió el valor de 200 birr.",
-    "factEn": "The 2020 reform added the 200-birr denomination."
+    "factEn": "The 2020 reform added the 200-birr denomination.",
+    "photos": {
+      "front": "https://worldbanknotes.eu/wp-content/uploads/2026/06/ethiopia-100-birr-2023-p-57b-unc-obverse-600x291.jpg.webp",
+      "back": "https://worldbanknotes.eu/wp-content/uploads/2026/06/ethiopia-100-birr-2023-p-57b-unc-reverse-600x291.jpg.webp",
+      "provider": "WorldBanknotes.eu",
+      "sourcePage": "https://worldbanknotes.eu/banknotes/ethiopia-100-birr-2023-p-57b-unc/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Patrimonio arquitectónico de Etiopía",
+    "frontDescriptionEn": "Ethiopian architectural heritage",
+    "backDescription": "Iglesia excavada en roca",
+    "backDescriptionEn": "Rock-hewn church"
   },
   {
     "id": "et-200",
@@ -11735,10 +12094,28 @@
     "seriesEn": "2020 family and earlier 5-birr note",
     "officialPage": "https://nbe.gov.et/about-us/bank-notes/",
     "referencePage": "https://nbe.gov.et/about-us/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La reforma de 2020 añadió el valor de 200 birr.",
-    "factEn": "The 2020 reform added the 200-birr denomination."
+    "factEn": "The 2020 reform added the 200-birr denomination.",
+    "photos": {
+      "front": "https://worldbanknotes.eu/wp-content/uploads/2026/06/ethiopia-200-birr-2020-p-58-unc-obverse-600x290.jpg.webp",
+      "back": "https://worldbanknotes.eu/wp-content/uploads/2026/06/ethiopia-200-birr-2020-p-58-unc-reverse-600x290.jpg.webp",
+      "provider": "WorldBanknotes.eu",
+      "sourcePage": "https://worldbanknotes.eu/banknotes/ethiopia-200-birr-2020-p-58-unc/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Paloma blanca",
+    "frontDescriptionEn": "White dove",
+    "backDescription": "Íbice de Walia",
+    "backDescriptionEn": "Walia ibex"
   },
   {
     "id": "fj-5",
@@ -11899,14 +12276,32 @@
     "id": "pg-2",
     "countryId": "pg",
     "value": 2,
-    "series": "Familia vigente y emisiones recientes",
-    "seriesEn": "Current family and recent issues",
+    "series": "Polímero de tamaño reducido · 2023",
+    "seriesEn": "Reduced-size polymer · 2023",
     "officialPage": "https://www.bankpng.gov.pg/currency",
     "referencePage": "https://www.bankpng.gov.pg/currency",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El nombre kina procede de una concha tradicionalmente usada en intercambios.",
-    "factEn": "The name kina comes from a shell traditionally used for trade."
+    "factEn": "The name kina comes from a shell traditionally used for trade.",
+    "photos": {
+      "front": "https://worldbanknotes.eu/wp-content/uploads/2026/06/papua-new-guinea-2-kina-2023-p-50-unc-obverse-600x335.jpg",
+      "back": "https://worldbanknotes.eu/wp-content/uploads/2026/06/papua-new-guinea-2-kina-2023-p-50-unc-reverse-600x335.jpg",
+      "provider": "WorldBanknotes.eu",
+      "sourcePage": "https://worldbanknotes.eu/banknotes/papua-new-guinea-2-kina-2023-p-50-unc/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Parlamento Nacional",
+    "frontDescriptionEn": "National Parliament",
+    "backDescription": "Objetos ceremoniales tradicionales",
+    "backDescriptionEn": "Traditional ceremonial artifacts"
   },
   {
     "id": "pg-5",

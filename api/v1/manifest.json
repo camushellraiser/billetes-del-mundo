@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.5",
+  "version": "2.4.6",
   "lastReviewed": "2026-11-24",
   "countryCount": 70,
   "banknoteCount": 412,
-  "imagePolicy": "27 new pairs, 20 inspected on both sides, 7 source-listed with at least one side not visually confirmed. 25 remaining pairs. Ghana 2019 current family and 2010 two-cedi; new Heritage family not yet issued. Browser loading remains untested.",
+  "imagePolicy": "412 pairs registered; 25 added in v2.4.6, 15 opened and visually inspected on both sides, 10 directly linked but at least one side returned HTTP 429. No complete browser load test. Some designs are older printings of circulating families.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 312,
-  "pendingImagePairs": 25,
+  "pendingImagePairs": 0,
   "illustratedCountries": [
     "mx",
     "us",
@@ -64,6 +64,8 @@
     "rw",
     "gt",
     "cr",
+    "uy",
+    "py",
     "jm",
     "al",
     "rs",
@@ -81,11 +83,11 @@
     "fj",
     "pg"
   ],
-  "coverageReport": "docs/photo-completion-v2.4.5.md",
-  "photoReferencePairs": 387,
+  "coverageReport": "docs/photo-completion-v2.4.6.md",
+  "photoReferencePairs": 412,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 278,
+  "individualImagePairs": 303,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 162,
+  "sourceVisuallyConfirmedPairs": 177,
   "browserVerifiedPairs": null
 }

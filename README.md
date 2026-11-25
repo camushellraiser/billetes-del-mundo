@@ -1,3 +1,5 @@
+> **v2.4.6 — 24 noviembre 2026:** 70 destinos, 412 fichas y 412 pares de referencias registrados, sin pares pendientes. [Auditoría](docs/photo-completion-v2.4.6.md).
+
 > **v2.4.5 — 24 noviembre 2026:** 27 parejas adicionales, 387 registradas, 25 pendientes. [Auditoría](docs/photo-completion-v2.4.5.md).
 
 > **v2.4.4:** 11 parejas adicionales, 360 registradas y 52 pendientes. [Auditoría](docs/photo-completion-v2.4.4.md).
