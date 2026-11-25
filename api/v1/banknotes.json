@@ -3092,76 +3092,125 @@
     "id": "au-5",
     "countryId": "au",
     "value": 5,
-    "series": "Nueva generación",
-    "seriesEn": "Nueva generación",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Next Generation Banknote 2016–2020",
+    "seriesEn": "Next Generation Banknote 2016–2020",
+    "photos": {
+      "front": "https://www.banknote.news/files/australia_rba_5_dollars_2016.00.00_b230a_pnla_dh_160886412_f.jpg",
+      "back": "https://www.banknote.news/files/australia_rba_5_dollars_2016.00.00_b230a_pnla_dh_160886412_r.jpg",
+      "verified": true,
+      "provider": "Banknote News / Reserve Bank of Australia",
+      "sourcePage": "https://www.banknote.news/files/tag-australia.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/five-dollar/",
     "frontDescription": "El diseño actual incluye Isabel II.",
     "backDescription": "Federation Pavilion y elementos naturales",
     "frontDescriptionEn": "Current design features Queen Elizabeth II.",
     "backDescriptionEn": "Federation Pavilion and native flora",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "au-10",
     "countryId": "au",
     "value": 10,
-    "series": "Nueva generación",
-    "seriesEn": "Nueva generación",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Next Generation Banknote 2016–2020",
+    "seriesEn": "Next Generation Banknote 2016–2020",
+    "photos": {
+      "front": "https://www.banknote.news/files/australia_rba_10_dollars_2017.00.00_b231a_pnl_dk_172807889_f.jpg",
+      "back": "https://www.banknote.news/files/australia_rba_10_dollars_2017.00.00_b231a_pnl_dk_172807889_r.jpg",
+      "verified": true,
+      "provider": "Banknote News / Reserve Bank of Australia",
+      "sourcePage": "https://www.banknote.news/files/tag-australia.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/ten-dollar/",
     "frontDescription": "El diseño actual incluye Banjo Paterson y Dame Mary Gilmore.",
     "backDescription": "Flores de acacia y aves autóctonas",
     "frontDescriptionEn": "Current design features Banjo Paterson and Dame Mary Gilmore.",
     "backDescriptionEn": "Acacia flowers and native birds",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "au-20",
     "countryId": "au",
     "value": 20,
-    "series": "Nueva generación",
-    "seriesEn": "Nueva generación",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Next Generation Banknote 2016–2020",
+    "seriesEn": "Next Generation Banknote 2016–2020",
+    "photos": {
+      "front": "https://www.banknote.news/files/australia_rba_20_dollars_2019.00.00_b232a_pnl_de_191683604_f.jpg",
+      "back": "https://www.banknote.news/files/australia_rba_20_dollars_2019.00.00_b232a_pnl_de_191683604_r.jpg",
+      "verified": true,
+      "provider": "Banknote News / Reserve Bank of Australia",
+      "sourcePage": "https://www.banknote.news/files/tag-australia.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/twenty-dollar/",
     "frontDescription": "El diseño actual incluye Mary Reibey y John Flynn.",
     "backDescription": "Temas comerciales y sanitarios",
     "frontDescriptionEn": "Current design features Mary Reibey and John Flynn.",
     "backDescriptionEn": "Trading and medical-aviation themes",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "au-50",
     "countryId": "au",
     "value": 50,
-    "series": "Nueva generación",
-    "seriesEn": "Nueva generación",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Next Generation Banknote 2016–2020",
+    "seriesEn": "Next Generation Banknote 2016–2020",
+    "photos": {
+      "front": "https://www.banknote.news/files/australia_rba_50_dollars_2018.00.00_b233a_pnl_ab_182346780_f.jpg",
+      "back": "https://www.banknote.news/files/australia_rba_50_dollars_2018.00.00_b233a_pnl_ab_182346780_r.jpg",
+      "verified": true,
+      "provider": "Banknote News / Reserve Bank of Australia",
+      "sourcePage": "https://www.banknote.news/files/tag-australia.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/fifty-dollar/",
     "frontDescription": "El diseño actual incluye David Unaipon y Edith Cowan.",
     "backDescription": "Aportes indígenas y derechos cívicos",
     "frontDescriptionEn": "Current design features David Unaipon and Edith Cowan.",
     "backDescriptionEn": "Indigenous achievements and civil rights",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "au-100",
     "countryId": "au",
     "value": 100,
-    "series": "Nueva generación",
-    "seriesEn": "Nueva generación",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Next Generation Banknote 2020",
+    "seriesEn": "Next Generation Banknote 2020",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/KC4AAOSwIq5maAGa/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/KC4AAOSwIq5maAGa/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.002,
+          0.002,
+          0.994,
+          0.495
+        ],
+        "back": [
+          0.002,
+          0.501,
+          0.994,
+          0.496
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de billete australiano 100 dólares de 2020",
+      "sourcePage": "https://www.ebay.com/itm/305761602471",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/hundred-dollar/",
     "frontDescription": "El diseño actual incluye Nellie Melba y John Monash.",
     "backDescription": "Homenaje a la música y la ingeniería",
     "frontDescriptionEn": "Current design features Nellie Melba and John Monash.",
     "backDescriptionEn": "Celebrating music and engineering",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "nz-5",
