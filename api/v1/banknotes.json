@@ -2773,76 +2773,185 @@
     "id": "sg-2",
     "countryId": "sg",
     "value": 2,
-    "series": "Serie retratos",
-    "seriesEn": "Serie retratos",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Portrait Series (vigente)",
+    "seriesEn": "Portrait Series (current)",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "back": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "crop": {
+        "front": [
+          0.001,
+          0.004,
+          0.49,
+          0.238
+        ],
+        "back": [
+          0.505,
+          0.004,
+          0.492,
+          0.238
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de la serie Portrait de Singapur (anverso y reverso)",
+      "sourcePage": "https://pinterest.com/pin/402509285419370452/",
+      "display": "external_contact_sheet",
+      "sourceType": "visual-reference"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
     "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
     "backDescription": "Educación y escuelas de Singapur",
     "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
     "backDescriptionEn": "Education and Singapore schools",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "sg-5",
     "countryId": "sg",
     "value": 5,
-    "series": "Serie retratos",
-    "seriesEn": "Serie retratos",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Portrait Series (vigente)",
+    "seriesEn": "Portrait Series (current)",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "back": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "crop": {
+        "front": [
+          0.001,
+          0.253,
+          0.49,
+          0.238
+        ],
+        "back": [
+          0.505,
+          0.253,
+          0.492,
+          0.238
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de la serie Portrait de Singapur (anverso y reverso)",
+      "sourcePage": "https://pinterest.com/pin/402509285419370452/",
+      "display": "external_contact_sheet",
+      "sourceType": "visual-reference"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
     "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
     "backDescription": "Ciudad jardín y el árbol tembusu",
     "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
     "backDescriptionEn": "The Garden City and tembusu tree",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "sg-10",
     "countryId": "sg",
     "value": 10,
-    "series": "Serie retratos",
-    "seriesEn": "Serie retratos",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Portrait Series (vigente)",
+    "seriesEn": "Portrait Series (current)",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "back": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "crop": {
+        "front": [
+          0.001,
+          0.503,
+          0.49,
+          0.244
+        ],
+        "back": [
+          0.505,
+          0.503,
+          0.492,
+          0.244
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de la serie Portrait de Singapur (anverso y reverso)",
+      "sourcePage": "https://pinterest.com/pin/402509285419370452/",
+      "display": "external_contact_sheet",
+      "sourceType": "visual-reference"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
     "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
     "backDescription": "Deportes como fútbol, tenis, natación y vela",
     "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
     "backDescriptionEn": "Sports including soccer, tennis, swimming and sailing",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "sg-50",
     "countryId": "sg",
     "value": 50,
-    "series": "Serie retratos",
-    "seriesEn": "Serie retratos",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Portrait Series (vigente)",
+    "seriesEn": "Portrait Series (current)",
+    "photos": {
+      "front": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "back": "https://i.pinimg.com/originals/ce/cd/19/cecd193405fe663e50805c771871b730.jpg",
+      "crop": {
+        "front": [
+          0.001,
+          0.753,
+          0.49,
+          0.24
+        ],
+        "back": [
+          0.505,
+          0.753,
+          0.492,
+          0.24
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía de la serie Portrait de Singapur (anverso y reverso)",
+      "sourcePage": "https://pinterest.com/pin/402509285419370452/",
+      "display": "external_contact_sheet",
+      "sourceType": "visual-reference"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
     "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
     "backDescription": "Instrumentos musicales y artes",
     "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
     "backDescriptionEn": "Musical instruments and the arts",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "sg-100",
     "countryId": "sg",
     "value": 100,
-    "series": "Serie retratos",
-    "seriesEn": "Serie retratos",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Portrait Series (vigente)",
+    "seriesEn": "Portrait Series (current)",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/M3MAAOSwPh1oB30B/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/M3MAAOSwPh1oB30B/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.018,
+          0.015,
+          0.968,
+          0.474
+        ],
+        "back": [
+          0.018,
+          0.51,
+          0.968,
+          0.467
+        ]
+      },
+      "verified": true,
+      "provider": "Fotografía Portrait Series S$100 — anverso y reverso",
+      "sourcePage": "https://www.ebay.com/itm/177034124499",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
     "frontDescription": "Yusof bin Ishak, primer presidente de Singapur.",
     "backDescription": "Juventud y servicio comunitario",
     "frontDescriptionEn": "Yusof bin Ishak, Singapore’s first President.",
     "backDescriptionEn": "Youth and community service",
-    "reviewedAt": "2026-11-23"
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "my-1",
