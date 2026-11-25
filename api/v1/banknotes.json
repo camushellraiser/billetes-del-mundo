@@ -486,37 +486,125 @@
     "id": "ar-1000",
     "countryId": "ar",
     "value": 1000,
-    "series": "Emisiones recientes",
-    "seriesEn": "Emisiones recientes",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisiones actuales 2023–2024",
+    "seriesEn": "Current 2023–2024 notes",
+    "photos": {
+      "front": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "back": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "crop": {
+        "front": [
+          0.008,
+          0.003,
+          0.444,
+          0.216
+        ],
+        "back": [
+          0.548,
+          0.003,
+          0.442,
+          0.216
+        ]
+      },
+      "verified": true,
+      "provider": "Multimedio Génesis (Argentina)",
+      "sourcePage": "https://www.multimediosgenesis.com.ar/articulo/2025/12/el-uso-de-efectivo-en-argentina-cae-a-su-nivel-mas-bajo-en-casi-cinco-anos.php",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ar-2000",
     "countryId": "ar",
     "value": 2000,
-    "series": "Emisiones recientes",
-    "seriesEn": "Emisiones recientes",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisiones actuales 2023–2024",
+    "seriesEn": "Current 2023–2024 notes",
+    "photos": {
+      "front": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "back": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "crop": {
+        "front": [
+          0.008,
+          0.254,
+          0.444,
+          0.216
+        ],
+        "back": [
+          0.548,
+          0.254,
+          0.442,
+          0.216
+        ]
+      },
+      "verified": true,
+      "provider": "Multimedio Génesis (Argentina)",
+      "sourcePage": "https://www.multimediosgenesis.com.ar/articulo/2025/12/el-uso-de-efectivo-en-argentina-cae-a-su-nivel-mas-bajo-en-casi-cinco-anos.php",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ar-10000",
     "countryId": "ar",
     "value": 10000,
-    "series": "Emisiones recientes",
-    "seriesEn": "Emisiones recientes",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisiones actuales 2023–2024",
+    "seriesEn": "Current 2023–2024 notes",
+    "photos": {
+      "front": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "back": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "crop": {
+        "front": [
+          0.008,
+          0.505,
+          0.444,
+          0.216
+        ],
+        "back": [
+          0.548,
+          0.505,
+          0.442,
+          0.216
+        ]
+      },
+      "verified": true,
+      "provider": "Multimedio Génesis (Argentina)",
+      "sourcePage": "https://www.multimediosgenesis.com.ar/articulo/2025/12/el-uso-de-efectivo-en-argentina-cae-a-su-nivel-mas-bajo-en-casi-cinco-anos.php",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "ar-20000",
     "countryId": "ar",
     "value": 20000,
-    "series": "Emisiones recientes",
-    "seriesEn": "Emisiones recientes",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Emisiones actuales 2023–2024",
+    "seriesEn": "Current 2023–2024 notes",
+    "photos": {
+      "front": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "back": "https://multimediosgenesis.com.ar/images/noticias/37691_1767006707.jpeg",
+      "crop": {
+        "front": [
+          0.008,
+          0.759,
+          0.444,
+          0.216
+        ],
+        "back": [
+          0.548,
+          0.759,
+          0.442,
+          0.216
+        ]
+      },
+      "verified": true,
+      "provider": "Multimedio Génesis (Argentina)",
+      "sourcePage": "https://www.multimediosgenesis.com.ar/articulo/2025/12/el-uso-de-efectivo-en-argentina-cae-a-su-nivel-mas-bajo-en-casi-cinco-anos.php",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cl-1000",
@@ -2286,16 +2374,37 @@
     "id": "my-1",
     "countryId": "my",
     "value": 1,
-    "series": "Cuarta serie",
-    "seriesEn": "Cuarta serie",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie actual 2012",
+    "seriesEn": "Current 2012 series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.115,
+          0,
+          0.38,
+          0.162
+        ],
+        "back": [
+          0.49,
+          0,
+          0.4,
+          0.162
+        ]
+      },
+      "verified": true,
+      "provider": "Colección malasia actual 2011–2024, imagen de catálogo",
+      "sourcePage": "https://www.ebay.co.uk/itm/256729097511",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm1",
     "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
     "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
     "backDescription": "Cometa tradicional wau bulan",
     "backDescriptionEn": "Traditional wau bulan kite",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
     "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
@@ -2303,16 +2412,37 @@
     "id": "my-5",
     "countryId": "my",
     "value": 5,
-    "series": "Cuarta serie",
-    "seriesEn": "Cuarta serie",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie actual 2012",
+    "seriesEn": "Current 2012 series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.075,
+          0.165,
+          0.43,
+          0.162
+        ],
+        "back": [
+          0.5,
+          0.165,
+          0.44,
+          0.162
+        ]
+      },
+      "verified": true,
+      "provider": "Colección malasia actual 2011–2024, imagen de catálogo",
+      "sourcePage": "https://www.ebay.co.uk/itm/256729097511",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm5",
     "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
     "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
     "backDescription": "Cálao rinoceronte de Malasia",
     "backDescriptionEn": "Malaysian rhinoceros hornbill",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
     "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
@@ -2320,16 +2450,37 @@
     "id": "my-10",
     "countryId": "my",
     "value": 10,
-    "series": "Cuarta serie",
-    "seriesEn": "Cuarta serie",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie actual 2012",
+    "seriesEn": "Current 2012 series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.045,
+          0.329,
+          0.45,
+          0.158
+        ],
+        "back": [
+          0.5,
+          0.329,
+          0.455,
+          0.158
+        ]
+      },
+      "verified": true,
+      "provider": "Colección malasia actual 2011–2024, imagen de catálogo",
+      "sourcePage": "https://www.ebay.co.uk/itm/256729097511",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm10",
     "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
     "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
     "backDescription": "Flor Rafflesia azlanii",
     "backDescriptionEn": "Rafflesia azlanii flower",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
     "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
@@ -2337,16 +2488,37 @@
     "id": "my-20",
     "countryId": "my",
     "value": 20,
-    "series": "Cuarta serie",
-    "seriesEn": "Cuarta serie",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie actual 2012",
+    "seriesEn": "Current 2012 series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.037,
+          0.489,
+          0.459,
+          0.161
+        ],
+        "back": [
+          0.5,
+          0.489,
+          0.47,
+          0.161
+        ]
+      },
+      "verified": true,
+      "provider": "Colección malasia actual 2011–2024, imagen de catálogo",
+      "sourcePage": "https://www.ebay.co.uk/itm/256729097511",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm20",
     "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
     "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
     "backDescription": "Tortugas carey y laúd",
     "backDescriptionEn": "Hawksbill and leatherback turtles",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
     "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
@@ -2354,16 +2526,37 @@
     "id": "my-50",
     "countryId": "my",
     "value": 50,
-    "series": "Cuarta serie",
-    "seriesEn": "Cuarta serie",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie actual 2012",
+    "seriesEn": "Current 2012 series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.028,
+          0.655,
+          0.46,
+          0.167
+        ],
+        "back": [
+          0.494,
+          0.655,
+          0.482,
+          0.167
+        ]
+      },
+      "verified": true,
+      "provider": "Colección malasia actual 2011–2024, imagen de catálogo",
+      "sourcePage": "https://www.ebay.co.uk/itm/256729097511",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm50",
     "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
     "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
     "backDescription": "Palma aceitera y biotecnología",
     "backDescriptionEn": "Oil palm and biotechnology",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
     "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
@@ -2371,16 +2564,37 @@
     "id": "my-100",
     "countryId": "my",
     "value": 100,
-    "series": "Cuarta serie",
-    "seriesEn": "Cuarta serie",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "series": "Serie actual 2012",
+    "seriesEn": "Current 2012 series",
+    "photos": {
+      "front": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "back": "https://i.ebayimg.com/images/g/ZB8AAOSwNt5nRZxY/s-l1200.jpg",
+      "crop": {
+        "front": [
+          0.017,
+          0.827,
+          0.48,
+          0.168
+        ],
+        "back": [
+          0.5,
+          0.827,
+          0.482,
+          0.168
+        ]
+      },
+      "verified": true,
+      "provider": "Colección malasia actual 2011–2024, imagen de catálogo",
+      "sourcePage": "https://www.ebay.co.uk/itm/256729097511",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
     "officialPage": "https://www.bnm.gov.my/-/currency/banknotes/rm100",
     "frontDescription": "Tuanku Abdul Rahman, primer Yang di-Pertuan Agong de Malasia; hibisco nacional y patrones songket.",
     "frontDescriptionEn": "Tuanku Abdul Rahman, Malaysia's first Yang di-Pertuan Agong; national hibiscus and songket patterns.",
     "backDescription": "Monte Kinabalu y pináculos de Gunung Api",
     "backDescriptionEn": "Mount Kinabalu and Gunung Api limestone pinnacles",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "Las imágenes de BNM no tienen licencia abierta confirmada para republicación; consulta el anverso y reverso en la ficha del banco central.",
     "imageRightsNoteEn": "BNM images have no confirmed open republication license; view both sides on the central bank's denomination page."
   },
