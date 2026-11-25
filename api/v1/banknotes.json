@@ -1345,12 +1345,24 @@
     "value": 20,
     "series": "Serie actual 2015–2016",
     "seriesEn": "Current 2015–2016 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.banknote.news/files/sweden_sr_20_kronor_2014.00.00_bnl_pnl_b_101772170_f.jpg",
+      "back": "https://www.banknote.news/files/sweden_sr_20_kronor_2014.00.00_bnl_pnl_b_101772170_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-sweden.php",
+      "origin": "Separate front/reverse photos of Sweden's current 2015-2016 series",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/20-krona-banknote/",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "El Riksbank exige respetar derechos de autor y medidas contra la falsificación; para difusión digital aconseja una imagen de hasta 72 ppp con SPECIMEN diagonal, por lo que no se incorporan imágenes oficiales sin permisos confirmados.",
-    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded."
+    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded.",
+    "frontDescription": "El anverso presenta a Astrid Lindgren.",
+    "backDescription": "El reverso muestra paisajes de Småland.",
+    "frontDescriptionEn": "Front features Astrid Lindgren.",
+    "backDescriptionEn": "Reverse features landscapes from Småland."
   },
   {
     "id": "se-50",
@@ -1358,12 +1370,24 @@
     "value": 50,
     "series": "Serie actual 2015–2016",
     "seriesEn": "Current 2015–2016 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.banknote.news/files/sweden_sr_50_kronor_2015.10.01_bnl_pnl_b_500760666_f.jpg",
+      "back": "https://www.banknote.news/files/sweden_sr_50_kronor_2015.10.01_bnl_pnl_b_500760666_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-sweden.php",
+      "origin": "Separate front/reverse photos of Sweden's current 2015-2016 series",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/50-krona-banknote/",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "El Riksbank exige respetar derechos de autor y medidas contra la falsificación; para difusión digital aconseja una imagen de hasta 72 ppp con SPECIMEN diagonal, por lo que no se incorporan imágenes oficiales sin permisos confirmados.",
-    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded."
+    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded.",
+    "frontDescription": "El anverso presenta a Evert Taube.",
+    "backDescription": "El reverso muestra paisajes de Bohuslän.",
+    "frontDescriptionEn": "Front features Evert Taube.",
+    "backDescriptionEn": "Reverse features landscapes from Bohuslän."
   },
   {
     "id": "se-100",
@@ -1371,12 +1395,24 @@
     "value": 100,
     "series": "Serie actual 2015–2016",
     "seriesEn": "Current 2015–2016 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.banknote.news/files/sweden_sr_100_kronor_2015.00.00_bnl_p71_c_071429815_f.jpg",
+      "back": "https://www.banknote.news/files/sweden_sr_100_kronor_2015.00.00_bnl_p71_c_071429815_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-sweden.php",
+      "origin": "Separate front/reverse photos of Sweden's current 2015-2016 series",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/100-krona-banknote/",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "El Riksbank exige respetar derechos de autor y medidas contra la falsificación; para difusión digital aconseja una imagen de hasta 72 ppp con SPECIMEN diagonal, por lo que no se incorporan imágenes oficiales sin permisos confirmados.",
-    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded."
+    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded.",
+    "frontDescription": "El anverso presenta a Greta Garbo.",
+    "backDescription": "El reverso muestra paisajes de Estocolmo.",
+    "frontDescriptionEn": "Front features Greta Garbo.",
+    "backDescriptionEn": "Reverse features landscapes from Estocolmo."
   },
   {
     "id": "se-200",
@@ -1384,12 +1420,24 @@
     "value": 200,
     "series": "Serie actual 2015–2016",
     "seriesEn": "Current 2015–2016 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.banknote.news/files/sweden_sr_200_kronor_2015.10.01_bnl_pnl_b_220907095_f.jpg",
+      "back": "https://www.banknote.news/files/sweden_sr_200_kronor_2015.10.01_bnl_pnl_b_220907095_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-sweden.php",
+      "origin": "Separate front/reverse photos of Sweden's current 2015-2016 series",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/200-krona-banknote/",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "El Riksbank exige respetar derechos de autor y medidas contra la falsificación; para difusión digital aconseja una imagen de hasta 72 ppp con SPECIMEN diagonal, por lo que no se incorporan imágenes oficiales sin permisos confirmados.",
-    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded."
+    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded.",
+    "frontDescription": "El anverso presenta a Ingmar Bergman.",
+    "backDescription": "El reverso muestra paisajes de Gotland.",
+    "frontDescriptionEn": "Front features Ingmar Bergman.",
+    "backDescriptionEn": "Reverse features landscapes from Gotland."
   },
   {
     "id": "se-500",
@@ -1397,12 +1445,24 @@
     "value": 500,
     "series": "Serie actual 2015–2016",
     "seriesEn": "Current 2015–2016 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.banknote.news/files/sweden_sr_500_kronor_2015.00.00_bnl_p73_c_040674864_f.jpg",
+      "back": "https://www.banknote.news/files/sweden_sr_500_kronor_2015.00.00_bnl_p73_c_040674864_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-sweden.php",
+      "origin": "Separate front/reverse photos of Sweden's current 2015-2016 series",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/500-krona-banknote/",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "El Riksbank exige respetar derechos de autor y medidas contra la falsificación; para difusión digital aconseja una imagen de hasta 72 ppp con SPECIMEN diagonal, por lo que no se incorporan imágenes oficiales sin permisos confirmados.",
-    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded."
+    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded.",
+    "frontDescription": "El anverso presenta a Birgit Nilsson.",
+    "backDescription": "El reverso muestra paisajes de Escania.",
+    "frontDescriptionEn": "Front features Birgit Nilsson.",
+    "backDescriptionEn": "Reverse features landscapes from Escania."
   },
   {
     "id": "se-1000",
@@ -1410,12 +1470,24 @@
     "value": 1000,
     "series": "Serie actual 2015–2016",
     "seriesEn": "Current 2015–2016 series",
-    "photos": null,
-    "imageStatus": "official_reference",
+    "photos": {
+      "front": "https://www.banknote.news/files/sweden_sr_1000_kronor_2014.00.00_bnl_pnl_b_300178214_f.jpg",
+      "back": "https://www.banknote.news/files/sweden_sr_1000_kronor_2014.00.00_bnl_pnl_b_300178214_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-sweden.php",
+      "origin": "Separate front/reverse photos of Sweden's current 2015-2016 series",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
     "officialPage": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/1000-krona-banknote/",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-24",
     "imageRightsNote": "El Riksbank exige respetar derechos de autor y medidas contra la falsificación; para difusión digital aconseja una imagen de hasta 72 ppp con SPECIMEN diagonal, por lo que no se incorporan imágenes oficiales sin permisos confirmados.",
-    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded."
+    "imageRightsNoteEn": "Riksbank warns of third-party copyrights and reproduction restrictions, including 72 dpi and diagonal SPECIMEN for electronic depictions; no unlicensed image is embedded.",
+    "frontDescription": "El anverso presenta a Dag Hammarskjöld.",
+    "backDescription": "El reverso muestra paisajes de Laponia.",
+    "frontDescriptionEn": "Front features Dag Hammarskjöld.",
+    "backDescriptionEn": "Reverse features landscapes from Laponia."
   },
   {
     "id": "no-50",
