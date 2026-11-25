@@ -12779,10 +12779,25 @@
     "seriesEn": "Current family and updated designs",
     "officialPage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
     "referencePage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El nombre de la moneda recuerda al líder indígena Lempira.",
-    "factEn": "The currency is named after indigenous leader Lempira."
+    "factEn": "The currency is named after indigenous leader Lempira.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/04/Honduras_BCH_2_lempiras_2022.04.07_B345e_P97_AT_5554555_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/04/Honduras_BCH_2_lempiras_2022.04.07_B345e_P97_AT_5554555_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=43783",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Publisher links identified; one or both direct image requests returned HTTP 429. Dashboard rendering not tested."
+    }
   },
   {
     "id": "hn-5",
@@ -12857,10 +12872,25 @@
     "seriesEn": "Current family and updated designs",
     "officialPage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
     "referencePage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El nombre de la moneda recuerda al líder indígena Lempira.",
-    "factEn": "The currency is named after indigenous leader Lempira."
+    "factEn": "The currency is named after indigenous leader Lempira.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Honduras_BCH_200_lempiras_2023.11.09_B358a_PNL_H_2624916_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Honduras_BCH_200_lempiras_2023.11.09_B358a_PNL_H_2624916_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49326",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Publisher links identified; one or both direct image requests returned HTTP 429. Dashboard rendering not tested."
+    }
   },
   {
     "id": "hn-500",
@@ -13024,10 +13054,25 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/07/Nicaragua_BCN_500_cordobas_2021.11.24_B514b_PNL_AA_63904928_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/07/Nicaragua_BCN_500_cordobas_2021.11.24_B514b_PNL_AA_63904928_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=39594",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Publisher links identified; one or both direct image requests returned HTTP 429. Dashboard rendering not tested."
+    }
   },
   {
     "id": "ni-1000",
@@ -13037,10 +13082,25 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2021/05/Nicaragua_BCN_1000_cordobas_2016.12.01_B513a_P215a_A_00112225_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2021/05/Nicaragua_BCN_1000_cordobas_2016.12.01_B513a_P215a_A_00112225_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=4441",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Publisher links identified; one or both direct image requests returned HTTP 429. Dashboard rendering not tested."
+    }
   },
   {
     "id": "tt-1",
@@ -14229,10 +14289,25 @@
     "seriesEn": "Current family and 75-rupee commemorative",
     "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_10_rupees_2026.00.00_B231aa_P45_CWC_0123269_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/Pakistan_SBP_10_rupees_2026.00.00_B231aa_P45_CWC_0123269_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50547",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both sides visually inspected. Dashboard rendering not tested."
+    }
   },
   {
     "id": "pk-20",

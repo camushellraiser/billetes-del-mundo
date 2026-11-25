@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.5.7",
+  "version": "2.5.8",
   "lastReviewed": "2026-11-25",
   "countryCount": 90,
   "banknoteCount": 544,
-  "imagePolicy": "15 additional pairs, 13 visually inspected on both sides; two Bhutan reverses linked by publisher but HTTP 429. 24 pairs without references. Earlier circulating Iraqi designs and low-resolution Bhutan paper notes included. Browser rendering untested.",
+  "imagePolicy": "5 added pairs, one visually confirmed on both sides, four have publisher links with HTTP 429 on at least one side. All country covers queued immediately; selected country prefetch; bounded optional service worker image cache. Browser runtime not tested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 444,
-  "pendingImagePairs": 24,
+  "pendingImagePairs": 19,
   "illustratedCountries": [
     "mx",
     "us",
@@ -99,13 +99,14 @@
     "do",
     "lk",
     "iq",
-    "bt"
+    "bt",
+    "hn"
   ],
-  "coverageReport": "docs/photo-completion-v2.5.7.md",
-  "photoReferencePairs": 520,
+  "coverageReport": "docs/photo-completion-v2.5.8.md",
+  "photoReferencePairs": 525,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 411,
+  "individualImagePairs": 416,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 257,
+  "sourceVisuallyConfirmedPairs": 258,
   "browserVerifiedPairs": null
 }
