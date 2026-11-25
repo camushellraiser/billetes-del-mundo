@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "lastReviewed": "2026-11-25",
   "countryCount": 90,
   "banknoteCount": 544,
-  "imagePolicy": "43 new pairs in v2.5.1–2.5.2; 25 visually inspected on both sides; remaining links listed in sources, visual review incomplete. 84 pending. No complete browser test.",
+  "imagePolicy": "12 additional individual pairs for Oman and Bahrain in v2.5.3; both sides of every new pair opened and visually matched. 72 pending. External availability and live browser rendering not guaranteed.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 444,
-  "pendingImagePairs": 84,
+  "pendingImagePairs": 72,
   "illustratedCountries": [
     "mx",
     "us",
@@ -90,13 +90,15 @@
     "bz",
     "mv",
     "kw",
-    "jo"
+    "jo",
+    "om",
+    "bh"
   ],
-  "coverageReport": "docs/photo-completion-v2.5.2.md",
-  "photoReferencePairs": 460,
+  "coverageReport": "docs/photo-completion-v2.5.3.md",
+  "photoReferencePairs": 472,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 351,
+  "individualImagePairs": 363,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 208,
+  "sourceVisuallyConfirmedPairs": 220,
   "browserVerifiedPairs": null
 }
