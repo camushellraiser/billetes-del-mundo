@@ -40,3 +40,26 @@
 .dialog-image-frame img{max-width:100%;max-height:68vh;object-fit:contain;margin:18px auto}
 .dialog-image-frame.specimen-required::after{font-size:clamp(24px,7vw,85px)}
 @media(max-width:600px){.note-image-wrap.specimen-required::after{font-size:clamp(21px,7vw,43px)}.dialog-image-frame.specimen-required::after{font-size:clamp(21px,7vw,48px)}}
+
+/* Version 2.0 — photographic banknote contact-sheet viewport.
+   Each selected sheet is shown as its original image, visually framed to one note.
+   No copied or altered image files are stored in the repository. */
+.banknote-crop{position:relative;isolation:isolate;display:block;overflow:hidden;flex:none;background:#f4f4ee;box-shadow:0 14px 38px #00120f55;border-radius:3px;line-height:0}
+.banknote-crop>img,.note-image-wrap .banknote-crop>img,.country-card-thumb .banknote-crop>img,.dialog-photo .banknote-crop>img{
+ position:absolute!important;max-width:none!important;max-height:none!important;height:auto!important;
+ margin:0!important;right:auto!important;bottom:auto!important;object-fit:fill!important;
+ box-shadow:none!important;border:0!important;border-radius:0!important;animation:none!important;
+ transform:none!important;pointer-events:none
+}
+.note-image-wrap .banknote-crop{width:min(100%,620px);margin:0 auto;cursor:zoom-in}
+.country-card-thumb .banknote-crop{width:100%;max-width:100%;box-shadow:0 9px 13px #00120f88}
+.dialog-photo{display:grid;place-items:center;width:min(920px,87vw);min-height:70px;max-height:72vh;padding:10px 0}
+.dialog-photo>img{max-width:100%;max-height:68vh;object-fit:contain}
+.dialog-photo .banknote-crop{width:min(85vw,850px);max-height:68vh}
+.country-card-thumb[data-photo-id]{overflow:visible}
+@media(max-width:600px){
+ .note-image-wrap .banknote-crop{width:100%}
+ .country-card-thumb .banknote-crop{width:100%}
+ .dialog-photo{width:87vw;min-width:0}
+ .dialog-photo .banknote-crop{width:85vw}
+}
