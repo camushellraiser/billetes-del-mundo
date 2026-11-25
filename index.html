@@ -12,8 +12,8 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700;750;800&family=Manrope:wght@400;500;600;700;800&display=swap" />
-  <link rel="stylesheet" href="assets/style.css?v=1.9.0" />
-  <script src="assets/app.js?v=1.9.0" defer></script>
+  <link rel="stylesheet" href="assets/style.css?v=2.0.0" />
+  <script src="assets/app.js?v=2.0.0" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -92,7 +92,7 @@
 
     <footer class="footer"><div class="footer-top"><span class="footer-brand">✳ <span>Billetes del Mundo</span></span><span class="footer-motto" data-i18n="footerMotto">Hecho para mentes curiosas.</span></div><div class="footer-bottom"><span class="footer-copyright">© 2026 · <span data-i18n="footEdition">Un atlas educativo independiente</span></span><div class="signature" aria-label="Developed by Aldo Lizares"><span class="signature-monogram"><svg width="29" height="29" viewBox="0 0 29 29" fill="none" aria-hidden="true"><circle cx="14.5" cy="14.5" r="13.5" stroke="currentColor" stroke-opacity=".52"/><path d="M6.7 19.8 12 9.3l5.3 10.5M8.3 16.4h7.2M18.1 9.4v10.4h5.1" stroke="currentColor" stroke-width="1.12" stroke-linecap="round" stroke-linejoin="round"/></svg></span><span class="signature-copy"><span>Developed by</span><strong>Aldo Lizares</strong></span></div></div></footer>
   </div>
-  <dialog id="image-dialog" class="image-dialog"><div class="dialog-top"><div><strong id="dialog-title"></strong><small id="dialog-subtitle"></small></div><button class="dialog-close" id="dialog-close" aria-label="Cerrar">×</button></div><div id="dialog-image-frame" class="dialog-image-frame"><img id="dialog-image" alt="Fotografía ampliada del billete"/></div><div class="dialog-bottom"><span data-i18n="museumViewer">VISOR DEL MUSEO</span><button type="button" id="dialog-flip"><span data-i18n="flipNote">Voltear billete</span> ↻</button></div></dialog>
+  <dialog id="image-dialog" class="image-dialog"><div class="dialog-top"><div><strong id="dialog-title"></strong><small id="dialog-subtitle"></small></div><button class="dialog-close" id="dialog-close" aria-label="Cerrar">×</button></div><div id="dialog-image-frame" class="dialog-image-frame"><div id="dialog-image" class="dialog-photo" role="img" aria-label="Fotografía ampliada del billete"></div></div><div class="dialog-bottom"><span data-i18n="museumViewer">VISOR DEL MUSEO</span><button type="button" id="dialog-flip"><span data-i18n="flipNote">Voltear billete</span> ↻</button></div></dialog>
   <noscript><div class="noscript">Para explorar el catálogo necesitas activar JavaScript.</div></noscript>
 </body>
 </html>
