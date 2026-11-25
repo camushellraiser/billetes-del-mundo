@@ -12960,10 +12960,25 @@
     "seriesEn": "Polymer · 2020–2021",
     "officialPage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
     "referencePage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los anversos presentan aves locales.",
-    "factEn": "The fronts feature local birds."
+    "factEn": "The fronts feature local birds.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2021/03/Trinidad_Tobago_CBTT_1_dollar_2019.00.00_B236a_PNL_AS_879567_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2021/03/Trinidad_Tobago_CBTT_1_dollar_2019.00.00_B236a_PNL_AS_879567_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=32635",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "tt-5",
@@ -13085,10 +13100,25 @@
     "seriesEn": "Polymer · 2020–2021",
     "officialPage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
     "referencePage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los anversos presentan aves locales.",
-    "factEn": "The fronts feature local birds."
+    "factEn": "The fronts feature local birds.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2019/12/Trinidad_Tobago_CBTT_100_dollars_2019.00.00_B241a_PNL_AA_343178_f-1024x437.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2019/12/Trinidad_Tobago_CBTT_100_dollars_2019.00.00_B241a_PNL_AA_343178_r-1024x438.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=19658",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "bs-0.5",
@@ -13613,10 +13643,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Nepal_NRB_5_rupees_2024.00.00_B287c_P76_569402_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Nepal_NRB_5_rupees_2024.00.00_B287c_P76_569402_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=46985",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "np-10",
@@ -13626,10 +13671,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Nepal_NRB_10_rupees_2024.00.00_B288c_P77_032489_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Nepal_NRB_10_rupees_2024.00.00_B288c_P77_032489_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47102",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "np-20",
@@ -13639,10 +13699,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2024/05/Nepal_NRB_20_rupees_2023.00.00_B289c_P78_680622_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/05/Nepal_NRB_20_rupees_2023.00.00_B289c_P78_680622_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=41648",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "np-50",
@@ -13652,10 +13727,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2020/09/Nepal_NRB_50_rupees_2019.00.00_B290b_P79_809669_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2020/09/Nepal_NRB_50_rupees_2019.00.00_B290b_P79_809669_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=30498",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested. Earlier 2019 date; newer signature/date also reported in 2026."
+    }
   },
   {
     "id": "np-100",
@@ -13665,10 +13755,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/12/Nepal_NRB_100_rupees_2024.00.00_B291c_P80_470426_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/12/Nepal_NRB_100_rupees_2024.00.00_B291c_P80_470426_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48593",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "np-500",
@@ -13678,10 +13783,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/Nepal_NRB_500_rupees_2025.00.00_B292c_P81_%E0%A4%95-56_083408_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/Nepal_NRB_500_rupees_2025.00.00_B292c_P81_%E0%A4%95-56_083408_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50555",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested."
+    }
   },
   {
     "id": "np-1000",
@@ -13691,10 +13811,25 @@
     "seriesEn": "Mount Everest and wildlife family",
     "officialPage": "https://www.nrb.org.np/",
     "referencePage": "https://www.nrb.org.np/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes modernos muestran el Everest y animales de la región.",
-    "factEn": "Modern notes show Mount Everest and regional wildlife."
+    "factEn": "Modern notes show Mount Everest and regional wildlife.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2021/07/Nepal_NRB_1000_rupees_2019.00.00_B293a_PNL_280666_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2021/07/Nepal_NRB_1000_rupees_2019.00.00_B293a_PNL_280666_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=30184",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested. A revised 2025-dated design was introduced in September 2026; this earlier issue is pictured."
+    }
   },
   {
     "id": "lk-20",
@@ -13936,12 +14071,27 @@
     "value": 75,
     "series": "Familia vigente y conmemorativo de 75",
     "seriesEn": "Current family and 75-rupee commemorative",
-    "officialPage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+    "officialPage": "https://www.sbp.org.pk/our-operations/bank-notes/75-rupees-blue",
     "referencePage": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El banco central reconoce dos diseños conmemorativos de 75 rupias como curso legal.",
-    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender."
+    "factEn": "The central bank recognizes two commemorative 75-rupee designs as legal tender.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/07/Pakistan_SBP_75_rupees_2023.00.00_B241a_PNL_A_3801788_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/07/Pakistan_SBP_75_rupees_2023.00.00_B241a_PNL_A_3801788_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=40498",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both source images opened and visually matched to denomination and side. Representative issue; browser rendering not tested. Blue 2023 commemorative design; green 2022 variant also legal tender."
+    }
   },
   {
     "id": "pk-100",
