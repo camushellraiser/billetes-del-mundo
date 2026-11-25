@@ -1,3 +1,5 @@
+> **v2.2.1 — 24 noviembre 2026:** 40 destinos, 223 denominaciones, 205 pares registrados y 18 pendientes. Añadidas 25 parejas; 17 inspeccionadas visualmente en origen y 8 referencias de Wikimedia Commons. [Auditoría](docs/photo-completion-v2.2.1.md).
+
 > **v2.2.0 — 24 noviembre 2026:** 40 destinos, 223 denominaciones, 180 parejas con referencias fotográficas y 43 pendientes. Añadidos diez destinos, 59 billetes y 16 pares de imágenes oficiales inspeccionados en origen. [Detalle de cobertura](docs/expansion-v2.2.md).
 
 > **v2.1.0 — 24 de noviembre de 2026:** control de calidad; 30 países, 164 referencias de parejas, 98 individuales y 66 con recorte. CAD 10 contrastado en la fuente oficial; las demás referencias aún necesitan comprobación visual y de carga. [Auditoría](docs/visual-audit-2.1.md) · [Comprobador manual](audit.html).

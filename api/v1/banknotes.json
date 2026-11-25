@@ -4766,10 +4766,29 @@
     "value": 1,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "1 leu. Romania, 2005 a.jpg",
+      "back": "1 leu. Romania, 2005 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:1%20leu.%20Romania%2C%202005%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:1%20leu.%20Romania%2C%202005%20b.jpg"
+    }
   },
   {
     "id": "ro-5",
@@ -4777,10 +4796,29 @@
     "value": 5,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "5 lei. Romania, 2005 a.jpg",
+      "back": "5 lei. Romania, 2005 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:5%20lei.%20Romania%2C%202005%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:5%20lei.%20Romania%2C%202005%20b.jpg"
+    }
   },
   {
     "id": "ro-10",
@@ -4788,10 +4826,29 @@
     "value": 10,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "10 lei. Romania, 2008 a.jpg",
+      "back": "10 lei. Romania, 2008 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:10%20lei.%20Romania%2C%202008%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:10%20lei.%20Romania%2C%202008%20b.jpg"
+    }
   },
   {
     "id": "ro-20",
@@ -4799,10 +4856,29 @@
     "value": 20,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "20 lei. Romania, 2021 a.jpg",
+      "back": "20 lei. Romania, 2021 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:20%20lei.%20Romania%2C%202021%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:20%20lei.%20Romania%2C%202021%20b.jpg"
+    }
   },
   {
     "id": "ro-50",
@@ -4810,10 +4886,29 @@
     "value": 50,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "50 lei. Romania, 2005 a.jpg",
+      "back": "50 lei. Romania, 2005 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:50%20lei.%20Romania%2C%202005%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:50%20lei.%20Romania%2C%202005%20b.jpg"
+    }
   },
   {
     "id": "ro-100",
@@ -4821,10 +4916,29 @@
     "value": 100,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "100 lei. Romania, 2005 a.jpg",
+      "back": "100 lei. Romania, 2005 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:100%20lei.%20Romania%2C%202005%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:100%20lei.%20Romania%2C%202005%20b.jpg"
+    }
   },
   {
     "id": "ro-200",
@@ -4832,10 +4946,29 @@
     "value": 200,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "200 lei. Romania, 2006 a.jpg",
+      "back": "200 lei. Romania, 2006 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:200%20lei.%20Romania%2C%202006%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:200%20lei.%20Romania%2C%202006%20b.jpg"
+    }
   },
   {
     "id": "ro-500",
@@ -4843,10 +4976,29 @@
     "value": 500,
     "series": "Familia de polímero; emisión 2026",
     "seriesEn": "Polymer family; 2026 issue",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
-    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu.",
+    "photos": {
+      "front": "500 lei. Romania, 2005 a.jpg",
+      "back": "500 lei. Romania, 2005 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Romania,_Leu_2005_Series",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference to same design family, earlier print date; 2026-dated printing not verified."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:500%20lei.%20Romania%2C%202005%20a.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:500%20lei.%20Romania%2C%202005%20b.jpg"
+    }
   },
   {
     "id": "dk-50",
@@ -4854,14 +5006,43 @@
     "value": 50,
     "series": "Serie 2009A (2020–2026)",
     "seriesEn": "2009A series (2020–2026)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
     "factEn": "Its banknotes pair bridges with archaeological objects.",
     "frontDescription": "Puente de Sallingsund",
     "frontDescriptionEn": "Sallingsund Bridge",
     "backDescription": "Vasija de Skarpsalling",
-    "backDescriptionEn": "Skarpsalling Pot"
+    "backDescriptionEn": "Skarpsalling Pot",
+    "photos": {
+      "front": "https://www.nationalbanken.dk/media/3qmnzfp1/2009a-seddelserie-50kr.png",
+      "back": "https://www.nationalbanken.dk/media/3qmnzfp1/2009a-seddelserie-50kr.png",
+      "provider": "Danmarks Nationalbank",
+      "sourcePage": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-photos",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0.1282051282051282,
+          0,
+          0.7435897435897436,
+          0.42735042735042733
+        ],
+        "back": [
+          0.1282051282051282,
+          0.45726495726495725,
+          0.7435897435897436,
+          0.42948717948717946
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "originalUnmodified": true
+    }
   },
   {
     "id": "dk-100",
@@ -4869,14 +5050,43 @@
     "value": 100,
     "series": "Serie 2009A (2020–2026)",
     "seriesEn": "2009A series (2020–2026)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
     "factEn": "Its banknotes pair bridges with archaeological objects.",
     "frontDescription": "Puente del Pequeño Belt",
     "frontDescriptionEn": "Old Little Belt Bridge",
     "backDescription": "Daga de Hindsgavl",
-    "backDescriptionEn": "Hindsgavl Dagger"
+    "backDescriptionEn": "Hindsgavl Dagger",
+    "photos": {
+      "front": "https://www.nationalbanken.dk/media/rrplhbpz/2009a-seddelserie-100kr.png",
+      "back": "https://www.nationalbanken.dk/media/rrplhbpz/2009a-seddelserie-100kr.png",
+      "provider": "Danmarks Nationalbank",
+      "sourcePage": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-photos",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0.09615384615384616,
+          0,
+          0.8076923076923077,
+          0.42735042735042733
+        ],
+        "back": [
+          0.09615384615384616,
+          0.45726495726495725,
+          0.8076923076923077,
+          0.42948717948717946
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "originalUnmodified": true
+    }
   },
   {
     "id": "dk-200",
@@ -4884,14 +5094,43 @@
     "value": 200,
     "series": "Serie 2009A (2020–2026)",
     "seriesEn": "2009A series (2020–2026)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
     "factEn": "Its banknotes pair bridges with archaeological objects.",
     "frontDescription": "Puente Knippelsbro",
     "frontDescriptionEn": "Knippelsbro Bridge",
     "backDescription": "Placa de cinturón de Langstrup",
-    "backDescriptionEn": "Langstrup belt plate"
+    "backDescriptionEn": "Langstrup belt plate",
+    "photos": {
+      "front": "https://www.nationalbanken.dk/media/nxlf3s5q/2009a-seddelserie-200kr.png",
+      "back": "https://www.nationalbanken.dk/media/nxlf3s5q/2009a-seddelserie-200kr.png",
+      "provider": "Danmarks Nationalbank",
+      "sourcePage": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-photos",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0.06623931623931624,
+          0,
+          0.8675213675213675,
+          0.42735042735042733
+        ],
+        "back": [
+          0.06623931623931624,
+          0.45726495726495725,
+          0.8675213675213675,
+          0.42948717948717946
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "originalUnmodified": true
+    }
   },
   {
     "id": "dk-500",
@@ -4899,14 +5138,43 @@
     "value": 500,
     "series": "Serie 2009A (2020–2026)",
     "seriesEn": "2009A series (2020–2026)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
     "factEn": "Its banknotes pair bridges with archaeological objects.",
     "frontDescription": "Puente Reina Alejandrina",
     "frontDescriptionEn": "Queen Alexandrine Bridge",
     "backDescription": "Cubo de bronce de Keldby",
-    "backDescriptionEn": "Bronze bucket from Keldby"
+    "backDescriptionEn": "Bronze bucket from Keldby",
+    "photos": {
+      "front": "https://www.nationalbanken.dk/media/yurncwyo/2009a-seddelserie-500kr.png",
+      "back": "https://www.nationalbanken.dk/media/yurncwyo/2009a-seddelserie-500kr.png",
+      "provider": "Danmarks Nationalbank",
+      "sourcePage": "https://www.nationalbanken.dk/en/news-and-knowledge/press/press-photos",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0.03418803418803419,
+          0,
+          0.9316239316239316,
+          0.42735042735042733
+        ],
+        "back": [
+          0.03418803418803419,
+          0.45726495726495725,
+          0.9316239316239316,
+          0.42948717948717946
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "originalUnmodified": true
+    }
   },
   {
     "id": "is-500",
@@ -4914,11 +5182,30 @@
     "value": 500,
     "series": "Billetes vigentes",
     "seriesEn": "Current notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Islandia conserva cinco denominaciones de billetes.",
     "factEn": "Iceland has five denominations of legal-tender banknotes.",
-    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-hundred-kr-banknote/"
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-hundred-kr-banknote/",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-500-Kronen-V-2001.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-500-Kronen-R-2001.jpg",
+      "provider": "Heiko Otto",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Island-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "quality": "thumbnail; higher resolution pending"
+    },
+    "frontDescription": "Jón Sigurðsson",
+    "frontDescriptionEn": "Jón Sigurðsson",
+    "backDescription": "Jón escribiendo",
+    "backDescriptionEn": "Jón writing"
   },
   {
     "id": "is-1000",
@@ -4926,11 +5213,30 @@
     "value": 1000,
     "series": "Billetes vigentes",
     "seriesEn": "Current notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Islandia conserva cinco denominaciones de billetes.",
     "factEn": "Iceland has five denominations of legal-tender banknotes.",
-    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/one-thousand-kr-banknote/"
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/one-thousand-kr-banknote/",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-1000-Kronen-V-2001-2.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-1000-Kronen-R-2001-2.jpg",
+      "provider": "Heiko Otto",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Island-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "quality": "thumbnail; higher resolution pending"
+    },
+    "frontDescription": "Brynjólfur Sveinsson",
+    "frontDescriptionEn": "Brynjólfur Sveinsson",
+    "backDescription": "Iglesia de Skálholt",
+    "backDescriptionEn": "Skálholt church"
   },
   {
     "id": "is-2000",
@@ -4950,11 +5256,30 @@
     "value": 5000,
     "series": "Billetes vigentes",
     "seriesEn": "Current notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Islandia conserva cinco denominaciones de billetes.",
     "factEn": "Iceland has five denominations of legal-tender banknotes.",
-    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-thousand-kr-banknote/"
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-thousand-kr-banknote/",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-5000-Kronen-V-2001.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-5000-Kronen-R-2001.jpg",
+      "provider": "Heiko Otto",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Island-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "quality": "thumbnail; higher resolution pending"
+    },
+    "frontDescription": "Ragnheiður Jónsdóttir",
+    "frontDescriptionEn": "Ragnheiður Jónsdóttir",
+    "backDescription": "Mujeres bordando",
+    "backDescriptionEn": "Women embroidering"
   },
   {
     "id": "is-10000",
@@ -4962,11 +5287,30 @@
     "value": 10000,
     "series": "Billetes vigentes",
     "seriesEn": "Current notes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Islandia conserva cinco denominaciones de billetes.",
     "factEn": "Iceland has five denominations of legal-tender banknotes.",
-    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/ten-thousand-kr-banknote/"
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/ten-thousand-kr-banknote/",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-10000-Kronen-V-2001.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Isl-10000-Kronen-R-2001.jpg",
+      "provider": "Heiko Otto",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Island-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "quality": "thumbnail; higher resolution pending"
+    },
+    "frontDescription": "Jónas Hallgrímsson",
+    "frontDescriptionEn": "Jónas Hallgrímsson",
+    "backDescription": "Paisaje islandés y ave",
+    "backDescriptionEn": "Icelandic landscape and bird"
   },
   {
     "id": "tw-100",
@@ -4974,10 +5318,28 @@
     "value": 100,
     "series": "Serie iniciada en 2000",
     "seriesEn": "Series introduced in 2000",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La serie vigente se empezó a emitir en julio de 2000.",
-    "factEn": "The current series began to be issued in July 2000."
+    "factEn": "The current series began to be issued in July 2000.",
+    "photos": {
+      "front": "https://img.vedfolnir.com/new-taiwan-dollars/TaiwanP1991-100Yuan-20002001_a.jpg",
+      "back": "https://img.vedfolnir.com/new-taiwan-dollars/TaiwanP1991-100Yuan-20002001_b.jpg",
+      "provider": "Vedfolnir",
+      "sourcePage": "https://www.vedfolnir.com/en/new-taiwan-dollars/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Sun Yat-sen",
+    "frontDescriptionEn": "Sun Yat-sen",
+    "backDescription": "Edificio Chung-Shan",
+    "backDescriptionEn": "Chung-Shan Building"
   },
   {
     "id": "tw-200",
@@ -4985,10 +5347,28 @@
     "value": 200,
     "series": "Serie iniciada en 2000",
     "seriesEn": "Series introduced in 2000",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La serie vigente se empezó a emitir en julio de 2000.",
-    "factEn": "The current series began to be issued in July 2000."
+    "factEn": "The current series began to be issued in July 2000.",
+    "photos": {
+      "front": "https://img.vedfolnir.com/new-taiwan-dollars/TaiwanP1992-200Yuan-20012002_a.jpg",
+      "back": "https://img.vedfolnir.com/new-taiwan-dollars/TaiwanP1992-200Yuan-20012002_b.jpg",
+      "provider": "Vedfolnir",
+      "sourcePage": "https://www.vedfolnir.com/en/new-taiwan-dollars/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Chiang Kai-shek",
+    "frontDescriptionEn": "Chiang Kai-shek",
+    "backDescription": "Oficina Presidencial",
+    "backDescriptionEn": "Presidential Office Building"
   },
   {
     "id": "tw-500",
@@ -5018,10 +5398,28 @@
     "value": 2000,
     "series": "Serie iniciada en 2000",
     "seriesEn": "Series introduced in 2000",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La serie vigente se empezó a emitir en julio de 2000.",
-    "factEn": "The current series began to be issued in July 2000."
+    "factEn": "The current series began to be issued in July 2000.",
+    "photos": {
+      "front": "https://img.vedfolnir.com/new-taiwan-dollars/TaiwanP1995-2000Yuan-20012002_a.jpg",
+      "back": "https://img.vedfolnir.com/new-taiwan-dollars/TaiwanP1995-2000Yuan-20012002_b.jpg",
+      "provider": "Vedfolnir",
+      "sourcePage": "https://www.vedfolnir.com/en/new-taiwan-dollars/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Antenas de satélite",
+    "frontDescriptionEn": "Satellite dishes",
+    "backDescription": "Salmón de Formosa y monte Nanhu",
+    "backDescriptionEn": "Formosan salmon and Mount Nanhu"
   },
   {
     "id": "il-20",
@@ -5233,10 +5631,43 @@
     "value": 5,
     "series": "Sexta emisión (2016–2021)",
     "seriesEn": "Sixth issue (2016–2021)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 200 riyales conmemora Visión 2030.",
-    "factEn": "The 200-riyal note commemorates Vision 2030."
+    "factEn": "The 200-riyal note commemorates Vision 2030.",
+    "photos": {
+      "front": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%205%20Riyal%20Polymer%20Note.png",
+      "back": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%205%20Riyal%20Polymer%20Note.png",
+      "provider": "Saudi Central Bank (SAMA)",
+      "sourcePage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.477
+        ],
+        "back": [
+          0,
+          0.523,
+          1,
+          0.477
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+    "frontDescription": "Campo petrolífero Shaybah",
+    "frontDescriptionEn": "Shaybah oil field",
+    "backDescription": "Flores silvestres",
+    "backDescriptionEn": "Wildflowers"
   },
   {
     "id": "sa-10",
@@ -5244,10 +5675,43 @@
     "value": 10,
     "series": "Sexta emisión (2016–2021)",
     "seriesEn": "Sixth issue (2016–2021)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 200 riyales conmemora Visión 2030.",
-    "factEn": "The 200-riyal note commemorates Vision 2030."
+    "factEn": "The 200-riyal note commemorates Vision 2030.",
+    "photos": {
+      "front": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%2010%20Riyal%20Note.png",
+      "back": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%2010%20Riyal%20Note.png",
+      "provider": "Saudi Central Bank (SAMA)",
+      "sourcePage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.477
+        ],
+        "back": [
+          0,
+          0.523,
+          1,
+          0.477
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+    "frontDescription": "Palacio de Al-Murabba",
+    "frontDescriptionEn": "Al-Murabba Palace",
+    "backDescription": "Distrito financiero Rey Abdalá",
+    "backDescriptionEn": "King Abdullah Financial District"
   },
   {
     "id": "sa-50",
@@ -5255,10 +5719,43 @@
     "value": 50,
     "series": "Sexta emisión (2016–2021)",
     "seriesEn": "Sixth issue (2016–2021)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 200 riyales conmemora Visión 2030.",
-    "factEn": "The 200-riyal note commemorates Vision 2030."
+    "factEn": "The 200-riyal note commemorates Vision 2030.",
+    "photos": {
+      "front": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%2050%20Riyal%20Note.png",
+      "back": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%2050%20Riyal%20Note.png",
+      "provider": "Saudi Central Bank (SAMA)",
+      "sourcePage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.477
+        ],
+        "back": [
+          0,
+          0.523,
+          1,
+          0.477
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+    "frontDescription": "Cúpula de la Roca",
+    "frontDescriptionEn": "Dome of the Rock",
+    "backDescription": "Mezquita de Al-Aqsa",
+    "backDescriptionEn": "Al-Aqsa Mosque"
   },
   {
     "id": "sa-100",
@@ -5266,10 +5763,43 @@
     "value": 100,
     "series": "Sexta emisión (2016–2021)",
     "seriesEn": "Sixth issue (2016–2021)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 200 riyales conmemora Visión 2030.",
-    "factEn": "The 200-riyal note commemorates Vision 2030."
+    "factEn": "The 200-riyal note commemorates Vision 2030.",
+    "photos": {
+      "front": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%20100%20Riyal%20Note.png",
+      "back": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%20100%20Riyal%20Note.png",
+      "provider": "Saudi Central Bank (SAMA)",
+      "sourcePage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.477
+        ],
+        "back": [
+          0,
+          0.523,
+          1,
+          0.477
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+    "frontDescription": "Cúpula Verde",
+    "frontDescriptionEn": "Green Dome",
+    "backDescription": "Mezquita del Profeta",
+    "backDescriptionEn": "Prophet's Mosque"
   },
   {
     "id": "sa-200",
@@ -5277,10 +5807,43 @@
     "value": 200,
     "series": "Sexta emisión (2016–2021)",
     "seriesEn": "Sixth issue (2016–2021)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 200 riyales conmemora Visión 2030.",
-    "factEn": "The 200-riyal note commemorates Vision 2030."
+    "factEn": "The 200-riyal note commemorates Vision 2030.",
+    "photos": {
+      "front": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%20200%20Riyal%20Note.png",
+      "back": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%20200%20Riyal%20Note.png",
+      "provider": "Saudi Central Bank (SAMA)",
+      "sourcePage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.477
+        ],
+        "back": [
+          0,
+          0.523,
+          1,
+          0.477
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+    "frontDescription": "Visión 2030",
+    "frontDescriptionEn": "Vision 2030",
+    "backDescription": "Qasr Al-Hukum",
+    "backDescriptionEn": "Qasr Al-Hukum"
   },
   {
     "id": "sa-500",
@@ -5288,10 +5851,43 @@
     "value": 500,
     "series": "Sexta emisión (2016–2021)",
     "seriesEn": "Sixth issue (2016–2021)",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 200 riyales conmemora Visión 2030.",
-    "factEn": "The 200-riyal note commemorates Vision 2030."
+    "factEn": "The 200-riyal note commemorates Vision 2030.",
+    "photos": {
+      "front": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%20500%20Riyal%20Note.png",
+      "back": "https://www.sama.gov.sa/ar-sa/Currency/PublishingImages/Sixth%20Issue%20500%20Riyal%20Note.png",
+      "provider": "Saudi Central Bank (SAMA)",
+      "sourcePage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.477
+        ],
+        "back": [
+          0,
+          0.523,
+          1,
+          0.477
+        ]
+      },
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "officialPage": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx",
+    "frontDescription": "Kaaba",
+    "frontDescriptionEn": "Kaaba",
+    "backDescription": "Gran Mezquita de La Meca",
+    "backDescriptionEn": "Grand Mosque of Mecca"
   },
   {
     "id": "qa-1",
