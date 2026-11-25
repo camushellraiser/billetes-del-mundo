@@ -14438,10 +14438,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-1-Ngultrum-V-2006.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-1-Ngultrum-R-2006.jpg",
+      "provider": "Heiko Otto banknote gallery",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Bhutan-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative paper series 2006; both sides opened and visually checked. Low-resolution thumbnails; upgrade when larger source images are available. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-5",
@@ -14451,10 +14466,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-5-Ngultrum-V-2006.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-5-Ngultrum-R-2006.jpg",
+      "provider": "Heiko Otto banknote gallery",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Bhutan-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative paper series 2006; both sides opened and visually checked. Low-resolution thumbnails; upgrade when larger source images are available. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-10",
@@ -14464,10 +14494,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-10-Ngultrum-V-2006.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-10-Ngultrum-R-2006.jpg",
+      "provider": "Heiko Otto banknote gallery",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Bhutan-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative paper series 2006; both sides opened and visually checked. Low-resolution thumbnails; upgrade when larger source images are available. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-20",
@@ -14477,10 +14522,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-20-Ngultrum-V-2006.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-20-Ngultrum-R-2006.jpg",
+      "provider": "Heiko Otto banknote gallery",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Bhutan-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative paper series 2006; both sides opened and visually checked. Low-resolution thumbnails; upgrade when larger source images are available. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-50",
@@ -14490,10 +14550,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-50-Ngultrum-V-2008.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Bhu-50-Ngultrum-R-2008.jpg",
+      "provider": "Heiko Otto banknote gallery",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Bhutan-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative paper series 2008; both sides opened and visually checked. Low-resolution thumbnails; upgrade when larger source images are available. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-100",
@@ -14503,10 +14578,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/12/Bhutan_RMA_100_ngultrum_2025.00.00_B225a_PNL_A_15048057_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/12/Bhutan_RMA_100_ngultrum_2025.00.00_B225a_PNL_A_15048057_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48775",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2025-dated commemorative polymer issue introduced January 2026. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-500",
@@ -14516,10 +14606,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/12/Bhutan_RMA_500_ngultrum_2025.00.00_B226a_PNL_A_04249522_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/12/Bhutan_RMA_500_ngultrum_2025.00.00_B226a_PNL_A_04249522_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48779",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "2025-dated commemorative polymer issue introduced January 2026. Front visually checked; reverse directly linked by publisher but retrieval returned HTTP 429. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "bt-1000",
@@ -14529,10 +14634,25 @@
     "seriesEn": "Current family · 2026 transition",
     "officialPage": "https://www.rma.org.bt/cBankNotes/",
     "referencePage": "https://www.rma.org.bt/cBankNotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Una nueva generación de billetes comenzó a circular en enero de 2026.",
-    "factEn": "A new generation of banknotes began circulating in January 2026."
+    "factEn": "A new generation of banknotes began circulating in January 2026.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/12/Bhutan_RMA_1000_ngultrum_2025.00.00_B227a_PNL_A_00740387_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/12/Bhutan_RMA_1000_ngultrum_2025.00.00_B227a_PNL_A_00740387_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48783",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "2025-dated commemorative polymer issue introduced January 2026. Front visually checked; reverse directly linked by publisher but retrieval returned HTTP 429. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "mv-5",
@@ -15396,10 +15516,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-250-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-250-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "iq-500",
@@ -15409,10 +15544,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-500-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-500-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "iq-1000",
@@ -15422,10 +15572,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-1k-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-1k-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. The later issue has a different front design. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "iq-5000",
@@ -15435,10 +15600,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-5k-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-5k-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "iq-10000",
@@ -15448,10 +15628,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-10k-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-10k-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. The later issue has a different front design. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "iq-25000",
@@ -15461,10 +15656,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-25k-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-25k-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "iq-50000",
@@ -15474,10 +15684,25 @@
     "seriesEn": "2003 family · 2013–2018 updates",
     "officialPage": "https://cbi.iq/page/89",
     "referencePage": "https://cbi.iq/page/89",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El diseño de 1000 dinares de 2018 destaca los humedales del sur.",
-    "factEn": "The 2018 1000-dinar design highlights the southern marshlands."
+    "factEn": "The 2018 1000-dinar design highlights the southern marshlands.",
+    "photos": {
+      "front": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-50k-front.jpg",
+      "back": "https://cdn.safedinar.com/media/wysiwyg/notes/iqd-50k-back.jpg",
+      "provider": "SafeDinar",
+      "sourcePage": "https://www.safedinar.com/iraqi-dinar-bank-notes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative circulating earlier design; the Central Bank of Iraq confirms earlier issues remain in circulation. Both sides opened and visually checked. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "tn-5",
