@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "lastReviewed": "2026-11-24",
   "countryCount": 70,
   "banknoteCount": 412,
-  "imagePolicy": "18 parejas añadidas e inspeccionadas en sus fuentes: Costa Rica, Jamaica, Albania y Mauricio. Las de Jamaica son encuadres de láminas educativas anotadas; Mauricio usa impresión de 2013 de la familia actual. Quedan 102 parejas pendientes. No se ha ejecutado prueba integral en navegador.",
+  "imagePolicy": "Se añadieron ocho parejas oficiales de Nigeria, inspeccionadas visualmente en su fuente. Son hojas de referencia con encuadres visuales; no se comprobó la carga ni el encuadre en el navegador. Quedan 94 parejas pendientes.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 312,
-  "pendingImagePairs": 102,
+  "pendingImagePairs": 94,
   "illustratedCountries": [
     "mx",
     "us",
@@ -66,13 +66,14 @@
     "jm",
     "al",
     "rs",
-    "am"
+    "am",
+    "ng"
   ],
-  "coverageReport": "docs/photo-completion-v2.4.1.md",
-  "photoReferencePairs": 310,
-  "contactSheetCroppedPairs": 100,
+  "coverageReport": "docs/photo-completion-v2.4.2.md",
+  "photoReferencePairs": 318,
+  "contactSheetCroppedPairs": 108,
   "individualImagePairs": 210,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 129,
+  "sourceVisuallyConfirmedPairs": 137,
   "browserVerifiedPairs": null
 }

@@ -10259,105 +10259,337 @@
     "id": "ng-5",
     "countryId": "ng",
     "value": 5,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Familia vigente",
+    "seriesEn": "Current family",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N5.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N5.png",
+      "crop": {
+        "front": [
+          0.01179245283018868,
+          0.2254335260115607,
+          0.47877358490566035,
+          0.653179190751445
+        ],
+        "back": [
+          0.49292452830188677,
+          0.21965317919075145,
+          0.4716981132075472,
+          0.653179190751445
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-10",
     "countryId": "ng",
     "value": 10,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Familia vigente",
+    "seriesEn": "Current family",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N10.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N10.png",
+      "crop": {
+        "front": [
+          0.021377672209026127,
+          0.19858156028368795,
+          0.47743467933491684,
+          0.6737588652482269
+        ],
+        "back": [
+          0.5083135391923991,
+          0.18439716312056736,
+          0.4679334916864608,
+          0.6950354609929078
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-20",
     "countryId": "ng",
     "value": 20,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Familia vigente",
+    "seriesEn": "Current family",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N20.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N20.png",
+      "crop": {
+        "front": [
+          0.009111617312072893,
+          0.24489795918367346,
+          0.4601366742596811,
+          0.6802721088435374
+        ],
+        "back": [
+          0.4783599088838269,
+          0.2585034013605442,
+          0.4601366742596811,
+          0.6666666666666666
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-50",
     "countryId": "ng",
     "value": 50,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Familia vigente",
+    "seriesEn": "Current family",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N50.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N50.png",
+      "crop": {
+        "front": [
+          0.011627906976744186,
+          0.273972602739726,
+          0.4697674418604651,
+          0.6164383561643836
+        ],
+        "back": [
+          0.4883720930232558,
+          0.2534246575342466,
+          0.4697674418604651,
+          0.636986301369863
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-100",
     "countryId": "ng",
     "value": 100,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Diseño conmemorativo de 2014",
+    "seriesEn": "2014 commemorative design",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N100_new.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N100_new.png",
+      "crop": {
+        "front": [
+          0.009345794392523364,
+          0.25806451612903225,
+          0.4719626168224299,
+          0.6516129032258065
+        ],
+        "back": [
+          0.49065420560747663,
+          0.2645161290322581,
+          0.4719626168224299,
+          0.6451612903225806
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-200",
     "countryId": "ng",
     "value": 200,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Rediseño de 2022",
+    "seriesEn": "2022 redesign",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N200_redesigned.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N200_redesigned.png",
+      "crop": {
+        "front": [
+          0.004629629629629629,
+          0.009174311926605505,
+          0.49074074074074076,
+          0.9724770642201835
+        ],
+        "back": [
+          0.5,
+          0.009174311926605505,
+          0.49537037037037035,
+          0.9724770642201835
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-500",
     "countryId": "ng",
     "value": 500,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Rediseño de 2022",
+    "seriesEn": "2022 redesign",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N500_redesigned.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N500_redesigned.png",
+      "crop": {
+        "front": [
+          0.004761904761904762,
+          0.009708737864077669,
+          0.49047619047619045,
+          0.9611650485436893
+        ],
+        "back": [
+          0.5047619047619047,
+          0.009708737864077669,
+          0.49047619047619045,
+          0.9611650485436893
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "ng-1000",
     "countryId": "ng",
     "value": 1000,
-    "series": "Familia vigente; rediseños 2022",
-    "seriesEn": "Current family; 2022 redesigns",
+    "series": "Rediseño de 2022",
+    "seriesEn": "2022 redesign",
     "officialPage": "https://www.cbn.gov.ng/currency/legaltender.html",
     "referencePage": "https://www.cbn.gov.ng/currency/legaltender.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "Las denominaciones de 200, 500 y 1000 nairas fueron rediseñadas en 2022.",
-    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022."
+    "factEn": "The 200-, 500- and 1000-naira denominations were redesigned in 2022.",
+    "photos": {
+      "front": "https://www.cbn.gov.ng/currency/images/LegalTender/N1000_redesigned.png",
+      "back": "https://www.cbn.gov.ng/currency/images/LegalTender/N1000_redesigned.png",
+      "crop": {
+        "front": [
+          0.0024390243902439024,
+          0.009900990099009901,
+          0.4902439024390244,
+          0.9702970297029703
+        ],
+        "back": [
+          0.5,
+          0.009900990099009901,
+          0.4951219512195122,
+          0.9702970297029703
+        ]
+      },
+      "verified": true,
+      "provider": "Central Bank of Nigeria",
+      "sourcePage": "https://www.cbn.gov.ng/currency/legaltender.html",
+      "sourceType": "official_reference",
+      "display": "external_contact_sheet",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official reference image; original specimen labels retained. Crop is a visual viewport only; browser rendering not tested."
+    }
   },
   {
     "id": "et-5",
