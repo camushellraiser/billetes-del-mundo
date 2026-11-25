@@ -1,3 +1,5 @@
+> **Actualización manual del 24 de noviembre de 2026 (v2.0.0):** ya existen referencias para el anverso y reverso de las 164 denominaciones de los 30 países originales. De ellas, 97 usan fotografías individuales y 67 se muestran mediante encuadres de fotografías compuestas. Se validó la estructura de datos y el código; **no se ha confirmado la carga HTTP de las 164 parejas en todos los navegadores**. La imagen original se abre desde su fuente si falla la incrustación. Auditoría: [cobertura completa](docs/coverage-audit-2026-11-24.md).
+
 # Billetes del Mundo 🌎
 
 Un museo digital de billetes actuales para explorar en familia, creado por **Aldo Lizares**.
@@ -166,3 +168,11 @@ No se incorporan fotografías: no se ha confirmado permiso de republicación. Co
 - **Importante:** los 70 pares son **referencias seleccionadas**; no se ha confirmado que cada CDN permita incrustar la imagen directamente en iPhone. Si falla, la interfaz ofrece ir a la fuente.
 
 **Autor:** Developed by Aldo Lizares.
+
+## Versión 2.0.0 — 24 de noviembre de 2026
+
+**Cambio principal:** se eliminaron los marcadores sin fotografía en el registro de las 164 denominaciones actuales de los mismos 30 países. Se añadieron 94 registros de pares front/back, sin crear países nuevos. Se actualizó el visor para mostrar las dos caras de cada billete, incluidas imágenes de colección con varias denominaciones que ahora se encuadran por separado mediante CSS y JavaScript.
+
+**Controles:** fuente original indicada en cada billete, fallback a la web de origen, idioma español/inglés, fotografía en tarjeta de país, zoom, navegación por anverso/reverso, firma Developed by Aldo Lizares y copia de seguridad `backup/pre-image-gallery-20261124`.
+
+**Limitación importante de esta entrega:** contar 164 pares registrados significa que hay URLs y un lado asignado para cada billete, pero algunos servidores (por ejemplo imágenes de sitios comerciales) pueden bloquear el uso externo, y el encuadre de ciertas hojas fotográficas necesita ajuste visual en navegador. No se afirma una prueba end-to-end de las 164 fotos.
