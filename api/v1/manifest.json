@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.2.2",
+  "version": "2.3.0",
   "lastReviewed": "2026-11-24",
-  "countryCount": 40,
-  "banknoteCount": 223,
-  "imagePolicy": "223 parejas de referencias fotográficas registradas. Las 18 parejas añadidas en esta revisión fueron abiertas e inspeccionadas en la fuente. La carga efectiva de las imágenes en GitHub Pages y Safari no está comprobada globalmente.",
+  "countryCount": 50,
+  "banknoteCount": 277,
+  "imagePolicy": "Se añadieron 54 denominaciones y 39 parejas de referencias; 29 abiertas e inspeccionadas en ambos lados, 10 identificadas pero no completamente verificadas por errores HTTP. Faltan 15 parejas. No se ha ejecutado prueba integral de navegador.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 123,
-  "pendingImagePairs": 0,
+  "officialDenominationReferences": 177,
+  "pendingImagePairs": 15,
   "illustratedCountries": [
     "mx",
     "us",
@@ -51,13 +51,22 @@
     "il",
     "ae",
     "sa",
-    "qa"
+    "qa",
+    "mg",
+    "mu",
+    "sc",
+    "na",
+    "ke",
+    "tz",
+    "ug",
+    "zm",
+    "rw"
   ],
-  "coverageReport": "docs/photo-completion-v2.2.2.md",
-  "photoReferencePairs": 223,
+  "coverageReport": "docs/expansion-v2.3.md",
+  "photoReferencePairs": 262,
   "contactSheetCroppedPairs": 89,
-  "individualImagePairs": 134,
+  "individualImagePairs": 173,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 52,
+  "sourceVisuallyConfirmedPairs": 81,
   "browserVerifiedPairs": null
 }
