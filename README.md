@@ -1,3 +1,5 @@
+> **v2.4.3 — 24 noviembre 2026:** 31 parejas de archivos adicionales; 349 registradas, 63 pendientes. [Auditoría](docs/photo-completion-v2.4.3.md).
+
 > **v2.4.2 — 24 noviembre 2026:** Nigeria completo en referencias; 318 parejas registradas. [Auditoría](docs/photo-completion-v2.4.2.md).
 
 > **v2.4.1 — 24 noviembre 2026:** 18 nuevas parejas, 310 referencias completas y 102 pendientes. [Auditoría](docs/photo-completion-v2.4.1.md).

@@ -8078,10 +8078,30 @@
     "seriesEn": "Current family; recent issues",
     "officialPage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
     "referencePage": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El quetzal da nombre a la moneda y es el ave nacional.",
-    "factEn": "The quetzal, the national bird, gives the currency its name."
+    "factEn": "The quetzal, the national bird, gives the currency its name.",
+    "photos": {
+      "front": "Billete de un quetzal 20210430 anverso.jpg",
+      "back": "Billete de un quetzal 20210430 reverso.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Billete_de_un_quetzal_20210430_anverso.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Photographed in 2021; actual print date and latest issue not confirmed.",
+      "referenceYear": "prior-print"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Billete_de_un_quetzal_20210430_anverso.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Billete_de_un_quetzal_20210430_reverso.jpg"
+    }
   },
   {
     "id": "gt-5",
@@ -9325,10 +9345,30 @@
     "seriesEn": "Current family; 2002–2024 issues",
     "officialPage": "https://www.cbbh.ba/Content/Read/19?lang=en",
     "referencePage": "https://www.cbbh.ba/Content/Read/19?lang=en",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Cuatro denominaciones existen en dos versiones de diseño regional.",
-    "factEn": "Four denominations have two regional design variants."
+    "factEn": "Four denominations have two regional design variants.",
+    "photos": {
+      "front": "10 KM lice 2024 FBiH (BiH).jpg",
+      "back": "10 KM naličje 2019-2024 FBiH (BiH).jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:10_KM_lice_2024_FBiH_(BiH).jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Federation design variant for 10–100 KM; other legal regional variant not duplicated. Original reference thumbnails.",
+      "referenceYear": "2024"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:10_KM_lice_2024_FBiH_(BiH).jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:10_KM_nali%C4%8Dje_2019-2024_FBiH_(BiH).jpg"
+    }
   },
   {
     "id": "ba-20",
@@ -9338,10 +9378,30 @@
     "seriesEn": "Current family; 2002–2024 issues",
     "officialPage": "https://www.cbbh.ba/Content/Read/19?lang=en",
     "referencePage": "https://www.cbbh.ba/Content/Read/19?lang=en",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Cuatro denominaciones existen en dos versiones de diseño regional.",
-    "factEn": "Four denominations have two regional design variants."
+    "factEn": "Four denominations have two regional design variants.",
+    "photos": {
+      "front": "20 KM lice 2024 FBiH (BiH).jpg",
+      "back": "20 KM naličje 2019-2024 FBiH (BiH).jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20_KM_lice_2024_FBiH_(BiH).jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Federation design variant for 10–100 KM; other legal regional variant not duplicated. Original reference thumbnails.",
+      "referenceYear": "2024"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:20_KM_lice_2024_FBiH_(BiH).jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:20_KM_nali%C4%8Dje_2019-2024_FBiH_(BiH).jpg"
+    }
   },
   {
     "id": "ba-50",
@@ -9351,10 +9411,30 @@
     "seriesEn": "Current family; 2002–2024 issues",
     "officialPage": "https://www.cbbh.ba/Content/Read/19?lang=en",
     "referencePage": "https://www.cbbh.ba/Content/Read/19?lang=en",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Cuatro denominaciones existen en dos versiones de diseño regional.",
-    "factEn": "Four denominations have two regional design variants."
+    "factEn": "Four denominations have two regional design variants.",
+    "photos": {
+      "front": "50 KM lice 2024 FBiH (BiH).jpg",
+      "back": "50 KM naličje 2019-2024 FBiH (BiH).jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:50_KM_lice_2024_FBiH_(BiH).jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Federation design variant for 10–100 KM; other legal regional variant not duplicated. Original reference thumbnails.",
+      "referenceYear": "2024"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:50_KM_lice_2024_FBiH_(BiH).jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:50_KM_nali%C4%8Dje_2019-2024_FBiH_(BiH).jpg"
+    }
   },
   {
     "id": "ba-100",
@@ -9364,10 +9444,30 @@
     "seriesEn": "Current family; 2002–2024 issues",
     "officialPage": "https://www.cbbh.ba/Content/Read/19?lang=en",
     "referencePage": "https://www.cbbh.ba/Content/Read/19?lang=en",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Cuatro denominaciones existen en dos versiones de diseño regional.",
-    "factEn": "Four denominations have two regional design variants."
+    "factEn": "Four denominations have two regional design variants.",
+    "photos": {
+      "front": "100 KM lice 2024 FBiH (BiH).jpg",
+      "back": "100 KM naličje 2019-2024 FBiH (BiH).jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:100_KM_lice_2024_FBiH_(BiH).jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Federation design variant for 10–100 KM; other legal regional variant not duplicated. Original reference thumbnails.",
+      "referenceYear": "2024"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:100_KM_lice_2024_FBiH_(BiH).jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:100_KM_nali%C4%8Dje_2019-2024_FBiH_(BiH).jpg"
+    }
   },
   {
     "id": "ba-200",
@@ -9377,10 +9477,30 @@
     "seriesEn": "Current family; 2002–2024 issues",
     "officialPage": "https://www.cbbh.ba/Content/Read/19?lang=en",
     "referencePage": "https://www.cbbh.ba/Content/Read/19?lang=en",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Cuatro denominaciones existen en dos versiones de diseño regional.",
-    "factEn": "Four denominations have two regional design variants."
+    "factEn": "Four denominations have two regional design variants.",
+    "photos": {
+      "front": "200 KM lice 2022 (BiH).jpg",
+      "back": "200 KM naličje 2022 (BiH).jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:200_KM_lice_2022_(BiH).jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Federation design variant for 10–100 KM; other legal regional variant not duplicated. Original reference thumbnails.",
+      "referenceYear": "2022"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:200_KM_lice_2022_(BiH).jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:200_KM_nali%C4%8Dje_2022_(BiH).jpg"
+    }
   },
   {
     "id": "md-1",
@@ -9390,10 +9510,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 1 leu 2015 av.jpg",
+      "back": "MD 1 leu 2015 rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_1_leu_2015_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "2015"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_1_leu_2015_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_1_leu_2015_rev.jpg"
+    }
   },
   {
     "id": "md-5",
@@ -9403,10 +9543,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 5 lei av.jpg",
+      "back": "MD 5 lei rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_5_lei_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "prior-print"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_5_lei_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_5_lei_rev.jpg"
+    }
   },
   {
     "id": "md-10",
@@ -9416,10 +9576,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 10 lei av.jpg",
+      "back": "MD 10 lei rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_10_lei_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "prior-print"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_10_lei_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_10_lei_rev.jpg"
+    }
   },
   {
     "id": "md-20",
@@ -9429,10 +9609,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 20 lei av.jpg",
+      "back": "MD 20 lei rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_20_lei_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "prior-print"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_20_lei_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_20_lei_rev.jpg"
+    }
   },
   {
     "id": "md-50",
@@ -9442,10 +9642,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 50 lei av.jpg",
+      "back": "MD 50 lei rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_50_lei_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "prior-print"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_50_lei_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_50_lei_rev.jpg"
+    }
   },
   {
     "id": "md-100",
@@ -9455,10 +9675,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 100 lei 2015 av.jpg",
+      "back": "MD 100 lei 2015 rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_100_lei_2015_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "2015"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_100_lei_2015_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_100_lei_2015_rev.jpg"
+    }
   },
   {
     "id": "md-200",
@@ -9468,10 +9708,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 200 lei 2013 av.png",
+      "back": "MD 200 lei 2013 rev.png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_200_lei_2013_av.png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "2013"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_200_lei_2013_av.png",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_200_lei_2013_rev.png"
+    }
   },
   {
     "id": "md-500",
@@ -9481,10 +9741,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 500 lei av.jpg",
+      "back": "MD 500 lei rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_500_lei_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "prior-print"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_500_lei_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_500_lei_rev.jpg"
+    }
   },
   {
     "id": "md-1000",
@@ -9494,10 +9774,30 @@
     "seriesEn": "Current family and upgrades",
     "officialPage": "https://www.bnm.md/en/content/banknotes",
     "referencePage": "https://www.bnm.md/en/content/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Esteban el Grande aparece en los anversos.",
-    "factEn": "Stephen the Great appears on the fronts."
+    "factEn": "Stephen the Great appears on the fronts.",
+    "photos": {
+      "front": "MD 1000 lei av.jpg",
+      "back": "MD 1000 lei rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MD_1000_lei_av.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Reference from current design family; for some denominations exact print date or latest upgraded issue is not confirmed.",
+      "referenceYear": "2003"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:MD_1000_lei_av.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:MD_1000_lei_rev.jpg"
+    }
   },
   {
     "id": "ge-5",
@@ -9507,10 +9807,30 @@
     "seriesEn": "2016–2019 upgraded family and 200-lari note of 2007",
     "officialPage": "https://nbg.gov.ge/en/georgian-money/banknotes",
     "referencePage": "https://nbg.gov.ge/en/georgian-money/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Lari es una palabra georgiana antigua relacionada con el tesoro.",
-    "factEn": "Lari is an old Georgian word associated with treasure."
+    "factEn": "Lari is an old Georgian word associated with treasure.",
+    "photos": {
+      "front": "5LariObverse.png",
+      "back": "5LariReverse2017.png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:5LariObverse.png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2017"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:5LariObverse.png",
+      "back": "https://commons.wikimedia.org/wiki/File:5LariReverse2017.png"
+    }
   },
   {
     "id": "ge-10",
@@ -9520,10 +9840,30 @@
     "seriesEn": "2016–2019 upgraded family and 200-lari note of 2007",
     "officialPage": "https://nbg.gov.ge/en/georgian-money/banknotes",
     "referencePage": "https://nbg.gov.ge/en/georgian-money/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Lari es una palabra georgiana antigua relacionada con el tesoro.",
-    "factEn": "Lari is an old Georgian word associated with treasure."
+    "factEn": "Lari is an old Georgian word associated with treasure.",
+    "photos": {
+      "front": "Upgraded-10-lari.png",
+      "back": "10-lari-banknote-back-side.png",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Upgraded-10-lari.png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2019"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Upgraded-10-lari.png",
+      "back": "https://commons.wikimedia.org/wiki/File:10-lari-banknote-back-side.png"
+    }
   },
   {
     "id": "ge-20",
@@ -9533,10 +9873,30 @@
     "seriesEn": "2016–2019 upgraded family and 200-lari note of 2007",
     "officialPage": "https://nbg.gov.ge/en/georgian-money/banknotes",
     "referencePage": "https://nbg.gov.ge/en/georgian-money/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Lari es una palabra georgiana antigua relacionada con el tesoro.",
-    "factEn": "Lari is an old Georgian word associated with treasure."
+    "factEn": "Lari is an old Georgian word associated with treasure.",
+    "photos": {
+      "front": "20 lari. Georgia, 2016 a.png",
+      "back": "20 lari. Georgia, 2016 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20_lari._Georgia%2C_2016_a.png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2016"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:20_lari._Georgia%2C_2016_a.png",
+      "back": "https://commons.wikimedia.org/wiki/File:20_lari._Georgia%2C_2016_b.jpg"
+    }
   },
   {
     "id": "ge-50",
@@ -9546,10 +9906,30 @@
     "seriesEn": "2016–2019 upgraded family and 200-lari note of 2007",
     "officialPage": "https://nbg.gov.ge/en/georgian-money/banknotes",
     "referencePage": "https://nbg.gov.ge/en/georgian-money/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Lari es una palabra georgiana antigua relacionada con el tesoro.",
-    "factEn": "Lari is an old Georgian word associated with treasure."
+    "factEn": "Lari is an old Georgian word associated with treasure.",
+    "photos": {
+      "front": "50 lari. Georgia, 2016 a.png",
+      "back": "50 lari. Georgia, 2016 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:50_lari._Georgia%2C_2016_a.png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2016"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:50_lari._Georgia%2C_2016_a.png",
+      "back": "https://commons.wikimedia.org/wiki/File:50_lari._Georgia%2C_2016_b.jpg"
+    }
   },
   {
     "id": "ge-100",
@@ -9559,10 +9939,30 @@
     "seriesEn": "2016–2019 upgraded family and 200-lari note of 2007",
     "officialPage": "https://nbg.gov.ge/en/georgian-money/banknotes",
     "referencePage": "https://nbg.gov.ge/en/georgian-money/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Lari es una palabra georgiana antigua relacionada con el tesoro.",
-    "factEn": "Lari is an old Georgian word associated with treasure."
+    "factEn": "Lari is an old Georgian word associated with treasure.",
+    "photos": {
+      "front": "100 lari. Georgia, 2016 a.png",
+      "back": "100 lari. Georgia, 2016 b.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:100_lari._Georgia%2C_2016_a.png",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2016"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:100_lari._Georgia%2C_2016_a.png",
+      "back": "https://commons.wikimedia.org/wiki/File:100_lari._Georgia%2C_2016_b.jpg"
+    }
   },
   {
     "id": "ge-200",
@@ -9572,10 +9972,30 @@
     "seriesEn": "2007 design",
     "officialPage": "https://nbg.gov.ge/en/georgian-money/banknotes",
     "referencePage": "https://nbg.gov.ge/en/georgian-money/banknotes",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Lari es una palabra georgiana antigua relacionada con el tesoro.",
-    "factEn": "Lari is an old Georgian word associated with treasure."
+    "factEn": "Lari is an old Georgian word associated with treasure.",
+    "photos": {
+      "front": "Ge-money-lari-200.jpg",
+      "back": "Ge-money-lari-200-rev.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ge-money-lari-200.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2007"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Ge-money-lari-200.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Ge-money-lari-200-rev.jpg"
+    }
   },
   {
     "id": "am-1000",
@@ -10055,10 +10475,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "UZS1000 2001 front.jpg",
+      "back": "UZS1000 2001 back.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:UZS1000_2001_front.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2001"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:UZS1000_2001_front.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:UZS1000_2001_back.jpg"
+    }
   },
   {
     "id": "uz-2000",
@@ -10068,10 +10508,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "2000 SUM AVERS.jpg",
+      "back": "2000 SUM REVERS.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2000_SUM_AVERS.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2021"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:2000_SUM_AVERS.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:2000_SUM_REVERS.jpg"
+    }
   },
   {
     "id": "uz-5000",
@@ -10081,10 +10541,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "5000 SUM AVERS.jpg",
+      "back": "5000 SUM REVERS.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:5000_SUM_AVERS.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2021"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:5000_SUM_AVERS.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:5000_SUM_REVERS.jpg"
+    }
   },
   {
     "id": "uz-10000",
@@ -10094,10 +10574,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "10000 SUM AVERS.jpg",
+      "back": "10000 SUM REVERS.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:10000_SUM_AVERS.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2021"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:10000_SUM_AVERS.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:10000_SUM_REVERS.jpg"
+    }
   },
   {
     "id": "uz-20000",
@@ -10107,10 +10607,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "20000 front.jpg",
+      "back": "20000 revers.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20000_front.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2021"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:20000_front.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:20000_revers.jpg"
+    }
   },
   {
     "id": "uz-50000",
@@ -10120,10 +10640,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "50 000 sum new front.jpg",
+      "back": "50 000 sum new rear.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:50_000_sum_new_front.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2021"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:50_000_sum_new_front.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:50_000_sum_new_rear.jpg"
+    }
   },
   {
     "id": "uz-100000",
@@ -10133,10 +10673,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "100 000 sum new front.jpg",
+      "back": "100 000 sum new rear.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:100_000_sum_new_front.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2021"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:100_000_sum_new_front.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:100_000_sum_new_rear.jpg"
+    }
   },
   {
     "id": "uz-200000",
@@ -10146,10 +10706,30 @@
     "seriesEn": "2021–2022 family and 1000-som note of 2001",
     "officialPage": "https://cbu.uz/en/banknotes-coins/banknotes/",
     "referencePage": "https://cbu.uz/en/banknotes-coins/banknotes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los motivos arquitectónicos recuerdan la Ruta de la Seda.",
-    "factEn": "Architectural motifs recall the Silk Road."
+    "factEn": "Architectural motifs recall the Silk Road.",
+    "photos": {
+      "front": "200 000 sum new front.jpg",
+      "back": "200 000 sum new rear.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:200_000_sum_new_front.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2022"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:200_000_sum_new_front.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:200_000_sum_new_rear.jpg"
+    }
   },
   {
     "id": "gh-1",
@@ -10612,10 +11192,31 @@
     "seriesEn": "2020 family and earlier 5-birr note",
     "officialPage": "https://nbe.gov.et/about-us/bank-notes/",
     "referencePage": "https://nbe.gov.et/about-us/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La reforma de 2020 añadió el valor de 200 birr.",
-    "factEn": "The 2020 reform added the 200-birr denomination."
+    "factEn": "The 2020 reform added the 200-birr denomination.",
+    "photos": {
+      "front": "ETHW2020-010o.jpg",
+      "back": "ETHW2020-010r.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ETHW2020-010o.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2020",
+      "credit": "Mbele2025 / CC0 (see source pages)"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:ETHW2020-010o.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:ETHW2020-010r.jpg"
+    }
   },
   {
     "id": "et-50",
@@ -10625,10 +11226,31 @@
     "seriesEn": "2020 family and earlier 5-birr note",
     "officialPage": "https://nbe.gov.et/about-us/bank-notes/",
     "referencePage": "https://nbe.gov.et/about-us/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La reforma de 2020 añadió el valor de 200 birr.",
-    "factEn": "The 2020 reform added the 200-birr denomination."
+    "factEn": "The 2020 reform added the 200-birr denomination.",
+    "photos": {
+      "front": "ETHW2020-050o.jpg",
+      "back": "ETHW2020-050r.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ETHW2020-050o.jpg",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "File references identified in source gallery; image bytes and browser rendering not independently inspected.",
+      "referenceYear": "2020",
+      "credit": "Mbele2025 / CC0 (see source pages)"
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:ETHW2020-050o.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:ETHW2020-050r.jpg"
+    }
   },
   {
     "id": "et-100",

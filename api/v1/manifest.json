@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "lastReviewed": "2026-11-24",
   "countryCount": 70,
   "banknoteCount": 412,
-  "imagePolicy": "Se añadieron ocho parejas oficiales de Nigeria, inspeccionadas visualmente en su fuente. Son hojas de referencia con encuadres visuales; no se comprobó la carga ni el encuadre en el navegador. Quedan 94 parejas pendientes.",
+  "imagePolicy": "31 nuevas parejas de archivos identificados en Wikimedia Commons. No se comprobó visualmente su contenido individual ni carga HTTP: el acceso directo a los binarios desde el entorno de ejecución está bloqueado. Algunas referencias moldavas son impresiones previas de la familia. Quedan 63 parejas pendientes.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 312,
-  "pendingImagePairs": 94,
+  "pendingImagePairs": 63,
   "illustratedCountries": [
     "mx",
     "us",
@@ -62,17 +62,23 @@
     "ug",
     "zm",
     "rw",
+    "gt",
     "cr",
     "jm",
     "al",
     "rs",
+    "ba",
+    "md",
+    "ge",
     "am",
-    "ng"
+    "uz",
+    "ng",
+    "et"
   ],
-  "coverageReport": "docs/photo-completion-v2.4.2.md",
-  "photoReferencePairs": 318,
+  "coverageReport": "docs/photo-completion-v2.4.3.md",
+  "photoReferencePairs": 349,
   "contactSheetCroppedPairs": 108,
-  "individualImagePairs": 210,
+  "individualImagePairs": 241,
   "unverifiedExternalAvailability": true,
   "sourceVisuallyConfirmedPairs": 137,
   "browserVerifiedPairs": null
