@@ -2000,55 +2000,187 @@
     "id": "cn-1",
     "countryId": "cn",
     "value": 1,
-    "series": "Quinta serie",
-    "seriesEn": "Quinta serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Quinta serie · edición 2019",
+    "seriesEn": "Fifth series · 2019 design",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "crop": {
+        "front": [
+          0.205,
+          0.048,
+          0.271,
+          0.126
+        ],
+        "back": [
+          0.527,
+          0.048,
+          0.269,
+          0.126
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — serie china actual",
+      "sourcePage": "https://www.robertsworldmoney.com/products/china-full-set-1-100-yuan-2015-2020-current-series-unc",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cn-5",
     "countryId": "cn",
     "value": 5,
-    "series": "Quinta serie",
-    "seriesEn": "Quinta serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Quinta serie · edición 2020",
+    "seriesEn": "Fifth series · 2020 design",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "crop": {
+        "front": [
+          0.193,
+          0.187,
+          0.282,
+          0.127
+        ],
+        "back": [
+          0.528,
+          0.187,
+          0.281,
+          0.127
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — serie china actual",
+      "sourcePage": "https://www.robertsworldmoney.com/products/china-full-set-1-100-yuan-2015-2020-current-series-unc",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cn-10",
     "countryId": "cn",
     "value": 10,
-    "series": "Quinta serie",
-    "seriesEn": "Quinta serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Quinta serie · edición 2019",
+    "seriesEn": "Fifth series · 2019 design",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "crop": {
+        "front": [
+          0.184,
+          0.33,
+          0.29,
+          0.141
+        ],
+        "back": [
+          0.528,
+          0.33,
+          0.29,
+          0.141
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — serie china actual",
+      "sourcePage": "https://www.robertsworldmoney.com/products/china-full-set-1-100-yuan-2015-2020-current-series-unc",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cn-20",
     "countryId": "cn",
     "value": 20,
-    "series": "Quinta serie",
-    "seriesEn": "Quinta serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Quinta serie · edición 2019",
+    "seriesEn": "Fifth series · 2019 design",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "crop": {
+        "front": [
+          0.174,
+          0.484,
+          0.297,
+          0.143
+        ],
+        "back": [
+          0.528,
+          0.484,
+          0.296,
+          0.143
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — serie china actual",
+      "sourcePage": "https://www.robertsworldmoney.com/products/china-full-set-1-100-yuan-2015-2020-current-series-unc",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cn-50",
     "countryId": "cn",
     "value": 50,
-    "series": "Quinta serie",
-    "seriesEn": "Quinta serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Quinta serie · edición 2019",
+    "seriesEn": "Fifth series · 2019 design",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "crop": {
+        "front": [
+          0.163,
+          0.643,
+          0.31,
+          0.14
+        ],
+        "back": [
+          0.527,
+          0.643,
+          0.308,
+          0.14
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — serie china actual",
+      "sourcePage": "https://www.robertsworldmoney.com/products/china-full-set-1-100-yuan-2015-2020-current-series-unc",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "cn-100",
     "countryId": "cn",
     "value": 100,
-    "series": "Quinta serie",
-    "seriesEn": "Quinta serie",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Quinta serie · edición 2015",
+    "seriesEn": "Fifth series · 2015 design",
+    "photos": {
+      "front": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "back": "https://www.robertsworldmoney.com/cdn/shop/files/China_Set_B4118-B4123_fr.jpg?v=1709618651",
+      "crop": {
+        "front": [
+          0.152,
+          0.797,
+          0.32,
+          0.157
+        ],
+        "back": [
+          0.527,
+          0.797,
+          0.319,
+          0.157
+        ]
+      },
+      "verified": true,
+      "provider": "Robert's World Money — serie china actual",
+      "sourcePage": "https://www.robertsworldmoney.com/products/china-full-set-1-100-yuan-2015-2020-current-series-unc",
+      "display": "external_contact_sheet"
+    },
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "kr-1000",
