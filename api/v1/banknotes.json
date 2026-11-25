@@ -6786,10 +6786,29 @@
     "seriesEn": "Current family; 2013–2025 polymer issues",
     "officialPage": "https://www.bom.mu/bank-notes-coins/polymer-notes/communique",
     "referencePage": "https://banknotenews.com/?tag=mauritius",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "El dodo, ave extinta de Mauricio, aparece en los diseños de polímero.",
-    "factEn": "The extinct Mauritian dodo appears in the polymer designs."
+    "factEn": "The extinct Mauritian dodo appears in the polymer designs.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2013/09/Mauritius_BOM_500_rupees_2013.00.00_B434a_P66_PA_132807_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2013/09/Mauritius_BOM_500_rupees_2013.00.00_B434a_P66_PA_132807_r.jpg",
+      "provider": "Banknote News",
+      "sourcePage": "https://banknotenews.com/?p=9769",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2013 printing of the current polymer design; not the latest known printing."
+    },
+    "frontDescription": "Sookdeo Bissoondoyal",
+    "frontDescriptionEn": "Sookdeo Bissoondoyal",
+    "backDescription": "Universidad de Mauricio",
+    "backDescriptionEn": "University of Mauritius"
   },
   {
     "id": "mu-1000",
@@ -8148,12 +8167,30 @@
     "value": 1000,
     "series": "Familia de polímero 2020–2022",
     "seriesEn": "2020–2022 polymer family",
-    "officialPage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
+    "officialPage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
     "referencePage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los billetes representan distintos ecosistemas del país.",
-    "factEn": "The notes celebrate different ecosystems."
+    "factEn": "The notes celebrate different ecosystems.",
+    "photos": {
+      "front": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--e9d75c07-67e3-490c-9af4-f9aebdf60215/01-1000c-a.jpg?preferwebp=true&quality=85",
+      "back": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--1c13f1e3-87ea-4a82-abf3-b213fcecf3bd/01-1000c-r.jpg?preferwebp=true&quality=85",
+      "provider": "Banco Central de Costa Rica",
+      "sourcePage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Braulio Carrillo Colina",
+    "frontDescriptionEn": "Braulio Carrillo Colina",
+    "backDescription": "Bosque seco y venado cola blanca",
+    "backDescriptionEn": "Dry forest and white-tailed deer"
   },
   {
     "id": "cr-2000",
@@ -8161,12 +8198,30 @@
     "value": 2000,
     "series": "Familia de polímero 2020–2022",
     "seriesEn": "2020–2022 polymer family",
-    "officialPage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
+    "officialPage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
     "referencePage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los billetes representan distintos ecosistemas del país.",
-    "factEn": "The notes celebrate different ecosystems."
+    "factEn": "The notes celebrate different ecosystems.",
+    "photos": {
+      "front": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--839bbf33-d954-428d-a759-6e0441f897b4/2000-anverso-polimero.jpg?preferwebp=true&quality=85",
+      "back": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--7256f412-6942-4ef8-a326-f52cff65a69a/2000-reverso-polimero.jpg?preferwebp=true&quality=85",
+      "provider": "Banco Central de Costa Rica",
+      "sourcePage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Mauro Fernández Acuña",
+    "frontDescriptionEn": "Mauro Fernández Acuña",
+    "backDescription": "Arrecife coralino y tiburón",
+    "backDescriptionEn": "Coral reef and shark"
   },
   {
     "id": "cr-5000",
@@ -8174,12 +8229,30 @@
     "value": 5000,
     "series": "Familia de polímero 2020–2022",
     "seriesEn": "2020–2022 polymer family",
-    "officialPage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
+    "officialPage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
     "referencePage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los billetes representan distintos ecosistemas del país.",
-    "factEn": "The notes celebrate different ecosystems."
+    "factEn": "The notes celebrate different ecosystems.",
+    "photos": {
+      "front": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--d3836e6c-54cf-4816-9ab6-4663424317a8/5000-anverso-polimero.jpg?preferwebp=true&quality=85",
+      "back": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--22672586-643e-4d20-b4aa-1269e70357c5/5000-reverso-polimero.jpg?preferwebp=true&quality=85",
+      "provider": "Banco Central de Costa Rica",
+      "sourcePage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Alfredo González Flores",
+    "frontDescriptionEn": "Alfredo González Flores",
+    "backDescription": "Manglar y mono carablanca",
+    "backDescriptionEn": "Mangrove and white-faced capuchin"
   },
   {
     "id": "cr-10000",
@@ -8187,12 +8260,30 @@
     "value": 10000,
     "series": "Familia de polímero 2020–2022",
     "seriesEn": "2020–2022 polymer family",
-    "officialPage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
+    "officialPage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
     "referencePage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los billetes representan distintos ecosistemas del país.",
-    "factEn": "The notes celebrate different ecosystems."
+    "factEn": "The notes celebrate different ecosystems.",
+    "photos": {
+      "front": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--bf5ef3dc-5711-4afe-8838-20a1c3d0c7d6/10mil-polimero-anverso.png?preferwebp=true&quality=85",
+      "back": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--cd8e2914-a3d0-4ce1-92ef-4d4a489830c1/10mil-polimero-reverso.png?preferwebp=true&quality=85",
+      "provider": "Banco Central de Costa Rica",
+      "sourcePage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "José Figueres Ferrer",
+    "frontDescriptionEn": "José Figueres Ferrer",
+    "backDescription": "Bosque lluvioso y perezoso",
+    "backDescriptionEn": "Rainforest and sloth"
   },
   {
     "id": "cr-20000",
@@ -8200,12 +8291,30 @@
     "value": 20000,
     "series": "Familia de polímero 2020–2022",
     "seriesEn": "2020–2022 polymer family",
-    "officialPage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
+    "officialPage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
     "referencePage": "https://www.bccr.fi.cr/cr/en/banknotes-coins/banknotes/banknote-denominations.html",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "Los billetes representan distintos ecosistemas del país.",
-    "factEn": "The notes celebrate different ecosystems."
+    "factEn": "The notes celebrate different ecosystems.",
+    "photos": {
+      "front": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--d31937ec-fb7e-4f7d-9dff-762baa6ac632/20-mil-anverso-polimero.jpg?preferwebp=true&quality=85",
+      "back": "https://www.bccr.fi.cr/adobe/dynamicmedia/deliver/dm-aid--0c2b77bf-55f5-47ae-96b5-cea6da2a6040/20-mil-reverso-polimero.jpg?preferwebp=true&quality=85",
+      "provider": "Banco Central de Costa Rica",
+      "sourcePage": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "María Isabel Carvajal (Carmen Lyra)",
+    "frontDescriptionEn": "María Isabel Carvajal (Carmen Lyra)",
+    "backDescription": "Páramo y colibrí",
+    "backDescriptionEn": "Páramo and hummingbird"
   },
   {
     "id": "uy-20",
@@ -8382,12 +8491,45 @@
     "value": 50,
     "series": "Serie de polímero 2023",
     "seriesEn": "2023 polymer series",
-    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/",
+    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
     "referencePage": "https://boj.org.jm/core-functions/currency/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 2000 dólares muestra a niños de una escuela primaria.",
-    "factEn": "The 2000-dollar note depicts children from a primary school."
+    "factEn": "The 2000-dollar note depicts children from a primary school.",
+    "photos": {
+      "front": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/50-note_Page_2.png?strip=all",
+      "back": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/50-note_Page_2.png?strip=all",
+      "provider": "Bank of Jamaica",
+      "sourcePage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.062,
+          0.20608575380359612,
+          0.4,
+          0.25587828492392806
+        ],
+        "back": [
+          0.062,
+          0.6113416320885201,
+          0.4,
+          0.2544951590594744
+        ]
+      },
+      "note": "Educational sheet, with original numbered annotations visible; individual unannotated images not yet selected."
+    },
+    "frontDescription": "Paul Bogle y George William Gordon",
+    "frontDescriptionEn": "Paul Bogle and George William Gordon",
+    "backDescription": "Playa Doctor's Cave",
+    "backDescriptionEn": "Doctor's Cave Beach"
   },
   {
     "id": "jm-100",
@@ -8395,12 +8537,45 @@
     "value": 100,
     "series": "Serie de polímero 2023",
     "seriesEn": "2023 polymer series",
-    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/",
+    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
     "referencePage": "https://boj.org.jm/core-functions/currency/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 2000 dólares muestra a niños de una escuela primaria.",
-    "factEn": "The 2000-dollar note depicts children from a primary school."
+    "factEn": "The 2000-dollar note depicts children from a primary school.",
+    "photos": {
+      "front": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/100-note_Page_2.png?strip=all",
+      "back": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/100-note_Page_2.png?strip=all",
+      "provider": "Bank of Jamaica",
+      "sourcePage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.062,
+          0.20608575380359612,
+          0.4,
+          0.25864453665283543
+        ],
+        "back": [
+          0.062,
+          0.6154910096818811,
+          0.4,
+          0.25864453665283543
+        ]
+      },
+      "note": "Educational sheet, with original numbered annotations visible; individual unannotated images not yet selected."
+    },
+    "frontDescription": "Marcus Garvey",
+    "frontDescriptionEn": "Marcus Garvey",
+    "backDescription": "Cataratas del río Dunn",
+    "backDescriptionEn": "Dunn's River Falls"
   },
   {
     "id": "jm-500",
@@ -8408,12 +8583,45 @@
     "value": 500,
     "series": "Serie de polímero 2023",
     "seriesEn": "2023 polymer series",
-    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/",
+    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
     "referencePage": "https://boj.org.jm/core-functions/currency/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 2000 dólares muestra a niños de una escuela primaria.",
-    "factEn": "The 2000-dollar note depicts children from a primary school."
+    "factEn": "The 2000-dollar note depicts children from a primary school.",
+    "photos": {
+      "front": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/500-note_Page_2.png?strip=all",
+      "back": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/500-note_Page_2.png?strip=all",
+      "provider": "Bank of Jamaica",
+      "sourcePage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.062,
+          0.20608575380359612,
+          0.4,
+          0.25864453665283543
+        ],
+        "back": [
+          0.062,
+          0.6154910096818811,
+          0.4,
+          0.25864453665283543
+        ]
+      },
+      "note": "Educational sheet, with original numbered annotations visible; individual unannotated images not yet selected."
+    },
+    "frontDescription": "Nanny de los Maroons y Samuel Sharpe",
+    "frontDescriptionEn": "Nanny of the Maroons and Samuel Sharpe",
+    "backDescription": "Port Royal",
+    "backDescriptionEn": "Port Royal"
   },
   {
     "id": "jm-1000",
@@ -8421,12 +8629,45 @@
     "value": 1000,
     "series": "Serie de polímero 2023",
     "seriesEn": "2023 polymer series",
-    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/",
+    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
     "referencePage": "https://boj.org.jm/core-functions/currency/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 2000 dólares muestra a niños de una escuela primaria.",
-    "factEn": "The 2000-dollar note depicts children from a primary school."
+    "factEn": "The 2000-dollar note depicts children from a primary school.",
+    "photos": {
+      "front": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/1000-note_Page_2.png?strip=all",
+      "back": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/1000-note_Page_2.png?strip=all",
+      "provider": "Bank of Jamaica",
+      "sourcePage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.062,
+          0.20608575380359612,
+          0.4,
+          0.25864453665283543
+        ],
+        "back": [
+          0.062,
+          0.6141078838174274,
+          0.4,
+          0.25864453665283543
+        ]
+      },
+      "note": "Educational sheet, with original numbered annotations visible; individual unannotated images not yet selected."
+    },
+    "frontDescription": "Alexander Bustamante y Norman Manley",
+    "frontDescriptionEn": "Alexander Bustamante and Norman Manley",
+    "backDescription": "Jamaica House",
+    "backDescriptionEn": "Jamaica House"
   },
   {
     "id": "jm-2000",
@@ -8434,12 +8675,45 @@
     "value": 2000,
     "series": "Serie de polímero 2023",
     "seriesEn": "2023 polymer series",
-    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/",
+    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
     "referencePage": "https://boj.org.jm/core-functions/currency/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 2000 dólares muestra a niños de una escuela primaria.",
-    "factEn": "The 2000-dollar note depicts children from a primary school."
+    "factEn": "The 2000-dollar note depicts children from a primary school.",
+    "photos": {
+      "front": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/2000-note_Page_2.png?strip=all",
+      "back": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/2000-note_Page_2.png?strip=all",
+      "provider": "Bank of Jamaica",
+      "sourcePage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.062,
+          0.20608575380359612,
+          0.4,
+          0.25864453665283543
+        ],
+        "back": [
+          0.062,
+          0.6154910096818811,
+          0.4,
+          0.25864453665283543
+        ]
+      },
+      "note": "Educational sheet, with original numbered annotations visible; individual unannotated images not yet selected."
+    },
+    "frontDescription": "Michael Manley y Edward Seaga",
+    "frontDescriptionEn": "Michael Manley and Edward Seaga",
+    "backDescription": "Niños de escuela primaria",
+    "backDescriptionEn": "Primary school children"
   },
   {
     "id": "jm-5000",
@@ -8447,12 +8721,45 @@
     "value": 5000,
     "series": "Serie de polímero 2023",
     "seriesEn": "2023 polymer series",
-    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/",
+    "officialPage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
     "referencePage": "https://boj.org.jm/core-functions/currency/bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "photo_sheet",
     "reviewedAt": "2026-11-24",
     "fact": "El billete de 2000 dólares muestra a niños de una escuela primaria.",
-    "factEn": "The 2000-dollar note depicts children from a primary school."
+    "factEn": "The 2000-dollar note depicts children from a primary school.",
+    "photos": {
+      "front": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/5000-note_Page_2.png?strip=all",
+      "back": "https://e2gobqetsqs.exactdn.com/wp-content/uploads/2023/05/5000-note_Page_2.png?strip=all",
+      "provider": "Bank of Jamaica",
+      "sourcePage": "https://boj.org.jm/core-functions/currency/bank-notes/new-series-of-jamaican-banknotes/features-of-new-banknotes/",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0.062,
+          0.20608575380359612,
+          0.4,
+          0.25864453665283543
+        ],
+        "back": [
+          0.062,
+          0.6154910096818811,
+          0.4,
+          0.25864453665283543
+        ]
+      },
+      "note": "Educational sheet, with original numbered annotations visible; individual unannotated images not yet selected."
+    },
+    "frontDescription": "Donald Sangster y Hugh Shearer",
+    "frontDescriptionEn": "Donald Sangster and Hugh Shearer",
+    "backDescription": "Autopista Highway 2000",
+    "backDescriptionEn": "Highway 2000"
   },
   {
     "id": "al-200",
@@ -8460,12 +8767,30 @@
     "value": 200,
     "series": "Familia 2019–2022",
     "seriesEn": "2019–2022 family",
-    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
+    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/200_lek/",
     "referencePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La familia homenajea figuras de la historia nacional.",
-    "factEn": "The family honors figures from national history."
+    "factEn": "The family honors figures from national history.",
+    "photos": {
+      "front": "https://www.bankofalbania.org/rc/img/Albania_200_July_2019_front_600dpi_15271.jpg",
+      "back": "https://www.bankofalbania.org/rc/img/Albania_200_July_2019_back_600dpi_15272.jpg",
+      "provider": "Bank of Albania",
+      "sourcePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/200_lek/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Naim Frashëri",
+    "frontDescriptionEn": "Naim Frashëri",
+    "backDescription": "Casa natal y versos del poeta",
+    "backDescriptionEn": "Birthplace and verses of the poet"
   },
   {
     "id": "al-500",
@@ -8473,12 +8798,30 @@
     "value": 500,
     "series": "Familia 2019–2022",
     "seriesEn": "2019–2022 family",
-    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
+    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/500_Lek/",
     "referencePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La familia homenajea figuras de la historia nacional.",
-    "factEn": "The family honors figures from national history."
+    "factEn": "The family honors figures from national history.",
+    "photos": {
+      "front": "https://www.bankofalbania.org/rc/img/ALB_500_R_CMJN_300_copy_20215.jpg",
+      "back": "https://www.bankofalbania.org/rc/img/ALB_500_V_CMJN_300_copy_20216.jpg",
+      "provider": "Bank of Albania",
+      "sourcePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/500_Lek/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Ismail Qemali",
+    "frontDescriptionEn": "Ismail Qemali",
+    "backDescription": "Casa de la Independencia",
+    "backDescriptionEn": "Independence House"
   },
   {
     "id": "al-1000",
@@ -8486,12 +8829,30 @@
     "value": 1000,
     "series": "Familia 2019–2022",
     "seriesEn": "2019–2022 family",
-    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
+    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/1000_Lek/",
     "referencePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La familia homenajea figuras de la historia nacional.",
-    "factEn": "The family honors figures from national history."
+    "factEn": "The family honors figures from national history.",
+    "photos": {
+      "front": "https://www.bankofalbania.org/rc/img/ALB_1000_R_CMJN_300_18987.jpg",
+      "back": "https://www.bankofalbania.org/rc/img/ALB_1000_V_CMJN_300_18986.jpg",
+      "provider": "Bank of Albania",
+      "sourcePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/1000_Lek/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Pjetër Bogdani",
+    "frontDescriptionEn": "Pjetër Bogdani",
+    "backDescription": "Iglesia de Vau i Dejës",
+    "backDescriptionEn": "Church of Vau i Dejës"
   },
   {
     "id": "al-2000",
@@ -8499,12 +8860,30 @@
     "value": 2000,
     "series": "Familia 2019–2022",
     "seriesEn": "2019–2022 family",
-    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
+    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/2000_Lek/",
     "referencePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La familia homenajea figuras de la historia nacional.",
-    "factEn": "The family honors figures from national history."
+    "factEn": "The family honors figures from national history.",
+    "photos": {
+      "front": "https://www.bankofalbania.org/rc/img/Albania_2000_front_1200dpi_copy_20217.jpg",
+      "back": "https://www.bankofalbania.org/rc/img/Albania_2000_back_1200dpi_copy_20218.jpg",
+      "provider": "Bank of Albania",
+      "sourcePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/2000_Lek/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Rey Gencio",
+    "frontDescriptionEn": "King Gentius",
+    "backDescription": "Anfiteatro de Butrinto",
+    "backDescriptionEn": "Butrint amphitheatre"
   },
   {
     "id": "al-5000",
@@ -8512,12 +8891,30 @@
     "value": 5000,
     "series": "Familia 2019–2022",
     "seriesEn": "2019–2022 family",
-    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
+    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/5000_Lek/",
     "referencePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La familia homenajea figuras de la historia nacional.",
-    "factEn": "The family honors figures from national history."
+    "factEn": "The family honors figures from national history.",
+    "photos": {
+      "front": "https://www.bankofalbania.org/rc/img/Albania_5000_July_2019_front_600dpi_15273.jpg",
+      "back": "https://www.bankofalbania.org/rc/img/Albania_5000_July_2019_back_600dpi_15274.jpg",
+      "provider": "Bank of Albania",
+      "sourcePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/5000_Lek/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Skanderbeg",
+    "frontDescriptionEn": "Skanderbeg",
+    "backDescription": "Castillo de Kruja",
+    "backDescriptionEn": "Kruja Castle"
   },
   {
     "id": "al-10000",
@@ -8525,12 +8922,30 @@
     "value": 10000,
     "series": "Familia 2019–2022",
     "seriesEn": "2019–2022 family",
-    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
+    "officialPage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/10000_Lek/",
     "referencePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-24",
     "fact": "La familia homenajea figuras de la historia nacional.",
-    "factEn": "The family honors figures from national history."
+    "factEn": "The family honors figures from national history.",
+    "photos": {
+      "front": "https://www.bankofalbania.org/rc/img/ALB_10000_R_CMJN_300_18989.jpg",
+      "back": "https://www.bankofalbania.org/rc/img/ALB_10000_V_CMJN_300_18988.jpg",
+      "provider": "Bank of Albania",
+      "sourcePage": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/10000_Lek/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Asdreni",
+    "frontDescriptionEn": "Asdreni",
+    "backDescription": "Bandera e himno nacional",
+    "backDescriptionEn": "Flag and national anthem"
   },
   {
     "id": "rs-10",
