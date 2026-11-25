@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.8",
+  "version": "2.5.0",
   "lastReviewed": "2026-11-25",
-  "countryCount": 70,
-  "banknoteCount": 412,
-  "imagePolicy": "412 pairs registered; 25 added in v2.4.6, 15 opened and visually inspected on both sides, 10 directly linked but at least one side returned HTTP 429. No complete browser load test. Some designs are older printings of circulating families.",
+  "countryCount": 90,
+  "banknoteCount": 544,
+  "imagePolicy": "20 new destinations, denomination records and five source-inspected Bahamas image pairs. Remaining new photographs await selection. Previous 412 pairs remain registered, not comprehensively browser-tested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 312,
-  "pendingImagePairs": 0,
+  "officialDenominationReferences": 444,
+  "pendingImagePairs": 127,
   "illustratedCountries": [
     "mx",
     "us",
@@ -81,13 +81,14 @@
     "ng",
     "et",
     "fj",
-    "pg"
+    "pg",
+    "bs"
   ],
-  "coverageReport": "docs/thumbnail-fix-v2.4.8.md",
-  "photoReferencePairs": 412,
+  "coverageReport": "docs/expansion-v2.5.md",
+  "photoReferencePairs": 417,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 303,
+  "individualImagePairs": 308,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 178,
+  "sourceVisuallyConfirmedPairs": 183,
   "browserVerifiedPairs": null
 }
