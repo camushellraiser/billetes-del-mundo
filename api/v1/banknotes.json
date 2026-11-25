@@ -720,15 +720,15 @@
       "crop": {
         "front": [
           0.18,
-          0.055,
+          0.052,
           0.3,
-          0.117
+          0.138
         ],
         "back": [
           0.525,
-          0.055,
+          0.052,
           0.305,
-          0.117
+          0.138
         ]
       },
       "verified": true,
@@ -758,15 +758,15 @@
       "crop": {
         "front": [
           0.18,
-          0.219,
+          0.205,
           0.3,
-          0.117
+          0.138
         ],
         "back": [
           0.525,
-          0.219,
+          0.205,
           0.305,
-          0.117
+          0.138
         ]
       },
       "verified": true,
@@ -796,15 +796,15 @@
       "crop": {
         "front": [
           0.18,
-          0.383,
+          0.358,
           0.3,
-          0.117
+          0.138
         ],
         "back": [
           0.525,
-          0.383,
+          0.358,
           0.305,
-          0.117
+          0.138
         ]
       },
       "verified": true,
@@ -834,15 +834,15 @@
       "crop": {
         "front": [
           0.18,
-          0.547,
+          0.511,
           0.3,
-          0.117
+          0.138
         ],
         "back": [
           0.525,
-          0.547,
+          0.511,
           0.305,
-          0.117
+          0.138
         ]
       },
       "verified": true,
@@ -872,15 +872,15 @@
       "crop": {
         "front": [
           0.18,
-          0.711,
+          0.664,
           0.3,
-          0.117
+          0.138
         ],
         "back": [
           0.525,
-          0.711,
+          0.664,
           0.305,
-          0.117
+          0.138
         ]
       },
       "verified": true,
@@ -910,15 +910,15 @@
       "crop": {
         "front": [
           0.18,
-          0.875,
+          0.817,
           0.3,
-          0.117
+          0.138
         ],
         "back": [
           0.525,
-          0.875,
+          0.817,
           0.305,
-          0.117
+          0.138
         ]
       },
       "verified": true,
@@ -1424,29 +1424,15 @@
     "series": "Serie VIII 2017–2019",
     "seriesEn": "Serie VIII 2017–2019",
     "photos": {
-      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "crop": {
-        "front": [
-          0.123,
-          0.135,
-          0.33,
-          0.135
-        ],
-        "back": [
-          0.585,
-          0.135,
-          0.35,
-          0.135
-        ]
-      },
+      "front": "https://www.banknote.news/files/Norway_NB_50_kroner_2017.00.00_B657a_P53_9501484325_f.jpg",
+      "back": "https://www.banknote.news/files/Norway_NB_50_kroner_2017.00.00_B657a_P53_9501484325_r.jpg",
       "verified": true,
-      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
-      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
-      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
-      "display": "external_contact_sheet"
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-norway.php",
+      "origin": "Photographs of Norwegian Series VIII banknotes, separate front and reverse files",
+      "display": "individual_images"
     },
-    "imageStatus": "photo_sheet",
+    "imageStatus": "curated",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/50-krone-note/",
     "frontDescription": "Faro de Utvær",
     "backDescription": "Patrón abstracto de señal luminosa, olas y viento",
@@ -1463,29 +1449,15 @@
     "series": "Serie VIII 2017–2019",
     "seriesEn": "Serie VIII 2017–2019",
     "photos": {
-      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "crop": {
-        "front": [
-          0.123,
-          0.298,
-          0.33,
-          0.135
-        ],
-        "back": [
-          0.585,
-          0.298,
-          0.35,
-          0.135
-        ]
-      },
+      "front": "https://www.banknote.news/files/norway_nb_100_kroner_2016.00.00_b658a_pnl_9202040160_f.jpg",
+      "back": "https://www.banknote.news/files/norway_nb_100_kroner_2016.00.00_b658a_pnl_9202040160_r.jpg",
       "verified": true,
-      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
-      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
-      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
-      "display": "external_contact_sheet"
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-norway.php",
+      "origin": "Photographs of Norwegian Series VIII banknotes, separate front and reverse files",
+      "display": "individual_images"
     },
-    "imageStatus": "photo_sheet",
+    "imageStatus": "curated",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/100-krone-note/",
     "frontDescription": "Barco vikingo de Gokstad",
     "backDescription": "Patrón de olas, buque mercante y constelación de Orión",
@@ -1502,29 +1474,15 @@
     "series": "Serie VIII 2017–2019",
     "seriesEn": "Serie VIII 2017–2019",
     "photos": {
-      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "crop": {
-        "front": [
-          0.123,
-          0.461,
-          0.33,
-          0.135
-        ],
-        "back": [
-          0.585,
-          0.461,
-          0.35,
-          0.135
-        ]
-      },
+      "front": "https://www.banknote.news/files/norway_nb_200_kroner_2016.00.00_b659a_pnl_3201763708_f.jpg",
+      "back": "https://www.banknote.news/files/norway_nb_200_kroner_2016.00.00_b659a_pnl_3201763708_r.jpg",
       "verified": true,
-      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
-      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
-      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
-      "display": "external_contact_sheet"
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-norway.php",
+      "origin": "Photographs of Norwegian Series VIII banknotes, separate front and reverse files",
+      "display": "individual_images"
     },
-    "imageStatus": "photo_sheet",
+    "imageStatus": "curated",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/200-krone-note/",
     "frontDescription": "Bacalao",
     "backDescription": "Patrón abstracto de olas y barco pesquero",
@@ -1541,29 +1499,15 @@
     "series": "Serie VIII 2017–2019",
     "seriesEn": "Serie VIII 2017–2019",
     "photos": {
-      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "crop": {
-        "front": [
-          0.123,
-          0.624,
-          0.33,
-          0.135
-        ],
-        "back": [
-          0.585,
-          0.624,
-          0.35,
-          0.135
-        ]
-      },
+      "front": "https://www.banknote.news/files/Norway_NB_500_kroner_2018.00.00_B660a_P56_2302771335_f.jpg",
+      "back": "https://www.banknote.news/files/Norway_NB_500_kroner_2018.00.00_B660a_P56_2302771335_r.jpg",
       "verified": true,
-      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
-      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
-      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
-      "display": "external_contact_sheet"
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-norway.php",
+      "origin": "Photographs of Norwegian Series VIII banknotes, separate front and reverse files",
+      "display": "individual_images"
     },
-    "imageStatus": "photo_sheet",
+    "imageStatus": "curated",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/500-krone-note/",
     "frontDescription": "Barco de rescate RS 14 Stavanger",
     "backDescription": "Patrón abstracto de mar y viento",
@@ -1580,29 +1524,15 @@
     "series": "Serie VIII 2017–2019",
     "seriesEn": "Serie VIII 2017–2019",
     "photos": {
-      "front": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "back": "https://i.pinimg.com/originals/10/fd/19/10fd19391d16006a20f2c04cc8186247.jpg",
-      "crop": {
-        "front": [
-          0.123,
-          0.787,
-          0.33,
-          0.135
-        ],
-        "back": [
-          0.585,
-          0.787,
-          0.35,
-          0.135
-        ]
-      },
+      "front": "https://www.banknote.news/files/norway_nb_1000_kroner_2019.00.00_b661a_p57_4201199734_f.jpg",
+      "back": "https://www.banknote.news/files/norway_nb_1000_kroner_2019.00.00_b661a_p57_4201199734_r.jpg",
       "verified": true,
-      "provider": "Serie VIII noruega (comparativa visual de ambas caras)",
-      "sourcePage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
-      "origin": "Google Imágenes: fotografía de la serie completa, con encuadre individual por denominación",
-      "display": "external_contact_sheet"
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-norway.php",
+      "origin": "Photographs of Norwegian Series VIII banknotes, separate front and reverse files",
+      "display": "individual_images"
     },
-    "imageStatus": "photo_sheet",
+    "imageStatus": "curated",
     "officialPage": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/1000-krone-note/",
     "frontDescription": "Ola en mar abierto",
     "backDescription": "Patrón abstracto de mar y horizonte",
@@ -2785,13 +2715,13 @@
       "crop": {
         "front": [
           0.115,
-          0.052,
+          0.053,
           0.365,
           0.15
         ],
         "back": [
           0.52,
-          0.052,
+          0.053,
           0.37,
           0.15
         ]
@@ -2822,15 +2752,15 @@
       "crop": {
         "front": [
           0.115,
-          0.236,
+          0.219,
           0.365,
-          0.15
+          0.16
         ],
         "back": [
           0.52,
-          0.236,
+          0.219,
           0.37,
-          0.15
+          0.16
         ]
       },
       "verified": true,
@@ -2859,15 +2789,15 @@
       "crop": {
         "front": [
           0.115,
-          0.42,
+          0.4,
           0.365,
-          0.15
+          0.168
         ],
         "back": [
           0.52,
-          0.42,
+          0.4,
           0.37,
-          0.15
+          0.168
         ]
       },
       "verified": true,
@@ -2896,15 +2826,15 @@
       "crop": {
         "front": [
           0.115,
-          0.604,
+          0.582,
           0.365,
-          0.15
+          0.175
         ],
         "back": [
           0.52,
-          0.604,
+          0.582,
           0.37,
-          0.15
+          0.175
         ]
       },
       "verified": true,
@@ -2933,15 +2863,15 @@
       "crop": {
         "front": [
           0.115,
-          0.788,
+          0.778,
           0.365,
-          0.15
+          0.17
         ],
         "back": [
           0.52,
-          0.788,
+          0.778,
           0.37,
-          0.15
+          0.17
         ]
       },
       "verified": true,
