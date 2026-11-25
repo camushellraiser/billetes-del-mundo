@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.4",
+  "version": "2.4.5",
   "lastReviewed": "2026-11-24",
   "countryCount": 70,
   "banknoteCount": 412,
-  "imagePolicy": "42 parejas agregadas en v2.4.3 y v2.4.4; 5 de Fiji abiertas e inspeccionadas y 37 identificadas por archivo en Wikimedia Commons sin inspección visual individual. Pendientes 52 parejas. Carga general en navegador aún no comprobada.",
+  "imagePolicy": "27 new pairs, 20 inspected on both sides, 7 source-listed with at least one side not visually confirmed. 25 remaining pairs. Ghana 2019 current family and 2010 two-cedi; new Heritage family not yet issued. Browser loading remains untested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 312,
-  "pendingImagePairs": 52,
+  "pendingImagePairs": 25,
   "illustratedCountries": [
     "mx",
     "us",
@@ -67,21 +67,25 @@
     "jm",
     "al",
     "rs",
+    "mk",
     "ba",
     "md",
     "ge",
     "am",
+    "az",
     "kz",
     "uz",
+    "gh",
     "ng",
     "et",
-    "fj"
+    "fj",
+    "pg"
   ],
-  "coverageReport": "docs/photo-completion-v2.4.4.md",
-  "photoReferencePairs": 360,
-  "contactSheetCroppedPairs": 108,
-  "individualImagePairs": 252,
+  "coverageReport": "docs/photo-completion-v2.4.5.md",
+  "photoReferencePairs": 387,
+  "contactSheetCroppedPairs": 109,
+  "individualImagePairs": 278,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 142,
+  "sourceVisuallyConfirmedPairs": 162,
   "browserVerifiedPairs": null
 }

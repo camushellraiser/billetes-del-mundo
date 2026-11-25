@@ -1,3 +1,5 @@
+> **v2.4.5 — 24 noviembre 2026:** 27 parejas adicionales, 387 registradas, 25 pendientes. [Auditoría](docs/photo-completion-v2.4.5.md).
+
 > **v2.4.4:** 11 parejas adicionales, 360 registradas y 52 pendientes. [Auditoría](docs/photo-completion-v2.4.4.md).
 
 > **v2.4.3 — 24 noviembre 2026:** 31 parejas de archivos adicionales; 349 registradas, 63 pendientes. [Auditoría](docs/photo-completion-v2.4.3.md).
