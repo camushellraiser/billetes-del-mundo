@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.3.1",
+  "version": "2.4.0",
   "lastReviewed": "2026-11-24",
-  "countryCount": 50,
-  "banknoteCount": 277,
-  "imagePolicy": "Ampliación a 50 destinos: 54 nuevas denominaciones, 53 parejas de referencias registradas (43 inspeccionadas en ambos lados y 10 aún no completamente verificadas por errores HTTP). Falta el reverso de Mauricio 500 rupias. Sin prueba integral en navegador.",
+  "countryCount": 70,
+  "banknoteCount": 412,
+  "imagePolicy": "20 nuevos destinos y 135 denominaciones; 16 parejas con imágenes oficiales inspeccionadas en origen y 119 sin pareja de imágenes. Las páginas de referencia no cuentan como fotos; queda pendiente la auditoría integral en navegador.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 177,
-  "pendingImagePairs": 1,
+  "officialDenominationReferences": 312,
+  "pendingImagePairs": 120,
   "illustratedCountries": [
     "mx",
     "us",
@@ -61,13 +61,15 @@
     "tz",
     "ug",
     "zm",
-    "rw"
+    "rw",
+    "rs",
+    "am"
   ],
-  "coverageReport": "docs/photo-completion-v2.3.1.md",
-  "photoReferencePairs": 276,
-  "contactSheetCroppedPairs": 89,
-  "individualImagePairs": 187,
+  "coverageReport": "docs/expansion-v2.4.md",
+  "photoReferencePairs": 292,
+  "contactSheetCroppedPairs": 94,
+  "individualImagePairs": 198,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 95,
+  "sourceVisuallyConfirmedPairs": 111,
   "browserVerifiedPairs": null
 }

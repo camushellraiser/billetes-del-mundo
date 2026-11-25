@@ -1,3 +1,5 @@
+> **v2.4.0 — 24 noviembre 2026:** 70 destinos y 412 fichas; 135 denominaciones nuevas, 16 pares de fotografías oficiales añadidos. 120 pares pendientes en total. [Auditoría](docs/expansion-v2.4.md).
+
 ## v2.3.1 · 24 de noviembre de 2026
 
 50 destinos, 277 fichas, 276 parejas de referencias y una pendiente. Ver [auditoría de imágenes](docs/photo-completion-v2.3.1.md).

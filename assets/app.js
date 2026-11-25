@@ -46,7 +46,7 @@ function enhanceCardPhotos(){
   if(img.complete&&img.naturalWidth)loaded();
  });
 }
-const pretty=(country,value)=>{const val=new Intl.NumberFormat(state.lang==="es"?"es-MX":"en-US").format(value);return country.symbol==="CHF"?`CHF ${val}`:country.symbol==="kr"?`${val} kr`:country.symbol==="DH"?`${val} DH`:["Kč","Ft","lei"].includes(country.symbol)?`${val} ${country.symbol}`:["AED","SAR","QAR"].includes(country.symbol)?`${country.symbol} ${val}`:`${country.symbol}${val}`;};
+const pretty=(country,value)=>{const val=new Intl.NumberFormat(state.lang==="es"?"es-MX":"en-US").format(value);return country.symbol==="CHF"?`CHF ${val}`:country.symbol==="kr"?`${val} kr`:country.symbol==="DH"?`${val} DH`:["Kč","Ft","lei","ден","soʻm","KM"].includes(country.symbol)?`${val} ${country.symbol}`:["AED","SAR","QAR","RSD"].includes(country.symbol)?`${country.symbol} ${val}`:`${country.symbol}${val}`;};
 const filterText=s=>(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase();
 const countryRegion=["Todos","América","Europa","Asia","Oceanía","África"];
 const regionEn={"Todos":"All","América":"Americas","Europa":"Europe","Asia":"Asia","Oceanía":"Oceania","África":"Africa"};
