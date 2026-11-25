@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.5.5",
+  "version": "2.5.6",
   "lastReviewed": "2026-11-25",
   "countryCount": 90,
   "banknoteCount": 544,
-  "imagePolicy": "11 newly registered pairs: 5 visually inspected on both sides, 6 exact publisher-listed pairs with HTTP 429 and visual verification pending. 51 pairs missing. Live browser rendering untested.",
+  "imagePolicy": "12 additional pairs, 9 visually inspected on both sides, 3 with one publisher-listed side that could not be retrieved. 39 pairs without references. External availability and browser rendering untested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
   "officialDenominationReferences": 444,
-  "pendingImagePairs": 51,
+  "pendingImagePairs": 39,
   "illustratedCountries": [
     "mx",
     "us",
@@ -95,13 +95,15 @@
     "bh",
     "np",
     "pk",
-    "tn"
+    "tn",
+    "do",
+    "lk"
   ],
-  "coverageReport": "docs/photo-completion-v2.5.5.md",
-  "photoReferencePairs": 493,
+  "coverageReport": "docs/photo-completion-v2.5.6.md",
+  "photoReferencePairs": 505,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 384,
+  "individualImagePairs": 396,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 235,
+  "sourceVisuallyConfirmedPairs": 244,
   "browserVerifiedPairs": null
 }

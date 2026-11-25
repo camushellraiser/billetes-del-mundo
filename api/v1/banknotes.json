@@ -12598,10 +12598,25 @@
     "seriesEn": "2014 family and updates",
     "officialPage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
     "referencePage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes recuerdan figuras y monumentos de la historia dominicana.",
-    "factEn": "The notes commemorate Dominican historical figures and landmarks."
+    "factEn": "The notes commemorate Dominican historical figures and landmarks.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/08/Dominican_Republic_BCRD_50_pesos_dominicanos_2025.00.00_B727h_PNL_VH_2760268_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/08/Dominican_Republic_BCRD_50_pesos_dominicanos_2025.00.00_B727h_PNL_VH_2760268_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50902",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2025 issue. Front URL linked in the article, HTTP 429 during inspection. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "do-100",
@@ -12611,10 +12626,25 @@
     "seriesEn": "2014 family and updates",
     "officialPage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
     "referencePage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes recuerdan figuras y monumentos de la historia dominicana.",
-    "factEn": "The notes commemorate Dominican historical figures and landmarks."
+    "factEn": "The notes commemorate Dominican historical figures and landmarks.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/08/Dominican_Republic_BCRD_100_pesos_dominicanos_2025.00.00_B728g_PNL_JU_4557954_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/08/Dominican_Republic_BCRD_100_pesos_dominicanos_2025.00.00_B728g_PNL_JU_4557954_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50898",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2025 issue. Front URL linked in the article, HTTP 429 during inspection. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "do-200",
@@ -12624,10 +12654,25 @@
     "seriesEn": "2014 family and updates",
     "officialPage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
     "referencePage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes recuerdan figuras y monumentos de la historia dominicana.",
-    "factEn": "The notes commemorate Dominican historical figures and landmarks."
+    "factEn": "The notes commemorate Dominican historical figures and landmarks.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/10/Dominican_Republic_BCRD_200_pesos_dominicanos_2025.00.00_B729g_PNL_KW_4778739_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/10/Dominican_Republic_BCRD_200_pesos_dominicanos_2025.00.00_B729g_PNL_KW_4778739_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51479",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2025 issue. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "do-500",
@@ -12637,10 +12682,25 @@
     "seriesEn": "2014 family and updates",
     "officialPage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
     "referencePage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes recuerdan figuras y monumentos de la historia dominicana.",
-    "factEn": "The notes commemorate Dominican historical figures and landmarks."
+    "factEn": "The notes commemorate Dominican historical figures and landmarks.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/10/Dominican_Republic_BCRD_500_pesos_dominicanos_2025.00.00_B730e_PNL_PB_3528655_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/10/Dominican_Republic_BCRD_500_pesos_dominicanos_2025.00.00_B730e_PNL_PB_3528655_r-2.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51471",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2025 issue. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "do-1000",
@@ -12650,10 +12710,25 @@
     "seriesEn": "2014 family and updates",
     "officialPage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
     "referencePage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes recuerdan figuras y monumentos de la historia dominicana.",
-    "factEn": "The notes commemorate Dominican historical figures and landmarks."
+    "factEn": "The notes commemorate Dominican historical figures and landmarks.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/07/Dominican_Republic_BCRD_1000_pesos_dominicanos_2020.00.00_B731b_PNL_GQ_7568038_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/07/Dominican_Republic_BCRD_1000_pesos_dominicanos_2020.00.00_B731b_PNL_GQ_7568038_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36892",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2020 issue; a 2025 date is reported but its images were not retrieved. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "do-2000",
@@ -12663,10 +12738,25 @@
     "seriesEn": "2014 family and updates",
     "officialPage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
     "referencePage": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los billetes recuerdan figuras y monumentos de la historia dominicana.",
-    "factEn": "The notes commemorate Dominican historical figures and landmarks."
+    "factEn": "The notes commemorate Dominican historical figures and landmarks.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/07/Dominican_Republic_BCRD_2000_pesos_dominicanos_2024.00.00_B732f_PNL_HB_5984277_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/07/Dominican_Republic_BCRD_2000_pesos_dominicanos_2024.00.00_B732f_PNL_HB_5984277_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47416",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2024 issue; a 2025 date is reported but its images were not retrieved. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "hn-1",
@@ -13854,10 +13944,25 @@
     "seriesEn": "Eleventh series · development and culture",
     "officialPage": "https://www.cbsl.gov.lk/en/node/8034",
     "referencePage": "https://www.cbsl.gov.lk/en/node/8034",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia representa obras de infraestructura y danzas tradicionales.",
-    "factEn": "The family depicts infrastructure and traditional dances."
+    "factEn": "The family depicts infrastructure and traditional dances.",
+    "photos": {
+      "front": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/2010_01_01_lkdpd_20r_tf.jpg",
+      "back": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/201x_lkdpd_20r_b.jpg",
+      "provider": "Lakdiva BankNote Collection",
+      "sourcePage": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative older issue of current eleventh series, not necessarily newest signature/date; reverse is the series design. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "lk-50",
@@ -13867,10 +13972,25 @@
     "seriesEn": "Eleventh series · development and culture",
     "officialPage": "https://www.cbsl.gov.lk/en/node/8034",
     "referencePage": "https://www.cbsl.gov.lk/en/node/8034",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia representa obras de infraestructura y danzas tradicionales.",
-    "factEn": "The family depicts infrastructure and traditional dances."
+    "factEn": "The family depicts infrastructure and traditional dances.",
+    "photos": {
+      "front": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/2010_01_01_lkdpd_50r_tf.jpg",
+      "back": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/201x_lkdpd_50r_b.jpg",
+      "provider": "Lakdiva BankNote Collection",
+      "sourcePage": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Representative older issue of current eleventh series, not necessarily newest signature/date; reverse is the series design. Reverse linked on gallery, retrieval failed. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "lk-100",
@@ -13880,10 +14000,25 @@
     "seriesEn": "Eleventh series · development and culture",
     "officialPage": "https://www.cbsl.gov.lk/en/node/8034",
     "referencePage": "https://www.cbsl.gov.lk/en/node/8034",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia representa obras de infraestructura y danzas tradicionales.",
-    "factEn": "The family depicts infrastructure and traditional dances."
+    "factEn": "The family depicts infrastructure and traditional dances.",
+    "photos": {
+      "front": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/2010_01_01_lkdpd_100r_f.jpg",
+      "back": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/201x_lkdpd_100r_b.jpg",
+      "provider": "Lakdiva BankNote Collection",
+      "sourcePage": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative older issue of current eleventh series, not necessarily newest signature/date; reverse is the series design. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "lk-500",
@@ -13893,10 +14028,25 @@
     "seriesEn": "Eleventh series · development and culture",
     "officialPage": "https://www.cbsl.gov.lk/en/node/8034",
     "referencePage": "https://www.cbsl.gov.lk/en/node/8034",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia representa obras de infraestructura y danzas tradicionales.",
-    "factEn": "The family depicts infrastructure and traditional dances."
+    "factEn": "The family depicts infrastructure and traditional dances.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/12/Sri_Lanka_CBSL_500_rupees_2024.11.18_B126i_P126_T-432_361083_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/08/Sri_Lanka_CBSL_500_rupees_2020.08.12_B126f_P126_T-328_412518_r.jpg",
+      "provider": "BanknoteNews / Lakdiva BankNote Collection",
+      "sourcePage": "https://banknotenews.com/?p=48842",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "2024 front and 2020 reverse as linked by publisher; same series design, different physical notes. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "lk-1000",
@@ -13906,10 +14056,25 @@
     "seriesEn": "Eleventh series · development and culture",
     "officialPage": "https://www.cbsl.gov.lk/en/node/8034",
     "referencePage": "https://www.cbsl.gov.lk/en/node/8034",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia representa obras de infraestructura y danzas tradicionales.",
-    "factEn": "The family depicts infrastructure and traditional dances."
+    "factEn": "The family depicts infrastructure and traditional dances.",
+    "photos": {
+      "front": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/2015_02_04_lkdpd_1000r_f.jpg",
+      "back": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/201x_lkdpd_1000r_b.jpg",
+      "provider": "Lakdiva BankNote Collection",
+      "sourcePage": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative older issue of current eleventh series, not necessarily newest signature/date; reverse is the series design. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "lk-5000",
@@ -13919,10 +14084,25 @@
     "seriesEn": "Eleventh series · development and culture",
     "officialPage": "https://www.cbsl.gov.lk/en/node/8034",
     "referencePage": "https://www.cbsl.gov.lk/en/node/8034",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia representa obras de infraestructura y danzas tradicionales.",
-    "factEn": "The family depicts infrastructure and traditional dances."
+    "factEn": "The family depicts infrastructure and traditional dances.",
+    "photos": {
+      "front": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/2015_02_04_lkdpd_5000r_f.jpg",
+      "back": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/images/201x_lkdpd_5000r_b.jpg",
+      "provider": "Lakdiva BankNote Collection",
+      "sourcePage": "https://notes.lakdiva.org.lk/cbsl/2010lkdpd/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Representative older issue of current eleventh series, not necessarily newest signature/date; reverse is the series design. Live dashboard rendering not tested."
+    }
   },
   {
     "id": "bd-2",
