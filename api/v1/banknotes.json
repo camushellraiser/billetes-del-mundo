@@ -12973,10 +12973,25 @@
     "seriesEn": "Polymer · 2020–2021",
     "officialPage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
     "referencePage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los anversos presentan aves locales.",
-    "factEn": "The fronts feature local birds."
+    "factEn": "The fronts feature local birds.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2020/11/Trinidad_Tobago_CBTT_5_dollars_2019.00.00_B237a_PNL_AH_742516_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2020/11/Trinidad_Tobago_CBTT_5_dollars_2019.00.00_B237a_PNL_AH_742516_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=31366",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Polymer series. At least one direct image request returned HTTP 429; visual review incomplete."
+    }
   },
   {
     "id": "tt-10",
@@ -12986,10 +13001,25 @@
     "seriesEn": "Polymer · 2020–2021",
     "officialPage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
     "referencePage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los anversos presentan aves locales.",
-    "factEn": "The fronts feature local birds."
+    "factEn": "The fronts feature local birds.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2020/11/Trinidad_Tobago_CBTT_10_dollars_2020.00.00_B238a_PNL_AD_692535_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2020/11/00.00_B238a_PNL_AD_692535_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=31371",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Exact links listed by publisher; both requests returned HTTP 429. At least one direct image request returned HTTP 429; visual review incomplete."
+    }
   },
   {
     "id": "tt-20",
@@ -12999,10 +13029,25 @@
     "seriesEn": "Polymer · 2020–2021",
     "officialPage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
     "referencePage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los anversos presentan aves locales.",
-    "factEn": "The fronts feature local birds."
+    "factEn": "The fronts feature local birds.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2020/11/Trinidad_Tobago_CBTT_20_dollars_2020.00.00_B239a_PNL_AA_779495_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2020/11/Trinidad_Tobago_CBTT_20_dollars_2020.00.00_B239a_PNL_AA_779495_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=31375",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Polymer series."
+    }
   },
   {
     "id": "tt-50",
@@ -13012,10 +13057,25 @@
     "seriesEn": "Polymer · 2020–2021",
     "officialPage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
     "referencePage": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Los anversos presentan aves locales.",
-    "factEn": "The fronts feature local birds."
+    "factEn": "The fronts feature local birds.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2021/03/Trinidad_Tobago_CBTT_50_dollars_2019.00.00_B240a_PNL_AG_145489_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2021/03/Trinidad_Tobago_CBTT_50_dollars_2019.00.00_B240a_PNL_AG_145489_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=32648",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Polymer series."
+    }
   },
   {
     "id": "tt-100",
@@ -13217,10 +13277,25 @@
     "seriesEn": "Polymer · 2022",
     "officialPage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
     "referencePage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de polímero entró en circulación en diciembre de 2022.",
-    "factEn": "The polymer family entered circulation in December 2022."
+    "factEn": "The polymer family entered circulation in December 2022.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_2_dollars_2022.00.00_B239a_PNL_H70_747557_f-rotated.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_2_dollars_2022.00.00_B239a_PNL_H70_747557_r-rotated.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36489",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Published horizontal scans of vertical polymer designs. At least one direct image request returned HTTP 429; visual review incomplete."
+    }
   },
   {
     "id": "bb-5",
@@ -13230,10 +13305,25 @@
     "seriesEn": "Polymer · 2022",
     "officialPage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
     "referencePage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de polímero entró en circulación en diciembre de 2022.",
-    "factEn": "The polymer family entered circulation in December 2022."
+    "factEn": "The polymer family entered circulation in December 2022.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_5_dollars_2022.00.00_B240a_PNL_G70_345429_f-rotated.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_5_dollars_2022.00.00_B240a_PNL_G70_345429_r-rotated.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36485",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Published horizontal scans of vertical polymer designs."
+    }
   },
   {
     "id": "bb-10",
@@ -13243,10 +13333,25 @@
     "seriesEn": "Polymer · 2022",
     "officialPage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
     "referencePage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de polímero entró en circulación en diciembre de 2022.",
-    "factEn": "The polymer family entered circulation in December 2022."
+    "factEn": "The polymer family entered circulation in December 2022.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_10_dollars_2022.00.00_B241a_PNL_C54_36825_f-rotated.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_10_dollars_2022.00.00_B241a_PNL_C54_36825_r-rotated.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36481",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Published horizontal scans of vertical polymer designs."
+    }
   },
   {
     "id": "bb-20",
@@ -13256,10 +13361,25 @@
     "seriesEn": "Polymer · 2022",
     "officialPage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
     "referencePage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de polímero entró en circulación en diciembre de 2022.",
-    "factEn": "The polymer family entered circulation in December 2022."
+    "factEn": "The polymer family entered circulation in December 2022.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_20_dollars_2022.00.00_B242a_PNL_D97_1724441_f-rotated.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_20_dollars_2022.00.00_B242a_PNL_D97_1724441_r-rotated.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36477",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Published horizontal scans of vertical polymer designs."
+    }
   },
   {
     "id": "bb-50",
@@ -13269,10 +13389,25 @@
     "seriesEn": "Polymer · 2022",
     "officialPage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
     "referencePage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de polímero entró en circulación en diciembre de 2022.",
-    "factEn": "The polymer family entered circulation in December 2022."
+    "factEn": "The polymer family entered circulation in December 2022.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_50_dollars_2022.00.00_B243a_PNL_J37_206076_f-rotated.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_50_dollars_2022.00.00_B243a_PNL_J37_206076_r-rotated.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36472",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Published horizontal scans of vertical polymer designs."
+    }
   },
   {
     "id": "bb-100",
@@ -13282,10 +13417,25 @@
     "seriesEn": "Polymer · 2022",
     "officialPage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
     "referencePage": "https://www.centralbank.org.bb/banknotes/2022-series-1",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La familia de polímero entró en circulación en diciembre de 2022.",
-    "factEn": "The polymer family entered circulation in December 2022."
+    "factEn": "The polymer family entered circulation in December 2022.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_100_dollars_2022.00.00_B244a_PNL_E45_101578_f-rotated.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Barbados_CBB_100_dollars_2022.00.00_B244a_PNL_E45_101578_r-rotated.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=36468",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Published horizontal scans of vertical polymer designs."
+    }
   },
   {
     "id": "bz-2",
@@ -13957,10 +14107,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/10/Maldives_MMA_5_rufiyaa_2025.07.31_B223a_PNL_J_355151_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/10/Maldives_MMA_5_rufiyaa_2025.07.31_B223a_PNL_J_355151_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51517",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Issued polymer design. At least one direct image request returned HTTP 429; visual review incomplete."
+    }
   },
   {
     "id": "mv-10",
@@ -13970,10 +14135,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/04/Maldives_MMA_10_rufiyaa_2025.07.31_B224a_PNL_G_276320_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/04/Maldives_MMA_10_rufiyaa_2025.07.31_B224a_PNL_G_276320_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49982",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Issued polymer design."
+    }
   },
   {
     "id": "mv-20",
@@ -13983,10 +14163,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Maldives_MMA_20_rufiyaa_2025.07.31_B225a_PNL_E_828747_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Maldives_MMA_20_rufiyaa_2025.07.31_B225a_PNL_E_828747_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49444",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Issued polymer design."
+    }
   },
   {
     "id": "mv-50",
@@ -13996,10 +14191,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2023/01/Maldives_MMA_50_rufiyaa_2022.09.08_B226a_PNL_B_306422_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2023/01/Maldives_MMA_50_rufiyaa_2022.09.08_B226a_PNL_B_306422_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38127",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Issued polymer design."
+    }
   },
   {
     "id": "mv-100",
@@ -14009,10 +14219,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Maldives_MMA_100_rufiyaa_2025.07.31_B227b_PNL_G_607203_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Maldives_MMA_100_rufiyaa_2025.07.31_B227b_PNL_G_607203_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49440",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Issued polymer design. At least one direct image request returned HTTP 429; visual review incomplete."
+    }
   },
   {
     "id": "mv-500",
@@ -14022,10 +14247,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2019/12/maldives_mma_500_rufiyaa_2015.10.05_b220as_pnls_a_000000_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2019/12/maldives_mma_500_rufiyaa_2015.10.05_b220as_pnls_a_000000_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=6812",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Original 2015 specimen images; specimen markings retained. At least one direct image request returned HTTP 429; visual review incomplete."
+    }
   },
   {
     "id": "mv-1000",
@@ -14035,10 +14275,25 @@
     "seriesEn": "Ran Dhihafaheh · polymer",
     "officialPage": "https://www.mma.gov.mv/",
     "referencePage": "https://www.mma.gov.mv/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La serie de polímero representa la cultura y la vida marítima de las islas.",
-    "factEn": "The polymer series depicts the culture and maritime life of the islands."
+    "factEn": "The polymer series depicts the culture and maritime life of the islands.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2019/12/maldives_mma_1000_rufiyaa_2015.10.05_b221as_pnls_a_000000_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2019/12/maldives_mma_1000_rufiyaa_2015.10.05_b221as_pnls_a_000000_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=6812",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Original 2015 specimen images; specimen markings retained."
+    }
   },
   {
     "id": "om-0.1",
