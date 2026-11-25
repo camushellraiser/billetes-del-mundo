@@ -3038,55 +3038,103 @@
     "id": "vn-10000",
     "countryId": "vn",
     "value": 10000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billetes de polímero de la serie actual",
+    "seriesEn": "Current-series polymer notes",
+    "photos": {
+      "front": "https://www.banknote.news/files/vietnam_sbv_10000_dong_2019.00.00_b343l_p119_vf_19858412_f.jpg",
+      "back": "https://www.banknote.news/files/vietnam_sbv_10000_dong_2019.00.00_b343l_p119_vf_19858412_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-vietnam.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-20000",
     "countryId": "vn",
     "value": 20000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billetes de polímero de la serie actual",
+    "seriesEn": "Current-series polymer notes",
+    "photos": {
+      "front": "https://www.banknote.news/files/vietnam_sbv_20000_dong_2016.00.00_b344g_p120_me_16592935_f.jpg",
+      "back": "https://www.banknote.news/files/vietnam_sbv_20000_dong_2016.00.00_b344g_p120_me_16592935_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-vietnam.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-50000",
     "countryId": "vn",
     "value": 50000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billetes de polímero de la serie actual",
+    "seriesEn": "Current-series polymer notes",
+    "photos": {
+      "front": "https://www.banknote.news/files/vietnam_sbv_50000_dong_2017.00.00_b345j_p121_xs_17000017_f.jpg",
+      "back": "https://www.banknote.news/files/vietnam_sbv_50000_dong_2017.00.00_b345j_p121_xs_17000017_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-vietnam.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-100000",
     "countryId": "vn",
     "value": 100000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billetes de polímero de la serie actual",
+    "seriesEn": "Current-series polymer notes",
+    "photos": {
+      "front": "https://www.banknote.news/files/vietnam_sbv_100000_dong_2018.00.00_b346l_p122_kk_18540119_f.jpg",
+      "back": "https://www.banknote.news/files/vietnam_sbv_100000_dong_2018.00.00_b346l_p122_kk_18540119_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-vietnam.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-200000",
     "countryId": "vn",
     "value": 200000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billetes de polímero de la serie actual",
+    "seriesEn": "Current-series polymer notes",
+    "photos": {
+      "front": "https://www.banknote.news/files/vietnam_sbv_200000_dong_2019.00.00_b347j_p123_mc_19022606_f.jpg",
+      "back": "https://www.banknote.news/files/vietnam_sbv_200000_dong_2019.00.00_b347j_p123_mc_19022606_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-vietnam.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "vn-500000",
     "countryId": "vn",
     "value": 500000,
-    "series": "Serie actual",
-    "seriesEn": "Serie actual",
-    "photos": null,
-    "imageStatus": "pending"
+    "series": "Billetes de polímero de la serie actual",
+    "seriesEn": "Current-series polymer notes",
+    "photos": {
+      "front": "https://www.banknote.news/files/vietnam_sbv_500000_dong_2017.00.00_b348m_p124_lt_17000001_f.jpg",
+      "back": "https://www.banknote.news/files/vietnam_sbv_500000_dong_2017.00.00_b348m_p124_lt_17000001_r.jpg",
+      "verified": true,
+      "provider": "Banknote News",
+      "sourcePage": "https://www.banknote.news/files/tag-vietnam.php",
+      "display": "individual_images"
+    },
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24"
   },
   {
     "id": "au-5",
