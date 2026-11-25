@@ -1,3 +1,5 @@
+> **v2.1.0 — 24 de noviembre de 2026:** control de calidad; 30 países, 164 referencias de parejas, 98 individuales y 66 con recorte. CAD 10 contrastado en la fuente oficial; las demás referencias aún necesitan comprobación visual y de carga. [Auditoría](docs/visual-audit-2.1.md) · [Comprobador manual](audit.html).
+
 > **Actualización manual del 24 de noviembre de 2026 (v2.0.0):** ya existen referencias para el anverso y reverso de las 164 denominaciones de los 30 países originales. De ellas, 97 usan fotografías individuales y 67 se muestran mediante encuadres de fotografías compuestas. Se validó la estructura de datos y el código; **no se ha confirmado la carga HTTP de las 164 parejas en todos los navegadores**. La imagen original se abre desde su fuente si falla la incrustación. Auditoría: [cobertura completa](docs/coverage-audit-2026-11-24.md).
 
 # Billetes del Mundo 🌎

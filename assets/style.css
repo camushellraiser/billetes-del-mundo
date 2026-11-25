@@ -63,3 +63,6 @@
  .dialog-photo{width:87vw;min-width:0}
  .dialog-photo .banknote-crop{width:85vw}
 }
+
+/* v2.1: preserve the entire crop in a height-limited zoom viewport. */
+.dialog-photo .banknote-crop-modal{width:min(85vw,850px,calc(68vh * var(--crop-ratio, 1.7)));max-height:none}

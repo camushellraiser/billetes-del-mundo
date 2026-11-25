@@ -394,28 +394,21 @@
     "series": "Billete vertical de 2018",
     "seriesEn": "Billete vertical de 2018",
     "photos": {
-      "front": "https://www.tresordupatrimoine.fr/38005/10-dollars-canada-2018.jpg",
-      "back": "https://www.tresordupatrimoine.fr/38005/10-dollars-canada-2018.jpg",
-      "crop": {
-        "front": [
-          0.042,
-          0.035,
-          0.43,
-          0.928
-        ],
-        "back": [
-          0.531,
-          0.035,
-          0.43,
-          0.928
-        ]
-      },
+      "front": "https://www.bankofcanada.ca/wp-content/uploads/2018/01/196440.png",
+      "back": "https://www.bankofcanada.ca/wp-content/uploads/2018/01/196441.png",
       "verified": true,
-      "provider": "Trésor du Patrimoine / Viola Desmond",
-      "sourcePage": "https://www.tresordupatrimoine.fr/1641390-10-dollars-canada-2018.html",
-      "display": "external_contact_sheet"
+      "provider": "Bank of Canada",
+      "sourcePage": "https://www.bankofcanada.ca/banknotes/vertical-10-note-security-features/",
+      "display": "individual_images",
+      "requiresSpecimen": true,
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
     },
-    "imageStatus": "photo_sheet",
+    "imageStatus": "curated",
     "officialPage": "https://www.bankofcanada.ca/banknotes/vertical-10-note-security-features/",
     "frontDescription": "El anverso presenta a Viola Desmond.",
     "backDescription": "El reverso representa el museo canadiense para los derechos humanos.",

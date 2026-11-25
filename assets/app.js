@@ -4,8 +4,8 @@ const $=id=>document.getElementById(id);
 const base=new URL("./",document.baseURI);
 const state={countries:[],notes:[],country:null,note:null,side:"front",region:"Todos",search:"",photoOnly:false,lang:localStorage.getItem("bdm-lang")==="en"?"en":"es",imageOk:false};
 const copy={
-es:{brandSubtitle:"UN ATLAS DE PAPEL",edition:"EDICIÓN 01 · 2026",eyebrow:"UNA AVENTURA ENTRE PAÍSES Y CULTURAS",headline:"El mundo tiene<br><em>mucho que contar.</em>",heroDesc:"Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.",exploreNow:"Empezar a explorar",surprise:"Sorpréndeme",countries:"PAÍSES",denominations:"DENOMINACIONES",regions:"REGIONES",heroBottom:"30 destinos. Infinitas historias.",chooseDestination:"ELIGE TU DESTINO",exploreTitle:"Un mundo por descubrir<span class='accent-period'>.</span>",exploreDesc:"Elige una bandera y comienza el viaje.",indexLabel:"ÍNDICE DE PAÍSES",photosOnly:"Solo con fotografías",noResults:"No encontramos ese destino",tryAnother:"Intenta buscar otro país o moneda.",reset:"Borrar filtros",didYouKnow:"¿SABÍAS QUE...?",discoveryTitle:"Un billete puede ser una obra de arte.",discoveryDesc:"Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.",allCountries:"Todos los países",countryCollection:"COLECCIÓN POR PAÍS",front:"Anverso",back:"Reverso",zoom:"Ampliar",pendingPhoto:"Fotografía pendiente de verificación",selectDenom:"ELIGE UNA DENOMINACIÓN",banknotesCountry:"Los billetes del país<span class='accent-period'>.</span>",selectDenomDesc:"Selecciona un valor para ver el diseño de cada billete.",selectedBanknote:"BILLETE SELECCIONADO",aCuriosity:"UNA CURIOSIDAD",officialSource:"Consultar banco central",keepExploring:"SIGUE EXPLORANDO",otherDestination:"Descubre otro destino",footerMotto:"Hecho para mentes curiosas.",footEdition:"Un atlas educativo independiente",museumViewer:"VISOR DEL MUSEO",flipNote:"Voltear billete",imageVerified:"FOTOGRAFÍA SELECCIONADA",imagePending:"FOTOGRAFÍA PENDIENTE",failedImage:"IMAGEN NO DISPONIBLE",illustrated:"CON FOTOGRAFÍA",photoAvailable:"Fotografía de referencia disponible",photoMissing:"Estamos verificando una fotografía actual",imageSource:"Fuente de imagen",verifiedBadge:"FOTOS",frontAlt:"Anverso",backAlt:"Reverso",resultUnit:"países",noteUnit:"billetes",all:"Todos",viewOfficialImages:"VER IMÁGENES EN BANXICO ↗",officialReference:"Referencia oficial disponible",storyHeading:"EL DETALLE DEL BILLETE",officialPhoto:"Ver billete en Banco de México",officialBank:"Ver billete en el banco central",viewOfficialBankImages:"VER IMÁGENES OFICIALES ↗"},
-en:{brandSubtitle:"A PAPER ATLAS",edition:"EDITION 01 · 2026",eyebrow:"A JOURNEY ACROSS COUNTRIES AND CULTURES",headline:"The world has<br><em>so much to tell.</em>",heroDesc:"Every banknote tells a story. Explore incredible places, people and animals through the money of other countries.",exploreNow:"Start exploring",surprise:"Surprise me",countries:"COUNTRIES",denominations:"DENOMINATIONS",regions:"REGIONS",heroBottom:"30 destinations. Endless stories.",chooseDestination:"PICK A DESTINATION",exploreTitle:"A world to discover<span class='accent-period'>.</span>",exploreDesc:"Choose a flag and start your journey.",indexLabel:"COUNTRY INDEX",photosOnly:"Only with photos",noResults:"No destinations found",tryAnother:"Try another country or currency.",reset:"Clear filters",didYouKnow:"DID YOU KNOW?",discoveryTitle:"A banknote can be a work of art.",discoveryDesc:"Colors, animals, architecture and history: every country has a story.",allCountries:"All countries",countryCollection:"COUNTRY COLLECTION",front:"Front",back:"Back",zoom:"Zoom",pendingPhoto:"Photo awaiting verification",selectDenom:"CHOOSE A DENOMINATION",banknotesCountry:"The country's banknotes<span class='accent-period'>.</span>",selectDenomDesc:"Choose a value to see the design of each note.",selectedBanknote:"SELECTED BANKNOTE",aCuriosity:"FUN FACT",officialSource:"Visit central bank",keepExploring:"KEEP EXPLORING",otherDestination:"Discover another country",footerMotto:"Made for curious minds.",footEdition:"An independent educational atlas",museumViewer:"MUSEUM VIEWER",flipNote:"Flip banknote",imageVerified:"CURATED PHOTOGRAPH",imagePending:"PHOTO PENDING",failedImage:"IMAGE NOT AVAILABLE",illustrated:"WITH PHOTOS",photoAvailable:"Reference photograph available",photoMissing:"We are verifying a current image",imageSource:"Image source",verifiedBadge:"PHOTOS",frontAlt:"Front",backAlt:"Back",resultUnit:"countries",noteUnit:"notes",all:"All",viewOfficialImages:"SEE IMAGES AT BANXICO ↗",officialReference:"Official reference available",storyHeading:"THE STORY ON THIS NOTE",officialPhoto:"View at Banco de México",officialBank:"View at the central bank",viewOfficialBankImages:"VIEW OFFICIAL IMAGES ↗"}
+es:{brandSubtitle:"UN ATLAS DE PAPEL",edition:"EDICIÓN 01 · 2026",eyebrow:"UNA AVENTURA ENTRE PAÍSES Y CULTURAS",headline:"El mundo tiene<br><em>mucho que contar.</em>",heroDesc:"Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.",exploreNow:"Empezar a explorar",surprise:"Sorpréndeme",countries:"PAÍSES",denominations:"DENOMINACIONES",regions:"REGIONES",heroBottom:"30 destinos. Infinitas historias.",chooseDestination:"ELIGE TU DESTINO",exploreTitle:"Un mundo por descubrir<span class='accent-period'>.</span>",exploreDesc:"Elige una bandera y comienza el viaje.",indexLabel:"ÍNDICE DE PAÍSES",photosOnly:"Solo con referencias fotográficas",noResults:"No encontramos ese destino",tryAnother:"Intenta buscar otro país o moneda.",reset:"Borrar filtros",didYouKnow:"¿SABÍAS QUE...?",discoveryTitle:"Un billete puede ser una obra de arte.",discoveryDesc:"Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.",allCountries:"Todos los países",countryCollection:"COLECCIÓN POR PAÍS",front:"Anverso",back:"Reverso",zoom:"Ampliar",pendingPhoto:"Fotografía pendiente de verificación",selectDenom:"ELIGE UNA DENOMINACIÓN",banknotesCountry:"Los billetes del país<span class='accent-period'>.</span>",selectDenomDesc:"Selecciona un valor para ver el diseño de cada billete.",selectedBanknote:"BILLETE SELECCIONADO",aCuriosity:"UNA CURIOSIDAD",officialSource:"Consultar banco central",keepExploring:"SIGUE EXPLORANDO",otherDestination:"Descubre otro destino",footerMotto:"Hecho para mentes curiosas.",footEdition:"Un atlas educativo independiente",museumViewer:"VISOR DEL MUSEO",flipNote:"Voltear billete",imageVerified:"FOTOGRAFÍA CARGADA",imagePending:"FOTOGRAFÍA PENDIENTE",failedImage:"IMAGEN NO DISPONIBLE",illustrated:"CON REFERENCIA",photoAvailable:"Referencia fotográfica registrada",photoMissing:"Estamos verificando una fotografía actual",imageSource:"Fuente de imagen",verifiedBadge:"FOTOS",frontAlt:"Anverso",backAlt:"Reverso",resultUnit:"países",noteUnit:"billetes",all:"Todos",viewOfficialImages:"VER IMÁGENES EN BANXICO ↗",officialReference:"Referencia oficial disponible",storyHeading:"EL DETALLE DEL BILLETE",officialPhoto:"Ver billete en Banco de México",officialBank:"Ver billete en el banco central",viewOfficialBankImages:"VER IMÁGENES OFICIALES ↗"},
+en:{brandSubtitle:"A PAPER ATLAS",edition:"EDITION 01 · 2026",eyebrow:"A JOURNEY ACROSS COUNTRIES AND CULTURES",headline:"The world has<br><em>so much to tell.</em>",heroDesc:"Every banknote tells a story. Explore incredible places, people and animals through the money of other countries.",exploreNow:"Start exploring",surprise:"Surprise me",countries:"COUNTRIES",denominations:"DENOMINATIONS",regions:"REGIONS",heroBottom:"30 destinations. Endless stories.",chooseDestination:"PICK A DESTINATION",exploreTitle:"A world to discover<span class='accent-period'>.</span>",exploreDesc:"Choose a flag and start your journey.",indexLabel:"COUNTRY INDEX",photosOnly:"Only with photo references",noResults:"No destinations found",tryAnother:"Try another country or currency.",reset:"Clear filters",didYouKnow:"DID YOU KNOW?",discoveryTitle:"A banknote can be a work of art.",discoveryDesc:"Colors, animals, architecture and history: every country has a story.",allCountries:"All countries",countryCollection:"COUNTRY COLLECTION",front:"Front",back:"Back",zoom:"Zoom",pendingPhoto:"Photo awaiting verification",selectDenom:"CHOOSE A DENOMINATION",banknotesCountry:"The country's banknotes<span class='accent-period'>.</span>",selectDenomDesc:"Choose a value to see the design of each note.",selectedBanknote:"SELECTED BANKNOTE",aCuriosity:"FUN FACT",officialSource:"Visit central bank",keepExploring:"KEEP EXPLORING",otherDestination:"Discover another country",footerMotto:"Made for curious minds.",footEdition:"An independent educational atlas",museumViewer:"MUSEUM VIEWER",flipNote:"Flip banknote",imageVerified:"PHOTO LOADED",imagePending:"PHOTO PENDING",failedImage:"IMAGE NOT AVAILABLE",illustrated:"WITH REFERENCES",photoAvailable:"Photo reference recorded",photoMissing:"We are verifying a current image",imageSource:"Image source",verifiedBadge:"PHOTOS",frontAlt:"Front",backAlt:"Back",resultUnit:"countries",noteUnit:"notes",all:"All",viewOfficialImages:"SEE IMAGES AT BANXICO ↗",officialReference:"Official reference available",storyHeading:"THE STORY ON THIS NOTE",officialPhoto:"View at Banco de México",officialBank:"View at the central bank",viewOfficialBankImages:"VIEW OFFICIAL IMAGES ↗"}
 };
 const tr=k=>copy[state.lang][k]||k;
 const name=c=>state.lang==="en"?c.nameEn:c.name;
@@ -13,11 +13,17 @@ const currency=c=>state.lang==="en"?c.currencyNameEn:c.currencyName;
 const noteFor=(countryId,value)=>state.notes.find(n=>n.countryId===countryId&&Number(n.value)===Number(value));
 const hasPictures=id=>state.notes.some(n=>n.countryId===id&&n.photos?.verified);
 const fileUrl=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(f)+"?width=1100";
+let photoRequest=0,dialogRequest=0;
+function loadPhoto(img,url,onLoad,onError){
+ let settled=false;const finish=ok=>{if(settled)return;settled=true;clearTimeout(timer);img.onload=null;img.onerror=null;ok?onLoad():onError();};
+ const timer=setTimeout(()=>finish(false),15000);img.onload=()=>finish(img.naturalWidth>0&&img.naturalHeight>0);img.onerror=()=>finish(false);img.src=url;
+}
 const commonsPage=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/File:"+encodeURIComponent(f).replace(/%20/g,"_");
 function cropSheetPhoto(img,rect,kind="detail"){
  const [x,y,w,h]=rect.map(Number);
  if(!img.naturalWidth||!img.naturalHeight||w<=0||h<=0)return img;
  const wrap=document.createElement("span");
+ if(kind==="modal")wrap.style.setProperty("--crop-ratio",String((img.naturalWidth*w)/(img.naturalHeight*h)));
  wrap.className="banknote-crop banknote-crop-"+kind;
  wrap.style.aspectRatio=String((img.naturalWidth*w)/(img.naturalHeight*h));
  img.style.width=(100/w)+"%";
@@ -34,7 +40,7 @@ function enhanceCardPhotos(){
   if(!n?.photos?.crop)return;
   const img=host.querySelector("img");
   if(!img)return;
-  const loaded=()=>{if(host.isConnected)host.replaceChildren(cropSheetPhoto(img,n.photos.crop.front,"thumb"));};
+  const loaded=()=>{if(host.isConnected&&!host.querySelector(".banknote-crop"))host.replaceChildren(cropSheetPhoto(img,n.photos.crop.front,"thumb"));};
   img.addEventListener("load",loaded,{once:true});
   img.addEventListener("error",()=>host.remove(),{once:true});
   if(img.complete&&img.naturalWidth)loaded();
@@ -112,7 +118,9 @@ renderPhoto();
 }
 function renderPhoto(){
 const c=state.country,n=state.note;if(!c||!n)return;
-const has=!!n.photos;
+const request=++photoRequest;
+const has=Boolean(n.photos?.[state.side]);
+$("selected-status").textContent=has?tr("photoAvailable"):(n.officialPage?tr("officialReference"):tr("photoMissing"));
 const info=state.lang==="es"?(state.side==="front"?(n.frontDescription||n.fact):(n.backDescription||n.fact)):(state.side==="front"?(n.frontDescriptionEn||n.factEn):(n.backDescriptionEn||n.factEn));
 $("note-story").hidden=!info;
 $("note-story-label").textContent=tr("storyHeading")+(n.frontDescription?" · "+tr(state.side):"");
@@ -126,7 +134,7 @@ $("front-button").classList.toggle("selected",state.side==="front");
 $("back-button").classList.toggle("selected",state.side==="back");
 $("zoom-button").disabled=true;
 $("image-status").classList.toggle("pending",!has);
-$("image-status-text").textContent=has?tr("imageVerified"):tr("imagePending");
+$("image-status-text").textContent=has?(state.lang==="es"?"CARGANDO FOTOGRAFÍA":"LOADING PHOTO"):tr("imagePending");
 $("note-image").hidden=!has;
 $("note-placeholder").hidden=has;
 $("placeholder-value").textContent=pretty(c,n.value);
@@ -138,21 +146,19 @@ const display=$("note-image");
 display.classList.toggle("specimen-required",Boolean(n.photos?.requiresSpecimen));
 display.replaceChildren();
 if(!has)return;
-display.innerHTML='<span class="image-loading">✳ &nbsp; LOADING IMAGE</span>';
+display.innerHTML='<span class="image-loading">✳ &nbsp; '+(state.lang==='es'?'CARGANDO IMAGEN':'LOADING IMAGE')+'</span>';
 const expectedId=n.id,expectedSide=state.side;
 const img=new Image();
 img.referrerPolicy="no-referrer";
 img.decoding="async";
 img.alt=`${state.side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(c,n.value)} · ${name(c)}`;
-img.onload=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){const node=n.photos.crop?.[expectedSide]?cropSheetPhoto(img,n.photos.crop[expectedSide]):img;display.replaceChildren(node);state.imageOk=true;$("zoom-button").disabled=false;}};
-img.onerror=()=>{if(state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");state.imageOk=false;const fallback=$("official-note-link");fallback.hidden=false;fallback.href=n.photoSources?.[expectedSide]||n.photos?.sourcePage||n.officialPage||c.officialSource||"#";fallback.textContent=state.lang==="es"?"VER IMAGEN EN LA FUENTE ↗":"VIEW IMAGE AT SOURCE ↗";}};
-img.src=fileUrl(n.photos[state.side]);
+loadPhoto(img,fileUrl(n.photos[expectedSide]),()=>{if(request===photoRequest&&state.note?.id===expectedId&&state.side===expectedSide){const node=n.photos.crop?.[expectedSide]?cropSheetPhoto(img,n.photos.crop[expectedSide]):img;display.replaceChildren(node);state.imageOk=true;$("image-status-text").textContent=tr("imageVerified");$("selected-status").textContent=state.lang==="es"?"Imagen cargada en el visor":"Image loaded in viewer";$("zoom-button").disabled=false;}},()=>{if(request===photoRequest&&state.note?.id===expectedId&&state.side===expectedSide){display.replaceChildren();display.hidden=true;$("note-placeholder").hidden=false;$("image-status").classList.add("pending");$("image-status-text").textContent=tr("failedImage");$("selected-status").textContent=tr("failedImage");state.imageOk=false;const fallback=$("official-note-link");fallback.hidden=false;fallback.href=n.photoSources?.[expectedSide]||n.photos?.sourcePage||n.officialPage||c.officialSource||"#";fallback.textContent=state.lang==="es"?"VER IMAGEN EN LA FUENTE ↗":"VIEW IMAGE AT SOURCE ↗";}});
 }
 function selectDenom(value){if(!state.country)return;const n=noteFor(state.country.id,value);if(!n)return;state.note=n;state.side="front";renderCountry();}
 function flip(){state.side=state.side==="front"?"back":"front";renderPhoto();if($("image-dialog").open)showDialogImage();}
 function showDialogImage(){
  if(!state.country||!state.note?.photos)return;
- const n=state.note,side=state.side,stage=$("dialog-image");
+ const n=state.note,side=state.side,stage=$("dialog-image"),request=++dialogRequest;
  $("dialog-image-frame").classList.toggle("specimen-required",Boolean(n.photos.requiresSpecimen));
  $("dialog-title").textContent=`${name(state.country)} · ${pretty(state.country,n.value)}`;
  $("dialog-subtitle").textContent=side==="front"?tr("front"):tr("back");
@@ -160,12 +166,10 @@ function showDialogImage(){
  const img=new Image();
  img.alt=`${side==="front"?tr("frontAlt"):tr("backAlt")} · ${pretty(state.country,n.value)}`;
  img.decoding="async";img.referrerPolicy="no-referrer";
- img.onload=()=>{
-  if(state.note?.id!==n.id||state.side!==side)return;
+ loadPhoto(img,fileUrl(n.photos[side]),()=>{
+  if(request!==dialogRequest||state.note?.id!==n.id||state.side!==side)return;
   stage.replaceChildren(n.photos.crop?.[side]?cropSheetPhoto(img,n.photos.crop[side],"modal"):img);
- };
- img.onerror=()=>{stage.textContent=state.lang==="es"?"La imagen no está disponible. Consulta la fuente.":"Image unavailable. Please check the source.";};
- img.src=fileUrl(n.photos[side]);
+ },()=>{if(request===dialogRequest&&state.note?.id===n.id&&state.side===side)stage.textContent=state.lang==="es"?"La imagen no está disponible. Consulta la fuente.":"Image unavailable. Please check the source.";});
 }
 function zoom(){if(!state.note?.photos||!state.imageOk)return;showDialogImage();if(!$("image-dialog").open)$("image-dialog").showModal();}
 function randomCountry(){const available=state.countries.filter(c=>hasPictures(c.id));const pool=available.length?available:state.countries;const pick=pool[Math.floor(Math.random()*pool.length)];if(pick)location.hash=`#/${pick.id}`;}

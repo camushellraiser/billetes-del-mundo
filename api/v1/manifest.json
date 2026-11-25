@@ -1,11 +1,10 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "lastReviewed": "2026-11-24",
   "countryCount": 30,
   "banknoteCount": 164,
-  "verifiedImagePairs": 164,
-  "imagePolicy": "Referencias seleccionadas a fotografías reales de los diseños actuales, sin archivos falsos ni fotografías generadas. Algunas imágenes se muestran mediante recortes visuales de hojas fotográficas existentes; su disponibilidad depende del servidor de origen y no se ha confirmado individualmente para todas.",
+  "imagePolicy": "164 pares de referencias; no equivalen a imágenes cargadas. Una pareja contrastada visualmente en la fuente durante esta revisión; la carga en el visor y las restantes parejas están pendientes de comprobación.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
@@ -44,9 +43,11 @@
     "eg",
     "ma"
   ],
-  "coverageReport": "docs/coverage-audit-2026-11-24.md",
+  "coverageReport": "docs/visual-audit-2.1.md",
   "photoReferencePairs": 164,
-  "contactSheetCroppedPairs": 67,
-  "individualImagePairs": 97,
-  "unverifiedExternalAvailability": true
+  "contactSheetCroppedPairs": 66,
+  "individualImagePairs": 98,
+  "unverifiedExternalAvailability": true,
+  "sourceVisuallyConfirmedPairs": 1,
+  "browserVerifiedPairs": null
 }
