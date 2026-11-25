@@ -1,7 +1,7 @@
 /* Shared image loading policy. Original external URLs remain unchanged. */
 (function(){
 "use strict";
-const version="2.4.7";
+const version="2.4.8";
 const fileUrl=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(f)+"?width=1100";
 function candidates(f){
  const first=fileUrl(f),out=[first];

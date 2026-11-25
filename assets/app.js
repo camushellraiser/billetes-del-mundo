@@ -33,8 +33,13 @@ function cropSheetPhoto(img,rect,kind="detail"){
 function enhanceCardPhotos(){
  document.querySelectorAll(".country-card-thumb[data-photo-id]").forEach(host=>{
   const featured=state.notes.find(x=>x.id===host.dataset.photoId);if(!featured)return;
-  const alternatives=[featured,...state.notes.filter(n=>n.countryId===featured.countryId&&n.id!==featured.id&&n.photos?.front)].slice(0,3);
-  const start=()=>{if(!host.isConnected)return;let i=0;function next(){if(!host.isConnected)return;const n=alternatives[i++];if(!n){host.remove();return;}const img=new Image();img.alt="";loadPhoto(img,n.photos.front,()=>{if(host.isConnected)host.replaceChildren(n.photos.crop?.front?cropSheetPhoto(img,n.photos.crop.front,"thumb"):img);},next,{retry:false});}next();};
+  const notes=[featured,...state.notes.filter(n=>n.countryId===featured.countryId&&n.id!==featured.id&&n.photos?.front)];
+  const options=notes.flatMap(n=>[{url:n.photos.front,crop:n.photos.crop?.front},...(n.photos.thumbnailAlternative?.url?[{url:n.photos.thumbnailAlternative.url,crop:null}]:[])]);
+  const seen=new Set(),unique=options.filter(o=>o.url&&!seen.has(o.url)&&seen.add(o.url));
+  const domain=o=>{try{return new URL(fileUrl(o.url)).hostname;}catch{return "";}};
+  const hosts=new Set(),first=[],rest=[];for(const o of unique){const d=domain(o);if(hosts.has(d))rest.push(o);else{hosts.add(d);first.push(o);}}
+  const alternatives=[...first,...rest];
+  const start=()=>{if(!host.isConnected)return;let i=0;function next(){if(!host.isConnected)return;const o=alternatives[i++];if(!o){host.remove();return;}const img=new Image();img.alt="";loadPhoto(img,o.url,()=>{if(host.isConnected)host.replaceChildren(o.crop?cropSheetPhoto(img,o.crop,"thumb"):img);},next,{retry:false});}next();};
   if("IntersectionObserver" in window){const observer=new IntersectionObserver(entries=>{if(entries.some(x=>x.isIntersecting)){observer.disconnect();start();}else if(!host.isConnected)observer.disconnect();},{rootMargin:"120px"});observer.observe(host);}else start();
  });
 }
@@ -66,7 +71,7 @@ function renderGrid(){
  $("results-count").textContent=`${list.length} ${tr("resultUnit")}`;
  $("country-grid").innerHTML=list.map(c=>{
   const photoCount=state.notes.filter(n=>n.countryId===c.id&&n.photos?.verified).length;
-   const featured=state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
+   const featured=state.notes.find(n=>n.id===c.previewNoteId&&n.countryId===c.id&&n.photos?.front)||state.notes.find(n=>n.countryId===c.id&&n.photos?.verified);
   const preview=featured?`<span class="country-card-thumb" data-photo-id="${featured.id}" aria-hidden="true"></span>`:"";
   return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" aria-label="${photoCount} de ${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
  }).join("");

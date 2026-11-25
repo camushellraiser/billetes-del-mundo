@@ -10731,23 +10731,25 @@
     "officialPage": "https://cbar.az/page-28/currency-in-circulation?language=en",
     "referencePage": "https://cbar.az/page-28/currency-in-circulation?language=en",
     "imageStatus": "curated",
-    "reviewedAt": "2026-11-24",
+    "reviewedAt": "2026-11-25",
     "fact": "Los diseños se organizan en torno a temas culturales y económicos.",
     "factEn": "The designs explore cultural and economic themes.",
     "photos": {
-      "front": "5 manat - 2020 - obv.jpg",
-      "back": "5 manat - 2020 - rev.jpg",
+      "front": "https://upload.wikimedia.org/wikipedia/commons/a/a7/5_manat_-_2020_-_obv.jpg",
+      "back": "https://upload.wikimedia.org/wikipedia/commons/f/fa/5_manat_-_2020_-_rev.jpg",
       "provider": "Wikimedia Commons",
       "sourcePage": "https://commons.wikimedia.org/wiki/File:5_manat_-_2020_-_obv.jpg",
       "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
-        "date": "2026-11-24",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
       },
-      "note": "Upgraded design listed in Wikimedia; exact print year and individual images await review."
+      "note": "Direct original Wikimedia files opened on 2026-11-25; no image edits. 2020 upgraded design issued in 2021.",
+      "license": "CC BY-SA 4.0 (see original file pages)",
+      "credit": "Central Bank of Azerbaijan / TarPas, Wikimedia Commons"
     },
     "photoSources": {
       "front": "https://commons.wikimedia.org/wiki/File:5_manat_-_2020_-_obv.jpg",
@@ -10779,7 +10781,12 @@
         "front": "confirmed_source_image",
         "back": "confirmed_source_image"
       },
-      "note": "Official specimen; original specimen marking retained. Some official reverse views have portrait orientation."
+      "note": "Official specimen; original specimen marking retained. Some official reverse views have portrait orientation.",
+      "thumbnailAlternative": {
+        "url": "https://banknotenews.com/wp-content/uploads/2022/07/Azerbaijan_CBA_10_manat_2021.00.00_B410a_PNL_A_28167250_f.jpg",
+        "sourcePage": "https://banknotenews.com/?p=36866",
+        "note": "2021 print of the upgraded 10-manat design, issued 2022; opened 2026-11-25. Thumbnail only."
+      }
     }
   },
   {

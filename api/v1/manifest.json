@@ -1,6 +1,6 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.4.7",
+  "version": "2.4.8",
   "lastReviewed": "2026-11-25",
   "countryCount": 70,
   "banknoteCount": 412,
@@ -83,11 +83,11 @@
     "fj",
     "pg"
   ],
-  "coverageReport": "docs/image-loading-v2.4.7.md",
+  "coverageReport": "docs/thumbnail-fix-v2.4.8.md",
   "photoReferencePairs": 412,
   "contactSheetCroppedPairs": 109,
   "individualImagePairs": 303,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 177,
+  "sourceVisuallyConfirmedPairs": 178,
   "browserVerifiedPairs": null
 }
