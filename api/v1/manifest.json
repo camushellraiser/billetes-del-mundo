@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "lastReviewed": "2026-11-24",
-  "countryCount": 30,
-  "banknoteCount": 164,
-  "imagePolicy": "164 pares de referencias; no equivalen a imágenes cargadas. Una pareja contrastada visualmente en la fuente durante esta revisión; la carga en el visor y las restantes parejas están pendientes de comprobación.",
+  "countryCount": 40,
+  "banknoteCount": 223,
+  "imagePolicy": "Las referencias de pares no equivalen a pruebas de carga en el visor. La ampliación incluye 16 pares de fuentes oficiales abiertos e inspeccionados y 43 pares pendientes de selección; los enlaces de país y los datos no se contabilizan como fotografías.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 83,
-  "pendingImagePairs": 0,
+  "officialDenominationReferences": 100,
+  "pendingImagePairs": 43,
   "illustratedCountries": [
     "mx",
     "us",
@@ -41,13 +41,16 @@
     "nz",
     "za",
     "eg",
-    "ma"
+    "ma",
+    "cz",
+    "hu",
+    "il"
   ],
-  "coverageReport": "docs/visual-audit-2.1.md",
-  "photoReferencePairs": 164,
-  "contactSheetCroppedPairs": 66,
-  "individualImagePairs": 98,
+  "coverageReport": "docs/expansion-v2.2.md",
+  "photoReferencePairs": 180,
+  "contactSheetCroppedPairs": 72,
+  "individualImagePairs": 108,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 1,
+  "sourceVisuallyConfirmedPairs": 17,
   "browserVerifiedPairs": null
 }

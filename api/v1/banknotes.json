@@ -4327,5 +4327,1047 @@
     "frontDescriptionEn": "King Mohammed VI and Mohammed VI bridge.",
     "backDescriptionEn": "Mohammed VI tower, Marrakech-Menara airport and industrial and digital motifs.",
     "reviewedAt": "2026-11-24"
+  },
+  {
+    "id": "cz-100",
+    "countryId": "cz",
+    "value": 100,
+    "series": "Diseños vigentes 2007–2023",
+    "seriesEn": "Current designs 2007–2023",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 coronas está dedicado a Carlos IV.",
+    "factEn": "The 100-koruna note honors Charles IV.",
+    "officialPage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/100-czk/",
+    "photos": {
+      "front": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky/galerie_obrazku/100_lic.jpg",
+      "back": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky/galerie_obrazku/100_rub.jpg",
+      "provider": "Czech National Bank",
+      "sourcePage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/100-czk/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Carlos IV.",
+    "frontDescriptionEn": "Portrait of Charles IV."
+  },
+  {
+    "id": "cz-200",
+    "countryId": "cz",
+    "value": 200,
+    "series": "Diseños vigentes 2007–2023",
+    "seriesEn": "Current designs 2007–2023",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 coronas está dedicado a Carlos IV.",
+    "factEn": "The 100-koruna note honors Charles IV.",
+    "officialPage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/200-czk/",
+    "photos": {
+      "front": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky/galerie_obrazku/200_lic.jpg",
+      "back": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky/galerie_obrazku/200_rub.jpg",
+      "provider": "Czech National Bank",
+      "sourcePage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/200-czk/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Juan Amós Comenio.",
+    "frontDescriptionEn": "Portrait of Jan Amos Comenius."
+  },
+  {
+    "id": "cz-500",
+    "countryId": "cz",
+    "value": 500,
+    "series": "Diseños vigentes 2007–2023",
+    "seriesEn": "Current designs 2007–2023",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 coronas está dedicado a Carlos IV.",
+    "factEn": "The 100-koruna note honors Charles IV.",
+    "officialPage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/500-czk/",
+    "photos": {
+      "front": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/500_lic.jpg",
+      "back": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/500_rub.jpg",
+      "provider": "Czech National Bank",
+      "sourcePage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/500-czk/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Božena Němcová.",
+    "frontDescriptionEn": "Portrait of Božena Němcová."
+  },
+  {
+    "id": "cz-1000",
+    "countryId": "cz",
+    "value": 1000,
+    "series": "Diseños vigentes 2007–2023",
+    "seriesEn": "Current designs 2007–2023",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 coronas está dedicado a Carlos IV.",
+    "factEn": "The 100-koruna note honors Charles IV.",
+    "officialPage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/1000-czk/",
+    "photos": {
+      "front": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/1000_lic.jpg",
+      "back": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/1000_rub.jpg",
+      "provider": "Czech National Bank",
+      "sourcePage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/1000-czk/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de František Palacký.",
+    "frontDescriptionEn": "Portrait of František Palacký."
+  },
+  {
+    "id": "cz-2000",
+    "countryId": "cz",
+    "value": 2000,
+    "series": "Diseños vigentes 2007–2023",
+    "seriesEn": "Current designs 2007–2023",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 coronas está dedicado a Carlos IV.",
+    "factEn": "The 100-koruna note honors Charles IV.",
+    "officialPage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/2000-czk/",
+    "photos": {
+      "front": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/2000_lic.jpg",
+      "back": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/2000_rub.jpg",
+      "provider": "Czech National Bank",
+      "sourcePage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/2000-czk/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Ema Destinnová.",
+    "frontDescriptionEn": "Portrait of Ema Destinnová."
+  },
+  {
+    "id": "cz-5000",
+    "countryId": "cz",
+    "value": 5000,
+    "series": "Diseños vigentes 2007–2023",
+    "seriesEn": "Current designs 2007–2023",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 coronas está dedicado a Carlos IV.",
+    "factEn": "The 100-koruna note honors Charles IV.",
+    "officialPage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/5000-czk/",
+    "photos": {
+      "front": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/5000_lic_2023.jpg",
+      "back": "https://www.cnb.cz/export/sites/cnb/cs/bankovky-a-mince/.galleries/bankovky-a-mince/5000_rub_2023.jpg",
+      "provider": "Czech National Bank",
+      "sourcePage": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/5000-czk/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Tomáš Garrigue Masaryk.",
+    "frontDescriptionEn": "Portrait of Tomáš Garrigue Masaryk."
+  },
+  {
+    "id": "hu-500",
+    "countryId": "hu",
+    "value": 500,
+    "series": "Serie 2014–2018",
+    "seriesEn": "2014–2018 series",
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 1000 forintos muestra al rey Matías Corvino.",
+    "factEn": "The 1000-forint note depicts King Matthias Corvinus.",
+    "officialPage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-five-hundred-forint-banknote",
+    "photos": {
+      "front": "https://www.mnb.hu/i/popupu500.jpg",
+      "back": "https://www.mnb.hu/i/popupu500.jpg",
+      "provider": "Magyar Nemzeti Bank",
+      "sourcePage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-five-hundred-forint-banknote",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.47
+        ],
+        "back": [
+          0,
+          0.53,
+          1,
+          0.47
+        ]
+      }
+    },
+    "frontDescription": "Retrato de Ferenc Rákóczi II.",
+    "frontDescriptionEn": "Portrait of Ferenc Rákóczi II.",
+    "backDescription": "Castillo de Sárospatak",
+    "backDescriptionEn": "Sárospatak Castle"
+  },
+  {
+    "id": "hu-1000",
+    "countryId": "hu",
+    "value": 1000,
+    "series": "Serie 2014–2018",
+    "seriesEn": "2014–2018 series",
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 1000 forintos muestra al rey Matías Corvino.",
+    "factEn": "The 1000-forint note depicts King Matthias Corvinus.",
+    "officialPage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-one-thousand-forint-banknote",
+    "photos": {
+      "front": "https://www.mnb.hu/i/popupu1000.orig",
+      "back": "https://www.mnb.hu/i/popupu1000.orig",
+      "provider": "Magyar Nemzeti Bank",
+      "sourcePage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-one-thousand-forint-banknote",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.47
+        ],
+        "back": [
+          0,
+          0.53,
+          1,
+          0.47
+        ]
+      }
+    },
+    "frontDescription": "Retrato de Matías Corvino.",
+    "frontDescriptionEn": "Portrait of Matías Corvino.",
+    "backDescription": "Fuente de Hércules en Visegrád",
+    "backDescriptionEn": "Hercules Fountain at Visegrád"
+  },
+  {
+    "id": "hu-2000",
+    "countryId": "hu",
+    "value": 2000,
+    "series": "Serie 2014–2018",
+    "seriesEn": "2014–2018 series",
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 1000 forintos muestra al rey Matías Corvino.",
+    "factEn": "The 1000-forint note depicts King Matthias Corvinus.",
+    "officialPage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-two-thousand-forint-banknote",
+    "photos": {
+      "front": "https://www.mnb.hu/i/popupu2000.orig",
+      "back": "https://www.mnb.hu/i/popupu2000.orig",
+      "provider": "Magyar Nemzeti Bank",
+      "sourcePage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-two-thousand-forint-banknote",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.47
+        ],
+        "back": [
+          0,
+          0.53,
+          1,
+          0.47
+        ]
+      }
+    },
+    "frontDescription": "Retrato de Gábor Bethlen.",
+    "frontDescriptionEn": "Portrait of Gábor Bethlen.",
+    "backDescription": "Bethlen con estudiosos",
+    "backDescriptionEn": "Bethlen among scholars"
+  },
+  {
+    "id": "hu-5000",
+    "countryId": "hu",
+    "value": 5000,
+    "series": "Serie 2014–2018",
+    "seriesEn": "2014–2018 series",
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 1000 forintos muestra al rey Matías Corvino.",
+    "factEn": "The 1000-forint note depicts King Matthias Corvinus.",
+    "officialPage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-five-thousand-forint-banknote",
+    "photos": {
+      "front": "https://www.mnb.hu/i/popupu5000.orig",
+      "back": "https://www.mnb.hu/i/popupu5000.orig",
+      "provider": "Magyar Nemzeti Bank",
+      "sourcePage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-five-thousand-forint-banknote",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.47
+        ],
+        "back": [
+          0,
+          0.53,
+          1,
+          0.47
+        ]
+      }
+    },
+    "frontDescription": "Retrato de István Széchenyi.",
+    "frontDescriptionEn": "Portrait of István Széchenyi.",
+    "backDescription": "Mansión de Széchenyi en Nagycenk",
+    "backDescriptionEn": "Széchenyi mansion at Nagycenk"
+  },
+  {
+    "id": "hu-10000",
+    "countryId": "hu",
+    "value": 10000,
+    "series": "Serie 2014–2018",
+    "seriesEn": "2014–2018 series",
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 1000 forintos muestra al rey Matías Corvino.",
+    "factEn": "The 1000-forint note depicts King Matthias Corvinus.",
+    "officialPage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-ten-thousand-forint-banknote",
+    "photos": {
+      "front": "https://www.mnb.hu/i/popupu10000.jpg",
+      "back": "https://www.mnb.hu/i/popupu10000.jpg",
+      "provider": "Magyar Nemzeti Bank",
+      "sourcePage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-ten-thousand-forint-banknote",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.47
+        ],
+        "back": [
+          0,
+          0.53,
+          1,
+          0.47
+        ]
+      }
+    },
+    "frontDescription": "Retrato de Esteban I.",
+    "frontDescriptionEn": "Portrait of Esteban I.",
+    "backDescription": "Vista de Esztergom",
+    "backDescriptionEn": "View of Esztergom"
+  },
+  {
+    "id": "hu-20000",
+    "countryId": "hu",
+    "value": 20000,
+    "series": "Serie 2014–2018",
+    "seriesEn": "2014–2018 series",
+    "imageStatus": "photo_sheet",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 1000 forintos muestra al rey Matías Corvino.",
+    "factEn": "The 1000-forint note depicts King Matthias Corvinus.",
+    "officialPage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-twenty-thousand-forint-banknote",
+    "photos": {
+      "front": "https://www.mnb.hu/i/popupu20000.orig",
+      "back": "https://www.mnb.hu/i/popupu20000.orig",
+      "provider": "Magyar Nemzeti Bank",
+      "sourcePage": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-twenty-thousand-forint-banknote",
+      "verified": true,
+      "display": "external_contact_sheet",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "crop": {
+        "front": [
+          0,
+          0,
+          1,
+          0.47
+        ],
+        "back": [
+          0,
+          0.53,
+          1,
+          0.47
+        ]
+      }
+    },
+    "frontDescription": "Retrato de Ferenc Deák.",
+    "frontDescriptionEn": "Portrait of Ferenc Deák.",
+    "backDescription": "Antigua Cámara de los Comunes",
+    "backDescriptionEn": "Old House of Commons"
+  },
+  {
+    "id": "ro-1",
+    "countryId": "ro",
+    "value": 1,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-5",
+    "countryId": "ro",
+    "value": 5,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-10",
+    "countryId": "ro",
+    "value": 10,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-20",
+    "countryId": "ro",
+    "value": 20,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-50",
+    "countryId": "ro",
+    "value": 50,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-100",
+    "countryId": "ro",
+    "value": 100,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-200",
+    "countryId": "ro",
+    "value": 200,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "ro-500",
+    "countryId": "ro",
+    "value": 500,
+    "series": "Familia de polímero; emisión 2026",
+    "seriesEn": "Polymer family; 2026 issue",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 20 lei, introducido en 2021, honra a Ecaterina Teodoroiu.",
+    "factEn": "The 20-lei note, introduced in 2021, honors Ecaterina Teodoroiu."
+  },
+  {
+    "id": "dk-50",
+    "countryId": "dk",
+    "value": 50,
+    "series": "Serie 2009A (2020–2026)",
+    "seriesEn": "2009A series (2020–2026)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
+    "factEn": "Its banknotes pair bridges with archaeological objects.",
+    "frontDescription": "Puente de Sallingsund",
+    "frontDescriptionEn": "Sallingsund Bridge",
+    "backDescription": "Vasija de Skarpsalling",
+    "backDescriptionEn": "Skarpsalling Pot"
+  },
+  {
+    "id": "dk-100",
+    "countryId": "dk",
+    "value": 100,
+    "series": "Serie 2009A (2020–2026)",
+    "seriesEn": "2009A series (2020–2026)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
+    "factEn": "Its banknotes pair bridges with archaeological objects.",
+    "frontDescription": "Puente del Pequeño Belt",
+    "frontDescriptionEn": "Old Little Belt Bridge",
+    "backDescription": "Daga de Hindsgavl",
+    "backDescriptionEn": "Hindsgavl Dagger"
+  },
+  {
+    "id": "dk-200",
+    "countryId": "dk",
+    "value": 200,
+    "series": "Serie 2009A (2020–2026)",
+    "seriesEn": "2009A series (2020–2026)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
+    "factEn": "Its banknotes pair bridges with archaeological objects.",
+    "frontDescription": "Puente Knippelsbro",
+    "frontDescriptionEn": "Knippelsbro Bridge",
+    "backDescription": "Placa de cinturón de Langstrup",
+    "backDescriptionEn": "Langstrup belt plate"
+  },
+  {
+    "id": "dk-500",
+    "countryId": "dk",
+    "value": 500,
+    "series": "Serie 2009A (2020–2026)",
+    "seriesEn": "2009A series (2020–2026)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Sus billetes combinan puentes y objetos arqueológicos.",
+    "factEn": "Its banknotes pair bridges with archaeological objects.",
+    "frontDescription": "Puente Reina Alejandrina",
+    "frontDescriptionEn": "Queen Alexandrine Bridge",
+    "backDescription": "Cubo de bronce de Keldby",
+    "backDescriptionEn": "Bronze bucket from Keldby"
+  },
+  {
+    "id": "is-500",
+    "countryId": "is",
+    "value": 500,
+    "series": "Billetes vigentes",
+    "seriesEn": "Current notes",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Islandia conserva cinco denominaciones de billetes.",
+    "factEn": "Iceland has five denominations of legal-tender banknotes.",
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-hundred-kr-banknote/"
+  },
+  {
+    "id": "is-1000",
+    "countryId": "is",
+    "value": 1000,
+    "series": "Billetes vigentes",
+    "seriesEn": "Current notes",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Islandia conserva cinco denominaciones de billetes.",
+    "factEn": "Iceland has five denominations of legal-tender banknotes.",
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/one-thousand-kr-banknote/"
+  },
+  {
+    "id": "is-2000",
+    "countryId": "is",
+    "value": 2000,
+    "series": "Billetes vigentes",
+    "seriesEn": "Current notes",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Islandia conserva cinco denominaciones de billetes.",
+    "factEn": "Iceland has five denominations of legal-tender banknotes.",
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/two-thousand-kr-banknote/"
+  },
+  {
+    "id": "is-5000",
+    "countryId": "is",
+    "value": 5000,
+    "series": "Billetes vigentes",
+    "seriesEn": "Current notes",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Islandia conserva cinco denominaciones de billetes.",
+    "factEn": "Iceland has five denominations of legal-tender banknotes.",
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-thousand-kr-banknote/"
+  },
+  {
+    "id": "is-10000",
+    "countryId": "is",
+    "value": 10000,
+    "series": "Billetes vigentes",
+    "seriesEn": "Current notes",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "Islandia conserva cinco denominaciones de billetes.",
+    "factEn": "Iceland has five denominations of legal-tender banknotes.",
+    "officialPage": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/ten-thousand-kr-banknote/"
+  },
+  {
+    "id": "tw-100",
+    "countryId": "tw",
+    "value": 100,
+    "series": "Serie iniciada en 2000",
+    "seriesEn": "Series introduced in 2000",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La serie vigente se empezó a emitir en julio de 2000.",
+    "factEn": "The current series began to be issued in July 2000."
+  },
+  {
+    "id": "tw-200",
+    "countryId": "tw",
+    "value": 200,
+    "series": "Serie iniciada en 2000",
+    "seriesEn": "Series introduced in 2000",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La serie vigente se empezó a emitir en julio de 2000.",
+    "factEn": "The current series began to be issued in July 2000."
+  },
+  {
+    "id": "tw-500",
+    "countryId": "tw",
+    "value": 500,
+    "series": "Serie iniciada en 2000",
+    "seriesEn": "Series introduced in 2000",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La serie vigente se empezó a emitir en julio de 2000.",
+    "factEn": "The current series began to be issued in July 2000."
+  },
+  {
+    "id": "tw-1000",
+    "countryId": "tw",
+    "value": 1000,
+    "series": "Serie iniciada en 2000",
+    "seriesEn": "Series introduced in 2000",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La serie vigente se empezó a emitir en julio de 2000.",
+    "factEn": "The current series began to be issued in July 2000."
+  },
+  {
+    "id": "tw-2000",
+    "countryId": "tw",
+    "value": 2000,
+    "series": "Serie iniciada en 2000",
+    "seriesEn": "Series introduced in 2000",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La serie vigente se empezó a emitir en julio de 2000.",
+    "factEn": "The current series began to be issued in July 2000."
+  },
+  {
+    "id": "il-20",
+    "countryId": "il",
+    "value": 20,
+    "series": "Tercera serie (2014–2017)",
+    "seriesEn": "Third series (2014–2017)",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "Los cuatro billetes de la serie homenajean a poetas.",
+    "factEn": "All four notes in the series honor poets.",
+    "photos": {
+      "front": "https://www.boi.org.il/media/0nyjfghr/20_nis_front.jpg?width=820",
+      "back": "https://www.boi.org.il/media/ul5nrvp2/20_nis_back.jpg?width=820",
+      "provider": "Bank of Israel",
+      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Rachel Bluwstein.",
+    "frontDescriptionEn": "Portrait of Rachel Bluwstein.",
+    "backDescription": "Paisaje del mar de Galilea",
+    "backDescriptionEn": "Sea of Galilee landscape"
+  },
+  {
+    "id": "il-50",
+    "countryId": "il",
+    "value": 50,
+    "series": "Tercera serie (2014–2017)",
+    "seriesEn": "Third series (2014–2017)",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "Los cuatro billetes de la serie homenajean a poetas.",
+    "factEn": "All four notes in the series honor poets.",
+    "photos": {
+      "front": "https://www.boi.org.il/media/apebl2su/50_nis_front.jpg?width=820",
+      "back": "https://www.boi.org.il/media/mq2dt0y3/is-50-2014-b.jpg?width=820",
+      "provider": "Bank of Israel",
+      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Shaul Tchernichovsky.",
+    "frontDescriptionEn": "Portrait of Shaul Tchernichovsky.",
+    "backDescription": "Columna corintia",
+    "backDescriptionEn": "Corinthian column"
+  },
+  {
+    "id": "il-100",
+    "countryId": "il",
+    "value": 100,
+    "series": "Tercera serie (2014–2017)",
+    "seriesEn": "Third series (2014–2017)",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "Los cuatro billetes de la serie homenajean a poetas.",
+    "factEn": "All four notes in the series honor poets.",
+    "photos": {
+      "front": "https://www.boi.org.il/media/fm3nst5k/100_nis_front.jpg?width=820",
+      "back": "https://www.boi.org.il/media/k1wf2xtn/100_nis_back.jpg?width=820",
+      "provider": "Bank of Israel",
+      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Leah Goldberg.",
+    "frontDescriptionEn": "Portrait of Leah Goldberg.",
+    "backDescription": "Un grupo de ciervas",
+    "backDescriptionEn": "A group of does"
+  },
+  {
+    "id": "il-200",
+    "countryId": "il",
+    "value": 200,
+    "series": "Tercera serie (2014–2017)",
+    "seriesEn": "Third series (2014–2017)",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-24",
+    "fact": "Los cuatro billetes de la serie homenajean a poetas.",
+    "factEn": "All four notes in the series honor poets.",
+    "photos": {
+      "front": "https://www.boi.org.il/media/geajlhxt/200_nis_front.jpg?width=820",
+      "back": "https://www.boi.org.il/media/b1rhwzjg/200_nis_back.jpg?width=820",
+      "provider": "Bank of Israel",
+      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-24",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      }
+    },
+    "frontDescription": "Retrato de Nathan Alterman.",
+    "frontDescriptionEn": "Portrait of Nathan Alterman.",
+    "backDescription": "Vegetación nocturna",
+    "backDescriptionEn": "Moonlit flora"
+  },
+  {
+    "id": "ae-5",
+    "countryId": "ae",
+    "value": 5,
+    "series": "Polímero · 2022",
+    "seriesEn": "Polymer · 2022",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-10",
+    "countryId": "ae",
+    "value": 10,
+    "series": "Polímero · 2022",
+    "seriesEn": "Polymer · 2022",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-20",
+    "countryId": "ae",
+    "value": 20,
+    "series": "Papel · 2015",
+    "seriesEn": "Paper · 2015",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-50",
+    "countryId": "ae",
+    "value": 50,
+    "series": "Polímero · 2021",
+    "seriesEn": "Polymer · 2021",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-100",
+    "countryId": "ae",
+    "value": 100,
+    "series": "Polímero · 2025",
+    "seriesEn": "Polymer · 2025",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-200",
+    "countryId": "ae",
+    "value": 200,
+    "series": "Papel · 2016",
+    "seriesEn": "Paper · 2016",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-500",
+    "countryId": "ae",
+    "value": 500,
+    "series": "Polímero · 2023",
+    "seriesEn": "Polymer · 2023",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "ae-1000",
+    "countryId": "ae",
+    "value": 1000,
+    "series": "Polímero · 2022",
+    "seriesEn": "Polymer · 2022",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 100 dírhams de polímero se emitió en 2025.",
+    "factEn": "The polymer 100-dirham note was issued in 2025."
+  },
+  {
+    "id": "sa-5",
+    "countryId": "sa",
+    "value": 5,
+    "series": "Sexta emisión (2016–2021)",
+    "seriesEn": "Sixth issue (2016–2021)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 200 riyales conmemora Visión 2030.",
+    "factEn": "The 200-riyal note commemorates Vision 2030."
+  },
+  {
+    "id": "sa-10",
+    "countryId": "sa",
+    "value": 10,
+    "series": "Sexta emisión (2016–2021)",
+    "seriesEn": "Sixth issue (2016–2021)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 200 riyales conmemora Visión 2030.",
+    "factEn": "The 200-riyal note commemorates Vision 2030."
+  },
+  {
+    "id": "sa-50",
+    "countryId": "sa",
+    "value": 50,
+    "series": "Sexta emisión (2016–2021)",
+    "seriesEn": "Sixth issue (2016–2021)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 200 riyales conmemora Visión 2030.",
+    "factEn": "The 200-riyal note commemorates Vision 2030."
+  },
+  {
+    "id": "sa-100",
+    "countryId": "sa",
+    "value": 100,
+    "series": "Sexta emisión (2016–2021)",
+    "seriesEn": "Sixth issue (2016–2021)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 200 riyales conmemora Visión 2030.",
+    "factEn": "The 200-riyal note commemorates Vision 2030."
+  },
+  {
+    "id": "sa-200",
+    "countryId": "sa",
+    "value": 200,
+    "series": "Sexta emisión (2016–2021)",
+    "seriesEn": "Sixth issue (2016–2021)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 200 riyales conmemora Visión 2030.",
+    "factEn": "The 200-riyal note commemorates Vision 2030."
+  },
+  {
+    "id": "sa-500",
+    "countryId": "sa",
+    "value": 500,
+    "series": "Sexta emisión (2016–2021)",
+    "seriesEn": "Sixth issue (2016–2021)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "El billete de 200 riyales conmemora Visión 2030.",
+    "factEn": "The 200-riyal note commemorates Vision 2030."
+  },
+  {
+    "id": "qa-1",
+    "countryId": "qa",
+    "value": 1,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
+  },
+  {
+    "id": "qa-5",
+    "countryId": "qa",
+    "value": 5,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
+  },
+  {
+    "id": "qa-10",
+    "countryId": "qa",
+    "value": 10,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
+  },
+  {
+    "id": "qa-50",
+    "countryId": "qa",
+    "value": 50,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
+  },
+  {
+    "id": "qa-100",
+    "countryId": "qa",
+    "value": 100,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
+  },
+  {
+    "id": "qa-200",
+    "countryId": "qa",
+    "value": 200,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
+  },
+  {
+    "id": "qa-500",
+    "countryId": "qa",
+    "value": 500,
+    "series": "Quinta emisión (2020)",
+    "seriesEn": "Fifth issue (2020)",
+    "imageStatus": "official_reference_only",
+    "reviewedAt": "2026-11-24",
+    "fact": "La quinta emisión introdujo el valor de 200 riyales.",
+    "factEn": "The fifth issue introduced the 200-riyal denomination."
   }
 ]
