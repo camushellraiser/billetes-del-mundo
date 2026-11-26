@@ -4634,6 +4634,1261 @@
       "source": "https://www.mongolbank.mn/en/banknote",
       "basis": "issuer_reference",
       "reviewedAt": "2026-11-26"
+    },
+    "tr-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "es": "Fundador de la República de Turquía y su primer presidente.",
+          "en": "Founder and first president of the Republic of Türkiye.",
+          "side": "front"
+        },
+        {
+          "name": "Aydın Sayılı",
+          "es": "Historiador de la ciencia que investigó las contribuciones científicas del mundo islámico.",
+          "en": "Historian of science who studied scientific contributions of the Islamic world.",
+          "side": "back"
+        }
+      ],
+      "source": "https://tcmb.gov.tr/wps/wcm/connect/EN/TCMB%2BEN/Main%2BMenu/Banknotes/General%2BInformation%2Bon%2BBanknotes/Banknote%2BCharacters",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tr-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "es": "Fundador de la República de Turquía y su primer presidente.",
+          "en": "Founder and first president of the Republic of Türkiye.",
+          "side": "front"
+        },
+        {
+          "name": "Cahit Arf",
+          "es": "Matemático conocido por el invariante de Arf.",
+          "en": "Mathematician known for the Arf invariant.",
+          "side": "back"
+        }
+      ],
+      "source": "https://tcmb.gov.tr/wps/wcm/connect/EN/TCMB%2BEN/Main%2BMenu/Banknotes/General%2BInformation%2Bon%2BBanknotes/Banknote%2BCharacters",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tr-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "es": "Fundador de la República de Turquía y su primer presidente.",
+          "en": "Founder and first president of the Republic of Türkiye.",
+          "side": "front"
+        },
+        {
+          "name": "Mimar Kemaleddin",
+          "es": "Arquitecto del movimiento arquitectónico nacional turco.",
+          "en": "Architect of the Turkish national architectural movement.",
+          "side": "back"
+        }
+      ],
+      "source": "https://tcmb.gov.tr/wps/wcm/connect/EN/TCMB%2BEN/Main%2BMenu/Banknotes/General%2BInformation%2Bon%2BBanknotes/Banknote%2BCharacters",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tr-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "es": "Fundador de la República de Turquía y su primer presidente.",
+          "en": "Founder and first president of the Republic of Türkiye.",
+          "side": "front"
+        },
+        {
+          "name": "Fatma Aliye Topuz",
+          "es": "Novelista y pensadora que defendió la educación y participación de las mujeres.",
+          "en": "Novelist and thinker who advocated women's education and participation.",
+          "side": "back"
+        }
+      ],
+      "source": "https://tcmb.gov.tr/wps/wcm/connect/EN/TCMB%2BEN/Main%2BMenu/Banknotes/General%2BInformation%2Bon%2BBanknotes/Banknote%2BCharacters",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tr-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "es": "Fundador de la República de Turquía y su primer presidente.",
+          "en": "Founder and first president of the Republic of Türkiye.",
+          "side": "front"
+        },
+        {
+          "name": "Buhurizade Mustafa Itri",
+          "es": "Compositor de música clásica otomana.",
+          "en": "Composer of Ottoman classical music.",
+          "side": "back"
+        }
+      ],
+      "source": "https://tcmb.gov.tr/wps/wcm/connect/EN/TCMB%2BEN/Main%2BMenu/Banknotes/General%2BInformation%2Bon%2BBanknotes/Banknote%2BCharacters",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tr-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mustafa Kemal Atatürk",
+          "es": "Fundador de la República de Turquía y su primer presidente.",
+          "en": "Founder and first president of the Republic of Türkiye.",
+          "side": "front"
+        },
+        {
+          "name": "Yunus Emre",
+          "es": "Poeta y místico sufí de lengua turca.",
+          "en": "Turkish-language poet and Sufi mystic.",
+          "side": "back"
+        }
+      ],
+      "source": "https://tcmb.gov.tr/wps/wcm/connect/EN/TCMB%2BEN/Main%2BMenu/Banknotes/General%2BInformation%2Bon%2BBanknotes/Banknote%2BCharacters",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tjut Meutia (Cut Meutia)",
+          "es": "Dirigente de la resistencia de Aceh contra el dominio colonial neerlandés.",
+          "en": "Acehnese leader of resistance to Dutch colonial rule.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mohammad Hoesni Thamrin",
+          "es": "Político nacionalista que defendió la representación de los indonesios durante el periodo colonial.",
+          "en": "Nationalist politician who advocated Indonesian representation during colonial rule.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Idham Chalid",
+          "es": "Dirigente religioso y político; presidió la organización Nahdlatul Ulama.",
+          "en": "Religious and political leader who chaired Nahdlatul Ulama.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Frans Kaisiepo",
+          "es": "Figura política de Papúa vinculada a su integración con Indonesia.",
+          "en": "Papuan political figure associated with integration into Indonesia.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sam Ratulangi",
+          "es": "Educador, político y primer gobernador de Sulawesi.",
+          "en": "Educator, politician and first governor of Sulawesi.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-50000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Djuanda Kartawidjaja",
+          "es": "Primer ministro y promotor de la concepción archipelágica del territorio indonesio.",
+          "en": "Prime minister and advocate of Indonesia's archipelagic territorial concept.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "id-100000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sukarno",
+          "es": "Primer presidente de Indonesia; proclamó su independencia en 1945 junto con Hatta.",
+          "en": "Indonesia's first president; proclaimed independence in 1945 with Hatta.",
+          "side": "front"
+        },
+        {
+          "name": "Mohammad Hatta",
+          "es": "Coproclamador de la independencia y primer vicepresidente de Indonesia.",
+          "en": "Co-proclaimer of independence and Indonesia's first vice-president.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/pages/sp_187516.aspx",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jo-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Huséin bin Alí / Hussein bin Ali",
+          "es": "Jerife de La Meca y dirigente de la Revuelta Árabe de 1916.",
+          "en": "Sharif of Mecca and leader of the 1916 Arab Revolt.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cbj.gov.jo/EN/Pages/Introductions",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jo-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Abdalá I / Abdullah I",
+          "es": "Fundador del reino hachemita de Jordania y su primer rey.",
+          "en": "Founder and first king of the Hashemite Kingdom of Jordan.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cbj.gov.jo/EN/Pages/Introductions",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jo-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Talal bin Abdalá / Talal bin Abdullah",
+          "es": "Rey de Jordania entre 1951 y 1952, durante la promulgación de la Constitución de 1952.",
+          "en": "King of Jordan from 1951 to 1952, during adoption of the 1952 constitution.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cbj.gov.jo/EN/Pages/Introductions",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jo-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Huséin bin Talal / Hussein bin Talal",
+          "es": "Rey de Jordania de 1952 a 1999.",
+          "en": "King of Jordan from 1952 to 1999.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cbj.gov.jo/EN/Pages/Introductions",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jo-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Abdalá II / Abdullah II",
+          "es": "Rey de Jordania desde 1999.",
+          "en": "King of Jordan since 1999.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cbj.gov.jo/EN/Pages/Introductions",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jm-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "George William Gordon",
+          "es": "Político y defensor de la población emancipada; figura de los acontecimientos de Morant Bay de 1865.",
+          "en": "Politician and advocate for emancipated people; figure in the 1865 Morant Bay events.",
+          "side": "front"
+        },
+        {
+          "name": "Paul Bogle",
+          "es": "Diácono bautista y dirigente de la protesta de Morant Bay en 1865.",
+          "en": "Baptist deacon and leader of the 1865 Morant Bay protest.",
+          "side": "front"
+        }
+      ],
+      "source": "https://boj.org.jm/core-functions/currency/currency-structure-policy/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jm-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Marcus Garvey",
+          "es": "Activista panafricanista y fundador de la UNIA.",
+          "en": "Pan-African activist and founder of the UNIA.",
+          "side": "front"
+        }
+      ],
+      "source": "https://boj.org.jm/core-functions/currency/currency-structure-policy/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jm-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nanny of the Maroons",
+          "es": "Lideresa de comunidades cimarronas que resistieron la esclavitud y el dominio colonial.",
+          "en": "Leader of Maroon communities resisting slavery and colonial rule.",
+          "side": "front"
+        },
+        {
+          "name": "Samuel Sharpe",
+          "es": "Dirigente de la rebelión de personas esclavizadas de 1831–1832.",
+          "en": "Leader of the 1831–1832 rebellion of enslaved people.",
+          "side": "front"
+        }
+      ],
+      "source": "https://boj.org.jm/core-functions/currency/currency-structure-policy/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jm-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Alexander Bustamante",
+          "es": "Sindicalista y primer ministro de Jamaica tras la independencia.",
+          "en": "Trade unionist and Jamaica's first prime minister after independence.",
+          "side": "front"
+        },
+        {
+          "name": "Norman Manley",
+          "es": "Abogado, dirigente nacionalista y promotor del autogobierno.",
+          "en": "Lawyer, nationalist leader and advocate of self-government.",
+          "side": "front"
+        }
+      ],
+      "source": "https://boj.org.jm/core-functions/currency/currency-structure-policy/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jm-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Michael Manley",
+          "es": "Primer ministro y promotor de reformas sociales.",
+          "en": "Prime minister and advocate of social reforms.",
+          "side": "front"
+        },
+        {
+          "name": "Edward Seaga",
+          "es": "Primer ministro entre 1980 y 1989, vinculado a instituciones culturales.",
+          "en": "Prime minister from 1980 to 1989, associated with cultural institutions.",
+          "side": "front"
+        }
+      ],
+      "source": "https://boj.org.jm/core-functions/currency/currency-structure-policy/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jm-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Donald Sangster",
+          "es": "Primer ministro de Jamaica en 1967.",
+          "en": "Prime minister of Jamaica in 1967.",
+          "side": "front"
+        },
+        {
+          "name": "Hugh Shearer",
+          "es": "Sindicalista y primer ministro entre 1967 y 1972.",
+          "en": "Trade unionist and prime minister from 1967 to 1972.",
+          "side": "front"
+        }
+      ],
+      "source": "https://boj.org.jm/core-functions/currency/currency-structure-policy/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-75": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://archive.sbp.org.pk/finance/SBP-75Rupees.asp",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "pk-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Muhammad Ali Jinnah",
+          "es": "Dirigente de la creación de Pakistán y su primer gobernador general, conocido como Quaid-e-Azam.",
+          "en": "Leader in the founding of Pakistan and its first governor-general, known as Quaid-e-Azam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.sbp.org.pk/our-operations/rupay-ko-pehchano",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "in-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mahatma Gandhi",
+          "es": "Dirigente del movimiento de independencia de la India, asociado con la resistencia no violenta.",
+          "en": "Leader of India's independence movement, associated with nonviolent resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbi.org.in/scripts/FAQView.aspx?Id=136",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "in-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mahatma Gandhi",
+          "es": "Dirigente del movimiento de independencia de la India, asociado con la resistencia no violenta.",
+          "en": "Leader of India's independence movement, associated with nonviolent resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbi.org.in/scripts/FAQView.aspx?Id=136",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "in-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mahatma Gandhi",
+          "es": "Dirigente del movimiento de independencia de la India, asociado con la resistencia no violenta.",
+          "en": "Leader of India's independence movement, associated with nonviolent resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbi.org.in/scripts/FAQView.aspx?Id=136",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "in-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mahatma Gandhi",
+          "es": "Dirigente del movimiento de independencia de la India, asociado con la resistencia no violenta.",
+          "en": "Leader of India's independence movement, associated with nonviolent resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbi.org.in/scripts/FAQView.aspx?Id=136",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "in-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mahatma Gandhi",
+          "es": "Dirigente del movimiento de independencia de la India, asociado con la resistencia no violenta.",
+          "en": "Leader of India's independence movement, associated with nonviolent resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbi.org.in/scripts/FAQView.aspx?Id=136",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "in-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mahatma Gandhi",
+          "es": "Dirigente del movimiento de independencia de la India, asociado con la resistencia no violenta.",
+          "en": "Leader of India's independence movement, associated with nonviolent resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbi.org.in/scripts/FAQView.aspx?Id=136",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cn-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mao Zedong",
+          "es": "Dirigente del Partido Comunista y figura central de la fundación de la República Popular China en 1949.",
+          "en": "Communist Party leader and central figure in the founding of the People's Republic of China in 1949.",
+          "side": "front"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cn-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mao Zedong",
+          "es": "Dirigente del Partido Comunista y figura central de la fundación de la República Popular China en 1949.",
+          "en": "Communist Party leader and central figure in the founding of the People's Republic of China in 1949.",
+          "side": "front"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cn-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mao Zedong",
+          "es": "Dirigente del Partido Comunista y figura central de la fundación de la República Popular China en 1949.",
+          "en": "Communist Party leader and central figure in the founding of the People's Republic of China in 1949.",
+          "side": "front"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cn-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mao Zedong",
+          "es": "Dirigente del Partido Comunista y figura central de la fundación de la República Popular China en 1949.",
+          "en": "Communist Party leader and central figure in the founding of the People's Republic of China in 1949.",
+          "side": "front"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cn-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mao Zedong",
+          "es": "Dirigente del Partido Comunista y figura central de la fundación de la República Popular China en 1949.",
+          "en": "Communist Party leader and central figure in the founding of the People's Republic of China in 1949.",
+          "side": "front"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cn-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mao Zedong",
+          "es": "Dirigente del Partido Comunista y figura central de la fundación de la República Popular China en 1949.",
+          "en": "Communist Party leader and central figure in the founding of the People's Republic of China in 1949.",
+          "side": "front"
+        }
+      ],
+      "source": "https://en.wikipedia.org/wiki/Fifth_series_of_the_renminbi",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-50000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-100000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-200000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "vn-500000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hồ Chí Minh",
+          "es": "Dirigente independentista y primer presidente de la República Democrática de Vietnam.",
+          "en": "Independence leader and first president of the Democratic Republic of Vietnam.",
+          "side": "front"
+        }
+      ],
+      "source": "https://vietnamtourexpert.com/vietnamese-dong-banknotes/",
+      "basis": "secondary_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "au-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Isabel II / Elizabeth II",
+          "es": "Reina de Australia entre 1952 y 2022; corresponde al diseño catalogado.",
+          "en": "Queen of Australia from 1952 to 2022; refers to the catalogued design.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/five-dollar/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "au-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "A. B. ‘Banjo’ Paterson",
+          "es": "Poeta y periodista australiano, autor de la letra de Waltzing Matilda.",
+          "en": "Australian poet and journalist, author of the lyrics to Waltzing Matilda.",
+          "side": "front"
+        },
+        {
+          "name": "Mary Gilmore",
+          "es": "Escritora y defensora de reformas sociales.",
+          "en": "Writer and advocate of social reform.",
+          "side": "back"
+        }
+      ],
+      "source": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/ten-dollar/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "au-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mary Reibey",
+          "es": "Empresaria del comercio marítimo en la Australia colonial.",
+          "en": "Shipping entrepreneur in colonial Australia.",
+          "side": "front"
+        },
+        {
+          "name": "John Flynn",
+          "es": "Fundador del servicio médico aéreo Royal Flying Doctor Service.",
+          "en": "Founder of the Royal Flying Doctor Service.",
+          "side": "back"
+        }
+      ],
+      "source": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/twenty-dollar/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "au-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "David Unaipon",
+          "es": "Inventor y escritor ngarrindjeri, pionero de la publicación de obras de autores aborígenes australianos.",
+          "en": "Ngarrindjeri inventor and writer, a pioneer of published Aboriginal Australian writing.",
+          "side": "front"
+        },
+        {
+          "name": "Edith Cowan",
+          "es": "Primera mujer elegida a un parlamento australiano.",
+          "en": "First woman elected to an Australian parliament.",
+          "side": "back"
+        }
+      ],
+      "source": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/fifty-dollar/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "au-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nellie Melba",
+          "es": "Soprano de ópera de fama internacional.",
+          "en": "Internationally renowned opera soprano.",
+          "side": "front"
+        },
+        {
+          "name": "John Monash",
+          "es": "Ingeniero y comandante australiano durante la Primera Guerra Mundial.",
+          "en": "Australian engineer and First World War commander.",
+          "side": "back"
+        }
+      ],
+      "source": "https://banknotes.rba.gov.au/australias-banknotes/banknotes-in-circulation/hundred-dollar/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-25": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Moilin Jean Ah-Chuen",
+          "es": "Comerciante y político mauriciano, figura de la comunidad sino-mauriciana.",
+          "en": "Mauritian businessman and politician, a figure in the Sino-Mauritian community.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Joseph Maurice Paturau",
+          "es": "Ingeniero y político mauriciano.",
+          "en": "Mauritian engineer and politician.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Renganaden Seeneevassen",
+          "es": "Abogado y político vinculado al movimiento de autogobierno.",
+          "en": "Lawyer and politician associated with the self-government movement.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Abdool Razack Mohamed",
+          "es": "Político y dirigente comunitario mauriciano.",
+          "en": "Mauritian politician and community leader.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sookdeo Bissoondoyal",
+          "es": "Político y promotor de reformas democráticas.",
+          "en": "Politician and advocate of democratic reforms.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Charles Gaëtan Duval",
+          "es": "Abogado y dirigente político mauriciano.",
+          "en": "Mauritian lawyer and political leader.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mu-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Seewoosagur Ramgoolam",
+          "es": "Primer ministro al independizarse Mauricio en 1968.",
+          "en": "Prime minister when Mauritius became independent in 1968.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bom.mu/bank-notes-coins/bank-notes/virtual-museum",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Abubakar Tafawa Balewa",
+          "es": "Primer ministro de Nigeria en la época de la independencia.",
+          "en": "Nigeria's prime minister at independence.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N5.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Alvan Ikoku",
+          "es": "Educador y político nigeriano.",
+          "en": "Nigerian educator and politician.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N10.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Obafemi Awolowo",
+          "es": "Estadista y antiguo jefe de gobierno de la Región Occidental.",
+          "en": "Statesman and former premier of the Western Region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N100.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nnamdi Azikiwe",
+          "es": "Primer presidente de Nigeria tras convertirse en república.",
+          "en": "Nigeria's first president after it became a republic.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N500.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Murtala Mohammed",
+          "es": "Jefe de Estado de Nigeria entre 1975 y 1976.",
+          "en": "Head of state of Nigeria from 1975 to 1976.",
+          "side": "front"
+        },
+        {
+          "name": "Ladi Kwali",
+          "es": "Ceramista nigeriana de reconocimiento internacional.",
+          "en": "Internationally renowned Nigerian potter.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N20.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Aliyu Mai-Bornu",
+          "es": "Primer gobernador nigeriano del Banco Central de Nigeria.",
+          "en": "First Nigerian governor of the Central Bank of Nigeria.",
+          "side": "front"
+        },
+        {
+          "name": "Clement Isong",
+          "es": "Gobernador del Banco Central de Nigeria entre 1967 y 1975.",
+          "en": "Governor of the Central Bank of Nigeria from 1967 to 1975.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N1000.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ng-50": {
+      "kind": "scene",
+      "people": [],
+      "es": "El diseño muestra figuras colectivas representativas y una escena de pesca; la fuente consultada no identifica personas concretas.",
+      "en": "The design uses representative collective figures and a fishing scene; the consulted source does not identify individual people.",
+      "source": "https://www.cbn.gov.ng/Currency/gallery/N50.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tt-1": {
+      "kind": "nature",
+      "people": [],
+      "es": "El motivo principal del anverso es un ave local junto con el escudo nacional. El reverso presenta el banco central y actividades del país, no un retrato individual principal.",
+      "en": "The main front motif is a local bird with the coat of arms. The reverse depicts the central bank and national activities rather than a main individual portrait.",
+      "source": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tt-5": {
+      "kind": "nature",
+      "people": [],
+      "es": "El motivo principal del anverso es un ave local junto con el escudo nacional. El reverso presenta el banco central y actividades del país, no un retrato individual principal.",
+      "en": "The main front motif is a local bird with the coat of arms. The reverse depicts the central bank and national activities rather than a main individual portrait.",
+      "source": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tt-10": {
+      "kind": "nature",
+      "people": [],
+      "es": "El motivo principal del anverso es un ave local junto con el escudo nacional. El reverso presenta el banco central y actividades del país, no un retrato individual principal.",
+      "en": "The main front motif is a local bird with the coat of arms. The reverse depicts the central bank and national activities rather than a main individual portrait.",
+      "source": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tt-20": {
+      "kind": "nature",
+      "people": [],
+      "es": "El motivo principal del anverso es un ave local junto con el escudo nacional. El reverso presenta el banco central y actividades del país, no un retrato individual principal.",
+      "en": "The main front motif is a local bird with the coat of arms. The reverse depicts the central bank and national activities rather than a main individual portrait.",
+      "source": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tt-50": {
+      "kind": "nature",
+      "people": [],
+      "es": "El motivo principal del anverso es un ave local junto con el escudo nacional. El reverso presenta el banco central y actividades del país, no un retrato individual principal.",
+      "en": "The main front motif is a local bird with the coat of arms. The reverse depicts the central bank and national activities rather than a main individual portrait.",
+      "source": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tt-100": {
+      "kind": "nature",
+      "people": [],
+      "es": "El motivo principal del anverso es un ave local junto con el escudo nacional. El reverso presenta el banco central y actividades del país, no un retrato individual principal.",
+      "en": "The main front motif is a local bird with the coat of arms. The reverse depicts the central bank and national activities rather than a main individual portrait.",
+      "source": "https://www.central-bank.org.tt/bank-notes-and-coins/current-bank-notes/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sn-2000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-2000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sn-10000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-10000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ci-2000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-2000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ci-10000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-10000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "bj-2000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-2000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "bj-10000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-10000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tg-2000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-2000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "tg-10000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-10000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ml-2000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-2000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ml-10000": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal del anverso es el pez sierra estilizado, símbolo institucional de la BCEAO asociado a la prosperidad; no es un retrato de una persona.",
+      "en": "The main front motif is the stylized sawfish, the BCEAO emblem associated with prosperity; it is not a portrait of a person.",
+      "source": "https://www.bceao.int/fr/content/billet-de-10000-fcfa",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
     }
   }
 }

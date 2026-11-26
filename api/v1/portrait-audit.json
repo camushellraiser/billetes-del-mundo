@@ -1,0 +1,3312 @@
+{
+  "date": "2026-11-26",
+  "version": "2.9.4",
+  "scope": "Presence and structural validation of portrait/main-motif metadata, not full independent historical verification of previous entries.",
+  "before": {
+    "total": 738,
+    "withContext": 266,
+    "pending": 472,
+    "completeCountries": 45
+  },
+  "after": {
+    "total": 738,
+    "withContext": 354,
+    "pending": 384,
+    "named": 259,
+    "completeCountries": 56,
+    "countriesWithContext": 65
+  },
+  "added": 88,
+  "invalidRecords": [],
+  "countries": [
+    {
+      "id": "mx",
+      "name": "México",
+      "nameEn": "Mexico",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "us",
+      "name": "Estados Unidos",
+      "nameEn": "United States",
+      "total": 7,
+      "before": 7,
+      "after": 7,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ca",
+      "name": "Canadá",
+      "nameEn": "Canada",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "br",
+      "name": "Brasil",
+      "nameEn": "Brazil",
+      "total": 7,
+      "before": 7,
+      "after": 7,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ar",
+      "name": "Argentina",
+      "nameEn": "Argentina",
+      "total": 4,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ar-1000",
+          "value": 1000,
+          "source": "https://www.bcra.gob.ar/MediosPago/Emisiones_vigentes.asp"
+        },
+        {
+          "id": "ar-2000",
+          "value": 2000,
+          "source": "https://www.bcra.gob.ar/MediosPago/Emisiones_vigentes.asp"
+        },
+        {
+          "id": "ar-10000",
+          "value": 10000,
+          "source": "https://www.bcra.gob.ar/MediosPago/Emisiones_vigentes.asp"
+        },
+        {
+          "id": "ar-20000",
+          "value": 20000,
+          "source": "https://www.bcra.gob.ar/MediosPago/Emisiones_vigentes.asp"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "cl",
+      "name": "Chile",
+      "nameEn": "Chile",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "co",
+      "name": "Colombia",
+      "nameEn": "Colombia",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "pe",
+      "name": "Perú",
+      "nameEn": "Peru",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "gb",
+      "name": "Reino Unido",
+      "nameEn": "United Kingdom",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "fr",
+      "name": "Francia · Euro",
+      "nameEn": "France · Euro",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ch",
+      "name": "Suiza",
+      "nameEn": "Switzerland",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "se",
+      "name": "Suecia",
+      "nameEn": "Sweden",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "no",
+      "name": "Noruega",
+      "nameEn": "Norway",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "pl",
+      "name": "Polonia",
+      "nameEn": "Poland",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "tr",
+      "name": "Turquía",
+      "nameEn": "Turkey",
+      "total": 6,
+      "before": 0,
+      "after": 6,
+      "missing": [],
+      "added": [
+        "tr-5",
+        "tr-10",
+        "tr-20",
+        "tr-50",
+        "tr-100",
+        "tr-200"
+      ]
+    },
+    {
+      "id": "jp",
+      "name": "Japón",
+      "nameEn": "Japan",
+      "total": 3,
+      "before": 3,
+      "after": 3,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "cn",
+      "name": "China",
+      "nameEn": "China",
+      "total": 6,
+      "before": 0,
+      "after": 6,
+      "missing": [],
+      "added": [
+        "cn-1",
+        "cn-5",
+        "cn-10",
+        "cn-20",
+        "cn-50",
+        "cn-100"
+      ]
+    },
+    {
+      "id": "kr",
+      "name": "Corea del Sur",
+      "nameEn": "South Korea",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "in",
+      "name": "India",
+      "nameEn": "India",
+      "total": 6,
+      "before": 0,
+      "after": 6,
+      "missing": [],
+      "added": [
+        "in-10",
+        "in-20",
+        "in-50",
+        "in-100",
+        "in-200",
+        "in-500"
+      ]
+    },
+    {
+      "id": "th",
+      "name": "Tailandia",
+      "nameEn": "Thailand",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "sg",
+      "name": "Singapur",
+      "nameEn": "Singapore",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "my",
+      "name": "Malasia",
+      "nameEn": "Malaysia",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "id",
+      "name": "Indonesia",
+      "nameEn": "Indonesia",
+      "total": 7,
+      "before": 0,
+      "after": 7,
+      "missing": [],
+      "added": [
+        "id-1000",
+        "id-2000",
+        "id-5000",
+        "id-10000",
+        "id-20000",
+        "id-50000",
+        "id-100000"
+      ]
+    },
+    {
+      "id": "ph",
+      "name": "Filipinas",
+      "nameEn": "Philippines",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ph-50",
+          "value": 50,
+          "source": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/CoinsAndNotes.aspx"
+        },
+        {
+          "id": "ph-100",
+          "value": 100,
+          "source": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/CoinsAndNotes.aspx"
+        },
+        {
+          "id": "ph-200",
+          "value": 200,
+          "source": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/CoinsAndNotes.aspx"
+        },
+        {
+          "id": "ph-500",
+          "value": 500,
+          "source": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/CoinsAndNotes.aspx"
+        },
+        {
+          "id": "ph-1000",
+          "value": 1000,
+          "source": "https://www.bsp.gov.ph/SitePages/CoinsAndNotes/CoinsAndNotes.aspx"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "vn",
+      "name": "Vietnam",
+      "nameEn": "Vietnam",
+      "total": 9,
+      "before": 0,
+      "after": 9,
+      "missing": [],
+      "added": [
+        "vn-1000",
+        "vn-2000",
+        "vn-5000",
+        "vn-10000",
+        "vn-20000",
+        "vn-50000",
+        "vn-100000",
+        "vn-200000",
+        "vn-500000"
+      ]
+    },
+    {
+      "id": "au",
+      "name": "Australia",
+      "nameEn": "Australia",
+      "total": 5,
+      "before": 0,
+      "after": 5,
+      "missing": [],
+      "added": [
+        "au-5",
+        "au-10",
+        "au-20",
+        "au-50",
+        "au-100"
+      ]
+    },
+    {
+      "id": "nz",
+      "name": "Nueva Zelanda",
+      "nameEn": "New Zealand",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "za",
+      "name": "Sudáfrica",
+      "nameEn": "South Africa",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "eg",
+      "name": "Egipto",
+      "nameEn": "Egypt",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "eg-10",
+          "value": 10,
+          "source": "https://www.cbe.org.eg/en"
+        },
+        {
+          "id": "eg-20",
+          "value": 20,
+          "source": "https://www.cbe.org.eg/en"
+        },
+        {
+          "id": "eg-50",
+          "value": 50,
+          "source": "https://www.cbe.org.eg/en"
+        },
+        {
+          "id": "eg-100",
+          "value": 100,
+          "source": "https://www.cbe.org.eg/en"
+        },
+        {
+          "id": "eg-200",
+          "value": 200,
+          "source": "https://www.cbe.org.eg/en"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ma",
+      "name": "Marruecos",
+      "nameEn": "Morocco",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "cz",
+      "name": "República Checa",
+      "nameEn": "Czechia",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "hu",
+      "name": "Hungría",
+      "nameEn": "Hungary",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ro",
+      "name": "Rumania",
+      "nameEn": "Romania",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ro-1",
+          "value": 1,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-5",
+          "value": 5,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-10",
+          "value": 10,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-20",
+          "value": 20,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-50",
+          "value": 50,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-100",
+          "value": 100,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-200",
+          "value": 200,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        },
+        {
+          "id": "ro-500",
+          "value": 500,
+          "source": "https://muzeu.bnr.ro/uploads/2023-6annualreport_documentpdf_545_1733477750.pdf"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "dk",
+      "name": "Dinamarca",
+      "nameEn": "Denmark",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "is",
+      "name": "Islandia",
+      "nameEn": "Iceland",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "tw",
+      "name": "Taiwán",
+      "nameEn": "Taiwan",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "il",
+      "name": "Israel",
+      "nameEn": "Israel",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ae",
+      "name": "Emiratos Árabes Unidos",
+      "nameEn": "United Arab Emirates",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ae-5",
+          "value": 5,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-5-polymer/"
+        },
+        {
+          "id": "ae-10",
+          "value": 10,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-10-polymer/"
+        },
+        {
+          "id": "ae-20",
+          "value": 20,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-20/"
+        },
+        {
+          "id": "ae-50",
+          "value": 50,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-50-polymer/"
+        },
+        {
+          "id": "ae-100",
+          "value": 100,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-100-polymer/"
+        },
+        {
+          "id": "ae-200",
+          "value": 200,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-200/"
+        },
+        {
+          "id": "ae-500",
+          "value": 500,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-500-polymer/"
+        },
+        {
+          "id": "ae-1000",
+          "value": 1000,
+          "source": "https://centralbank.ae/en/our-operations/currency-and-coins/circulated-currency/current-banknotes/aed-1000-polymer/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "sa",
+      "name": "Arabia Saudita",
+      "nameEn": "Saudi Arabia",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "sa-5",
+          "value": 5,
+          "source": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx"
+        },
+        {
+          "id": "sa-10",
+          "value": 10,
+          "source": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx"
+        },
+        {
+          "id": "sa-50",
+          "value": 50,
+          "source": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx"
+        },
+        {
+          "id": "sa-100",
+          "value": 100,
+          "source": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx"
+        },
+        {
+          "id": "sa-200",
+          "value": 200,
+          "source": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx"
+        },
+        {
+          "id": "sa-500",
+          "value": 500,
+          "source": "https://www.sama.gov.sa/en-US/Currency/Pages/sixthIssue.aspx"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "qa",
+      "name": "Catar",
+      "nameEn": "Qatar",
+      "total": 7,
+      "before": 7,
+      "after": 7,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "mg",
+      "name": "Madagascar",
+      "nameEn": "Madagascar",
+      "total": 8,
+      "before": 8,
+      "after": 8,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "mu",
+      "name": "Mauricio",
+      "nameEn": "Mauritius",
+      "total": 7,
+      "before": 0,
+      "after": 7,
+      "missing": [],
+      "added": [
+        "mu-25",
+        "mu-50",
+        "mu-100",
+        "mu-200",
+        "mu-500",
+        "mu-1000",
+        "mu-2000"
+      ]
+    },
+    {
+      "id": "sc",
+      "name": "Seychelles",
+      "nameEn": "Seychelles",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "bw",
+      "name": "Botsuana",
+      "nameEn": "Botswana",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bw-10",
+          "value": 10,
+          "source": "https://www.bankofbotswana.bw/notes-and-coin/p10"
+        },
+        {
+          "id": "bw-20",
+          "value": 20,
+          "source": "https://www.bankofbotswana.bw/notes-and-coin/p20"
+        },
+        {
+          "id": "bw-50",
+          "value": 50,
+          "source": "https://www.bankofbotswana.bw/notes-and-coin/p50"
+        },
+        {
+          "id": "bw-100",
+          "value": 100,
+          "source": "https://www.bankofbotswana.bw/notes-and-coin/p100"
+        },
+        {
+          "id": "bw-200",
+          "value": 200,
+          "source": "https://www.bankofbotswana.bw/notes-and-coin/p200"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "na",
+      "name": "Namibia",
+      "nameEn": "Namibia",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "na-10",
+          "value": 10,
+          "source": "https://www.bon.com.na/Sand-Dune-Namibia-Website/Namibia/default.html"
+        },
+        {
+          "id": "na-20",
+          "value": 20,
+          "source": "https://www.bon.com.na/Sand-Dune-Namibia-Website/Namibia/default.html"
+        },
+        {
+          "id": "na-50",
+          "value": 50,
+          "source": "https://www.bon.com.na/Sand-Dune-Namibia-Website/Namibia/default.html"
+        },
+        {
+          "id": "na-100",
+          "value": 100,
+          "source": "https://www.bon.com.na/Sand-Dune-Namibia-Website/Namibia/default.html"
+        },
+        {
+          "id": "na-200",
+          "value": 200,
+          "source": "https://www.bon.com.na/Sand-Dune-Namibia-Website/Namibia/default.html"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ke",
+      "name": "Kenia",
+      "nameEn": "Kenya",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ke-50",
+          "value": 50,
+          "source": "https://www.centralbank.go.ke/currency-services/"
+        },
+        {
+          "id": "ke-100",
+          "value": 100,
+          "source": "https://www.centralbank.go.ke/currency-services/"
+        },
+        {
+          "id": "ke-200",
+          "value": 200,
+          "source": "https://www.centralbank.go.ke/currency-services/"
+        },
+        {
+          "id": "ke-500",
+          "value": 500,
+          "source": "https://www.centralbank.go.ke/currency-services/"
+        },
+        {
+          "id": "ke-1000",
+          "value": 1000,
+          "source": "https://www.centralbank.go.ke/currency-services/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "tz",
+      "name": "Tanzania",
+      "nameEn": "Tanzania",
+      "total": 4,
+      "before": 4,
+      "after": 4,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ug",
+      "name": "Uganda",
+      "nameEn": "Uganda",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ug-1000",
+          "value": 1000,
+          "source": "https://www.bou.or.ug/"
+        },
+        {
+          "id": "ug-2000",
+          "value": 2000,
+          "source": "https://www.bou.or.ug/"
+        },
+        {
+          "id": "ug-5000",
+          "value": 5000,
+          "source": "https://www.bou.or.ug/"
+        },
+        {
+          "id": "ug-10000",
+          "value": 10000,
+          "source": "https://www.bou.or.ug/"
+        },
+        {
+          "id": "ug-20000",
+          "value": 20000,
+          "source": "https://www.bou.or.ug/"
+        },
+        {
+          "id": "ug-50000",
+          "value": 50000,
+          "source": "https://www.bou.or.ug/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "zm",
+      "name": "Zambia",
+      "nameEn": "Zambia",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "zm-10",
+          "value": 10,
+          "source": "https://www.boz.zm/currency/currency-family"
+        },
+        {
+          "id": "zm-20",
+          "value": 20,
+          "source": "https://www.boz.zm/currency/currency-family"
+        },
+        {
+          "id": "zm-50",
+          "value": 50,
+          "source": "https://www.boz.zm/currency/currency-family"
+        },
+        {
+          "id": "zm-100",
+          "value": 100,
+          "source": "https://www.boz.zm/currency/currency-family"
+        },
+        {
+          "id": "zm-200",
+          "value": 200,
+          "source": "https://www.boz.zm/currency/currency-family"
+        },
+        {
+          "id": "zm-500",
+          "value": 500,
+          "source": "https://www.boz.zm/currency/currency-family"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "rw",
+      "name": "Ruanda",
+      "nameEn": "Rwanda",
+      "total": 4,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "rw-500",
+          "value": 500,
+          "source": "https://www.bnr.rw/"
+        },
+        {
+          "id": "rw-1000",
+          "value": 1000,
+          "source": "https://www.bnr.rw/"
+        },
+        {
+          "id": "rw-2000",
+          "value": 2000,
+          "source": "https://www.bnr.rw/"
+        },
+        {
+          "id": "rw-5000",
+          "value": 5000,
+          "source": "https://www.bnr.rw/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "gt",
+      "name": "Guatemala",
+      "nameEn": "Guatemala",
+      "total": 8,
+      "before": 1,
+      "after": 1,
+      "missing": [
+        {
+          "id": "gt-1",
+          "value": 1,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        },
+        {
+          "id": "gt-5",
+          "value": 5,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        },
+        {
+          "id": "gt-10",
+          "value": 10,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        },
+        {
+          "id": "gt-20",
+          "value": 20,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        },
+        {
+          "id": "gt-50",
+          "value": 50,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        },
+        {
+          "id": "gt-100",
+          "value": 100,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        },
+        {
+          "id": "gt-200",
+          "value": 200,
+          "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "cr",
+      "name": "Costa Rica",
+      "nameEn": "Costa Rica",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "uy",
+      "name": "Uruguay",
+      "nameEn": "Uruguay",
+      "total": 7,
+      "before": 1,
+      "after": 1,
+      "missing": [
+        {
+          "id": "uy-20",
+          "value": 20,
+          "source": "https://subsitio.bcu.gub.uy/billetes/"
+        },
+        {
+          "id": "uy-50",
+          "value": 50,
+          "source": "https://subsitio.bcu.gub.uy/billetes/"
+        },
+        {
+          "id": "uy-100",
+          "value": 100,
+          "source": "https://subsitio.bcu.gub.uy/billetes/"
+        },
+        {
+          "id": "uy-200",
+          "value": 200,
+          "source": "https://subsitio.bcu.gub.uy/billetes/"
+        },
+        {
+          "id": "uy-500",
+          "value": 500,
+          "source": "https://subsitio.bcu.gub.uy/billetes/"
+        },
+        {
+          "id": "uy-1000",
+          "value": 1000,
+          "source": "https://subsitio.bcu.gub.uy/billetes/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "py",
+      "name": "Paraguay",
+      "nameEn": "Paraguay",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "py-2000",
+          "value": 2000,
+          "source": "https://www.bcp.gov.py/en/billetes-en-circulacion"
+        },
+        {
+          "id": "py-5000",
+          "value": 5000,
+          "source": "https://www.bcp.gov.py/en/billetes-en-circulacion"
+        },
+        {
+          "id": "py-10000",
+          "value": 10000,
+          "source": "https://www.bcp.gov.py/en/billetes-en-circulacion"
+        },
+        {
+          "id": "py-20000",
+          "value": 20000,
+          "source": "https://www.bcp.gov.py/en/billetes-en-circulacion"
+        },
+        {
+          "id": "py-50000",
+          "value": 50000,
+          "source": "https://www.bcp.gov.py/en/billetes-en-circulacion"
+        },
+        {
+          "id": "py-100000",
+          "value": 100000,
+          "source": "https://www.bcp.gov.py/es/web/institucional/w/ante-la-elevada-demanda-de-efectivo-el-bcp-resolvio-adelantar-la-puesta-en-circulacion-de-billetes-de-g-100.000-con-el-nuevo-diseno"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "jm",
+      "name": "Jamaica",
+      "nameEn": "Jamaica",
+      "total": 6,
+      "before": 0,
+      "after": 6,
+      "missing": [],
+      "added": [
+        "jm-50",
+        "jm-100",
+        "jm-500",
+        "jm-1000",
+        "jm-2000",
+        "jm-5000"
+      ]
+    },
+    {
+      "id": "al",
+      "name": "Albania",
+      "nameEn": "Albania",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "rs",
+      "name": "Serbia",
+      "nameEn": "Serbia",
+      "total": 9,
+      "before": 9,
+      "after": 9,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "mk",
+      "name": "Macedonia del Norte",
+      "nameEn": "North Macedonia",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "mk-10",
+          "value": 10,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        },
+        {
+          "id": "mk-50",
+          "value": 50,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        },
+        {
+          "id": "mk-100",
+          "value": 100,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        },
+        {
+          "id": "mk-200",
+          "value": 200,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        },
+        {
+          "id": "mk-500",
+          "value": 500,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        },
+        {
+          "id": "mk-1000",
+          "value": 1000,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        },
+        {
+          "id": "mk-2000",
+          "value": 2000,
+          "source": "https://macedoniaguidebook.com/planning/currency-in-north-macedonia/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ba",
+      "name": "Bosnia y Herzegovina",
+      "nameEn": "Bosnia and Herzegovina",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ba-10",
+          "value": 10,
+          "source": "https://www.cbbh.ba/Content/Read/19?lang=en"
+        },
+        {
+          "id": "ba-20",
+          "value": 20,
+          "source": "https://www.cbbh.ba/Content/Read/19?lang=en"
+        },
+        {
+          "id": "ba-50",
+          "value": 50,
+          "source": "https://www.cbbh.ba/Content/Read/19?lang=en"
+        },
+        {
+          "id": "ba-100",
+          "value": 100,
+          "source": "https://www.cbbh.ba/Content/Read/19?lang=en"
+        },
+        {
+          "id": "ba-200",
+          "value": 200,
+          "source": "https://www.cbbh.ba/Content/Read/19?lang=en"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "md",
+      "name": "Moldavia",
+      "nameEn": "Moldova",
+      "total": 9,
+      "before": 9,
+      "after": 9,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ge",
+      "name": "Georgia",
+      "nameEn": "Georgia",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ge-5",
+          "value": 5,
+          "source": "https://nbg.gov.ge/en/georgian-money/banknotes"
+        },
+        {
+          "id": "ge-10",
+          "value": 10,
+          "source": "https://nbg.gov.ge/en/georgian-money/banknotes"
+        },
+        {
+          "id": "ge-20",
+          "value": 20,
+          "source": "https://nbg.gov.ge/en/georgian-money/banknotes"
+        },
+        {
+          "id": "ge-50",
+          "value": 50,
+          "source": "https://nbg.gov.ge/en/georgian-money/banknotes"
+        },
+        {
+          "id": "ge-100",
+          "value": 100,
+          "source": "https://nbg.gov.ge/en/georgian-money/banknotes"
+        },
+        {
+          "id": "ge-200",
+          "value": 200,
+          "source": "https://nbg.gov.ge/en/georgian-money/banknotes"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "am",
+      "name": "Armenia",
+      "nameEn": "Armenia",
+      "total": 7,
+      "before": 7,
+      "after": 7,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "az",
+      "name": "Azerbaiyán",
+      "nameEn": "Azerbaijan",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "az-1",
+          "value": 1,
+          "source": "https://www.cbar.az/moneymarks/banknotes/detail/227?language=en"
+        },
+        {
+          "id": "az-5",
+          "value": 5,
+          "source": "https://cbar.az/page-28/currency-in-circulation?language=en"
+        },
+        {
+          "id": "az-10",
+          "value": 10,
+          "source": "https://www.cbar.az/moneymarks/banknotes/detail/217?language=en"
+        },
+        {
+          "id": "az-20",
+          "value": 20,
+          "source": "https://www.cbar.az/moneymarks/banknotes/detail/150?language=en"
+        },
+        {
+          "id": "az-50",
+          "value": 50,
+          "source": "https://www.cbar.az/moneymarks/banknotes/detail/230?language=en"
+        },
+        {
+          "id": "az-100",
+          "value": 100,
+          "source": "https://www.cbar.az/moneymarks/banknotes/detail/235?language=en"
+        },
+        {
+          "id": "az-200",
+          "value": 200,
+          "source": "https://www.cbar.az/moneymarks/banknotes/detail/78?language=en"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "kz",
+      "name": "Kazajistán",
+      "nameEn": "Kazakhstan",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "kz-200",
+          "value": 200,
+          "source": "https://nationalbank.kz/en/page/money-guide"
+        },
+        {
+          "id": "kz-500",
+          "value": 500,
+          "source": "https://nationalbank.kz/en/page/money-guide"
+        },
+        {
+          "id": "kz-1000",
+          "value": 1000,
+          "source": "https://nationalbank.kz/en/page/money-guide"
+        },
+        {
+          "id": "kz-2000",
+          "value": 2000,
+          "source": "https://nationalbank.kz/en/page/money-guide"
+        },
+        {
+          "id": "kz-5000",
+          "value": 5000,
+          "source": "https://nationalbank.kz/en/page/money-guide"
+        },
+        {
+          "id": "kz-10000",
+          "value": 10000,
+          "source": "https://nationalbank.kz/en/page/money-guide"
+        },
+        {
+          "id": "kz-20000",
+          "value": 20000,
+          "source": "https://nationalbank.kz/en/news/banknoty/6780"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "uz",
+      "name": "Uzbekistán",
+      "nameEn": "Uzbekistan",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "uz-1000",
+          "value": 1000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-2000",
+          "value": 2000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-5000",
+          "value": 5000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-10000",
+          "value": 10000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-20000",
+          "value": 20000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-50000",
+          "value": 50000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-100000",
+          "value": 100000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        },
+        {
+          "id": "uz-200000",
+          "value": 200000,
+          "source": "https://cbu.uz/en/banknotes-coins/banknotes/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "gh",
+      "name": "Ghana",
+      "nameEn": "Ghana",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "gh-1",
+          "value": 1,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-2",
+          "value": 2,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-5",
+          "value": 5,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-10",
+          "value": 10,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-20",
+          "value": 20,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-50",
+          "value": 50,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-100",
+          "value": 100,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        },
+        {
+          "id": "gh-200",
+          "value": 200,
+          "source": "https://www.bog.gov.gh/bank-notes-coins/bank-notes-of-ghana/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ng",
+      "name": "Nigeria",
+      "nameEn": "Nigeria",
+      "total": 8,
+      "before": 0,
+      "after": 7,
+      "missing": [
+        {
+          "id": "ng-200",
+          "value": 200,
+          "source": "https://www.cbn.gov.ng/currency/legaltender.html"
+        }
+      ],
+      "added": [
+        "ng-5",
+        "ng-10",
+        "ng-20",
+        "ng-50",
+        "ng-100",
+        "ng-500",
+        "ng-1000"
+      ]
+    },
+    {
+      "id": "et",
+      "name": "Etiopía",
+      "nameEn": "Ethiopia",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "et-5",
+          "value": 5,
+          "source": "https://nbe.gov.et/about-us/bank-notes/"
+        },
+        {
+          "id": "et-10",
+          "value": 10,
+          "source": "https://nbe.gov.et/about-us/bank-notes/"
+        },
+        {
+          "id": "et-50",
+          "value": 50,
+          "source": "https://nbe.gov.et/about-us/bank-notes/"
+        },
+        {
+          "id": "et-100",
+          "value": 100,
+          "source": "https://nbe.gov.et/about-us/bank-notes/"
+        },
+        {
+          "id": "et-200",
+          "value": 200,
+          "source": "https://nbe.gov.et/about-us/bank-notes/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "fj",
+      "name": "Fiji",
+      "nameEn": "Fiji",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "pg",
+      "name": "Papúa Nueva Guinea",
+      "nameEn": "Papua New Guinea",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "pg-2",
+          "value": 2,
+          "source": "https://www.bankpng.gov.pg/currency"
+        },
+        {
+          "id": "pg-5",
+          "value": 5,
+          "source": "https://www.bankpng.gov.pg/currency"
+        },
+        {
+          "id": "pg-10",
+          "value": 10,
+          "source": "https://www.bankpng.gov.pg/currency"
+        },
+        {
+          "id": "pg-20",
+          "value": 20,
+          "source": "https://www.bankpng.gov.pg/currency"
+        },
+        {
+          "id": "pg-50",
+          "value": 50,
+          "source": "https://www.bankpng.gov.pg/currency"
+        },
+        {
+          "id": "pg-100",
+          "value": 100,
+          "source": "https://www.bankpng.gov.pg/currency"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "bo",
+      "name": "Bolivia",
+      "nameEn": "Bolivia",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bo-10",
+          "value": 10,
+          "source": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete10.html"
+        },
+        {
+          "id": "bo-20",
+          "value": 20,
+          "source": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete20.html"
+        },
+        {
+          "id": "bo-50",
+          "value": 50,
+          "source": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete50.html"
+        },
+        {
+          "id": "bo-100",
+          "value": 100,
+          "source": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete100.html"
+        },
+        {
+          "id": "bo-200",
+          "value": 200,
+          "source": "https://www.bcb.gob.bo/webdocs/nfb/billetes/nfb/billete200.html"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "do",
+      "name": "República Dominicana",
+      "nameEn": "Dominican Republic",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "do-50",
+          "value": 50,
+          "source": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion"
+        },
+        {
+          "id": "do-100",
+          "value": 100,
+          "source": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion"
+        },
+        {
+          "id": "do-200",
+          "value": 200,
+          "source": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion"
+        },
+        {
+          "id": "do-500",
+          "value": 500,
+          "source": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion"
+        },
+        {
+          "id": "do-1000",
+          "value": 1000,
+          "source": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion"
+        },
+        {
+          "id": "do-2000",
+          "value": 2000,
+          "source": "https://www.bancentral.gov.do/a/CustomView/6064-billetes-en-circulacion"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "hn",
+      "name": "Honduras",
+      "nameEn": "Honduras",
+      "total": 9,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "hn-1",
+          "value": 1,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-2",
+          "value": 2,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-5",
+          "value": 5,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-10",
+          "value": 10,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-20",
+          "value": 20,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-50",
+          "value": 50,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-100",
+          "value": 100,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-200",
+          "value": 200,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        },
+        {
+          "id": "hn-500",
+          "value": 500,
+          "source": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ni",
+      "name": "Nicaragua",
+      "nameEn": "Nicaragua",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ni-10",
+          "value": 10,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        },
+        {
+          "id": "ni-20",
+          "value": 20,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        },
+        {
+          "id": "ni-50",
+          "value": 50,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        },
+        {
+          "id": "ni-100",
+          "value": 100,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        },
+        {
+          "id": "ni-200",
+          "value": 200,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        },
+        {
+          "id": "ni-500",
+          "value": 500,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        },
+        {
+          "id": "ni-1000",
+          "value": 1000,
+          "source": "https://bcn.gob.ni/billetes-actuales"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "tt",
+      "name": "Trinidad y Tobago",
+      "nameEn": "Trinidad and Tobago",
+      "total": 6,
+      "before": 0,
+      "after": 6,
+      "missing": [],
+      "added": [
+        "tt-1",
+        "tt-5",
+        "tt-10",
+        "tt-20",
+        "tt-50",
+        "tt-100"
+      ]
+    },
+    {
+      "id": "bs",
+      "name": "Bahamas",
+      "nameEn": "Bahamas",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bs-0.5",
+          "value": 0.5,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-1",
+          "value": 1,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-3",
+          "value": 3,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-5",
+          "value": 5,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-10",
+          "value": 10,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-20",
+          "value": 20,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-50",
+          "value": 50,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        },
+        {
+          "id": "bs-100",
+          "value": 100,
+          "source": "https://www.centralbankbahamas.com/banknotes"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "bb",
+      "name": "Barbados",
+      "nameEn": "Barbados",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bb-2",
+          "value": 2,
+          "source": "https://www.centralbank.org.bb/banknotes/2022-series-1"
+        },
+        {
+          "id": "bb-5",
+          "value": 5,
+          "source": "https://www.centralbank.org.bb/banknotes/2022-series-1"
+        },
+        {
+          "id": "bb-10",
+          "value": 10,
+          "source": "https://www.centralbank.org.bb/banknotes/2022-series-1"
+        },
+        {
+          "id": "bb-20",
+          "value": 20,
+          "source": "https://www.centralbank.org.bb/banknotes/2022-series-1"
+        },
+        {
+          "id": "bb-50",
+          "value": 50,
+          "source": "https://www.centralbank.org.bb/banknotes/2022-series-1"
+        },
+        {
+          "id": "bb-100",
+          "value": 100,
+          "source": "https://www.centralbank.org.bb/banknotes/2022-series-1"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "bz",
+      "name": "Belice",
+      "nameEn": "Belize",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bz-2",
+          "value": 2,
+          "source": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_2"
+        },
+        {
+          "id": "bz-5",
+          "value": 5,
+          "source": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_5"
+        },
+        {
+          "id": "bz-10",
+          "value": 10,
+          "source": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_10"
+        },
+        {
+          "id": "bz-20",
+          "value": 20,
+          "source": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_20"
+        },
+        {
+          "id": "bz-50",
+          "value": 50,
+          "source": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_50"
+        },
+        {
+          "id": "bz-100",
+          "value": 100,
+          "source": "https://www.centralbank.org.bz/home/core-functions/currency/currency-notes/2005-issue--detail/2005_series_100"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "np",
+      "name": "Nepal",
+      "nameEn": "Nepal",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "np-5",
+          "value": 5,
+          "source": "https://www.nrb.org.np/"
+        },
+        {
+          "id": "np-10",
+          "value": 10,
+          "source": "https://www.nrb.org.np/"
+        },
+        {
+          "id": "np-20",
+          "value": 20,
+          "source": "https://www.nrb.org.np/"
+        },
+        {
+          "id": "np-50",
+          "value": 50,
+          "source": "https://www.nrb.org.np/"
+        },
+        {
+          "id": "np-100",
+          "value": 100,
+          "source": "https://www.nrb.org.np/"
+        },
+        {
+          "id": "np-500",
+          "value": 500,
+          "source": "https://www.nrb.org.np/"
+        },
+        {
+          "id": "np-1000",
+          "value": 1000,
+          "source": "https://www.nrb.org.np/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "lk",
+      "name": "Sri Lanka",
+      "nameEn": "Sri Lanka",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "lk-20",
+          "value": 20,
+          "source": "https://www.cbsl.gov.lk/en/node/8034"
+        },
+        {
+          "id": "lk-50",
+          "value": 50,
+          "source": "https://www.cbsl.gov.lk/en/node/8034"
+        },
+        {
+          "id": "lk-100",
+          "value": 100,
+          "source": "https://www.cbsl.gov.lk/en/node/8034"
+        },
+        {
+          "id": "lk-500",
+          "value": 500,
+          "source": "https://www.cbsl.gov.lk/en/node/8034"
+        },
+        {
+          "id": "lk-1000",
+          "value": 1000,
+          "source": "https://www.cbsl.gov.lk/en/node/8034"
+        },
+        {
+          "id": "lk-5000",
+          "value": 5000,
+          "source": "https://www.cbsl.gov.lk/en/node/8034"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "bd",
+      "name": "Bangladés",
+      "nameEn": "Bangladesh",
+      "total": 9,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bd-2",
+          "value": 2,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-5",
+          "value": 5,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-10",
+          "value": 10,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-20",
+          "value": 20,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-50",
+          "value": 50,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-100",
+          "value": 100,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-200",
+          "value": 200,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-500",
+          "value": 500,
+          "source": "https://www.bb.org.bd/"
+        },
+        {
+          "id": "bd-1000",
+          "value": 1000,
+          "source": "https://www.bb.org.bd/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "pk",
+      "name": "Pakistán",
+      "nameEn": "Pakistan",
+      "total": 8,
+      "before": 0,
+      "after": 8,
+      "missing": [],
+      "added": [
+        "pk-10",
+        "pk-20",
+        "pk-50",
+        "pk-75",
+        "pk-100",
+        "pk-500",
+        "pk-1000",
+        "pk-5000"
+      ]
+    },
+    {
+      "id": "bt",
+      "name": "Bután",
+      "nameEn": "Bhutan",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bt-1",
+          "value": 1,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-5",
+          "value": 5,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-10",
+          "value": 10,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-20",
+          "value": 20,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-50",
+          "value": 50,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-100",
+          "value": 100,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-500",
+          "value": 500,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        },
+        {
+          "id": "bt-1000",
+          "value": 1000,
+          "source": "https://www.rma.org.bt/cBankNotes/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "mv",
+      "name": "Maldivas",
+      "nameEn": "Maldives",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "mv-5",
+          "value": 5,
+          "source": "https://www.mma.gov.mv/"
+        },
+        {
+          "id": "mv-10",
+          "value": 10,
+          "source": "https://www.mma.gov.mv/"
+        },
+        {
+          "id": "mv-20",
+          "value": 20,
+          "source": "https://www.mma.gov.mv/"
+        },
+        {
+          "id": "mv-50",
+          "value": 50,
+          "source": "https://www.mma.gov.mv/"
+        },
+        {
+          "id": "mv-100",
+          "value": 100,
+          "source": "https://www.mma.gov.mv/"
+        },
+        {
+          "id": "mv-500",
+          "value": 500,
+          "source": "https://www.mma.gov.mv/"
+        },
+        {
+          "id": "mv-1000",
+          "value": 1000,
+          "source": "https://www.mma.gov.mv/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "om",
+      "name": "Omán",
+      "nameEn": "Oman",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "om-0.1",
+          "value": 0.1,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        },
+        {
+          "id": "om-0.5",
+          "value": 0.5,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        },
+        {
+          "id": "om-1",
+          "value": 1,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        },
+        {
+          "id": "om-5",
+          "value": 5,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        },
+        {
+          "id": "om-10",
+          "value": 10,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        },
+        {
+          "id": "om-20",
+          "value": 20,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        },
+        {
+          "id": "om-50",
+          "value": 50,
+          "source": "https://cbo.gov.om/Pages/Currency.aspx"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "kw",
+      "name": "Kuwait",
+      "nameEn": "Kuwait",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "kw-0.25",
+          "value": 0.25,
+          "source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/quarter-kd-note"
+        },
+        {
+          "id": "kw-0.5",
+          "value": 0.5,
+          "source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/half-kd-note"
+        },
+        {
+          "id": "kw-1",
+          "value": 1,
+          "source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/one-kd-note"
+        },
+        {
+          "id": "kw-5",
+          "value": 5,
+          "source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/five-kd-note"
+        },
+        {
+          "id": "kw-10",
+          "value": 10,
+          "source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/ten-kd-note"
+        },
+        {
+          "id": "kw-20",
+          "value": 20,
+          "source": "https://www.cbk.gov.kw/en/banknotes-and-coins/banknotes/sixth-issue/twenty-kd-note"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "bh",
+      "name": "Baréin",
+      "nameEn": "Bahrain",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "bh-0.5",
+          "value": 0.5,
+          "source": "https://www.bahrain.com/en/currency-and-payments"
+        },
+        {
+          "id": "bh-1",
+          "value": 1,
+          "source": "https://www.bahrain.com/en/currency-and-payments"
+        },
+        {
+          "id": "bh-5",
+          "value": 5,
+          "source": "https://www.bahrain.com/en/currency-and-payments"
+        },
+        {
+          "id": "bh-10",
+          "value": 10,
+          "source": "https://www.bahrain.com/en/currency-and-payments"
+        },
+        {
+          "id": "bh-20",
+          "value": 20,
+          "source": "https://www.bahrain.com/en/currency-and-payments"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "jo",
+      "name": "Jordania",
+      "nameEn": "Jordan",
+      "total": 5,
+      "before": 0,
+      "after": 5,
+      "missing": [],
+      "added": [
+        "jo-1",
+        "jo-5",
+        "jo-10",
+        "jo-20",
+        "jo-50"
+      ]
+    },
+    {
+      "id": "iq",
+      "name": "Irak",
+      "nameEn": "Iraq",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "iq-250",
+          "value": 250,
+          "source": "https://cbi.iq/page/89"
+        },
+        {
+          "id": "iq-500",
+          "value": 500,
+          "source": "https://cbi.iq/page/89"
+        },
+        {
+          "id": "iq-1000",
+          "value": 1000,
+          "source": "https://cbi.iq/page/89"
+        },
+        {
+          "id": "iq-5000",
+          "value": 5000,
+          "source": "https://cbi.iq/page/89"
+        },
+        {
+          "id": "iq-10000",
+          "value": 10000,
+          "source": "https://cbi.iq/page/89"
+        },
+        {
+          "id": "iq-25000",
+          "value": 25000,
+          "source": "https://cbi.iq/page/89"
+        },
+        {
+          "id": "iq-50000",
+          "value": 50000,
+          "source": "https://cbi.iq/page/89"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "tn",
+      "name": "Túnez",
+      "nameEn": "Tunisia",
+      "total": 4,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "tn-5",
+          "value": 5,
+          "source": "https://www.bct.gov.tn/"
+        },
+        {
+          "id": "tn-10",
+          "value": 10,
+          "source": "https://www.bct.gov.tn/"
+        },
+        {
+          "id": "tn-20",
+          "value": 20,
+          "source": "https://www.bct.gov.tn/"
+        },
+        {
+          "id": "tn-50",
+          "value": 50,
+          "source": "https://www.bct.gov.tn/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "cm",
+      "name": "Camerún",
+      "nameEn": "Cameroon",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "cm-500",
+          "value": 500,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cm-1000",
+          "value": 1000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cm-2000",
+          "value": 2000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cm-5000",
+          "value": 5000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cm-10000",
+          "value": 10000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "td",
+      "name": "Chad",
+      "nameEn": "Chad",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "td-500",
+          "value": 500,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "td-1000",
+          "value": 1000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "td-2000",
+          "value": 2000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "td-5000",
+          "value": 5000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "td-10000",
+          "value": 10000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ga",
+      "name": "Gabón",
+      "nameEn": "Gabon",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ga-500",
+          "value": 500,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "ga-1000",
+          "value": 1000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "ga-2000",
+          "value": 2000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "ga-5000",
+          "value": 5000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "ga-10000",
+          "value": 10000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "cg",
+      "name": "República del Congo",
+      "nameEn": "Republic of the Congo",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "cg-500",
+          "value": 500,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cg-1000",
+          "value": 1000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cg-2000",
+          "value": 2000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cg-5000",
+          "value": 5000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "cg-10000",
+          "value": 10000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "gq",
+      "name": "Guinea Ecuatorial",
+      "nameEn": "Equatorial Guinea",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "gq-500",
+          "value": 500,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "gq-1000",
+          "value": 1000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "gq-2000",
+          "value": 2000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "gq-5000",
+          "value": 5000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        },
+        {
+          "id": "gq-10000",
+          "value": 10000,
+          "source": "https://www.beac.int/accueil/billets-gamme-2020/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "sn",
+      "name": "Senegal",
+      "nameEn": "Senegal",
+      "total": 5,
+      "before": 0,
+      "after": 2,
+      "missing": [
+        {
+          "id": "sn-500",
+          "value": 500,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "sn-1000",
+          "value": 1000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "sn-5000",
+          "value": 5000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        }
+      ],
+      "added": [
+        "sn-2000",
+        "sn-10000"
+      ]
+    },
+    {
+      "id": "ci",
+      "name": "Costa de Marfil",
+      "nameEn": "Côte d’Ivoire",
+      "total": 5,
+      "before": 0,
+      "after": 2,
+      "missing": [
+        {
+          "id": "ci-500",
+          "value": 500,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "ci-1000",
+          "value": 1000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "ci-5000",
+          "value": 5000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        }
+      ],
+      "added": [
+        "ci-2000",
+        "ci-10000"
+      ]
+    },
+    {
+      "id": "bj",
+      "name": "Benín",
+      "nameEn": "Benin",
+      "total": 5,
+      "before": 0,
+      "after": 2,
+      "missing": [
+        {
+          "id": "bj-500",
+          "value": 500,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "bj-1000",
+          "value": 1000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "bj-5000",
+          "value": 5000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        }
+      ],
+      "added": [
+        "bj-2000",
+        "bj-10000"
+      ]
+    },
+    {
+      "id": "tg",
+      "name": "Togo",
+      "nameEn": "Togo",
+      "total": 5,
+      "before": 0,
+      "after": 2,
+      "missing": [
+        {
+          "id": "tg-500",
+          "value": 500,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "tg-1000",
+          "value": 1000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "tg-5000",
+          "value": 5000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        }
+      ],
+      "added": [
+        "tg-2000",
+        "tg-10000"
+      ]
+    },
+    {
+      "id": "ml",
+      "name": "Malí",
+      "nameEn": "Mali",
+      "total": 5,
+      "before": 0,
+      "after": 2,
+      "missing": [
+        {
+          "id": "ml-500",
+          "value": 500,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "ml-1000",
+          "value": 1000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        },
+        {
+          "id": "ml-5000",
+          "value": 5000,
+          "source": "https://www.bceao.int/fr/content/billets-et-pieces"
+        }
+      ],
+      "added": [
+        "ml-2000",
+        "ml-10000"
+      ]
+    },
+    {
+      "id": "ua",
+      "name": "Ucrania",
+      "nameEn": "Ukraine",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ua-20",
+          "value": 20,
+          "source": "https://ap-bank.com/en/news/post/yaki-banknoti-ta-moneti-v-obigu"
+        },
+        {
+          "id": "ua-50",
+          "value": 50,
+          "source": "https://ap-bank.com/en/news/post/yaki-banknoti-ta-moneti-v-obigu"
+        },
+        {
+          "id": "ua-100",
+          "value": 100,
+          "source": "https://ap-bank.com/en/news/post/yaki-banknoti-ta-moneti-v-obigu"
+        },
+        {
+          "id": "ua-200",
+          "value": 200,
+          "source": "https://ap-bank.com/en/news/post/yaki-banknoti-ta-moneti-v-obigu"
+        },
+        {
+          "id": "ua-500",
+          "value": 500,
+          "source": "https://ap-bank.com/en/news/post/yaki-banknoti-ta-moneti-v-obigu"
+        },
+        {
+          "id": "ua-1000",
+          "value": 1000,
+          "source": "https://ap-bank.com/en/news/post/yaki-banknoti-ta-moneti-v-obigu"
+        },
+        {
+          "id": "ua-2000",
+          "value": 2000,
+          "source": "https://bank.gov.ua/ua/uah/obig-banknote/2000_2026_2026"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "kg",
+      "name": "Kirguistán",
+      "nameEn": "Kyrgyzstan",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "kg-20",
+          "value": 20,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        },
+        {
+          "id": "kg-50",
+          "value": 50,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        },
+        {
+          "id": "kg-100",
+          "value": 100,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        },
+        {
+          "id": "kg-200",
+          "value": 200,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        },
+        {
+          "id": "kg-500",
+          "value": 500,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        },
+        {
+          "id": "kg-1000",
+          "value": 1000,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        },
+        {
+          "id": "kg-5000",
+          "value": 5000,
+          "source": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "tj",
+      "name": "Tayikistán",
+      "nameEn": "Tajikistan",
+      "total": 9,
+      "before": 9,
+      "after": 9,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "kh",
+      "name": "Camboya",
+      "nameEn": "Cambodia",
+      "total": 12,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "kh-50",
+          "value": 50,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-100",
+          "value": 100,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-200",
+          "value": 200,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-500",
+          "value": 500,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-1000",
+          "value": 1000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-2000",
+          "value": 2000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-5000",
+          "value": 5000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-10000",
+          "value": 10000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-20000",
+          "value": 20000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-50000",
+          "value": 50000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-100000",
+          "value": 100000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        },
+        {
+          "id": "kh-200000",
+          "value": 200000,
+          "source": "https://en.wikipedia.org/wiki/Cambodian_riel"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "la",
+      "name": "Laos",
+      "nameEn": "Laos",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "la-500",
+          "value": 500,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-1000",
+          "value": 1000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-2000",
+          "value": 2000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-5000",
+          "value": 5000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-10000",
+          "value": 10000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-20000",
+          "value": 20000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-50000",
+          "value": 50000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        },
+        {
+          "id": "la-100000",
+          "value": 100000,
+          "source": "https://sites.google.com/view/banknotesdirectory/home/laos"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "mn",
+      "name": "Mongolia",
+      "nameEn": "Mongolia",
+      "total": 11,
+      "before": 11,
+      "after": 11,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "dz",
+      "name": "Argelia",
+      "nameEn": "Algeria",
+      "total": 4,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "dz-200",
+          "value": 200,
+          "source": "https://www.bank-of-algeria.dz/les-billets-en-circulation/"
+        },
+        {
+          "id": "dz-500",
+          "value": 500,
+          "source": "https://www.bank-of-algeria.dz/les-billets-en-circulation/"
+        },
+        {
+          "id": "dz-1000",
+          "value": 1000,
+          "source": "https://www.bank-of-algeria.dz/les-billets-en-circulation/"
+        },
+        {
+          "id": "dz-2000",
+          "value": 2000,
+          "source": "https://www.bank-of-algeria.dz/les-billets-en-circulation/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "lb",
+      "name": "Líbano",
+      "nameEn": "Lebanon",
+      "total": 6,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "lb-1000",
+          "value": 1000,
+          "source": "https://www.banqueduliban.gov.lb/banknotessubpage.php?ln=1&ln1=1"
+        },
+        {
+          "id": "lb-5000",
+          "value": 5000,
+          "source": "https://www.banqueduliban.gov.lb/banknotessubpage.php?ln=1&ln1=2"
+        },
+        {
+          "id": "lb-10000",
+          "value": 10000,
+          "source": "https://www.banqueduliban.gov.lb/banknotessubpage.php?ln=1&ln1=3"
+        },
+        {
+          "id": "lb-20000",
+          "value": 20000,
+          "source": "https://www.banqueduliban.gov.lb/banknotessubpage.php?ln=1&ln1=4"
+        },
+        {
+          "id": "lb-50000",
+          "value": 50000,
+          "source": "https://www.banqueduliban.gov.lb/banknotessubpage.php?ln=1&ln1=5"
+        },
+        {
+          "id": "lb-100000",
+          "value": 100000,
+          "source": "https://www.banqueduliban.gov.lb/banknotessubpage.php?ln=1&ln1=6"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "mm",
+      "name": "Myanmar",
+      "nameEn": "Myanmar",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "mm-50",
+          "value": 50,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-100",
+          "value": 100,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-200",
+          "value": 200,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-500",
+          "value": 500,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-1000",
+          "value": 1000,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-5000",
+          "value": 5000,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-10000",
+          "value": 10000,
+          "source": "https://cbm.gov.mm/content/130"
+        },
+        {
+          "id": "mm-20000",
+          "value": 20000,
+          "source": "https://cbm.gov.mm/content/130"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ao",
+      "name": "Angola",
+      "nameEn": "Angola",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "ru",
+      "name": "Rusia",
+      "nameEn": "Russia",
+      "total": 9,
+      "before": 9,
+      "after": 9,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "by",
+      "name": "Bielorrusia",
+      "nameEn": "Belarus",
+      "total": 7,
+      "before": 7,
+      "after": 7,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "mz",
+      "name": "Mozambique",
+      "nameEn": "Mozambique",
+      "total": 6,
+      "before": 6,
+      "after": 6,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "mw",
+      "name": "Malaui",
+      "nameEn": "Malawi",
+      "total": 8,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "mw-20",
+          "value": 20,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-50",
+          "value": 50,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-100",
+          "value": 100,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-200",
+          "value": 200,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-500",
+          "value": 500,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-1000",
+          "value": 1000,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-2000",
+          "value": 2000,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        },
+        {
+          "id": "mw-5000",
+          "value": 5000,
+          "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ls",
+      "name": "Lesoto",
+      "nameEn": "Lesotho",
+      "total": 5,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "ls-10",
+          "value": 10,
+          "source": "https://centralbank.org.ls/currency/"
+        },
+        {
+          "id": "ls-20",
+          "value": 20,
+          "source": "https://centralbank.org.ls/currency/"
+        },
+        {
+          "id": "ls-50",
+          "value": 50,
+          "source": "https://centralbank.org.ls/currency/"
+        },
+        {
+          "id": "ls-100",
+          "value": 100,
+          "source": "https://centralbank.org.ls/currency/"
+        },
+        {
+          "id": "ls-200",
+          "value": 200,
+          "source": "https://centralbank.org.ls/currency/"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "sz",
+      "name": "Esuatini",
+      "nameEn": "Eswatini",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "sl",
+      "name": "Sierra Leona",
+      "nameEn": "Sierra Leone",
+      "total": 5,
+      "before": 5,
+      "after": 5,
+      "missing": [],
+      "added": []
+    },
+    {
+      "id": "gy",
+      "name": "Guyana",
+      "nameEn": "Guyana",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "gy-20",
+          "value": 20,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        },
+        {
+          "id": "gy-50",
+          "value": 50,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        },
+        {
+          "id": "gy-100",
+          "value": 100,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        },
+        {
+          "id": "gy-500",
+          "value": 500,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        },
+        {
+          "id": "gy-1000",
+          "value": 1000,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        },
+        {
+          "id": "gy-2000",
+          "value": 2000,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        },
+        {
+          "id": "gy-5000",
+          "value": 5000,
+          "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "sr",
+      "name": "Surinam",
+      "nameEn": "Suriname",
+      "total": 7,
+      "before": 0,
+      "after": 0,
+      "missing": [
+        {
+          "id": "sr-5",
+          "value": 5,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        },
+        {
+          "id": "sr-10",
+          "value": 10,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        },
+        {
+          "id": "sr-20",
+          "value": 20,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        },
+        {
+          "id": "sr-50",
+          "value": 50,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        },
+        {
+          "id": "sr-100",
+          "value": 100,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        },
+        {
+          "id": "sr-200",
+          "value": 200,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        },
+        {
+          "id": "sr-500",
+          "value": 500,
+          "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie"
+        }
+      ],
+      "added": []
+    },
+    {
+      "id": "ht",
+      "name": "Haití",
+      "nameEn": "Haiti",
+      "total": 8,
+      "before": 2,
+      "after": 2,
+      "missing": [
+        {
+          "id": "ht-10",
+          "value": 10,
+          "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/"
+        },
+        {
+          "id": "ht-50",
+          "value": 50,
+          "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/"
+        },
+        {
+          "id": "ht-100",
+          "value": 100,
+          "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/"
+        },
+        {
+          "id": "ht-250",
+          "value": 250,
+          "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/"
+        },
+        {
+          "id": "ht-500",
+          "value": 500,
+          "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/"
+        },
+        {
+          "id": "ht-1000",
+          "value": 1000,
+          "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/"
+        }
+      ],
+      "added": []
+    }
+  ]
+}

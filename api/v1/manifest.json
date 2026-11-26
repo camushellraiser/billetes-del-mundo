@@ -1,6 +1,6 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.9.3",
+  "version": "2.9.4",
   "lastReviewed": "2026-11-26",
   "countryCount": 120,
   "banknoteCount": 738,
@@ -167,10 +167,11 @@
     "notesWithEnrichedData": 94,
     "map": "Natural Earth low resolution, simplified Robinson projection",
     "portraitSectionNotes": 738,
-    "portraitContextNotes": 266,
-    "namedPortraitNotes": 188,
-    "portraitContextCountries": 48,
-    "portraitContextPending": 472
+    "portraitContextNotes": 354,
+    "namedPortraitNotes": 259,
+    "portraitContextCountries": 65,
+    "portraitContextPending": 384,
+    "portraitAudit": "./api/v1/portrait-audit.json"
   },
   "uiPolish": {
     "localizedScrollHint": true,
