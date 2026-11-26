@@ -1,16 +1,16 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.5.8",
+  "version": "2.6.0",
   "lastReviewed": "2026-11-25",
-  "countryCount": 90,
-  "banknoteCount": 544,
-  "imagePolicy": "5 added pairs, one visually confirmed on both sides, four have publisher links with HTTP 429 on at least one side. All country covers queued immediately; selected country prefetch; bounded optional service worker image cache. Browser runtime not tested.",
+  "countryCount": 100,
+  "banknoteCount": 594,
+  "imagePolicy": "Ten sovereign countries added, 50 country-denomination records using 10 distinct shared CFA designs (XAF and XOF); all ten image pairs are publisher-listed but direct requests returned HTTP 429. Nine previously missing pairs registered; two visually confirmed on both sides, seven incomplete visual review. Ten old records still lack pairs. Browser rendering untested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
   ],
-  "officialDenominationReferences": 444,
-  "pendingImagePairs": 19,
+  "officialDenominationReferences": 494,
+  "pendingImagePairs": 10,
   "illustratedCountries": [
     "mx",
     "us",
@@ -100,13 +100,32 @@
     "lk",
     "iq",
     "bt",
-    "hn"
+    "hn",
+    "bd",
+    "cm",
+    "td",
+    "ga",
+    "cg",
+    "gq",
+    "sn",
+    "ci",
+    "bj",
+    "tg",
+    "ml"
   ],
-  "coverageReport": "docs/photo-completion-v2.5.8.md",
-  "photoReferencePairs": 525,
+  "coverageReport": "docs/expansion-v2.6.0.md",
+  "photoReferencePairs": 584,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 416,
+  "individualImagePairs": 475,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 258,
-  "browserVerifiedPairs": null
+  "sourceVisuallyConfirmedPairs": 260,
+  "browserVerifiedPairs": null,
+  "sharedCurrencyExpansion": {
+    "countryRecords": 50,
+    "distinctDesignPairs": 10,
+    "currencies": [
+      "XAF",
+      "XOF"
+    ]
+  }
 }

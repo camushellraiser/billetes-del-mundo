@@ -12820,10 +12820,25 @@
     "seriesEn": "Current family and updated designs",
     "officialPage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
     "referencePage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El nombre de la moneda recuerda al líder indígena Lempira.",
-    "factEn": "The currency is named after indigenous leader Lempira."
+    "factEn": "The currency is named after indigenous leader Lempira.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/07/Honduras_BCH_10_lempiras_2024.05.09_B347f_P99_CU_5689005_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/07/Honduras_BCH_10_lempiras_2024.05.09_B347f_P99_CU_5689005_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47290",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "hn-20",
@@ -12833,10 +12848,25 @@
     "seriesEn": "Current family and updated designs",
     "officialPage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
     "referencePage": "https://www.bch.hn/billetes-y-monedas/billetes-y-monedas-de-actual-circulacion",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "El nombre de la moneda recuerda al líder indígena Lempira.",
-    "factEn": "The currency is named after indigenous leader Lempira."
+    "factEn": "The currency is named after indigenous leader Lempira.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/07/Honduras_BCH_20_lempiras_2024.05.09_B348f_P100_CR_9481511_f-1.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/07/Honduras_BCH_20_lempiras_2024.05.09_B348f_P100_CR_9481511_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47293",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "hn-50",
@@ -13041,10 +13071,25 @@
     "seriesEn": "Polymer · 2015–2019 family",
     "officialPage": "https://bcn.gob.ni/billetes-actuales",
     "referencePage": "https://bcn.gob.ni/billetes-actuales",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Desde 2019 las siete denominaciones cuentan con versiones de polímero.",
-    "factEn": "Since 2019 all seven denominations have polymer versions."
+    "factEn": "Since 2019 all seven denominations have polymer versions.",
+    "photos": {
+      "front": "https://www.bis-ans-ende-der-welt.net/Banknoten/Nic-200-Cordobas-V-2014.jpg",
+      "back": "https://www.bis-ans-ende-der-welt.net/Banknoten/Nic-200-Cordobas-R-2014.jpg",
+      "provider": "Heiko Otto",
+      "sourcePage": "https://www.bis-ans-ende-der-welt.net/Nicaragua-B-En.htm",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both sides visually inspected; low-resolution 2014 paper issue of the same design, not the newer polymer version."
+    }
   },
   {
     "id": "ni-500",
@@ -14172,10 +14217,25 @@
     "seriesEn": "Transition to 2025–2026 designs",
     "officialPage": "https://www.bb.org.bd/",
     "referencePage": "https://www.bb.org.bd/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La nueva familia se centra en el patrimonio arquitectónico y arqueológico.",
-    "factEn": "The new family focuses on architectural and archaeological heritage."
+    "factEn": "The new family focuses on architectural and archaeological heritage.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/11/Bangladesh_GOV_2_taka_2024.00.00_B207l_P52_%E0%A6%98%E0%A6%A0_6341436_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/11/Bangladesh_GOV_2_taka_2024.00.00_B207l_P52_%E0%A6%98%E0%A6%A0_6341436_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48325",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "bd-5",
@@ -14198,10 +14258,25 @@
     "seriesEn": "Transition to 2025–2026 designs",
     "officialPage": "https://www.bb.org.bd/",
     "referencePage": "https://www.bb.org.bd/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La nueva familia se centra en el patrimonio arquitectónico y arqueológico.",
-    "factEn": "The new family focuses on architectural and archaeological heritage."
+    "factEn": "The new family focuses on architectural and archaeological heritage.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_10_taka_2025.00.00_B366a_PNL_%E0%A6%95%E0%A6%95_0379425_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_10_taka_2025.00.00_B366a_PNL_%E0%A6%95%E0%A6%95_0379425_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47013",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "bd-20",
@@ -14211,10 +14286,25 @@
     "seriesEn": "Transition to 2025–2026 designs",
     "officialPage": "https://www.bb.org.bd/",
     "referencePage": "https://www.bb.org.bd/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La nueva familia se centra en el patrimonio arquitectónico y arqueológico.",
-    "factEn": "The new family focuses on architectural and archaeological heritage."
+    "factEn": "The new family focuses on architectural and archaeological heritage.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_20_taka_2025.00.00_B367a_PNL_%E0%A6%95%E0%A6%95_4870784_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_20_taka_2025.00.00_B367a_PNL_%E0%A6%95%E0%A6%95_4870784_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47017",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "bd-50",
@@ -14224,10 +14314,25 @@
     "seriesEn": "Transition to 2025–2026 designs",
     "officialPage": "https://www.bb.org.bd/",
     "referencePage": "https://www.bb.org.bd/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La nueva familia se centra en el patrimonio arquitectónico y arqueológico.",
-    "factEn": "The new family focuses on architectural and archaeological heritage."
+    "factEn": "The new family focuses on architectural and archaeological heritage.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_50_taka_2025.00.00_B368a_PNL_%E0%A6%95%E0%A6%95_2148412_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_50_taka_2025.00.00_B368a_PNL_%E0%A6%95%E0%A6%95_2148412_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47021",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "bd-100",
@@ -14263,10 +14368,25 @@
     "seriesEn": "Transition to 2025–2026 designs",
     "officialPage": "https://www.bb.org.bd/",
     "referencePage": "https://www.bb.org.bd/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La nueva familia se centra en el patrimonio arquitectónico y arqueológico.",
-    "factEn": "The new family focuses on architectural and archaeological heritage."
+    "factEn": "The new family focuses on architectural and archaeological heritage.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_500_taka_2025.00.00_B371a_PNL_%E0%A6%95%E0%A6%95_0129712_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_500_taka_2025.00.00_B371a_PNL_%E0%A6%95%E0%A6%95_0129712_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47034",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": " Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
   },
   {
     "id": "bd-1000",
@@ -14276,10 +14396,25 @@
     "seriesEn": "Transition to 2025–2026 designs",
     "officialPage": "https://www.bb.org.bd/",
     "referencePage": "https://www.bb.org.bd/",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "La nueva familia se centra en el patrimonio arquitectónico y arqueológico.",
-    "factEn": "The new family focuses on architectural and archaeological heritage."
+    "factEn": "The new family focuses on architectural and archaeological heritage.",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_1000_taka_2025.00.00_B372a_PNL_%E0%A6%95%E0%A6%95_0057333_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/06/Bangladesh_BB_1000_taka_2025.00.00_B372a_PNL_%E0%A6%95%E0%A6%95_0057333_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=47038",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": " Both source images visually inspected. Dashboard rendering not tested."
+    }
   },
   {
     "id": "pk-10",
@@ -15889,6 +16024,1456 @@
         "back": "confirmed_source_image"
       },
       "note": "Both source images visually checked for denomination and side. Representative issue; newer dates may exist. Dashboard browser rendering not tested."
+    }
+  },
+  {
+    "id": "cm-500",
+    "countryId": "cm",
+    "value": 500,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38331",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Agricultura moderna.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Modern agriculture.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38331",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cm-1000",
+    "countryId": "cm",
+    "value": 1000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=49412",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Salud.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Health care.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49412",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cm-2000",
+    "countryId": "cm",
+    "value": 2000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38339",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Bosques y biodiversidad.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Forests and biodiversity.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38339",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cm-5000",
+    "countryId": "cm",
+    "value": 5000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38343",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna africana.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: African wildlife.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38343",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cm-10000",
+    "countryId": "cm",
+    "value": 10000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=48991",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Educación.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Education.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48991",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "td-500",
+    "countryId": "td",
+    "value": 500,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38331",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Agricultura moderna.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Modern agriculture.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38331",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "td-1000",
+    "countryId": "td",
+    "value": 1000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=49412",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Salud.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Health care.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49412",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "td-2000",
+    "countryId": "td",
+    "value": 2000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38339",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Bosques y biodiversidad.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Forests and biodiversity.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38339",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "td-5000",
+    "countryId": "td",
+    "value": 5000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38343",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna africana.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: African wildlife.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38343",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "td-10000",
+    "countryId": "td",
+    "value": 10000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=48991",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Educación.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Education.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48991",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ga-500",
+    "countryId": "ga",
+    "value": 500,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38331",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Agricultura moderna.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Modern agriculture.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38331",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ga-1000",
+    "countryId": "ga",
+    "value": 1000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=49412",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Salud.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Health care.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49412",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ga-2000",
+    "countryId": "ga",
+    "value": 2000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38339",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Bosques y biodiversidad.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Forests and biodiversity.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38339",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ga-5000",
+    "countryId": "ga",
+    "value": 5000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38343",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna africana.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: African wildlife.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38343",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ga-10000",
+    "countryId": "ga",
+    "value": 10000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=48991",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Educación.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Education.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48991",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cg-500",
+    "countryId": "cg",
+    "value": 500,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38331",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Agricultura moderna.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Modern agriculture.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38331",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cg-1000",
+    "countryId": "cg",
+    "value": 1000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=49412",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Salud.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Health care.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49412",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cg-2000",
+    "countryId": "cg",
+    "value": 2000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38339",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Bosques y biodiversidad.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Forests and biodiversity.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38339",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cg-5000",
+    "countryId": "cg",
+    "value": 5000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38343",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna africana.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: African wildlife.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38343",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "cg-10000",
+    "countryId": "cg",
+    "value": 10000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=48991",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Educación.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Education.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48991",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "gq-500",
+    "countryId": "gq",
+    "value": 500,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38331",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Agricultura moderna.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Modern agriculture.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_500_francs_2020.00.00_B111a_PNL_02262287_B5_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38331",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "gq-1000",
+    "countryId": "gq",
+    "value": 1000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=49412",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Salud.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Health care.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/Central_African_States_BEAC_1000_francs_2020.00.00_B112b_PNL_04074784_E4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=49412",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "gq-2000",
+    "countryId": "gq",
+    "value": 2000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38339",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Bosques y biodiversidad.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Forests and biodiversity.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_2000_francs_2020.00.00_B113a_PNL_01867760_B4_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38339",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "gq-5000",
+    "countryId": "gq",
+    "value": 5000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=38343",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna africana.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: African wildlife.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2022/12/Central_African_States_BEAC_5000_francs_2020.00.00_B114a_PNL_00898628_D6_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=38343",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "gq-10000",
+    "countryId": "gq",
+    "value": 10000,
+    "series": "Gama 2020 · BEAC",
+    "seriesEn": "2020 series · BEAC",
+    "officialPage": "https://www.beac.int/accueil/billets-gamme-2020/",
+    "referencePage": "https://banknotenews.com/?p=48991",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Educación.",
+    "factEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Education.",
+    "sharedCurrency": "XAF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/01/Central_African_States_BEAC_10000_francs_2020.00.00_B115b_PNL_08396001_D9_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=48991",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XAF design.  Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "sn-500",
+    "countryId": "sn",
+    "value": 500,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=51728",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "sn-1000",
+    "countryId": "sn",
+    "value": 1000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50708",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50708",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "sn-2000",
+    "countryId": "sn",
+    "value": 2000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50712",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "sn-5000",
+    "countryId": "sn",
+    "value": 5000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50322",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "sn-10000",
+    "countryId": "sn",
+    "value": 10000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50439",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ci-500",
+    "countryId": "ci",
+    "value": 500,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=51728",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ci-1000",
+    "countryId": "ci",
+    "value": 1000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50708",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50708",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ci-2000",
+    "countryId": "ci",
+    "value": 2000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50712",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ci-5000",
+    "countryId": "ci",
+    "value": 5000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50322",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ci-10000",
+    "countryId": "ci",
+    "value": 10000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50439",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "bj-500",
+    "countryId": "bj",
+    "value": 500,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=51728",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "bj-1000",
+    "countryId": "bj",
+    "value": 1000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50708",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50708",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "bj-2000",
+    "countryId": "bj",
+    "value": 2000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50712",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "bj-5000",
+    "countryId": "bj",
+    "value": 5000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50322",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "bj-10000",
+    "countryId": "bj",
+    "value": 10000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50439",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "tg-500",
+    "countryId": "tg",
+    "value": 500,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=51728",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "tg-1000",
+    "countryId": "tg",
+    "value": 1000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50708",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50708",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "tg-2000",
+    "countryId": "tg",
+    "value": 2000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50712",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "tg-5000",
+    "countryId": "tg",
+    "value": 5000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50322",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "tg-10000",
+    "countryId": "tg",
+    "value": 10000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50439",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ml-500",
+    "countryId": "ml",
+    "value": 500,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=51728",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ml-1000",
+    "countryId": "ml",
+    "value": 1000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50708",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50708",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ml-2000",
+    "countryId": "ml",
+    "value": 2000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50712",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ml-5000",
+    "countryId": "ml",
+    "value": 5000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50322",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
+    }
+  },
+  {
+    "id": "ml-10000",
+    "countryId": "ml",
+    "value": 10000,
+    "series": "Gama 2003–2012 · BCEAO",
+    "seriesEn": "2003–2012 series · BCEAO",
+    "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
+    "referencePage": "https://banknotenews.com/?p=50439",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-25",
+    "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
+    "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
+    "sharedCurrency": "XOF",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-25",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
     }
   }
 ]
