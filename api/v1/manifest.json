@@ -1,17 +1,17 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.9.2",
+  "version": "2.9.3",
   "lastReviewed": "2026-11-26",
   "countryCount": 120,
   "banknoteCount": 738,
-  "imagePolicy": "16 additional pairs for Russia and Belarus; both sides of every pair opened and inspected. Earlier representative circulating issues included; not every modification. Browser rendering not tested.",
+  "imagePolicy": "25 new reference pairs (11 official Mongolia pairs visually inspected, 14 gallery-listed pairs pending individual review); four Israeli pairs replaced with inspected official specimen previews, prior URLs retained as metadata. 79 missing pairs. Browser not tested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json",
     "./api/v1/technical.json"
   ],
   "officialDenominationReferences": 540,
-  "pendingImagePairs": 104,
+  "pendingImagePairs": 79,
   "illustratedCountries": [
     "mx",
     "us",
@@ -120,14 +120,18 @@
     "sl",
     "ht",
     "ru",
-    "by"
+    "by",
+    "mn",
+    "kg",
+    "ls",
+    "la"
   ],
-  "coverageReport": "docs/photo-completion-v2.9.1.md",
-  "photoReferencePairs": 634,
+  "coverageReport": "docs/photo-completion-v2.9.3.md",
+  "photoReferencePairs": 659,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 525,
+  "individualImagePairs": 550,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 318,
+  "sourceVisuallyConfirmedPairs": 329,
   "browserVerifiedPairs": null,
   "sharedCurrencyExpansion": {
     "countryRecords": 50,
@@ -159,14 +163,14 @@
   "numismaticProfiles": {
     "countriesWithBaseProfile": 120,
     "notesWithBaseProfile": 738,
-    "countriesWithEnrichedData": 20,
-    "notesWithEnrichedData": 79,
+    "countriesWithEnrichedData": 21,
+    "notesWithEnrichedData": 94,
     "map": "Natural Earth low resolution, simplified Robinson projection",
     "portraitSectionNotes": 738,
-    "portraitContextNotes": 255,
-    "namedPortraitNotes": 178,
-    "portraitContextCountries": 47,
-    "portraitContextPending": 483
+    "portraitContextNotes": 266,
+    "namedPortraitNotes": 188,
+    "portraitContextCountries": 48,
+    "portraitContextPending": 472
   },
   "uiPolish": {
     "localizedScrollHint": true,

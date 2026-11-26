@@ -5484,27 +5484,34 @@
     "series": "Tercera serie (2014–2017)",
     "seriesEn": "Third series (2014–2017)",
     "imageStatus": "curated",
-    "reviewedAt": "2026-11-24",
+    "reviewedAt": "2026-11-26",
     "fact": "Los cuatro billetes de la serie homenajean a poetas.",
     "factEn": "All four notes in the series honor poets.",
     "photos": {
-      "front": "https://www.boi.org.il/media/0nyjfghr/20_nis_front.jpg?width=820",
-      "back": "https://www.boi.org.il/media/ul5nrvp2/20_nis_back.jpg?width=820",
+      "front": "https://www.boi.org.il/media/ek0bayqo/nis-20-front.png?width=540",
+      "back": "https://www.boi.org.il/media/uh3lwfqt/nis-20-back.png?width=540",
       "provider": "Bank of Israel",
-      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "sourcePage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/",
       "verified": true,
       "display": "individual_images",
       "sourceType": "official_reference",
       "visualReview": {
-        "date": "2026-11-24",
+        "date": "2026-11-26",
         "front": "confirmed_source_image",
         "back": "confirmed_source_image"
-      }
+      },
+      "previousReferences": {
+        "front": "https://www.boi.org.il/media/0nyjfghr/20_nis_front.jpg?width=820",
+        "back": "https://www.boi.org.il/media/ul5nrvp2/20_nis_back.jpg?width=820",
+        "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/"
+      },
+      "note": "Official specimen previews; both opened and visually inspected. Previous URLs retained as metadata; live Safari display not verified."
     },
     "frontDescription": "Retrato de Rachel Bluwstein.",
     "frontDescriptionEn": "Portrait of Rachel Bluwstein.",
     "backDescription": "Paisaje del mar de Galilea",
-    "backDescriptionEn": "Sea of Galilee landscape"
+    "backDescriptionEn": "Sea of Galilee landscape",
+    "officialPage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
   },
   {
     "id": "il-50",
@@ -5513,27 +5520,34 @@
     "series": "Tercera serie (2014–2017)",
     "seriesEn": "Third series (2014–2017)",
     "imageStatus": "curated",
-    "reviewedAt": "2026-11-24",
+    "reviewedAt": "2026-11-26",
     "fact": "Los cuatro billetes de la serie homenajean a poetas.",
     "factEn": "All four notes in the series honor poets.",
     "photos": {
-      "front": "https://www.boi.org.il/media/apebl2su/50_nis_front.jpg?width=820",
-      "back": "https://www.boi.org.il/media/mq2dt0y3/is-50-2014-b.jpg?width=820",
+      "front": "https://www.boi.org.il/media/howmlp0q/50-%D7%A6%D7%93-%D7%94%D7%A4%D7%A0%D7%99%D7%9D.jpg?width=540",
+      "back": "https://www.boi.org.il/media/vyqlgftf/50-%D7%A6%D7%93-%D7%94%D7%92%D7%91.jpg?width=540",
       "provider": "Bank of Israel",
-      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "sourcePage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/",
       "verified": true,
       "display": "individual_images",
       "sourceType": "official_reference",
       "visualReview": {
-        "date": "2026-11-24",
+        "date": "2026-11-26",
         "front": "confirmed_source_image",
         "back": "confirmed_source_image"
-      }
+      },
+      "previousReferences": {
+        "front": "https://www.boi.org.il/media/apebl2su/50_nis_front.jpg?width=820",
+        "back": "https://www.boi.org.il/media/mq2dt0y3/is-50-2014-b.jpg?width=820",
+        "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/"
+      },
+      "note": "Official specimen previews; both opened and visually inspected. Previous URLs retained as metadata; live Safari display not verified."
     },
     "frontDescription": "Retrato de Shaul Tchernichovsky.",
     "frontDescriptionEn": "Portrait of Shaul Tchernichovsky.",
     "backDescription": "Columna corintia",
-    "backDescriptionEn": "Corinthian column"
+    "backDescriptionEn": "Corinthian column",
+    "officialPage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
   },
   {
     "id": "il-100",
@@ -5542,27 +5556,34 @@
     "series": "Tercera serie (2014–2017)",
     "seriesEn": "Third series (2014–2017)",
     "imageStatus": "curated",
-    "reviewedAt": "2026-11-24",
+    "reviewedAt": "2026-11-26",
     "fact": "Los cuatro billetes de la serie homenajean a poetas.",
     "factEn": "All four notes in the series honor poets.",
     "photos": {
-      "front": "https://www.boi.org.il/media/fm3nst5k/100_nis_front.jpg?width=820",
-      "back": "https://www.boi.org.il/media/k1wf2xtn/100_nis_back.jpg?width=820",
+      "front": "https://www.boi.org.il/media/akud3sgy/nis-100-front.png?width=540",
+      "back": "https://www.boi.org.il/media/xb5pflah/nis-100-back.png?width=540",
       "provider": "Bank of Israel",
-      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "sourcePage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/",
       "verified": true,
       "display": "individual_images",
       "sourceType": "official_reference",
       "visualReview": {
-        "date": "2026-11-24",
+        "date": "2026-11-26",
         "front": "confirmed_source_image",
         "back": "confirmed_source_image"
-      }
+      },
+      "previousReferences": {
+        "front": "https://www.boi.org.il/media/fm3nst5k/100_nis_front.jpg?width=820",
+        "back": "https://www.boi.org.il/media/k1wf2xtn/100_nis_back.jpg?width=820",
+        "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/"
+      },
+      "note": "Official specimen previews; both opened and visually inspected. Previous URLs retained as metadata; live Safari display not verified."
     },
     "frontDescription": "Retrato de Leah Goldberg.",
     "frontDescriptionEn": "Portrait of Leah Goldberg.",
     "backDescription": "Un grupo de ciervas",
-    "backDescriptionEn": "A group of does"
+    "backDescriptionEn": "A group of does",
+    "officialPage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
   },
   {
     "id": "il-200",
@@ -5571,27 +5592,34 @@
     "series": "Tercera serie (2014–2017)",
     "seriesEn": "Third series (2014–2017)",
     "imageStatus": "curated",
-    "reviewedAt": "2026-11-24",
+    "reviewedAt": "2026-11-26",
     "fact": "Los cuatro billetes de la serie homenajean a poetas.",
     "factEn": "All four notes in the series honor poets.",
     "photos": {
-      "front": "https://www.boi.org.il/media/geajlhxt/200_nis_front.jpg?width=820",
-      "back": "https://www.boi.org.il/media/b1rhwzjg/200_nis_back.jpg?width=820",
+      "front": "https://www.boi.org.il/media/kz1cmbuf/%D7%A6%D7%93-%D7%94%D7%A4%D7%A0%D7%99%D7%9D-200.jpg?width=540",
+      "back": "https://www.boi.org.il/media/yaeag2da/%D7%A6%D7%93-%D7%94%D7%92%D7%91-200.jpg?width=540",
       "provider": "Bank of Israel",
-      "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "sourcePage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/",
       "verified": true,
       "display": "individual_images",
       "sourceType": "official_reference",
       "visualReview": {
-        "date": "2026-11-24",
+        "date": "2026-11-26",
         "front": "confirmed_source_image",
         "back": "confirmed_source_image"
-      }
+      },
+      "previousReferences": {
+        "front": "https://www.boi.org.il/media/geajlhxt/200_nis_front.jpg?width=820",
+        "back": "https://www.boi.org.il/media/b1rhwzjg/200_nis_back.jpg?width=820",
+        "sourcePage": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/"
+      },
+      "note": "Official specimen previews; both opened and visually inspected. Previous URLs retained as metadata; live Safari display not verified."
     },
     "frontDescription": "Retrato de Nathan Alterman.",
     "frontDescriptionEn": "Portrait of Nathan Alterman.",
     "backDescription": "Vegetación nocturna",
-    "backDescriptionEn": "Moonlit flora"
+    "backDescriptionEn": "Moonlit flora",
+    "officialPage": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
   },
   {
     "id": "ae-5",
@@ -17782,11 +17810,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 20 som 2024.jpg",
+      "back": "Reverse 20 som 2024.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_20_som_2024.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_20_som_2024.jpg"
+    }
   },
   {
     "id": "kg-50",
@@ -17795,11 +17842,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 50 som 2024.jpg",
+      "back": "Reverse 50 som 2024.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_50_som_2024.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_50_som_2024.jpg"
+    }
   },
   {
     "id": "kg-100",
@@ -17808,11 +17874,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 100 som 2024.jpg",
+      "back": "Reverse 100 som 2024.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_100_som_2024.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_100_som_2024.jpg"
+    }
   },
   {
     "id": "kg-200",
@@ -17821,11 +17906,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 200 som 2023.jpg",
+      "back": "Reverse 200 som 2023.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_200_som_2023.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_200_som_2023.jpg"
+    }
   },
   {
     "id": "kg-500",
@@ -17834,11 +17938,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 500 som 2023.jpg",
+      "back": "Reverse 500 som 2023.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_500_som_2023.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_500_som_2023.jpg"
+    }
   },
   {
     "id": "kg-1000",
@@ -17847,11 +17970,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 1000 som 2023.jpg",
+      "back": "Reverse 1000 som 2023.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_1000_som_2023.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_1000_som_2023.jpg"
+    }
   },
   {
     "id": "kg-5000",
@@ -17860,11 +18002,30 @@
     "series": "Quinta serie · 2023–2024",
     "seriesEn": "Fifth series · 2023–2024",
     "referencePage": "https://www.nbkr.kg/newsout.jsp?item=31&lang=ENG&material=118332",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "La quinta serie refleja el patrimonio histórico y cultural del país.",
     "factEn": "The fifth series reflects the country's historical and cultural heritage.",
-    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG"
+    "officialPage": "https://www.nbkr.kg/index1.jsp?item=146&lang=ENG",
+    "photos": {
+      "front": "Obverse 5000 som 2024.jpg",
+      "back": "Reverse 5000 som 2024.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Kyrgyzstan,_5th_series",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Fifth series; exact filenames from gallery. Later 2026 reprints of 20 and 50 retain design. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Obverse_5000_som_2024.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Reverse_5000_som_2024.jpg"
+    }
   },
   {
     "id": "tj-1",
@@ -18281,10 +18442,29 @@
     "series": "Selección de emisiones modernas",
     "seriesEn": "Selection of modern issues",
     "referencePage": "https://sites.google.com/view/banknotesdirectory/home/laos",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El kip es la unidad monetaria de Laos.",
-    "factEn": "The kip is the monetary unit of Laos."
+    "factEn": "The kip is the monetary unit of Laos.",
+    "photos": {
+      "front": "1000 Laotian kip in 2003 Obverse.jpg",
+      "back": "1000 Laotian kip in 2003 Reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:1000_kips_banknotes_of_Laos",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier modern issue; current legal-tender status of specific print date not independently checked. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:1000_Laotian_kip_in_2003_Obverse.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:1000_Laotian_kip_in_2003_Reverse.jpg"
+    }
   },
   {
     "id": "la-2000",
@@ -18293,10 +18473,29 @@
     "series": "Selección de emisiones modernas",
     "seriesEn": "Selection of modern issues",
     "referencePage": "https://sites.google.com/view/banknotesdirectory/home/laos",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El kip es la unidad monetaria de Laos.",
-    "factEn": "The kip is the monetary unit of Laos."
+    "factEn": "The kip is the monetary unit of Laos.",
+    "photos": {
+      "front": "2000 Laotian kip in 2011 Obverse.jpg",
+      "back": "2000 Laotian kip in 2011 Reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:2000_kips_banknotes_of_Laos",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier modern issue; current legal-tender status of specific print date not independently checked. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:2000_Laotian_kip_in_2011_Obverse.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:2000_Laotian_kip_in_2011_Reverse.jpg"
+    }
   },
   {
     "id": "la-5000",
@@ -18305,10 +18504,29 @@
     "series": "Selección de emisiones modernas",
     "seriesEn": "Selection of modern issues",
     "referencePage": "https://sites.google.com/view/banknotesdirectory/home/laos",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El kip es la unidad monetaria de Laos.",
-    "factEn": "The kip is the monetary unit of Laos."
+    "factEn": "The kip is the monetary unit of Laos.",
+    "photos": {
+      "front": "5000 Laotian kip in 2003 Obverse.jpg",
+      "back": "5000 Laotian kip in 2003 Reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:5000_kips_banknotes_of_Laos",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier modern issue; current legal-tender status of specific print date not independently checked. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:5000_Laotian_kip_in_2003_Obverse.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:5000_Laotian_kip_in_2003_Reverse.jpg"
+    }
   },
   {
     "id": "la-10000",
@@ -18317,10 +18535,29 @@
     "series": "Selección de emisiones modernas",
     "seriesEn": "Selection of modern issues",
     "referencePage": "https://sites.google.com/view/banknotesdirectory/home/laos",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El kip es la unidad monetaria de Laos.",
-    "factEn": "The kip is the monetary unit of Laos."
+    "factEn": "The kip is the monetary unit of Laos.",
+    "photos": {
+      "front": "10000 Laotian kip in 2002 Obverse.jpg",
+      "back": "10000 Laotian kip in 2002 Reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:10000_kips_banknotes_of_Laos",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier modern issue; current legal-tender status of specific print date not independently checked. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:10000_Laotian_kip_in_2002_Obverse.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:10000_Laotian_kip_in_2002_Reverse.jpg"
+    }
   },
   {
     "id": "la-20000",
@@ -18365,11 +18602,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/1f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/1b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "León simbólico",
+    "frontDescriptionEn": "Symbolic lion",
+    "backDescription": "Símbolo Soyombo",
+    "backDescriptionEn": "Soyombo symbol"
   },
   {
     "id": "mn-5",
@@ -18378,11 +18634,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/5f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/5b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Damdin Sükhbaatar",
+    "frontDescriptionEn": "Portrait of Damdin Sükhbaatar",
+    "backDescription": "Caballos en la estepa",
+    "backDescriptionEn": "Horses on the steppe"
   },
   {
     "id": "mn-10",
@@ -18391,11 +18666,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/10f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/10b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Damdin Sükhbaatar",
+    "frontDescriptionEn": "Portrait of Damdin Sükhbaatar",
+    "backDescription": "Caballos en la estepa",
+    "backDescriptionEn": "Horses on the steppe"
   },
   {
     "id": "mn-20",
@@ -18404,11 +18698,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/20f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/20b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Damdin Sükhbaatar",
+    "frontDescriptionEn": "Portrait of Damdin Sükhbaatar",
+    "backDescription": "Caballos en la estepa",
+    "backDescriptionEn": "Horses on the steppe"
   },
   {
     "id": "mn-50",
@@ -18417,11 +18730,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/50f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/50b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Damdin Sükhbaatar",
+    "frontDescriptionEn": "Portrait of Damdin Sükhbaatar",
+    "backDescription": "Caballos en la estepa",
+    "backDescriptionEn": "Horses on the steppe"
   },
   {
     "id": "mn-100",
@@ -18430,11 +18762,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/100f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/100b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Damdin Sükhbaatar",
+    "frontDescriptionEn": "Portrait of Damdin Sükhbaatar",
+    "backDescription": "Caballos en la estepa",
+    "backDescriptionEn": "Horses on the steppe"
   },
   {
     "id": "mn-500",
@@ -18443,11 +18794,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/500f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/500b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Gengis Kan / Chinggis Khaan",
+    "frontDescriptionEn": "Portrait of Gengis Kan / Chinggis Khaan",
+    "backDescription": "Carro tradicional",
+    "backDescriptionEn": "Traditional carriage"
   },
   {
     "id": "mn-1000",
@@ -18456,11 +18826,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/1000f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/1000b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Gengis Kan / Chinggis Khaan",
+    "frontDescriptionEn": "Portrait of Gengis Kan / Chinggis Khaan",
+    "backDescription": "Carro tradicional",
+    "backDescriptionEn": "Traditional carriage"
   },
   {
     "id": "mn-5000",
@@ -18469,11 +18858,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/5000f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/5000b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Gengis Kan / Chinggis Khaan",
+    "frontDescriptionEn": "Portrait of Gengis Kan / Chinggis Khaan",
+    "backDescription": "Ciudad histórica de Karakórum",
+    "backDescriptionEn": "Historic city of Kharkhorin"
   },
   {
     "id": "mn-10000",
@@ -18482,11 +18890,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/10000f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/10000b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Gengis Kan / Chinggis Khaan",
+    "frontDescriptionEn": "Portrait of Gengis Kan / Chinggis Khaan",
+    "backDescription": "Ciudad histórica de Karakórum",
+    "backDescriptionEn": "Historic city of Kharkhorin"
   },
   {
     "id": "mn-20000",
@@ -18495,11 +18922,30 @@
     "series": "Billetes en circulación · distintas emisiones",
     "seriesEn": "Circulating notes · various issues",
     "referencePage": "https://www.mongolbank.mn/en/p/1416",
-    "imageStatus": "pending",
-    "reviewedAt": "2026-11-25",
+    "imageStatus": "curated",
+    "reviewedAt": "2026-11-26",
     "fact": "El tugrik cuenta con billetes de valores muy diferentes, desde 1 hasta 20,000.",
     "factEn": "The tögrög has banknotes ranging from 1 to 20,000.",
-    "officialPage": "https://www.mongolbank.mn/en/p/1416"
+    "officialPage": "https://www.mongolbank.mn/en/banknote",
+    "photos": {
+      "front": "https://www.mongolbank.mn/images/banknotes/20000f.png",
+      "back": "https://www.mongolbank.mn/images/banknotes/20000b.png",
+      "provider": "Bank of Mongolia",
+      "sourcePage": "https://www.mongolbank.mn/en/banknote",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Official specimen images; markings retained. Both source images opened and inspected. Browser display not tested."
+    },
+    "frontDescription": "Retrato de Gengis Kan / Chinggis Khaan",
+    "frontDescriptionEn": "Portrait of Gengis Kan / Chinggis Khaan",
+    "backDescription": "Estandarte estatal de nueve colas blancas",
+    "backDescriptionEn": "State nine-white banner"
   },
   {
     "id": "dz-200",
@@ -19686,10 +20132,29 @@
     "seriesEn": "Current family · upgraded issues",
     "officialPage": "https://centralbank.org.ls/currency/",
     "referencePage": "https://banknotenews.com/?tag=lesotho",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El emisor publica cinco valores en maloti y también distribuye rands sudafricanos para la circulación local.",
-    "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation."
+    "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation.",
+    "photos": {
+      "front": "Lesotho 10 maloti 2015 averse.jpg",
+      "back": "Lesotho 10 maloti 2015 reverse.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Lesotho",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier issue of modern series; lower-resolution reference. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Lesotho_10_maloti_2015_averse.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Lesotho_10_maloti_2015_reverse.jpg"
+    }
   },
   {
     "id": "ls-20",
@@ -19725,10 +20190,29 @@
     "seriesEn": "Current family · upgraded issues",
     "officialPage": "https://centralbank.org.ls/currency/",
     "referencePage": "https://banknotenews.com/?tag=lesotho",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El emisor publica cinco valores en maloti y también distribuye rands sudafricanos para la circulación local.",
-    "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation."
+    "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation.",
+    "photos": {
+      "front": "Lesotho 100 maloti averse 2013.jpg",
+      "back": "Lesotho 100 maloti reverse 2013.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Lesotho",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier issue of modern series; lower-resolution reference. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Lesotho_100_maloti_averse_2013.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Lesotho_100_maloti_reverse_2013.jpg"
+    }
   },
   {
     "id": "ls-200",
@@ -19738,10 +20222,29 @@
     "seriesEn": "Current family · upgraded issues",
     "officialPage": "https://centralbank.org.ls/currency/",
     "referencePage": "https://banknotenews.com/?tag=lesotho",
-    "imageStatus": "official_reference_only",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El emisor publica cinco valores en maloti y también distribuye rands sudafricanos para la circulación local.",
-    "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation."
+    "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation.",
+    "photos": {
+      "front": "Lesotho 200 maloti averse 2015.jpg",
+      "back": "Lesotho 200 maloti reverse 2015.jpg",
+      "provider": "Wikimedia Commons",
+      "sourcePage": "https://commons.wikimedia.org/wiki/Category:Banknotes_of_Lesotho",
+      "verified": false,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "listed_source_image",
+        "back": "listed_source_image"
+      },
+      "note": "Earlier issue of modern series; lower-resolution reference. Exact filenames listed in source; individual image retrieval and visual review pending. Browser display not tested."
+    },
+    "photoSources": {
+      "front": "https://commons.wikimedia.org/wiki/File:Lesotho_200_maloti_averse_2015.jpg",
+      "back": "https://commons.wikimedia.org/wiki/File:Lesotho_200_maloti_reverse_2015.jpg"
+    }
   },
   {
     "id": "sz-10",

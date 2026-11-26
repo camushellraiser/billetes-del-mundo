@@ -176,6 +176,15 @@
       "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/",
       "fact": "La galería oficial incluye valores poco habituales de 25 y 250 gourdes; varios reversos muestran fortificaciones históricas.",
       "factEn": "The official gallery includes unusual 25- and 250-gourde denominations; several backs depict historic fortifications."
+    },
+    "mn": {
+      "issuer": "Banco de Mongolia",
+      "issuerEn": "Bank of Mongolia",
+      "materials": "Algodón",
+      "materialsEn": "Cotton",
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "fact": "Los valores de 5 a 100 tögrög muestran a Sükhbaatar; los de 500 a 20,000 presentan a Gengis Kan.",
+      "factEn": "The 5 to 100 tögrög notes feature Sükhbaatar; the 500 to 20,000 notes feature Chinggis Khaan."
     }
   },
   "notes": {
@@ -960,6 +969,245 @@
       "firstIssued": "2016-07-01",
       "orientation": "h",
       "source": "https://banknotenews.com/?p=5663"
+    },
+    "il-20": {
+      "dimensions": [
+        129,
+        71
+      ],
+      "color": [
+        "Rojo",
+        "Red"
+      ],
+      "firstIssued": "2017",
+      "orientation": "h",
+      "source": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
+    },
+    "il-50": {
+      "dimensions": [
+        136,
+        71
+      ],
+      "color": [
+        "Verde",
+        "Green"
+      ],
+      "firstIssued": "2014-09-16",
+      "orientation": "h",
+      "source": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
+    },
+    "il-100": {
+      "dimensions": [
+        143,
+        71
+      ],
+      "color": [
+        "Naranja",
+        "Orange"
+      ],
+      "firstIssued": "2017",
+      "orientation": "h",
+      "source": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
+    },
+    "il-200": {
+      "dimensions": [
+        150,
+        71
+      ],
+      "color": [
+        "Azul",
+        "Blue"
+      ],
+      "firstIssued": "2015",
+      "orientation": "h",
+      "source": "https://www.boi.org.il/en/economic-roles/banknotes-and-coins/third-series-of-the-new-shekel-2014/"
+    },
+    "mn-1": {
+      "dimensions": [
+        115,
+        57
+      ],
+      "color": [
+        "Marrón claro",
+        "Light brown"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-5": {
+      "dimensions": [
+        120,
+        59
+      ],
+      "color": [
+        "Rojo",
+        "Red"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-10": {
+      "dimensions": [
+        125,
+        61
+      ],
+      "color": [
+        "Verde oscuro",
+        "Dark green"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-20": {
+      "dimensions": [
+        130,
+        64
+      ],
+      "color": [
+        "Rojo oscuro",
+        "Dark red"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-50": {
+      "dimensions": [
+        135,
+        66
+      ],
+      "color": [
+        "Marrón",
+        "Brown"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-100": {
+      "dimensions": [
+        140,
+        68
+      ],
+      "color": [
+        "Marrón violeta",
+        "Violet brown"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-500": {
+      "dimensions": [
+        145,
+        72
+      ],
+      "color": [
+        "Verde y marrón oliva",
+        "Olive green and brown"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-1000": {
+      "dimensions": [
+        150,
+        72
+      ],
+      "color": [
+        "Azul",
+        "Blue"
+      ],
+      "firstIssued": "1993",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-5000": {
+      "dimensions": [
+        150,
+        72
+      ],
+      "color": [
+        "Rojo violeta",
+        "Violet red"
+      ],
+      "firstIssued": "1995",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-10000": {
+      "dimensions": [
+        150,
+        72
+      ],
+      "color": [
+        "Verde y naranja",
+        "Green and orange"
+      ],
+      "firstIssued": "1995",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
+    },
+    "mn-20000": {
+      "dimensions": [
+        150,
+        72
+      ],
+      "color": [
+        "Verde",
+        "Green"
+      ],
+      "firstIssued": "2006",
+      "orientation": "h",
+      "material": [
+        "Algodón",
+        "Cotton"
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote"
     }
   },
   "portraits": {
@@ -4237,6 +4485,155 @@
       "reviewedAt": "2026-11-26",
       "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
       "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "mn-1": {
+      "kind": "symbolic",
+      "people": [],
+      "es": "El motivo principal es un león simbólico; no hay retrato humano principal.",
+      "en": "The main motif is a symbolic lion; no main human portrait.",
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Damdin Sükhbaatar",
+          "side": "front",
+          "es": "Dirigente de la revolución mongola de 1921.",
+          "en": "Leader of the Mongolian revolution of 1921."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Damdin Sükhbaatar",
+          "side": "front",
+          "es": "Dirigente de la revolución mongola de 1921.",
+          "en": "Leader of the Mongolian revolution of 1921."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Damdin Sükhbaatar",
+          "side": "front",
+          "es": "Dirigente de la revolución mongola de 1921.",
+          "en": "Leader of the Mongolian revolution of 1921."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Damdin Sükhbaatar",
+          "side": "front",
+          "es": "Dirigente de la revolución mongola de 1921.",
+          "en": "Leader of the Mongolian revolution of 1921."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Damdin Sükhbaatar",
+          "side": "front",
+          "es": "Dirigente de la revolución mongola de 1921.",
+          "en": "Leader of the Mongolian revolution of 1921."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gengis Kan / Chinggis Khaan",
+          "side": "front",
+          "es": "Fundador del Imperio mongol en 1206.",
+          "en": "Founder of the Mongol Empire in 1206."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gengis Kan / Chinggis Khaan",
+          "side": "front",
+          "es": "Fundador del Imperio mongol en 1206.",
+          "en": "Founder of the Mongol Empire in 1206."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gengis Kan / Chinggis Khaan",
+          "side": "front",
+          "es": "Fundador del Imperio mongol en 1206.",
+          "en": "Founder of the Mongol Empire in 1206."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gengis Kan / Chinggis Khaan",
+          "side": "front",
+          "es": "Fundador del Imperio mongol en 1206.",
+          "en": "Founder of the Mongol Empire in 1206."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mn-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gengis Kan / Chinggis Khaan",
+          "side": "front",
+          "es": "Fundador del Imperio mongol en 1206.",
+          "en": "Founder of the Mongol Empire in 1206."
+        }
+      ],
+      "source": "https://www.mongolbank.mn/en/banknote",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
     }
   }
 }
