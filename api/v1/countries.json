@@ -2364,11 +2364,11 @@
     ],
     "series": "Gama 2020 · BEAC",
     "seriesEn": "2020 series · BEAC",
-    "funFact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BEAC emite esta serie regional para seis países. Sus diseños son compartidos; la fotografía no representa una emisión nacional exclusiva.",
+    "funFactEn": "BEAC issues this regional series for six countries. Designs are shared; the photo does not represent an exclusive national issue.",
     "officialSource": "https://www.beac.int/accueil/billets-gamme-2020/",
     "color": "#b58d66",
-    "previewNoteId": "cm-1000",
+    "previewNoteId": "cm-500",
     "sharedCurrency": true
   },
   {
@@ -2391,8 +2391,8 @@
     ],
     "series": "Gama 2020 · BEAC",
     "seriesEn": "2020 series · BEAC",
-    "funFact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BEAC emite esta serie regional para seis países. Sus diseños son compartidos; la fotografía no representa una emisión nacional exclusiva.",
+    "funFactEn": "BEAC issues this regional series for six countries. Designs are shared; the photo does not represent an exclusive national issue.",
     "officialSource": "https://www.beac.int/accueil/billets-gamme-2020/",
     "color": "#b58d66",
     "previewNoteId": "td-1000",
@@ -2418,11 +2418,11 @@
     ],
     "series": "Gama 2020 · BEAC",
     "seriesEn": "2020 series · BEAC",
-    "funFact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BEAC emite esta serie regional para seis países. Sus diseños son compartidos; la fotografía no representa una emisión nacional exclusiva.",
+    "funFactEn": "BEAC issues this regional series for six countries. Designs are shared; the photo does not represent an exclusive national issue.",
     "officialSource": "https://www.beac.int/accueil/billets-gamme-2020/",
     "color": "#b58d66",
-    "previewNoteId": "ga-1000",
+    "previewNoteId": "ga-2000",
     "sharedCurrency": true
   },
   {
@@ -2445,11 +2445,11 @@
     ],
     "series": "Gama 2020 · BEAC",
     "seriesEn": "2020 series · BEAC",
-    "funFact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BEAC emite esta serie regional para seis países. Sus diseños son compartidos; la fotografía no representa una emisión nacional exclusiva.",
+    "funFactEn": "BEAC issues this regional series for six countries. Designs are shared; the photo does not represent an exclusive national issue.",
     "officialSource": "https://www.beac.int/accueil/billets-gamme-2020/",
     "color": "#b58d66",
-    "previewNoteId": "cg-1000",
+    "previewNoteId": "cg-5000",
     "sharedCurrency": true
   },
   {
@@ -2472,11 +2472,11 @@
     ],
     "series": "Gama 2020 · BEAC",
     "seriesEn": "2020 series · BEAC",
-    "funFact": "Este país comparte el franco cfa de áfrica central con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the Central African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BEAC emite esta serie regional para seis países. Sus diseños son compartidos; la fotografía no representa una emisión nacional exclusiva.",
+    "funFactEn": "BEAC issues this regional series for six countries. Designs are shared; the photo does not represent an exclusive national issue.",
     "officialSource": "https://www.beac.int/accueil/billets-gamme-2020/",
     "color": "#b58d66",
-    "previewNoteId": "gq-1000",
+    "previewNoteId": "gq-10000",
     "sharedCurrency": true
   },
   {
@@ -2499,12 +2499,13 @@
     ],
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
-    "funFact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BCEAO emite billetes compartidos por ocho países. La letra K identifica la asignación a Senegal; también circulan billetes de los demás miembros.",
+    "funFactEn": "BCEAO issues banknotes shared by eight countries. Letter K identifies allocation to Senegal; notes of other members also circulate.",
     "officialSource": "https://www.bceao.int/fr/content/billets-et-pieces",
     "color": "#779b83",
     "previewNoteId": "sn-1000",
-    "sharedCurrency": true
+    "sharedCurrency": true,
+    "countryCode": "K"
   },
   {
     "id": "ci",
@@ -2526,12 +2527,13 @@
     ],
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
-    "funFact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BCEAO emite billetes compartidos por ocho países. La letra A identifica la asignación a Costa de Marfil; también circulan billetes de los demás miembros.",
+    "funFactEn": "BCEAO issues banknotes shared by eight countries. Letter A identifies allocation to Côte d’Ivoire; notes of other members also circulate.",
     "officialSource": "https://www.bceao.int/fr/content/billets-et-pieces",
     "color": "#779b83",
     "previewNoteId": "ci-1000",
-    "sharedCurrency": true
+    "sharedCurrency": true,
+    "countryCode": "A"
   },
   {
     "id": "bj",
@@ -2553,12 +2555,13 @@
     ],
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
-    "funFact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BCEAO emite billetes compartidos por ocho países. La letra B identifica la asignación a Benín; también circulan billetes de los demás miembros.",
+    "funFactEn": "BCEAO issues banknotes shared by eight countries. Letter B identifies allocation to Benin; notes of other members also circulate.",
     "officialSource": "https://www.bceao.int/fr/content/billets-et-pieces",
     "color": "#779b83",
     "previewNoteId": "bj-1000",
-    "sharedCurrency": true
+    "sharedCurrency": true,
+    "countryCode": "B"
   },
   {
     "id": "tg",
@@ -2580,12 +2583,13 @@
     ],
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
-    "funFact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BCEAO emite billetes compartidos por ocho países. La letra T identifica la asignación a Togo; también circulan billetes de los demás miembros.",
+    "funFactEn": "BCEAO issues banknotes shared by eight countries. Letter T identifies allocation to Togo; notes of other members also circulate.",
     "officialSource": "https://www.bceao.int/fr/content/billets-et-pieces",
     "color": "#779b83",
     "previewNoteId": "tg-1000",
-    "sharedCurrency": true
+    "sharedCurrency": true,
+    "countryCode": "T"
   },
   {
     "id": "ml",
@@ -2607,11 +2611,12 @@
     ],
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
-    "funFact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país.",
-    "funFactEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs.",
+    "funFact": "La BCEAO emite billetes compartidos por ocho países. La letra D identifica la asignación a Malí; también circulan billetes de los demás miembros.",
+    "funFactEn": "BCEAO issues banknotes shared by eight countries. Letter D identifies allocation to Mali; notes of other members also circulate.",
     "officialSource": "https://www.bceao.int/fr/content/billets-et-pieces",
     "color": "#779b83",
     "previewNoteId": "ml-1000",
-    "sharedCurrency": true
+    "sharedCurrency": true,
+    "countryCode": "D"
   }
 ]

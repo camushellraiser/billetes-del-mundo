@@ -16777,8 +16777,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "K",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": false
   },
   {
     "id": "sn-1000",
@@ -16787,27 +16790,30 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50708",
+    "referencePage": "https://banknotenews.com/?p=48474",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2025/11/West_African_States_BC_1000_francs_2025.00.00_B121Ky_P715K_25690320077_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/11/West_African_States_BC_1000_francs_2025.00.00_B121Ky_P715K_25690320077_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50708",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=48474",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Both publisher images inspected; matching country code. Live dashboard rendering not tested."
+    },
+    "expectedCountryCode": "K",
+    "photoCountryCode": "K",
+    "nationalCodeMatch": true
   },
   {
     "id": "sn-2000",
@@ -16835,8 +16841,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "K",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": false
   },
   {
     "id": "sn-5000",
@@ -16864,8 +16873,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Publisher-listed matching country code; visual availability not independently confirmed."
+    },
+    "expectedCountryCode": "K",
+    "photoCountryCode": "K",
+    "nationalCodeMatch": true
   },
   {
     "id": "sn-10000",
@@ -16893,8 +16905,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "K",
+    "photoCountryCode": "S",
+    "nationalCodeMatch": false
   },
   {
     "id": "ci-500",
@@ -16922,8 +16937,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Publisher-listed matching country code; visual availability not independently confirmed."
+    },
+    "expectedCountryCode": "A",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": true
   },
   {
     "id": "ci-1000",
@@ -16951,8 +16969,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Publisher-listed matching country code; visual availability not independently confirmed."
+    },
+    "expectedCountryCode": "A",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": true
   },
   {
     "id": "ci-2000",
@@ -16980,8 +17001,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Publisher-listed matching country code; visual availability not independently confirmed."
+    },
+    "expectedCountryCode": "A",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": true
   },
   {
     "id": "ci-5000",
@@ -17009,8 +17033,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "A",
+    "photoCountryCode": "K",
+    "nationalCodeMatch": false
   },
   {
     "id": "ci-10000",
@@ -17038,8 +17065,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "A",
+    "photoCountryCode": "S",
+    "nationalCodeMatch": false
   },
   {
     "id": "bj-500",
@@ -17048,27 +17078,30 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=51728",
+    "referencePage": "https://banknotenews.com/?p=51236",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_500_francs_2026.00.00_B120Bo_P219B_26010355358_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_500_francs_2026.00.00_B120Bo_P219B_26010355358_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=51728",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=51236",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Both publisher images inspected; matching country code. Live dashboard rendering not tested."
+    },
+    "expectedCountryCode": "B",
+    "photoCountryCode": "B",
+    "nationalCodeMatch": true
   },
   {
     "id": "bj-1000",
@@ -17077,27 +17110,30 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50708",
+    "referencePage": "https://banknotenews.com/?p=51240",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_1000_francs_2026.00.00_B121Bz_P215B_26006444279_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/09/West_African_States_BC_1000_francs_2026.00.00_B121Bz_P215B_26006444279_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50708",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=51240",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Both publisher images inspected; matching country code. Live dashboard rendering not tested."
+    },
+    "expectedCountryCode": "B",
+    "photoCountryCode": "B",
+    "nationalCodeMatch": true
   },
   {
     "id": "bj-2000",
@@ -17106,27 +17142,30 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50712",
+    "referencePage": "https://banknotenews.com/?p=50101",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_2000_francs_2025.00.00_B122By_P216B_25012348747_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_2000_francs_2025.00.00_B122By_P216B_25012348747_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50712",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=50101",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Both publisher images inspected; matching country code. Live dashboard rendering not tested."
+    },
+    "expectedCountryCode": "B",
+    "photoCountryCode": "B",
+    "nationalCodeMatch": true
   },
   {
     "id": "bj-5000",
@@ -17154,8 +17193,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "B",
+    "photoCountryCode": "K",
+    "nationalCodeMatch": false
   },
   {
     "id": "bj-10000",
@@ -17183,8 +17225,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "B",
+    "photoCountryCode": "S",
+    "nationalCodeMatch": false
   },
   {
     "id": "tg-500",
@@ -17212,8 +17257,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "T",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": false
   },
   {
     "id": "tg-1000",
@@ -17222,27 +17270,30 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50708",
+    "referencePage": "https://banknotenews.com/?p=49659",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_1000_francs_2026.00.00_B121Tz_P815T_26801406008_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_1000_francs_2026.00.00_B121Tz_P815T_26801406008_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50708",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=49659",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Both publisher images inspected; matching country code. Live dashboard rendering not tested."
+    },
+    "expectedCountryCode": "T",
+    "photoCountryCode": "T",
+    "nationalCodeMatch": true
   },
   {
     "id": "tg-2000",
@@ -17270,8 +17321,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "T",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": false
   },
   {
     "id": "tg-5000",
@@ -17299,8 +17353,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "T",
+    "photoCountryCode": "K",
+    "nationalCodeMatch": false
   },
   {
     "id": "tg-10000",
@@ -17328,8 +17385,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "T",
+    "photoCountryCode": "S",
+    "nationalCodeMatch": false
   },
   {
     "id": "ml-500",
@@ -17357,8 +17417,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "D",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": false
   },
   {
     "id": "ml-1000",
@@ -17367,27 +17430,30 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50708",
+    "referencePage": "https://banknotenews.com/?p=47386",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Fauna de África Occidental.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: West African wildlife.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_1000_francs_2026.00.00_B121Az_P115A_26256923713_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2025/07/West_African_States_BC_1000_francs_2024.00.00_B121Dx_P415D_24512622355_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/07/West_African_States_BC_1000_francs_2024.00.00_B121Dx_P415D_24512622355_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50708",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=47386",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Both publisher images inspected; matching country code. Live dashboard rendering not tested."
+    },
+    "expectedCountryCode": "D",
+    "photoCountryCode": "D",
+    "nationalCodeMatch": true
   },
   {
     "id": "ml-2000",
@@ -17415,8 +17481,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "D",
+    "photoCountryCode": "A",
+    "nationalCodeMatch": false
   },
   {
     "id": "ml-5000",
@@ -17444,8 +17513,11 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "D",
+    "photoCountryCode": "K",
+    "nationalCodeMatch": false
   },
   {
     "id": "ml-10000",
@@ -17473,7 +17545,10 @@
         "front": "listed_source_image",
         "back": "listed_source_image"
       },
-      "note": "Shared regional XOF design. The specimen may bear another member country's identification code. Exact publisher links identified; one or both requests returned HTTP 429. Visual review incomplete. Dashboard rendering not tested."
-    }
+      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+    },
+    "expectedCountryCode": "D",
+    "photoCountryCode": "S",
+    "nationalCodeMatch": false
   }
 ]

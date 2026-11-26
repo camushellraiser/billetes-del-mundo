@@ -1,10 +1,10 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "lastReviewed": "2026-11-25",
   "countryCount": 100,
   "banknoteCount": 594,
-  "imagePolicy": "Ten sovereign countries added, 50 country-denomination records using 10 distinct shared CFA designs (XAF and XOF); all ten image pairs are publisher-listed but direct requests returned HTTP 429. Nine previously missing pairs registered; two visually confirmed on both sides, seven incomplete visual review. Ten old records still lack pairs. Browser rendering untested.",
+  "imagePolicy": "CFA shared currencies identified in UI; six XOF pairs replaced with visually inspected matching-code images. XOF badge counts matching national codes, not regional placeholders. XAF cards retain shared designs. Browser rendering untested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json"
@@ -118,7 +118,7 @@
   "contactSheetCroppedPairs": 109,
   "individualImagePairs": 475,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 260,
+  "sourceVisuallyConfirmedPairs": 266,
   "browserVerifiedPairs": null,
   "sharedCurrencyExpansion": {
     "countryRecords": 50,
@@ -126,6 +126,10 @@
     "currencies": [
       "XAF",
       "XOF"
-    ]
+    ],
+    "matchingXofCodePairs": 10,
+    "regionalXofFallbackPairs": 15,
+    "distinctRegionalDesignPairs": 10,
+    "newVisuallyReviewedNationalPairs": 6
   }
 }

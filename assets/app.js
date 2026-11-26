@@ -14,6 +14,8 @@ const noteFor=(countryId,value)=>state.notes.find(n=>n.countryId===countryId&&Nu
 const hasPictures=id=>state.notes.some(n=>n.countryId===id&&n.photos?.front&&n.photos?.back);
 const {fileUrl,load:loadPhoto,data:loadCatalog,prefetch}=window.BDMImages;
 const hasPair=n=>Boolean(n.photos?.front&&n.photos?.back);
+const regionalLabel=()=>state.lang==="es"?"Moneda compartida":"Shared currency";
+const variantLabel=(n)=>n?.sharedCurrency==="XOF"?(n.nationalCodeMatch?(state.lang==="es"?`Variante ${n.photoCountryCode} · código coincidente`:`Variant ${n.photoCountryCode} · matching code`):(state.lang==="es"?`Ejemplo regional (${n.photoCountryCode||"?"}) · variante ${n.expectedCountryCode} pendiente`:`Regional example (${n.photoCountryCode||"?"}) · variant ${n.expectedCountryCode} pending`)):n?.sharedCurrency==="XAF"?(state.lang==="es"?"Diseño regional BEAC":"BEAC regional design"):"";
 let gridGeneration=0;
 function warmCountry(c,n){if(!c)return;const rest=state.notes.filter(x=>x.countryId===c.id&&x.id!==n?.id);
  if(n?.photos)prefetch(n.photos[state.side==="front"?"back":"front"],1);
@@ -78,10 +80,11 @@ function renderGrid(){
  const list=listCountries();
  $("results-count").textContent=`${list.length} ${tr("resultUnit")}`;
  $("country-grid").innerHTML=list.map(c=>{
-  const photoCount=state.notes.filter(n=>n.countryId===c.id&&hasPair(n)).length;
+  const photoCount=state.notes.filter(n=>n.countryId===c.id&&hasPair(n)&&(c.currency!=="XOF"||n.nationalCodeMatch)).length;
+  const countLabel=c.currency==="XOF"?(state.lang==="es"?"Variantes con código coincidente":"Matching-code variants"):(state.lang==="es"?"Pares de imágenes de referencia":"Reference image pairs");
    const featured=state.notes.find(n=>n.id===c.previewNoteId&&n.countryId===c.id&&n.photos?.front)||state.notes.find(n=>n.countryId===c.id&&n.photos?.verified)||state.notes.find(n=>n.countryId===c.id&&hasPair(n));
   const preview=featured?`<span class="country-card-thumb" data-photo-id="${featured.id}" aria-hidden="true"></span>`:"";
-  return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" aria-label="${photoCount} de ${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span></span></button>`;
+  return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" title="${countLabel}" aria-label="${countLabel}: ${photoCount}/${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span>${c.sharedCurrency?`<span class="country-card-info">${regionalLabel()}${c.countryCode?` · ${c.countryCode}`:""}</span>`:""}</span></button>`;
  }).join("");
  $("empty-state").hidden=list.length>0;
  enhanceCardPhotos();
@@ -111,14 +114,14 @@ const c=state.country,n=state.note;if(!c||!n)return;
 $("crumb-country").textContent=name(c);
 $("detail-flag").textContent=c.flag;
 $("detail-country").textContent=name(c);
-$("detail-currency").textContent=`${currency(c)} · ${c.currency}`;
+$("detail-currency").textContent=`${currency(c)} · ${c.currency}${c.sharedCurrency?" · "+regionalLabel():""}${c.countryCode?" · "+c.countryCode:""}`;
 $("detail-series").textContent=state.lang==="en"?c.seriesEn:c.series;
 $("country-fact").textContent=state.lang==="en"?c.funFactEn:c.funFact;
 $("official-source").href=n.officialPage||c.officialSource;$("official-source").querySelector("[data-i18n]").textContent=n.officialPage?tr(c.id==="mx"?"officialPhoto":"officialBank"):tr("officialSource");
 $("note-count").textContent=`${String(c.denominations.indexOf(n.value)+1).padStart(2,"0")} / ${String(c.denominations.length).padStart(2,"0")}`;
 $("selected-denomination").textContent=pretty(c,n.value);
 $("selected-status").textContent=n.photos?tr("photoAvailable"):(n.officialPage?tr("officialReference"):tr("photoMissing"));
-$("denom-buttons").innerHTML=c.denominations.map(value=>{const item=noteFor(c.id,value);return `<button type="button" data-denom="${value}" data-has-photo="${!!item?.photos}" aria-pressed="${value===n.value}" class="denom-button ${value===n.value?"active":""}">${pretty(c,value)}</button>`;}).join("");
+$("denom-buttons").innerHTML=c.denominations.map(value=>{const item=noteFor(c.id,value);return `<button type="button" data-denom="${value}" data-has-photo="${!!item?.photos&&(c.currency!=="XOF"||item.nationalCodeMatch)}" title="${variantLabel(item)}" aria-pressed="${value===n.value}" class="denom-button ${value===n.value?"active":""}">${pretty(c,value)}</button>`;}).join("");
 renderPhoto();
 }
 function renderPhoto(){
@@ -147,7 +150,7 @@ $("placeholder-value").textContent=pretty(c,n.value);
 $("image-source").hidden=!has;
 const sourceUrl=has?(n.photoSources?.[state.side]||n.photos.sourcePage||commonsPage(n.photos[state.side])):"";
 const sourceLabel=has?(n.photos.provider||"Wikimedia Commons"):"";
-$("image-source").innerHTML=has?`${tr("imageSource")}: <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer">${sourceLabel} ↗</a>${n.photos.license?" · "+n.photos.license:""}`:"";
+$("image-source").innerHTML=has?`${tr("imageSource")}: <a href="${sourceUrl}" target="_blank" rel="noopener noreferrer">${sourceLabel} ↗</a>${n.photos.license?" · "+n.photos.license:""}${variantLabel(n)?" · "+variantLabel(n):""}`:"";
 const display=$("note-image");
 display.classList.toggle("specimen-required",Boolean(n.photos?.requiresSpecimen));
 display.replaceChildren();
