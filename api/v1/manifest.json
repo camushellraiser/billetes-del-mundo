@@ -1,6 +1,6 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.8.0",
+  "version": "2.8.1",
   "lastReviewed": "2026-11-25",
   "countryCount": 110,
   "banknoteCount": 671,
@@ -157,5 +157,10 @@
     "countriesWithEnrichedData": 10,
     "notesWithEnrichedData": 52,
     "map": "Natural Earth low resolution, simplified Robinson projection"
+  },
+  "uiPolish": {
+    "localizedScrollHint": true,
+    "protectedCoverageBadge": true,
+    "adjustedCoverPlacement": true
   }
 }
