@@ -1,13 +1,14 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.7.1",
+  "version": "2.8.0",
   "lastReviewed": "2026-11-25",
   "countryCount": 110,
   "banknoteCount": 671,
   "imagePolicy": "Ten independent-currency countries added; selected documented denominations, not an exhaustive legal-tender inventory. 15 official image pairs inspected visually and one Commons pair listed; remaining new photographs pending. Previous records unchanged. Browser rendering untested.",
   "endpoints": [
     "./api/v1/countries.json",
-    "./api/v1/banknotes.json"
+    "./api/v1/banknotes.json",
+    "./api/v1/technical.json"
   ],
   "officialDenominationReferences": 540,
   "pendingImagePairs": 71,
@@ -149,5 +150,12 @@
     "pageSize": 24,
     "allRegionsPaged": true,
     "cancelObsoleteCoverLoads": true
+  },
+  "numismaticProfiles": {
+    "countriesWithBaseProfile": 110,
+    "notesWithBaseProfile": 671,
+    "countriesWithEnrichedData": 10,
+    "notesWithEnrichedData": 52,
+    "map": "Natural Earth low resolution, simplified Robinson projection"
   }
 }

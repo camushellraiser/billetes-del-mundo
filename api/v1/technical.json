@@ -1,0 +1,565 @@
+{
+  "countries": {
+    "mx": {
+      "issuer": "Banco de México",
+      "issuerEn": "Bank of Mexico",
+      "materials": "Polímero y algodón",
+      "materialsEn": "Polymer and cotton",
+      "intro": "2018–2021",
+      "source": "https://blog.banxico.org.mx/blog/BlogBanxico/entry/nueva-familia-de-billetes-g",
+      "fact": "La familia G combina seis episodios históricos con seis ecosistemas mexicanos. Tres denominaciones son de polímero y tres de algodón.",
+      "factEn": "Family G pairs six historical periods with six Mexican ecosystems. Three denominations use polymer and three cotton."
+    },
+    "us": {
+      "issuer": "Reserva Federal",
+      "issuerEn": "Federal Reserve",
+      "materials": "75% algodón, 25% lino",
+      "materialsEn": "75% cotton, 25% linen",
+      "intro": null,
+      "source": "https://www.uscurrency.gov/about-us/currency-facts",
+      "fact": "Cada billete pesa aproximadamente un gramo, independientemente de su valor.",
+      "factEn": "A banknote weighs approximately one gram, regardless of its denomination."
+    },
+    "gb": {
+      "issuer": "Banco de Inglaterra",
+      "issuerEn": "Bank of England",
+      "materials": "Polímero",
+      "materialsEn": "Polymer",
+      "intro": null,
+      "source": "https://www.bankofengland.co.uk/banknotes/current-banknotes",
+      "fact": "Los retratos de Isabel II y Carlos III circulan simultáneamente en las mismas cuatro denominaciones. Esta colección corresponde al Banco de Inglaterra, no a todas las emisiones británicas.",
+      "factEn": "Elizabeth II and Charles III portraits coexist in the same four denominations. This collection covers Bank of England issues, not all UK issuers."
+    },
+    "fr": {
+      "issuer": "Eurosistema",
+      "issuerEn": "Eurosystem",
+      "materials": "Papel de fibra de algodón",
+      "materialsEn": "Cotton-fibre paper",
+      "intro": "2013–2019",
+      "source": "https://www.ecb.europa.eu/euro/banknotes/europa/html/index.en.html",
+      "fact": "La serie Europa se comparte entre los países del euro; sus puentes y ventanas representan estilos arquitectónicos. El billete de 500 euros de la primera serie conserva su valor, aunque no se emite en la serie Europa.",
+      "factEn": "The Europa series is shared across euro countries and uses architectural styles. The first-series €500 remains valuable but is not issued in the Europa series."
+    },
+    "ch": {
+      "issuer": "Banco Nacional Suizo",
+      "issuerEn": "Swiss National Bank",
+      "materials": "Sustrato compuesto Durasafe® de tres capas",
+      "materialsEn": "Three-layer Durasafe® composite substrate",
+      "intro": "2016–2019",
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle",
+      "fact": "La novena serie emplea un sustrato de tres capas, con seis denominaciones que llegan hasta 1,000 francos.",
+      "factEn": "The ninth series uses a three-layer substrate and comprises six denominations up to 1,000 francs."
+    },
+    "au": {
+      "issuer": "Banco de la Reserva de Australia",
+      "issuerEn": "Reserve Bank of Australia",
+      "materials": "Polímero",
+      "materialsEn": "Polymer",
+      "intro": null,
+      "source": "https://www.rba.gov.au/education/topics/banknotes/",
+      "fact": "Australia utiliza polímero en las cinco denominaciones de sus billetes; sus diseños actuales incluyen elementos táctiles para distinguir valores.",
+      "factEn": "Australia uses polymer for all five banknote denominations, with tactile features to help distinguish values."
+    },
+    "nz": {
+      "issuer": "Banco de la Reserva de Nueva Zelanda",
+      "issuerEn": "Reserve Bank of New Zealand",
+      "materials": "Polímero",
+      "materialsEn": "Polymer",
+      "intro": "2015–2016",
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/explore-banknote-features",
+      "fact": "La serie 7 combina retratos con aves autóctonas, como el whio y el kōkako.",
+      "factEn": "Series 7 combines portraits with native birds such as the whio and kōkako."
+    },
+    "jp": {
+      "issuer": "Banco de Japón",
+      "issuerEn": "Bank of Japan",
+      "materials": null,
+      "materialsEn": null,
+      "intro": "2024",
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/n_note/index.htm",
+      "fact": "La nueva serie de 2024 comprende tres valores; el reverso de 1,000 yenes representa la Gran Ola de Kanagawa. El billete de 2,000 yenes pertenece a otra emisión.",
+      "factEn": "The 2024 series has three values; the ¥1,000 reverse depicts the Great Wave off Kanagawa. The ¥2,000 note belongs to a different issue."
+    },
+    "no": {
+      "issuer": "Banco de Noruega",
+      "issuerEn": "Norges Bank",
+      "materials": "Papel de algodón",
+      "materialsEn": "Cotton paper",
+      "intro": "2017–2019",
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/",
+      "fact": "Los billetes de la serie VIII interpretan el vínculo con el mar mediante imágenes figurativas y motivos pixelados.",
+      "factEn": "Series VIII interprets the connection with the sea through figurative imagery and pixelated motifs."
+    },
+    "ca": {
+      "issuer": "Banco de Canadá",
+      "issuerEn": "Bank of Canada",
+      "materials": "Polímero",
+      "materialsEn": "Polymer",
+      "intro": null,
+      "source": "https://www.bankofcanada.ca/banknotes/",
+      "fact": "Los cinco valores se diferencian por color y elementos de accesibilidad; el billete vertical de 10 dólares tiene un formato distinto al de la serie horizontal.",
+      "factEn": "Five denominations are distinguished by colour and accessibility features; the vertical $10 differs in format from the horizontal series."
+    }
+  },
+  "notes": {
+    "mx-20": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "dimensions": [
+        120,
+        65
+      ],
+      "firstIssued": "2021-09-24",
+      "color": [
+        "Verde y rojo",
+        "Green and red"
+      ],
+      "orientation": "h",
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-20-pesos-conmemorat.html"
+    },
+    "mx-50": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "dimensions": [
+        125,
+        65
+      ],
+      "firstIssued": "2021-10-28",
+      "color": [
+        "Morado",
+        "Purple"
+      ],
+      "orientation": "v",
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-50-pesos-familia-g.html"
+    },
+    "mx-100": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "dimensions": [
+        132,
+        65
+      ],
+      "firstIssued": "2020-11-12",
+      "color": [
+        "Rojo",
+        "Red"
+      ],
+      "orientation": "v",
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-100-pesos-familia-g.html"
+    },
+    "mx-200": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "dimensions": [
+        139,
+        65
+      ],
+      "firstIssued": "2019-09-02",
+      "color": [
+        "Verde",
+        "Green"
+      ],
+      "orientation": "h",
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-200-pesos-familia-g.html"
+    },
+    "mx-500": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "dimensions": [
+        146,
+        65
+      ],
+      "firstIssued": "2018-08-27",
+      "color": [
+        "Azul",
+        "Blue"
+      ],
+      "orientation": "h",
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-500-pesos-familia-g-c.html"
+    },
+    "mx-1000": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "dimensions": [
+        153,
+        65
+      ],
+      "firstIssued": "2020-11-19",
+      "color": [
+        "Gris",
+        "Grey"
+      ],
+      "orientation": "h",
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-1000-pesos-familia-.html"
+    },
+    "us-1": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "us-2": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "us-5": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "us-10": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "us-20": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "us-50": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "us-100": {
+      "material": [
+        "75% algodón, 25% lino",
+        "75% cotton, 25% linen"
+      ],
+      "source": "https://www.uscurrency.gov/about-us/currency-facts"
+    },
+    "ca-5": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/"
+    },
+    "ca-10": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/"
+    },
+    "ca-20": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/"
+    },
+    "ca-50": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/"
+    },
+    "ca-100": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/"
+    },
+    "gb-5": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
+      "dimensions": [
+        125,
+        65
+      ],
+      "orientation": "h"
+    },
+    "gb-10": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
+      "dimensions": [
+        132,
+        69
+      ],
+      "orientation": "h"
+    },
+    "gb-20": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
+      "dimensions": [
+        139,
+        73
+      ],
+      "orientation": "h"
+    },
+    "gb-50": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/using-images-of-banknotes",
+      "dimensions": [
+        146,
+        77
+      ],
+      "orientation": "h"
+    },
+    "fr-5": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/design/html/index.en.html",
+      "color": [
+        "Gris",
+        "Grey"
+      ]
+    },
+    "fr-10": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/design/html/index.en.html",
+      "color": [
+        "Rojo",
+        "Red"
+      ]
+    },
+    "fr-20": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/design/html/index.en.html",
+      "color": [
+        "Azul",
+        "Blue"
+      ]
+    },
+    "fr-50": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/design/html/index.en.html",
+      "color": [
+        "Naranja",
+        "Orange"
+      ]
+    },
+    "fr-100": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/design/html/index.en.html",
+      "color": [
+        "Verde",
+        "Green"
+      ]
+    },
+    "fr-200": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/design/html/index.en.html",
+      "color": [
+        "Amarillo marrón",
+        "Yellow-brown"
+      ]
+    },
+    "ch-10": {
+      "material": [
+        "Durasafe®",
+        "Durasafe®"
+      ],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle"
+    },
+    "ch-20": {
+      "material": [
+        "Durasafe®",
+        "Durasafe®"
+      ],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle"
+    },
+    "ch-50": {
+      "material": [
+        "Durasafe®",
+        "Durasafe®"
+      ],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle"
+    },
+    "ch-100": {
+      "material": [
+        "Durasafe®",
+        "Durasafe®"
+      ],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle"
+    },
+    "ch-200": {
+      "material": [
+        "Durasafe®",
+        "Durasafe®"
+      ],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle"
+    },
+    "ch-1000": {
+      "material": [
+        "Durasafe®",
+        "Durasafe®"
+      ],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/lifecycle"
+    },
+    "no-50": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/"
+    },
+    "no-100": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/"
+    },
+    "no-200": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/"
+    },
+    "no-500": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/"
+    },
+    "no-1000": {
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/"
+    },
+    "au-5": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rba.gov.au/education/topics/banknotes/"
+    },
+    "au-10": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rba.gov.au/education/topics/banknotes/"
+    },
+    "au-20": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rba.gov.au/education/topics/banknotes/"
+    },
+    "au-50": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rba.gov.au/education/topics/banknotes/"
+    },
+    "au-100": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rba.gov.au/education/topics/banknotes/"
+    },
+    "nz-5": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/explore-banknote-features"
+    },
+    "nz-10": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/explore-banknote-features"
+    },
+    "nz-20": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/explore-banknote-features"
+    },
+    "nz-50": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/explore-banknote-features"
+    },
+    "nz-100": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/explore-banknote-features"
+    },
+    "jp-1000": {
+      "firstIssued": "2024-07-03",
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/n_note/index.htm"
+    },
+    "jp-5000": {
+      "firstIssued": "2024-07-03",
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/n_note/index.htm"
+    },
+    "jp-10000": {
+      "firstIssued": "2024-07-03",
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/n_note/index.htm"
+    }
+  }
+}

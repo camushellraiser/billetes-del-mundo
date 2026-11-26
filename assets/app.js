@@ -5,7 +5,7 @@ const base=new URL("./",document.baseURI);
 const PAGE_SIZE=24,REGION_KEY="bdm-region";
 const countryRegion=["América","Europa","Asia","África","Oceanía","Todos"];
 function initialRegion(){try{const saved=localStorage.getItem(REGION_KEY);return countryRegion.includes(saved)?saved:"América";}catch{return "América";}}
-const state={countries:[],notes:[],country:null,note:null,side:"front",region:initialRegion(),limit:PAGE_SIZE,search:"",photoOnly:false,lang:localStorage.getItem("bdm-lang")==="en"?"en":"es",imageOk:false};
+const state={countries:[],notes:[],technical:{countries:{},notes:{}},country:null,note:null,side:"front",region:initialRegion(),limit:PAGE_SIZE,search:"",photoOnly:false,lang:localStorage.getItem("bdm-lang")==="en"?"en":"es",imageOk:false};
 const copy={
 es:{brandSubtitle:"UN ATLAS DE PAPEL",edition:"EDICIÓN 01 · 2026",eyebrow:"UNA AVENTURA ENTRE PAÍSES Y CULTURAS",headline:"El mundo tiene<br><em>mucho que contar.</em>",heroDesc:"Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.",exploreNow:"Empezar a explorar",surprise:"Sorpréndeme",countries:"PAÍSES",denominations:"DENOMINACIONES",regions:"REGIONES",heroBottom:"Destinos e infinitas historias.",chooseDestination:"ELIGE TU DESTINO",exploreTitle:"Un mundo por descubrir<span class='accent-period'>.</span>",exploreDesc:"Elige una bandera y comienza el viaje.",indexLabel:"ÍNDICE DE PAÍSES",photosOnly:"Solo con referencias fotográficas",noResults:"No encontramos ese destino",tryAnother:"Intenta buscar otro país o moneda.",reset:"Borrar filtros",didYouKnow:"¿SABÍAS QUE...?",discoveryTitle:"Un billete puede ser una obra de arte.",discoveryDesc:"Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.",allCountries:"Todos los países",countryCollection:"COLECCIÓN POR PAÍS",front:"Anverso",back:"Reverso",zoom:"Ampliar",pendingPhoto:"Fotografía pendiente de verificación",selectDenom:"ELIGE UNA DENOMINACIÓN",banknotesCountry:"Los billetes del país<span class='accent-period'>.</span>",selectDenomDesc:"Selecciona un valor para ver el diseño de cada billete.",selectedBanknote:"BILLETE SELECCIONADO",aCuriosity:"UNA CURIOSIDAD",officialSource:"Consultar banco central",keepExploring:"SIGUE EXPLORANDO",otherDestination:"Descubre otro destino",footerMotto:"Hecho para mentes curiosas.",footEdition:"Un atlas educativo independiente",museumViewer:"VISOR DEL MUSEO",flipNote:"Voltear billete",imageVerified:"FOTOGRAFÍA CARGADA",imagePending:"FOTOGRAFÍA PENDIENTE",failedImage:"IMAGEN NO DISPONIBLE",illustrated:"CON REFERENCIA",photoAvailable:"Referencia fotográfica registrada",photoMissing:"Estamos verificando una fotografía actual",imageSource:"Fuente de imagen",verifiedBadge:"FOTOS",frontAlt:"Anverso",backAlt:"Reverso",resultUnit:"países",noteUnit:"billetes",all:"Todos",viewOfficialImages:"VER IMÁGENES EN BANXICO ↗",officialReference:"Referencia oficial disponible",storyHeading:"EL DETALLE DEL BILLETE",officialPhoto:"Ver billete en Banco de México",officialBank:"Ver billete en el banco central",viewOfficialBankImages:"VER IMÁGENES OFICIALES ↗"},
 en:{brandSubtitle:"A PAPER ATLAS",edition:"EDITION 01 · 2026",eyebrow:"A JOURNEY ACROSS COUNTRIES AND CULTURES",headline:"The world has<br><em>so much to tell.</em>",heroDesc:"Every banknote tells a story. Explore incredible places, people and animals through the money of other countries.",exploreNow:"Start exploring",surprise:"Surprise me",countries:"COUNTRIES",denominations:"DENOMINATIONS",regions:"REGIONS",heroBottom:"Destinations and endless stories.",chooseDestination:"PICK A DESTINATION",exploreTitle:"A world to discover<span class='accent-period'>.</span>",exploreDesc:"Choose a flag and start your journey.",indexLabel:"COUNTRY INDEX",photosOnly:"Only with photo references",noResults:"No destinations found",tryAnother:"Try another country or currency.",reset:"Clear filters",didYouKnow:"DID YOU KNOW?",discoveryTitle:"A banknote can be a work of art.",discoveryDesc:"Colors, animals, architecture and history: every country has a story.",allCountries:"All countries",countryCollection:"COUNTRY COLLECTION",front:"Front",back:"Back",zoom:"Zoom",pendingPhoto:"Photo awaiting verification",selectDenom:"CHOOSE A DENOMINATION",banknotesCountry:"The country's banknotes<span class='accent-period'>.</span>",selectDenomDesc:"Choose a value to see the design of each note.",selectedBanknote:"SELECTED BANKNOTE",aCuriosity:"FUN FACT",officialSource:"Visit central bank",keepExploring:"KEEP EXPLORING",otherDestination:"Discover another country",footerMotto:"Made for curious minds.",footEdition:"An independent educational atlas",museumViewer:"MUSEUM VIEWER",flipNote:"Flip banknote",imageVerified:"PHOTO LOADED",imagePending:"PHOTO PENDING",failedImage:"IMAGE NOT AVAILABLE",illustrated:"WITH REFERENCES",photoAvailable:"Photo reference recorded",photoMissing:"We are verifying a current image",imageSource:"Image source",verifiedBadge:"PHOTOS",frontAlt:"Front",backAlt:"Back",resultUnit:"countries",noteUnit:"notes",all:"All",viewOfficialImages:"SEE IMAGES AT BANXICO ↗",officialReference:"Official reference available",storyHeading:"THE STORY ON THIS NOTE",officialPhoto:"View at Banco de México",officialBank:"View at the central bank",viewOfficialBankImages:"VIEW OFFICIAL IMAGES ↗"}
@@ -91,9 +91,23 @@ $("language-button").querySelector(".language-dot").textContent=state.lang.toUpp
 renderFilters();
 if(state.country)renderCountry();else renderGrid();
 }
+function applyRegion(region){state.search="";$("country-search").value="";setRegion(region);renderFilters();renderGrid();}
+function renderMap(){
+ const es=state.lang==="es",active=searching()?"Todos":state.region;
+ $("world-map-heading").textContent=es?"EXPLORA EL MUNDO":"EXPLORE THE WORLD";
+ $("world-map-hint").textContent=es?"Toca un continente para explorar sus billetes.":"Tap a continent to explore its banknotes.";
+ $("world-map-selection").textContent=searching()?(es?"Búsqueda global":"Global search"):`${es?active:regionEn[active]} · ${state.countries.filter(c=>active==="Todos"||c.region===active).length} ${tr("resultUnit")}`;
+ document.querySelectorAll("[data-map-region]").forEach(el=>{
+  const r=el.dataset.mapRegion,selected=r===active;
+  el.classList.toggle("is-active",selected);el.classList.toggle("is-all",active==="Todos");
+  el.setAttribute("aria-pressed",String(selected));
+  const label=es?r:regionEn[r];el.setAttribute("aria-label",label);el.querySelector("title").textContent=label;
+ });
+}
 function renderFilters(){
 const active=searching()?"Todos":state.region;
 $("region-filters").innerHTML=countryRegion.map(region=>`<button type="button" class="filter-chip ${active===region?"active":""}" data-region="${region}" aria-pressed="${active===region}">${state.lang==="es"?region:regionEn[region]}</button>`).join("");
+renderMap();
 }
 function renderGrid(append=false){
  const list=listCountries(),grid=$("country-grid"),visible=list.slice(0,state.limit);
@@ -137,8 +151,23 @@ renderGrid();
 if(location.hash==="#explore")setTimeout(()=>$("explore").scrollIntoView({behavior:"smooth",block:"start"}),50);
 else if(location.hash==="#/"||location.hash===""||location.hash==="#")window.scrollTo({top:0,behavior:"auto"});
 }
+function escapeHtml(v){return String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function safeHref(v){try{const u=new URL(v);return u.protocol==="https:"||u.protocol==="http:"?escapeHtml(u.href):"#";}catch{return "#";}}
+function technicalCard(c,n){
+ const es=state.lang==="es",t=state.technical.countries[c.id]||{},nt=state.technical.notes[n.id]||{},values=[...new Set(c.denominations)].sort((a,b)=>a-b);
+ const local=(a,b)=>es?a:b;const row=(k,v)=>v==null||v===""?"":`<div class="technical-field"><dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v)}</dd></div>`;
+ const pair=v=>Array.isArray(v)?v[es?0:1]:v;
+ const countryRows=[row(local("Moneda","Currency"),`${currency(c)} · ${c.currency}`),row(local("Serie catalogada","Catalogued series"),es?c.series:c.seriesEn),row(local("Denominaciones catalogadas","Catalogued denominations"),values.length),row(local("Rango catalogado","Catalogued range"),values.length?`${pretty(c,values[0])} – ${pretty(c,values.at(-1))}`:null),row(local("Emisor","Issuer"),es?t.issuer:t.issuerEn),row(local("Materiales","Materials"),es?t.materials:t.materialsEn),row(local("Introducción de la serie","Series introduction"),t.intro)].join("");
+ const countryFact=(es?t.fact:t.factEn)|| (es?c.funFact:c.funFactEn);
+ $("currency-profile").innerHTML=`<div class="technical-heading"><span class="section-kicker">${local("ATLAS NUMISMÁTICO","NUMISMATIC ATLAS")}</span><h2 id="currency-profile-title">${local("Ficha de la moneda","Currency profile")}</h2></div><dl class="technical-grid">${countryRows}</dl><div class="currency-denoms">${values.map(v=>`<span>${escapeHtml(pretty(c,v))}</span>`).join("")}</div>${countryFact?`<div class="technical-curiosity"><span>✦</span><div><strong>${local("¿Sabías que…?","Did you know…?")}</strong><p>${escapeHtml(countryFact)}</p></div></div>`:""}<div class="technical-foot"><span>${local("Alcance: denominaciones de esta colección, no necesariamente todas las emisiones de curso legal.","Scope: denominations in this collection, not necessarily all legal-tender issues.")}</span><a href="${safeHref(t.source||c.officialSource)}" target="_blank" rel="noopener noreferrer">${local("Fuente del emisor","Issuer source")} ↗</a></div>`;
+ const fmtDate=v=>{if(!v)return null;if(!/^\\d{4}-\\d{2}-\\d{2}$/.test(v))return v;return new Intl.DateTimeFormat(es?"es-MX":"en-US",{dateStyle:"medium",timeZone:"UTC"}).format(new Date(v+"T00:00:00Z"));};
+ const noteRows=[row(local("Valor nominal","Face value"),pretty(c,n.value)),row(local("Serie","Series"),es?n.series:n.seriesEn),row(local("Material","Material"),pair(nt.material)),row(local("Medidas (largo × corto)","Dimensions (long × short)"),nt.dimensions?nt.dimensions.join(" × ")+" mm":null),row(local("Color predominante","Main colour"),pair(nt.color)),row(local("Introducción del diseño","Design introduction"),fmtDate(nt.firstIssued)),row(local("Fecha de emisión registrada","Recorded issue date"),!nt.firstIssued?fmtDate(n.issueDate):null),row(local("Orientación","Orientation"),nt.orientation?local(nt.orientation==="v"?"Vertical":"Horizontal",nt.orientation==="v"?"Vertical":"Horizontal"):null)].join("");
+ const front=es?n.frontDescription:n.frontDescriptionEn,back=es?n.backDescription:n.backDescriptionEn;
+ $("note-profile").innerHTML=`<h3 id="note-profile-title">${local("Ficha del billete","Banknote profile")}</h3><dl class="technical-grid note-technical-grid">${noteRows}</dl>${front||back?`<div class="technical-motifs">${front?`<div><strong>${local("Anverso","Front")}</strong><p>${escapeHtml(front)}</p></div>`:""}${back?`<div><strong>${local("Reverso","Back")}</strong><p>${escapeHtml(back)}</p></div>`:""}</div>`:""}${!Object.keys(nt).length?`<p class="technical-pending">${local("Datos técnicos adicionales pendientes de verificar.","Additional technical details await verification.")}</p>`:""}<a class="technical-source" href="${safeHref(nt.source||n.officialPage||c.officialSource)}" target="_blank" rel="noopener noreferrer">${local("Consultar fuente","View source")} ↗</a>`;
+}
 function renderCountry(){
 const c=state.country,n=state.note;if(!c||!n)return;
+technicalCard(c,n);
 $("crumb-country").textContent=name(c);
 $("detail-flag").textContent=c.flag;
 $("detail-country").textContent=name(c);
@@ -215,7 +244,9 @@ $("language-button").addEventListener("click",()=>{state.lang=state.lang==="es"?
 $("country-search").addEventListener("input",e=>{state.search=e.target.value;resetLimit();renderFilters();renderGrid();});
 $("country-search").addEventListener("keydown",e=>{if(e.key==="Enter"){const list=listCountries();if(list.length===1)location.hash=`#/${list[0].id}`;}});
 $("verified-only").addEventListener("change",e=>{state.photoOnly=e.target.checked;resetLimit();renderGrid();});
-$("region-filters").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;state.search="";$("country-search").value="";setRegion(b.dataset.region);renderFilters();renderGrid();});
+$("region-filters").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;applyRegion(b.dataset.region);});
+$("world-selector").addEventListener("click",e=>{const r=e.target.closest("[data-map-region]");if(r)applyRegion(r.dataset.mapRegion);});
+$("world-selector").addEventListener("keydown",e=>{const r=e.target.closest("[data-map-region]");if(r&&(e.key==="Enter"||e.key===" ")){e.preventDefault();applyRegion(r.dataset.mapRegion);}});
 $("show-more").addEventListener("click",()=>{const grid=$("country-grid"),previous=grid.children.length;state.limit+=PAGE_SIZE;renderGrid(true);if($("country-more").hidden&&grid.children[previous])grid.children[previous].focus({preventScroll:true});});
 $("country-grid").addEventListener("click",e=>{const b=e.target.closest("[data-country]");if(b)location.hash=`#/${b.dataset.country}`;});
 
@@ -234,7 +265,7 @@ window.addEventListener("hashchange",route);
 }
 async function start(){
 try{
-[state.countries,state.notes]=await Promise.all([loadCatalog("api/v1/countries.json"),loadCatalog("api/v1/banknotes.json")]);
+[state.countries,state.notes,state.technical]=await Promise.all([loadCatalog("api/v1/countries.json"),loadCatalog("api/v1/banknotes.json"),loadCatalog("api/v1/technical.json").catch(()=>({countries:{},notes:{}}))]);
 $("stat-countries").textContent=String(state.countries.length).padStart(2,"0");
 $("stat-denoms").textContent=String(state.notes.length).padStart(3,"0");
 $("stat-images").textContent=String(state.notes.filter(hasPair).length).padStart(2,"0");
