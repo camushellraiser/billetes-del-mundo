@@ -2,7 +2,10 @@
 "use strict";
 const $=id=>document.getElementById(id);
 const base=new URL("./",document.baseURI);
-const state={countries:[],notes:[],country:null,note:null,side:"front",region:"Todos",search:"",photoOnly:false,lang:localStorage.getItem("bdm-lang")==="en"?"en":"es",imageOk:false};
+const PAGE_SIZE=24,REGION_KEY="bdm-region";
+const countryRegion=["América","Europa","Asia","África","Oceanía","Todos"];
+function initialRegion(){try{const saved=localStorage.getItem(REGION_KEY);return countryRegion.includes(saved)?saved:"América";}catch{return "América";}}
+const state={countries:[],notes:[],country:null,note:null,side:"front",region:initialRegion(),limit:PAGE_SIZE,search:"",photoOnly:false,lang:localStorage.getItem("bdm-lang")==="en"?"en":"es",imageOk:false};
 const copy={
 es:{brandSubtitle:"UN ATLAS DE PAPEL",edition:"EDICIÓN 01 · 2026",eyebrow:"UNA AVENTURA ENTRE PAÍSES Y CULTURAS",headline:"El mundo tiene<br><em>mucho que contar.</em>",heroDesc:"Cada billete guarda una historia. Descubre lugares, personajes y animales increíbles a través del dinero de otros países.",exploreNow:"Empezar a explorar",surprise:"Sorpréndeme",countries:"PAÍSES",denominations:"DENOMINACIONES",regions:"REGIONES",heroBottom:"Destinos e infinitas historias.",chooseDestination:"ELIGE TU DESTINO",exploreTitle:"Un mundo por descubrir<span class='accent-period'>.</span>",exploreDesc:"Elige una bandera y comienza el viaje.",indexLabel:"ÍNDICE DE PAÍSES",photosOnly:"Solo con referencias fotográficas",noResults:"No encontramos ese destino",tryAnother:"Intenta buscar otro país o moneda.",reset:"Borrar filtros",didYouKnow:"¿SABÍAS QUE...?",discoveryTitle:"Un billete puede ser una obra de arte.",discoveryDesc:"Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.",allCountries:"Todos los países",countryCollection:"COLECCIÓN POR PAÍS",front:"Anverso",back:"Reverso",zoom:"Ampliar",pendingPhoto:"Fotografía pendiente de verificación",selectDenom:"ELIGE UNA DENOMINACIÓN",banknotesCountry:"Los billetes del país<span class='accent-period'>.</span>",selectDenomDesc:"Selecciona un valor para ver el diseño de cada billete.",selectedBanknote:"BILLETE SELECCIONADO",aCuriosity:"UNA CURIOSIDAD",officialSource:"Consultar banco central",keepExploring:"SIGUE EXPLORANDO",otherDestination:"Descubre otro destino",footerMotto:"Hecho para mentes curiosas.",footEdition:"Un atlas educativo independiente",museumViewer:"VISOR DEL MUSEO",flipNote:"Voltear billete",imageVerified:"FOTOGRAFÍA CARGADA",imagePending:"FOTOGRAFÍA PENDIENTE",failedImage:"IMAGEN NO DISPONIBLE",illustrated:"CON REFERENCIA",photoAvailable:"Referencia fotográfica registrada",photoMissing:"Estamos verificando una fotografía actual",imageSource:"Fuente de imagen",verifiedBadge:"FOTOS",frontAlt:"Anverso",backAlt:"Reverso",resultUnit:"países",noteUnit:"billetes",all:"Todos",viewOfficialImages:"VER IMÁGENES EN BANXICO ↗",officialReference:"Referencia oficial disponible",storyHeading:"EL DETALLE DEL BILLETE",officialPhoto:"Ver billete en Banco de México",officialBank:"Ver billete en el banco central",viewOfficialBankImages:"VER IMÁGENES OFICIALES ↗"},
 en:{brandSubtitle:"A PAPER ATLAS",edition:"EDITION 01 · 2026",eyebrow:"A JOURNEY ACROSS COUNTRIES AND CULTURES",headline:"The world has<br><em>so much to tell.</em>",heroDesc:"Every banknote tells a story. Explore incredible places, people and animals through the money of other countries.",exploreNow:"Start exploring",surprise:"Surprise me",countries:"COUNTRIES",denominations:"DENOMINATIONS",regions:"REGIONS",heroBottom:"Destinations and endless stories.",chooseDestination:"PICK A DESTINATION",exploreTitle:"A world to discover<span class='accent-period'>.</span>",exploreDesc:"Choose a flag and start your journey.",indexLabel:"COUNTRY INDEX",photosOnly:"Only with photo references",noResults:"No destinations found",tryAnother:"Try another country or currency.",reset:"Clear filters",didYouKnow:"DID YOU KNOW?",discoveryTitle:"A banknote can be a work of art.",discoveryDesc:"Colors, animals, architecture and history: every country has a story.",allCountries:"All countries",countryCollection:"COUNTRY COLLECTION",front:"Front",back:"Back",zoom:"Zoom",pendingPhoto:"Photo awaiting verification",selectDenom:"CHOOSE A DENOMINATION",banknotesCountry:"The country's banknotes<span class='accent-period'>.</span>",selectDenomDesc:"Choose a value to see the design of each note.",selectedBanknote:"SELECTED BANKNOTE",aCuriosity:"FUN FACT",officialSource:"Visit central bank",keepExploring:"KEEP EXPLORING",otherDestination:"Discover another country",footerMotto:"Made for curious minds.",footEdition:"An independent educational atlas",museumViewer:"MUSEUM VIEWER",flipNote:"Flip banknote",imageVerified:"PHOTO LOADED",imagePending:"PHOTO PENDING",failedImage:"IMAGE NOT AVAILABLE",illustrated:"WITH REFERENCES",photoAvailable:"Photo reference recorded",photoMissing:"We are verifying a current image",imageSource:"Image source",verifiedBadge:"PHOTOS",frontAlt:"Front",backAlt:"Back",resultUnit:"countries",noteUnit:"notes",all:"All",viewOfficialImages:"SEE IMAGES AT BANXICO ↗",officialReference:"Official reference available",storyHeading:"THE STORY ON THIS NOTE",officialPhoto:"View at Banco de México",officialBank:"View at the central bank",viewOfficialBankImages:"VIEW OFFICIAL IMAGES ↗"}
@@ -12,7 +15,12 @@ const name=c=>state.lang==="en"?c.nameEn:c.name;
 const currency=c=>state.lang==="en"?c.currencyNameEn:c.currencyName;
 const noteFor=(countryId,value)=>state.notes.find(n=>n.countryId===countryId&&Number(n.value)===Number(value));
 const hasPictures=id=>state.notes.some(n=>n.countryId===id&&n.photos?.front&&n.photos?.back);
-const {fileUrl,load:loadPhoto,data:loadCatalog,prefetch}=window.BDMImages;
+const {fileUrl,load:loadPhoto,data:loadCatalog,prefetch,batchCancel}=window.BDMImages;
+const coverJobs=new Set();
+function cancelCovers(){gridGeneration++;batchCancel(()=>{for(const cancel of coverJobs)cancel();coverJobs.clear();});}
+function setRegion(region){if(!countryRegion.includes(region))return;state.region=region;state.limit=PAGE_SIZE;try{localStorage.setItem(REGION_KEY,region);}catch{}}
+function resetLimit(){state.limit=PAGE_SIZE;}
+const searching=()=>Boolean(state.search.trim());
 const hasPair=n=>Boolean(n.photos?.front&&n.photos?.back);
 const regionalLabel=()=>state.lang==="es"?"Moneda compartida":"Shared currency";
 const variantLabel=(n)=>n?.sharedCurrency==="XOF"?(n.nationalCodeMatch?(state.lang==="es"?`Variante ${n.photoCountryCode} · código coincidente`:`Variant ${n.photoCountryCode} · matching code`):(state.lang==="es"?`Ejemplo regional (${n.photoCountryCode||"?"}) · variante ${n.expectedCountryCode} pendiente`:`Regional example (${n.photoCountryCode||"?"}) · variant ${n.expectedCountryCode} pending`)):n?.sharedCurrency==="XAF"?(state.lang==="es"?"Diseño regional BEAC":"BEAC regional design"):"";
@@ -39,8 +47,9 @@ function cropSheetPhoto(img,rect,kind="detail"){
  return wrap;
 }
 function enhanceCardPhotos(){
- const generation=++gridGeneration;
- document.querySelectorAll(".country-card-thumb[data-photo-id]").forEach(host=>{
+ const generation=gridGeneration;
+ document.querySelectorAll(".country-card-thumb[data-photo-id]:not([data-cover-started])").forEach(host=>{
+  host.dataset.coverStarted="true";host.dataset.coverState="loading";
   const featured=state.notes.find(x=>x.id===host.dataset.photoId);if(!featured)return;
   const notes=[featured,...state.notes.filter(n=>n.countryId===featured.countryId&&n.id!==featured.id&&n.photos?.front)];
   const options=notes.flatMap(n=>[{url:n.photos.front,crop:n.photos.crop?.front},...(n.photos.thumbnailAlternative?.url?[{url:n.photos.thumbnailAlternative.url,crop:null}]:[])]);
@@ -48,19 +57,28 @@ function enhanceCardPhotos(){
   const domain=o=>{try{return new URL(fileUrl(o.url)).hostname;}catch{return "";}};
   const hosts=new Set(),first=[],rest=[];for(const o of unique){const d=domain(o);if(hosts.has(d))rest.push(o);else{hosts.add(d);first.push(o);}}
   const alternatives=[...first,...rest];
-  // Begin every country cover immediately; the shared queue limits parallel downloads.
-  const start=()=>{if(generation!==gridGeneration||!host.isConnected)return;let i=0;function next(){if(generation!==gridGeneration||!host.isConnected)return;const o=alternatives[i++];if(!o){host.remove();return;}const img=new Image();img.alt="";loadPhoto(img,o.url,()=>{if(generation===gridGeneration&&host.isConnected)host.replaceChildren(o.crop?cropSheetPhoto(img,o.crop,"thumb"):img);},next,{retry:false,priority:0});}next();};
-  start();
+  // Load covers only for rendered cards. Retain successful DOM nodes when appending.
+  let i=0;
+  function next(){
+   if(generation!==gridGeneration||!host.isConnected)return;
+   const o=alternatives[i++];
+   if(!o){host.dataset.coverState="unavailable";return;}
+   const img=new Image();img.alt="";
+   let cancel;
+   const clear=()=>coverJobs.delete(cancel);
+   cancel=loadPhoto(img,o.url,()=>{clear();if(generation===gridGeneration&&host.isConnected){host.replaceChildren(o.crop?cropSheetPhoto(img,o.crop,"thumb"):img);host.dataset.coverState="ready";}},()=>{clear();next();},{retry:false,priority:0});
+   coverJobs.add(cancel);
+  }
+  next();
  });
 }
 const pretty=(country,value)=>{const val=new Intl.NumberFormat(state.lang==="es"?"es-MX":"en-US").format(value);return country.symbol==="CHF"?`CHF ${val}`:country.symbol==="kr"?`${val} kr`:country.symbol==="DH"?`${val} DH`:["Kč","Ft","lei","ден","soʻm","KM"].includes(country.symbol)?`${val} ${country.symbol}`:["AED","SAR","QAR","RSD"].includes(country.symbol)?`${country.symbol} ${val}`:`${country.symbol}${val}`;};
 const filterText=s=>(s||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLocaleLowerCase();
-const countryRegion=["Todos","América","Europa","Asia","Oceanía","África"];
 const regionEn={"Todos":"All","América":"Americas","Europa":"Europe","Asia":"Asia","Oceanía":"Oceania","África":"Africa"};
 const listCountries=()=>state.countries.filter(c=>{
-if(state.region!=="Todos"&&state.region!==c.region)return false;
-if(state.photoOnly&&!hasPictures(c.id))return false;
 const query=filterText(state.search.trim());
+if(!query&&state.region!=="Todos"&&state.region!==c.region)return false;
+if(state.photoOnly&&!hasPictures(c.id))return false;
 if(!query)return true;
 return filterText([c.name,c.nameEn,c.currency,c.currencyName,c.currencyNameEn,c.region].join(" ")).includes(query);
 });
@@ -74,25 +92,35 @@ renderFilters();
 if(state.country)renderCountry();else renderGrid();
 }
 function renderFilters(){
-$("region-filters").innerHTML=countryRegion.map(region=>`<button type="button" class="filter-chip ${state.region===region?"active":""}" data-region="${region}" aria-pressed="${state.region===region}">${state.lang==="es"?region:regionEn[region]}</button>`).join("");
+const active=searching()?"Todos":state.region;
+$("region-filters").innerHTML=countryRegion.map(region=>`<button type="button" class="filter-chip ${active===region?"active":""}" data-region="${region}" aria-pressed="${active===region}">${state.lang==="es"?region:regionEn[region]}</button>`).join("");
 }
-function renderGrid(){
- const list=listCountries();
- $("results-count").textContent=`${list.length} ${tr("resultUnit")}`;
- $("country-grid").innerHTML=list.map(c=>{
+function renderGrid(append=false){
+ const list=listCountries(),grid=$("country-grid"),visible=list.slice(0,state.limit);
+ const shown=visible.length,more=list.length>shown,es=state.lang==="es";
+ const label=searching()?(es?"Búsqueda global":"Global search"):(es?state.region:regionEn[state.region]);
+ $("results-count").textContent=`${label} · ${shown===list.length?shown:shown+"/"+list.length} ${tr("resultUnit")}`;
+ const start=append?grid.children.length:0;
+ if(!append)cancelCovers();
+ const markup=visible.slice(start).map(c=>{
   const photoCount=state.notes.filter(n=>n.countryId===c.id&&hasPair(n)&&(c.currency!=="XOF"||n.nationalCodeMatch)).length;
   const countLabel=c.currency==="XOF"?(state.lang==="es"?"Variantes con código coincidente":"Matching-code variants"):(state.lang==="es"?"Pares de imágenes de referencia":"Reference image pairs");
    const featured=state.notes.find(n=>n.id===c.previewNoteId&&n.countryId===c.id&&n.photos?.front)||state.notes.find(n=>n.countryId===c.id&&n.photos?.verified)||state.notes.find(n=>n.countryId===c.id&&hasPair(n));
   const preview=featured?`<span class="country-card-thumb" data-photo-id="${featured.id}" aria-hidden="true"></span>`:"";
   return `<button type="button" class="country-card ${featured?"has-image":""}" data-country="${c.id}" aria-label="${name(c)}" style="--country-accent:${c.color||"#7fb89b"}"><span class="country-card-top"><span class="country-card-flag">${c.flag}</span><span class="card-photo-badge ${featured?"":"no-photo"}" title="${countLabel}" aria-label="${countLabel}: ${photoCount}/${c.denominations.length}">${photoCount}/${c.denominations.length}</span><span class="country-card-arrow">↗</span></span>${preview}<span class="country-card-bottom"><span class="country-card-name">${name(c)}</span><span class="country-card-info">${c.currency}<span class="card-dot"></span>${c.denominations.length} ${tr("noteUnit")}</span>${c.sharedCurrency?`<span class="country-card-info">${regionalLabel()}${c.countryCode?` · ${c.countryCode}`:""}</span>`:""}</span></button>`;
  }).join("");
+ if(append)grid.insertAdjacentHTML("beforeend",markup);else grid.innerHTML=markup;
  $("empty-state").hidden=list.length>0;
+ const moreBox=$("country-more"),button=$("show-more"),count=$("country-more-count");
+ moreBox.hidden=!more;
+ count.textContent=es?`Mostrando ${shown} de ${list.length} países`:`Showing ${shown} of ${list.length} countries`;
+ button.textContent=es?`Mostrar ${Math.min(PAGE_SIZE,list.length-shown)} más ↓`:`Show ${Math.min(PAGE_SIZE,list.length-shown)} more ↓`;
  enhanceCardPhotos();
 }
 function chooseCountry(id){
 const country=state.countries.find(c=>c.id===id);
 if(!country){location.hash="#/";return;}
-state.country=country;
+cancelCovers();state.country=country;
 const fromUrl=new URLSearchParams((location.hash.split("?")[1]||"")).get("value");
 const notes=state.notes.filter(n=>n.countryId===id);
 state.note=(fromUrl?notes.find(n=>n.value===Number(fromUrl)):null)||notes.find(n=>n.photos?.verified)||notes.find(hasPair)||notes[0];
@@ -184,10 +212,11 @@ function zoom(){if(!state.note?.photos||!state.imageOk)return;showDialogImage();
 function randomCountry(){const pool=state.countries;const pick=pool[Math.floor(Math.random()*pool.length)];if(pick)location.hash=`#/${pick.id}`;}
 function bind(){
 $("language-button").addEventListener("click",()=>{state.lang=state.lang==="es"?"en":"es";localStorage.setItem("bdm-lang",state.lang);translate();});
-$("country-search").addEventListener("input",e=>{state.search=e.target.value;renderGrid();});
+$("country-search").addEventListener("input",e=>{state.search=e.target.value;resetLimit();renderFilters();renderGrid();});
 $("country-search").addEventListener("keydown",e=>{if(e.key==="Enter"){const list=listCountries();if(list.length===1)location.hash=`#/${list[0].id}`;}});
-$("verified-only").addEventListener("change",e=>{state.photoOnly=e.target.checked;renderGrid();});
-$("region-filters").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;state.region=b.dataset.region;renderFilters();renderGrid();});
+$("verified-only").addEventListener("change",e=>{state.photoOnly=e.target.checked;resetLimit();renderGrid();});
+$("region-filters").addEventListener("click",e=>{const b=e.target.closest("[data-region]");if(!b)return;state.search="";$("country-search").value="";setRegion(b.dataset.region);renderFilters();renderGrid();});
+$("show-more").addEventListener("click",()=>{const grid=$("country-grid"),previous=grid.children.length;state.limit+=PAGE_SIZE;renderGrid(true);if($("country-more").hidden&&grid.children[previous])grid.children[previous].focus({preventScroll:true});});
 $("country-grid").addEventListener("click",e=>{const b=e.target.closest("[data-country]");if(b)location.hash=`#/${b.dataset.country}`;});
 
 $("denom-buttons").addEventListener("click",e=>{const b=e.target.closest("[data-denom]");if(b)selectDenom(b.dataset.denom);});
@@ -199,7 +228,7 @@ $("dialog-close").addEventListener("click",()=>$("image-dialog").close());
 $("dialog-flip").addEventListener("click",flip);
 $("image-dialog").addEventListener("click",e=>{if(e.target===$("image-dialog"))$("image-dialog").close();});
 for(const id of ["surprise-button","random-bottom","random-country","next-country"])$(id).addEventListener("click",randomCountry);
-$("reset-search").addEventListener("click",()=>{state.region="Todos";state.photoOnly=false;state.search="";$("verified-only").checked=false;$("country-search").value="";renderFilters();renderGrid();});
+$("reset-search").addEventListener("click",()=>{setRegion("América");state.photoOnly=false;state.search="";$("verified-only").checked=false;$("country-search").value="";renderFilters();renderGrid();});
 document.addEventListener("keydown",e=>{if(e.key==="/"&&!state.country&&document.activeElement?.tagName!=="INPUT"&&!e.ctrlKey&&!e.metaKey){e.preventDefault();$("country-search").focus();}if(e.key==="ArrowLeft"&&state.country&&!$("image-dialog").open){state.side="front";renderPhoto();}if(e.key==="ArrowRight"&&state.country&&!$("image-dialog").open){state.side="back";renderPhoto();}});
 window.addEventListener("hashchange",route);
 }

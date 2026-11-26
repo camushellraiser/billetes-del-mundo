@@ -66,3 +66,13 @@
 
 /* v2.1: preserve the entire crop in a height-limited zoom viewport. */
 .dialog-photo .banknote-crop-modal{width:min(85vw,850px,calc(68vh * var(--crop-ratio, 1.7)));max-height:none}
+
+/* Regional navigation, finite batches, and discreet loading previews. */
+.country-more{display:flex;flex-direction:column;align-items:center;gap:12px;padding:30px 0 4px}
+.country-more[hidden]{display:none!important}
+.country-more-count{color:var(--muted);font-size:12px}
+#show-more{min-height:48px;min-width:180px;justify-content:center;border-radius:8px}
+#show-more:focus-visible,.filter-chip:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+.country-card-thumb[data-cover-state="loading"]:empty::before{content:"";width:90%;aspect-ratio:2.25;border:1px solid #6e927b30;border-radius:3px;background:linear-gradient(120deg,#34534322,#60896b22,#34534322);opacity:.65}
+.country-card-thumb[data-cover-state="unavailable"]:empty::before{content:"";width:90%;aspect-ratio:2.25;border:1px dashed #77968130;border-radius:3px;opacity:.5}
+@media(max-width:780px){.country-more{padding-top:24px}.results-caption{gap:10px;align-items:center}#show-more{width:min(100%,270px)}}

@@ -16,9 +16,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;450;500;550;600;650;700;750;800&family=Manrope:wght@400;500;600;700;800&display=swap" />
-  <link rel="stylesheet" href="assets/style.css?v=2.7.0" />
-  <script src="assets/images.js?v=2.7.0" defer></script>
-  <script src="assets/app.js?v=2.7.0" defer></script>
+  <link rel="stylesheet" href="assets/style.css?v=2.7.1" />
+  <script src="assets/images.js?v=2.7.1" defer></script>
+  <script src="assets/app.js?v=2.7.1" defer></script>
 </head>
 <body>
   <div class="app-shell">
@@ -63,17 +63,18 @@
               <div class="floating-stamp"><span>✳</span><small>WORLD<br/>CURRENCY<br/>ATLAS</small></div>
             </div>
           </div>
-          <div class="hero-bottom-line"><span data-i18n="heroBottom">90 destinos. Infinitas historias.</span><span>↙ &nbsp; SCROLL TO DISCOVER</span></div>
+          <div class="hero-bottom-line"><span data-i18n="heroBottom">Destinos e infinitas historias.</span><span>↙ &nbsp; SCROLL TO DISCOVER</span></div>
         </div>
 
         <section class="explore-section" id="explore" aria-labelledby="explore-heading">
           <div class="section-intro"><div><span class="section-kicker"><span class="kicker-dot"></span><span data-i18n="chooseDestination">ELIGE TU DESTINO</span></span><h2 id="explore-heading" data-i18n-html="exploreTitle">Un mundo por descubrir<span class="accent-period">.</span></h2><p data-i18n="exploreDesc">Elige una bandera y comienza el viaje.</p></div><div class="section-sidenote">01 / <span data-i18n="indexLabel">ÍNDICE DE PAÍSES</span></div></div>
           <div class="explore-toolbar">
-            <label class="search-field"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.5"/><path d="m16 16 5 5"/></svg><input id="country-search" type="search" data-placeholder-es="Buscar país o moneda..." data-placeholder-en="Search country or currency..." placeholder="Buscar país o moneda..." autocomplete="off" aria-label="Buscar países"/><kbd>/</kbd></label>
+            <label class="search-field"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.8" cy="10.8" r="6.5"/><path d="m16 16 5 5"/></svg><input id="country-search" type="search" data-placeholder-es="Buscar cualquier país o moneda..." data-placeholder-en="Search any country or currency..." placeholder="Buscar país o moneda..." autocomplete="off" aria-label="Buscar países"/><kbd>/</kbd></label>
             <div class="filter-scroll" id="region-filters" role="group" aria-label="Filtrar regiones"></div>
           </div>
-          <div class="results-caption"><span id="results-count">90 países</span><label class="verified-only"><input type="checkbox" id="verified-only"/><span class="check-faux"></span><span data-i18n="photosOnly">Solo con referencias fotográficas</span></label></div>
+          <div class="results-caption"><span id="results-count" aria-live="polite"></span><label class="verified-only"><input type="checkbox" id="verified-only"/><span class="check-faux"></span><span data-i18n="photosOnly">Solo con referencias fotográficas</span></label></div>
           <div id="country-grid" class="country-grid"></div>
+          <div id="country-more" class="country-more" hidden><span id="country-more-count" class="country-more-count" aria-live="polite"></span><button type="button" class="button button-secondary" id="show-more" aria-controls="country-grid">Mostrar más ↓</button></div>
           <div id="empty-state" class="empty-state" hidden><span>⌕</span><h3 data-i18n="noResults">No encontramos ese destino</h3><p data-i18n="tryAnother">Intenta buscar otro país o moneda.</p><button type="button" class="button button-secondary" id="reset-search" data-i18n="reset">Borrar filtros</button></div>
         </section>
         <section class="discovery-strip"><div class="discovery-symbol">✳</div><div><span class="section-kicker" data-i18n="didYouKnow">¿SABÍAS QUE...?</span><h3 data-i18n="discoveryTitle">Un billete puede ser una obra de arte.</h3><p data-i18n="discoveryDesc">Colores, animales, arquitectura e historia: cada país cuenta lo que lo hace único.</p></div><button class="round-arrow" id="random-bottom" type="button" title="Descubrir un país al azar">↗</button></section>

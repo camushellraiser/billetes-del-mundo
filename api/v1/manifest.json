@@ -1,6 +1,6 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "lastReviewed": "2026-11-25",
   "countryCount": 110,
   "banknoteCount": 671,
@@ -141,5 +141,13 @@
     "referencePairs": 16,
     "visuallyConfirmedPairs": 15,
     "pendingPairs": 61
+  },
+  "navigation": {
+    "defaultRegion": "América",
+    "persistRegion": true,
+    "globalSearch": true,
+    "pageSize": 24,
+    "allRegionsPaged": true,
+    "cancelObsoleteCoverLoads": true
   }
 }

@@ -1,7 +1,7 @@
 /* Shared image loading policy. Original external URLs remain unchanged. */
 (function(){
 "use strict";
-const version="2.7.0";
+const version="2.7.1";
 const fileUrl=f=>/^https:\/\//i.test(f)?f:"https://commons.wikimedia.org/wiki/Special:FilePath/"+encodeURIComponent(f)+"?width=1100";
 function candidates(f){
  const first=fileUrl(f),out=[first];
@@ -10,13 +10,15 @@ function candidates(f){
  return [...new Set(out)];
 }
 // Six concurrent downloads at most; background jobs leave two slots for the viewer.
-const queue=[],activeByHost=new Map(),good=new Map();let active=0;
+const queue=[],activeByHost=new Map(),good=new Map();let active=0,paused=0;
+function batchCancel(fn){paused++;try{fn();}finally{paused--;pump();}}
 function schedule(url,priority,run){
  const host=new URL(url,document.baseURI).hostname;
  const job={host,priority,run,cancelled:false};queue.push(job);pump();
  return ()=>{job.cancelled=true;pump();};
 }
 function pump(){
+ if(paused)return;
  for(let i=queue.length-1;i>=0;i--)if(queue[i].cancelled)queue.splice(i,1);
  queue.sort((a,b)=>b.priority-a.priority);
  while(active<6){
@@ -48,5 +50,5 @@ function data(path){const u=new URL(path,document.baseURI);u.searchParams.set("v
 // Warm up distinct images without retaining decoded bitmaps indefinitely.
 const warming=new Set(),warmed=new Set();
 function prefetch(f,priority=0){if(!f)return;const key=fileUrl(f);if(warming.has(key)||warmed.has(key)||good.has(key))return;warming.add(key);const img=new Image();load(img,f,()=>{warming.delete(key);warmed.add(key);if(warmed.size>160)warmed.delete(warmed.values().next().value);},()=>warming.delete(key),{priority,retry:false});}
-window.BDMImages={version,fileUrl,candidates,load,crop,data,prefetch};
+window.BDMImages={version,fileUrl,candidates,load,crop,data,prefetch,batchCancel};
 })();
