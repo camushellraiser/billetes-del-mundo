@@ -780,6 +780,186 @@
       "firstIssued": "2022-07-01",
       "orientation": "h",
       "source": "https://banknotenews.com/?p=37242"
+    },
+    "ru-5": {
+      "dimensions": [
+        137,
+        61
+      ],
+      "firstIssued": "1998-01-01",
+      "color": [
+        "Verde",
+        "Green"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/5rub/",
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ]
+    },
+    "ru-10": {
+      "dimensions": [
+        150,
+        65
+      ],
+      "firstIssued": "1998-01-01",
+      "color": [
+        "Amarillo claro",
+        "Light yellow"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/10rub/",
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ]
+    },
+    "ru-50": {
+      "dimensions": [
+        150,
+        65
+      ],
+      "firstIssued": "1998-01-01",
+      "color": [
+        "Azul",
+        "Blue"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/50rub/",
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ]
+    },
+    "ru-100": {
+      "dimensions": [
+        150,
+        65
+      ],
+      "firstIssued": "2026-07-10",
+      "color": [
+        "Oliva y naranja",
+        "Olive and orange"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/cash_circulation/banknotes/100rub/"
+    },
+    "ru-200": {
+      "dimensions": [
+        150,
+        65
+      ],
+      "firstIssued": "2017-10-12",
+      "color": [
+        "Verde",
+        "Green"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/200rub/",
+      "material": [
+        "Papel de algodón impregnado con polímero",
+        "Polymer-treated cotton paper"
+      ]
+    },
+    "ru-500": {
+      "dimensions": [
+        150,
+        65
+      ],
+      "firstIssued": "1998-01-01",
+      "color": [
+        "Violeta",
+        "Violet"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/500rub/",
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ]
+    },
+    "ru-1000": {
+      "dimensions": [
+        157,
+        69
+      ],
+      "firstIssued": "2025-12-26",
+      "color": [
+        "Turquesa",
+        "Turquoise"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/cash_circulation/banknotes/1000rub/"
+    },
+    "ru-2000": {
+      "dimensions": [
+        157,
+        69
+      ],
+      "firstIssued": "2017-10-12",
+      "color": [
+        "Azul",
+        "Blue"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/2000rub/",
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ]
+    },
+    "ru-5000": {
+      "dimensions": [
+        157,
+        69
+      ],
+      "firstIssued": "2023-10-16",
+      "color": [
+        "Rojo",
+        "Red"
+      ],
+      "orientation": "h",
+      "source": "https://www.cbr.ru/cash_circulation/banknotes/5000rub/",
+      "material": [
+        "Papel de algodón",
+        "Cotton paper"
+      ]
+    },
+    "by-5": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
+    },
+    "by-10": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
+    },
+    "by-20": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
+    },
+    "by-50": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
+    },
+    "by-100": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
+    },
+    "by-200": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
+    },
+    "by-500": {
+      "firstIssued": "2016-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=5663"
     }
   }
 }

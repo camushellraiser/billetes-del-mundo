@@ -1,17 +1,17 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.9.0",
+  "version": "2.9.1",
   "lastReviewed": "2026-11-26",
   "countryCount": 120,
   "banknoteCount": 738,
-  "imagePolicy": "Ten independent-currency countries added; selected modern circulating denominations, not exhaustive legal-tender inventory. 18 new linked photo pairs, 16 visually inspected on both sides. Earlier image records preserved; browser rendering not tested.",
+  "imagePolicy": "16 additional pairs for Russia and Belarus; both sides of every pair opened and inspected. Earlier representative circulating issues included; not every modification. Browser rendering not tested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json",
     "./api/v1/technical.json"
   ],
   "officialDenominationReferences": 540,
-  "pendingImagePairs": 120,
+  "pendingImagePairs": 104,
   "illustratedCountries": [
     "mx",
     "us",
@@ -118,14 +118,16 @@
     "lb",
     "mz",
     "sl",
-    "ht"
+    "ht",
+    "ru",
+    "by"
   ],
-  "coverageReport": "docs/expansion-v2.9.0.md",
-  "photoReferencePairs": 618,
+  "coverageReport": "docs/photo-completion-v2.9.1.md",
+  "photoReferencePairs": 634,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 509,
+  "individualImagePairs": 525,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 302,
+  "sourceVisuallyConfirmedPairs": 318,
   "browserVerifiedPairs": null,
   "sharedCurrencyExpansion": {
     "countryRecords": 50,
@@ -158,7 +160,7 @@
     "countriesWithBaseProfile": 120,
     "notesWithBaseProfile": 738,
     "countriesWithEnrichedData": 20,
-    "notesWithEnrichedData": 63,
+    "notesWithEnrichedData": 79,
     "map": "Natural Earth low resolution, simplified Robinson projection"
   },
   "uiPolish": {

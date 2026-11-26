@@ -18889,118 +18889,289 @@
     "id": "ru-5",
     "countryId": "ru",
     "value": 5,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 1997",
+    "seriesEn": "1997 issue",
+    "officialPage": "https://www.cbr.ru/eng/cash_circulation/banknotes/5rub/",
+    "referencePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/5rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Monumento al Milenario de Rusia y catedral de Santa Sofía",
+    "frontDescriptionEn": "Millennium of Russia monument and Saint Sophia Cathedral",
+    "backDescription": "Muralla del Kremlin de Nóvgorod",
+    "backDescriptionEn": "Novgorod Kremlin wall",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/98010/5r_97_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/98010/5r_97_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/5rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-10",
     "countryId": "ru",
     "value": 10,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 1997",
+    "seriesEn": "1997 issue",
+    "officialPage": "https://www.cbr.ru/eng/cash_circulation/banknotes/10rub/",
+    "referencePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/10rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Puente sobre el Yeniséi y capilla de Krasnoyarsk",
+    "frontDescriptionEn": "Yenisei bridge and Krasnoyarsk chapel",
+    "backDescription": "Presa hidroeléctrica de Krasnoyarsk",
+    "backDescriptionEn": "Krasnoyarsk hydroelectric dam",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/98019/10r_97_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/98019/10r_97_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/10rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-50",
     "countryId": "ru",
     "value": 50,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 1997",
+    "seriesEn": "1997 issue",
+    "officialPage": "https://www.cbr.ru/eng/cash_circulation/banknotes/50rub/",
+    "referencePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/50rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Columna rostral y fortaleza de San Pedro y San Pablo",
+    "frontDescriptionEn": "Rostral column and Peter and Paul Fortress",
+    "backDescription": "Edificio de la Bolsa de San Petersburgo",
+    "backDescriptionEn": "Saint Petersburg Stock Exchange",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/98029/50r_97_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/98029/50r_97_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/50rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-100",
     "countryId": "ru",
     "value": 100,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 2026",
+    "seriesEn": "2026 issue",
+    "officialPage": "https://www.cbr.ru/cash_circulation/banknotes/100rub/",
+    "referencePage": "https://www.cbr.ru/cash_circulation/banknotes/100rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Torre Spásskaya del Kremlin de Moscú",
+    "frontDescriptionEn": "Spasskaya Tower of the Moscow Kremlin",
+    "backDescription": "Memorial de Rzhev al soldado soviético",
+    "backDescriptionEn": "Rzhev Memorial to the Soviet Soldier",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/194038/100r_26_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/194038/100r_26_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/cash_circulation/banknotes/100rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-200",
     "countryId": "ru",
     "value": 200,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 2017",
+    "seriesEn": "2017 issue",
+    "officialPage": "https://www.cbr.ru/eng/cash_circulation/banknotes/200rub/",
+    "referencePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/200rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Monumento a los barcos hundidos en Sebastopol, Crimea (territorio de Ucrania ocupado por Rusia)",
+    "frontDescriptionEn": "Monument to the Sunken Ships in Sevastopol, Crimea (Ukrainian territory occupied by Russia)",
+    "backDescription": "Ruinas de Quersoneso Táurico",
+    "backDescriptionEn": "Ruins of Tauric Chersonese",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/98043/200r_17_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/98043/200r_17_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/200rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-500",
     "countryId": "ru",
     "value": 500,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 1997",
+    "seriesEn": "1997 issue",
+    "officialPage": "https://www.cbr.ru/eng/cash_circulation/banknotes/500rub/",
+    "referencePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/500rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Monumento a Pedro I y puerto de Arcángel",
+    "frontDescriptionEn": "Peter I monument and Arkhangelsk harbour",
+    "backDescription": "Monasterio de Solovetsky",
+    "backDescriptionEn": "Solovetsky Monastery",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/98050/500r_97_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/98050/500r_97_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/500rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-1000",
     "countryId": "ru",
     "value": 1000,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 2025",
+    "seriesEn": "2025 issue",
+    "officialPage": "https://www.cbr.ru/cash_circulation/banknotes/1000rub/",
+    "referencePage": "https://www.cbr.ru/cash_circulation/banknotes/1000rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Torre Nikolskaya del Kremlin de Nizhni Nóvgorod",
+    "frontDescriptionEn": "Nikolskaya Tower of Nizhny Novgorod Kremlin",
+    "backDescription": "Puente de Sarátov, embarcación hidroala y Palacio de los Agricultores de Kazán",
+    "backDescriptionEn": "Saratov bridge, hydrofoil and Palace of Farmers in Kazan",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/154639/1000r_25_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/154639/1000r_25_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/cash_circulation/banknotes/1000rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-2000",
     "countryId": "ru",
     "value": 2000,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 2017",
+    "seriesEn": "2017 issue",
+    "officialPage": "https://www.cbr.ru/eng/cash_circulation/banknotes/2000rub/",
+    "referencePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/2000rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Puente Russky",
+    "frontDescriptionEn": "Russky Bridge",
+    "backDescription": "Cosmódromo Vostochni",
+    "backDescriptionEn": "Vostochny Cosmodrome",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/98096/2000r_17_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/98096/2000r_17_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/eng/cash_circulation/banknotes/2000rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "ru-5000",
     "countryId": "ru",
     "value": 5000,
-    "series": "Emisiones vigentes de diferentes series",
-    "seriesEn": "Current issues from several series",
-    "officialPage": "https://cbr.ru/cash_circulation",
-    "referencePage": "https://cbr.ru/cash_circulation",
-    "imageStatus": "official_reference_only",
+    "series": "Emisión 2023",
+    "seriesEn": "2023 issue",
+    "officialPage": "https://www.cbr.ru/cash_circulation/banknotes/5000rub/",
+    "referencePage": "https://www.cbr.ru/cash_circulation/banknotes/5000rub/",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
-    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025.",
+    "frontDescription": "Estela Europa–Asia",
+    "frontDescriptionEn": "Europe–Asia stele",
+    "backDescription": "Monumento al cuento de los Urales",
+    "backDescriptionEn": "Tale of the Urals monument",
+    "photos": {
+      "front": "https://www.cbr.ru/StaticHtml/File/154646/5000r_23_av.jpg",
+      "back": "https://www.cbr.ru/StaticHtml/File/154646/5000r_23_rv.jpg",
+      "provider": "Bank of Russia",
+      "sourcePage": "https://www.cbr.ru/cash_circulation/banknotes/5000rub/",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "official_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-5",
@@ -19009,11 +19180,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Torre de Kamianets",
+    "frontDescriptionEn": "Kamianets Tower",
+    "backDescription": "Asentamientos eslavos antiguos",
+    "backDescriptionEn": "Early Slavic settlements",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_5_rubles_2009.00.00_B137a_P37a_AE_3234157_f-3000x1588.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_5_rubles_2009.00.00_B137a_P37a_AE_3234157_r-3000x1596.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-10",
@@ -19022,11 +19212,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Iglesia de la Transfiguración de Pólotsk",
+    "frontDescriptionEn": "Transfiguration Church in Polotsk",
+    "backDescription": "Libros y cruz ornamentada",
+    "backDescriptionEn": "Books and ornate cross",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_10_rubles_2009.00.00_B138a_P38a_BK_4892402_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_10_rubles_2009.00.00_B138a_P38a_BK_4892402_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-20",
@@ -19035,11 +19244,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Palacio Rumyantsev-Paskevich",
+    "frontDescriptionEn": "Rumyantsev-Paskevich Palace",
+    "backDescription": "Campanas y patrimonio espiritual",
+    "backDescriptionEn": "Bells and spiritual heritage",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_20_rubles_2009.00.00_B139a_P39a_CP_0264845_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_20_rubles_2009.00.00_B139a_P39a_CP_0264845_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-50",
@@ -19048,11 +19276,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Castillo de Mir",
+    "frontDescriptionEn": "Mir Castle",
+    "backDescription": "Lira y partituras",
+    "backDescriptionEn": "Lyre and sheet music",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_50_rubles_2009.00.00_B140a_P40a_HK_0989883_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_50_rubles_2009.00.00_B140a_P40a_HK_0989883_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-100",
@@ -19061,11 +19308,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Castillo de Nesvizh",
+    "frontDescriptionEn": "Nesvizh Castle",
+    "backDescription": "Violín y teatro",
+    "backDescriptionEn": "Violin and theatre",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_100_rubles_2009.00.00_B141a_P41a_EK_7071189_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_100_rubles_2009.00.00_B141a_P41a_EK_7071189_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-200",
@@ -19074,11 +19340,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Museo de arte de Moguiliov",
+    "frontDescriptionEn": "Mogilev Art Museum",
+    "backDescription": "Objetos de arte y patrimonio",
+    "backDescriptionEn": "Art and heritage objects",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_200_rubles_2009.00.00_B142a_P42a_KB_2635237_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_200_rubles_2009.00.00_B142a_P42a_KB_2635237_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "by-500",
@@ -19087,11 +19372,30 @@
     "series": "Serie 2009 · circulación desde 2016",
     "seriesEn": "2009 series · circulation since 2016",
     "officialPage": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
-    "referencePage": "https://learn.planetbanknote.com/belarus-banknotes/",
-    "imageStatus": "official_reference_only",
+    "referencePage": "https://banknotenews.com/?p=5663",
+    "imageStatus": "curated",
     "reviewedAt": "2026-11-26",
     "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
-    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks."
+    "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+    "frontDescription": "Biblioteca Nacional",
+    "frontDescriptionEn": "National Library",
+    "backDescription": "Pluma, tintero y literatura",
+    "backDescriptionEn": "Quill, inkwell and literature",
+    "photos": {
+      "front": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_500_rubles_2009.00.00_B143a_P43a_MK_7572880_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2016/07/Belarus_NBRB_500_rubles_2009.00.00_B143a_P43a_MK_7572880_r.jpg",
+      "provider": "BanknoteNews",
+      "sourcePage": "https://banknotenews.com/?p=5663",
+      "verified": true,
+      "display": "individual_images",
+      "sourceType": "external_reference",
+      "visualReview": {
+        "date": "2026-11-26",
+        "front": "confirmed_source_image",
+        "back": "confirmed_source_image"
+      },
+      "note": "Both linked images opened and visually inspected; original markings unchanged. Representative issue, not necessarily latest signature or modification. Dashboard browser rendering not tested."
+    }
   },
   {
     "id": "mz-20",
