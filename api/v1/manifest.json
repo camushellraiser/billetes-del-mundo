@@ -1,17 +1,17 @@
 {
   "name": "Billetes del Mundo",
-  "version": "2.8.1",
-  "lastReviewed": "2026-11-25",
-  "countryCount": 110,
-  "banknoteCount": 671,
-  "imagePolicy": "Ten independent-currency countries added; selected documented denominations, not an exhaustive legal-tender inventory. 15 official image pairs inspected visually and one Commons pair listed; remaining new photographs pending. Previous records unchanged. Browser rendering untested.",
+  "version": "2.9.0",
+  "lastReviewed": "2026-11-26",
+  "countryCount": 120,
+  "banknoteCount": 738,
+  "imagePolicy": "Ten independent-currency countries added; selected modern circulating denominations, not exhaustive legal-tender inventory. 18 new linked photo pairs, 16 visually inspected on both sides. Earlier image records preserved; browser rendering not tested.",
   "endpoints": [
     "./api/v1/countries.json",
     "./api/v1/banknotes.json",
     "./api/v1/technical.json"
   ],
   "officialDenominationReferences": 540,
-  "pendingImagePairs": 71,
+  "pendingImagePairs": 120,
   "illustratedCountries": [
     "mx",
     "us",
@@ -115,14 +115,17 @@
     "ml",
     "ua",
     "tj",
-    "lb"
+    "lb",
+    "mz",
+    "sl",
+    "ht"
   ],
-  "coverageReport": "docs/expansion-v2.7.0.md",
-  "photoReferencePairs": 600,
+  "coverageReport": "docs/expansion-v2.9.0.md",
+  "photoReferencePairs": 618,
   "contactSheetCroppedPairs": 109,
-  "individualImagePairs": 491,
+  "individualImagePairs": 509,
   "unverifiedExternalAvailability": true,
-  "sourceVisuallyConfirmedPairs": 286,
+  "sourceVisuallyConfirmedPairs": 302,
   "browserVerifiedPairs": null,
   "sharedCurrencyExpansion": {
     "countryRecords": 50,
@@ -138,10 +141,10 @@
   },
   "latestExpansion": {
     "countries": 10,
-    "banknotes": 77,
-    "referencePairs": 16,
-    "visuallyConfirmedPairs": 15,
-    "pendingPairs": 61
+    "banknotes": 67,
+    "referencePairs": 18,
+    "visuallyConfirmedPairs": 16,
+    "pendingPairs": 49
   },
   "navigation": {
     "defaultRegion": "América",
@@ -152,10 +155,10 @@
     "cancelObsoleteCoverLoads": true
   },
   "numismaticProfiles": {
-    "countriesWithBaseProfile": 110,
-    "notesWithBaseProfile": 671,
-    "countriesWithEnrichedData": 10,
-    "notesWithEnrichedData": 52,
+    "countriesWithBaseProfile": 120,
+    "notesWithBaseProfile": 738,
+    "countriesWithEnrichedData": 20,
+    "notesWithEnrichedData": 63,
     "map": "Natural Earth low resolution, simplified Robinson projection"
   },
   "uiPolish": {

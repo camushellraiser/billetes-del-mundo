@@ -99,6 +99,83 @@
       "source": "https://www.bankofcanada.ca/banknotes/",
       "fact": "Los cinco valores se diferencian por color y elementos de accesibilidad; el billete vertical de 10 dólares tiene un formato distinto al de la serie horizontal.",
       "factEn": "Five denominations are distinguished by colour and accessibility features; the vertical $10 differs in format from the horizontal series."
+    },
+    "ru": {
+      "issuer": "Banco de Rusia",
+      "issuerEn": "Bank of Russia",
+      "source": "https://cbr.ru/cash_circulation",
+      "fact": "El Banco de Rusia moderniza gradualmente sus billetes; el diseño de 1,000 rublos fue actualizado en diciembre de 2025.",
+      "factEn": "The Bank of Russia is gradually updating its notes; the 1,000-ruble design was updated in December 2025."
+    },
+    "by": {
+      "issuer": "Banco Nacional de Bielorrusia",
+      "issuerEn": "National Bank of Belarus",
+      "source": "https://learn.planetbanknote.com/belarus-banknotes/",
+      "fact": "Los billetes de la serie 2009 entraron en circulación en 2016 y muestran monumentos arquitectónicos.",
+      "factEn": "The 2009 series entered circulation in 2016 and depicts architectural landmarks.",
+      "intro": "2016"
+    },
+    "mz": {
+      "issuer": "Banco de Moçambique",
+      "issuerEn": "Bank of Mozambique",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "fact": "La serie introducida en junio de 2024 combina tres valores de polímero y tres de papel; los diseños comparten el retrato de Samora Machel.",
+      "factEn": "The series introduced in June 2024 has three polymer and three paper denominations; the designs share a portrait of Samora Machel.",
+      "intro": "2024",
+      "materials": "Polímero y papel",
+      "materialsEn": "Polymer and paper"
+    },
+    "mw": {
+      "issuer": "Banco de la Reserva de Malaui",
+      "issuerEn": "Reserve Bank of Malawi",
+      "source": "https://www.rbm.mw/BankingCurrency/MalawiCurrency/",
+      "fact": "La familia de 2012 utiliza motivos de educación, agricultura, infraestructura y patrimonio; posteriormente se agregaron valores superiores.",
+      "factEn": "The 2012 family uses themes of education, farming, infrastructure and heritage; higher denominations were added later."
+    },
+    "ls": {
+      "issuer": "Banco Central de Lesoto",
+      "issuerEn": "Central Bank of Lesotho",
+      "source": "https://centralbank.org.ls/currency/",
+      "fact": "El emisor publica cinco valores en maloti y también distribuye rands sudafricanos para la circulación local.",
+      "factEn": "The issuer lists five maloti denominations and also distributes South African rand for local circulation."
+    },
+    "sz": {
+      "issuer": "Banco Central de Esuatini",
+      "issuerEn": "Central Bank of Eswatini",
+      "source": "https://www.centralbank.org.sz/currency1/",
+      "fact": "Los billetes de 2 y 5 emalangeni fueron sustituidos por monedas en 1995; actualmente el emisor enumera cinco denominaciones de billetes.",
+      "factEn": "The 2- and 5-emalangeni notes were replaced by coins in 1995; the issuer now lists five banknote denominations."
+    },
+    "sl": {
+      "issuer": "Banco de Sierra Leona",
+      "issuerEn": "Bank of Sierra Leone",
+      "source": "https://bsl.gov.sl/Banknotes_and_Coins.html",
+      "fact": "La redenominación de 2022 eliminó tres ceros e introdujo un billete de 20 leones dedicado a la educadora Constance Cummings-John.",
+      "factEn": "The 2022 redenomination removed three zeros and introduced a 20-leone note honouring educator Constance Cummings-John.",
+      "intro": "2022",
+      "materials": "Papel",
+      "materialsEn": "Paper"
+    },
+    "gy": {
+      "issuer": "Banco de Guyana",
+      "issuerEn": "Bank of Guyana",
+      "source": "https://bankofguyana.org.gy/bog3/core-functions/issuance-of-currency/notes",
+      "fact": "La galería del emisor enumera siete denominaciones e incluye un billete de 2,000 dólares con un jaguar.",
+      "factEn": "The issuer lists seven denominations, including a $2,000 note featuring a jaguar."
+    },
+    "sr": {
+      "issuer": "Banco Central de Surinam",
+      "issuerEn": "Central Bank of Suriname",
+      "source": "https://www.cbvs.sr/financieel-systeem/munten-en-biljetten-in-circulatie",
+      "fact": "El banco central describe diseños que muestran su edificio en el anverso y motivos naturales o productivos en el reverso.",
+      "factEn": "The central bank describes designs with its building on the front and natural or productive themes on the back."
+    },
+    "ht": {
+      "issuer": "Banco de la República de Haití",
+      "issuerEn": "Bank of the Republic of Haiti",
+      "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/",
+      "fact": "La galería oficial incluye valores poco habituales de 25 y 250 gourdes; varios reversos muestran fortificaciones históricas.",
+      "factEn": "The official gallery includes unusual 25- and 250-gourde denominations; several backs depict historic fortifications."
     }
   },
   "notes": {
@@ -560,6 +637,149 @@
     "jp-10000": {
       "firstIssued": "2024-07-03",
       "source": "https://www.boj.or.jp/en/note_tfjgs/note/n_note/index.htm"
+    },
+    "mz-20": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "dimensions": [
+        141,
+        65
+      ],
+      "firstIssued": "2024-06-16",
+      "orientation": "h",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/"
+    },
+    "mz-50": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "dimensions": [
+        144,
+        65
+      ],
+      "firstIssued": "2024-06-16",
+      "orientation": "h",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/"
+    },
+    "mz-100": {
+      "material": [
+        "Polímero",
+        "Polymer"
+      ],
+      "dimensions": [
+        147,
+        65
+      ],
+      "firstIssued": "2024-06-16",
+      "orientation": "h",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/"
+    },
+    "mz-200": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        150,
+        65
+      ],
+      "firstIssued": "2024-06-16",
+      "orientation": "h",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/"
+    },
+    "mz-500": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        153,
+        65
+      ],
+      "firstIssued": "2024-06-16",
+      "orientation": "h",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/"
+    },
+    "mz-1000": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        156,
+        65
+      ],
+      "firstIssued": "2024-06-16",
+      "orientation": "h",
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/"
+    },
+    "sl-1": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        120,
+        62
+      ],
+      "firstIssued": "2022-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=37228"
+    },
+    "sl-2": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        125,
+        64
+      ],
+      "firstIssued": "2022-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=37350"
+    },
+    "sl-5": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        128,
+        65
+      ],
+      "firstIssued": "2022-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=37234"
+    },
+    "sl-10": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        135,
+        68
+      ],
+      "firstIssued": "2022-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=37238"
+    },
+    "sl-20": {
+      "material": [
+        "Papel",
+        "Paper"
+      ],
+      "dimensions": [
+        138,
+        70
+      ],
+      "firstIssued": "2022-07-01",
+      "orientation": "h",
+      "source": "https://banknotenews.com/?p=37242"
     }
   }
 }
