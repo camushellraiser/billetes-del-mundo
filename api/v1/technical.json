@@ -961,5 +961,3282 @@
       "orientation": "h",
       "source": "https://banknotenews.com/?p=5663"
     }
+  },
+  "portraits": {
+    "mx-20": {
+      "kind": "scene",
+      "people": [],
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-20-pesos-conmemorat.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26",
+      "es": "Escena colectiva de la entrada del Ejército de las Tres Garantías; no se presenta un retrato individual como motivo principal.",
+      "en": "Collective scene of the Army of the Three Guarantees entering Mexico City, rather than an individual portrait."
+    },
+    "mx-50": {
+      "kind": "scene",
+      "people": [],
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-50-pesos-familia-g.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26",
+      "es": "Escena fundacional de Tenochtitlan, no un retrato individual.",
+      "en": "Founding scene of Tenochtitlan, not an individual portrait."
+    },
+    "mx-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sor Juana Inés de la Cruz",
+          "es": "Poeta, dramaturga y religiosa novohispana, defensora del derecho de las mujeres al conocimiento.",
+          "en": "New Spanish poet, playwright and nun who defended women's access to knowledge.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-100-pesos-familia-g.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mx-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Miguel Hidalgo y Costilla",
+          "es": "Sacerdote que inició el movimiento de independencia en 1810.",
+          "en": "Priest who launched the independence movement in 1810.",
+          "side": "front"
+        },
+        {
+          "name": "José María Morelos y Pavón",
+          "es": "Sacerdote y dirigente insurgente que continuó la lucha por la independencia.",
+          "en": "Priest and insurgent leader who continued the independence struggle.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-200-pesos-familia-g.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mx-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Benito Juárez",
+          "es": "Presidente y figura central de la Reforma liberal y la restauración republicana.",
+          "en": "President and central figure of liberal reform and the restoration of the republic.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-500-pesos-familia-g-c.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "mx-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Francisco I. Madero",
+          "es": "Dirigente revolucionario y presidente de México.",
+          "en": "Revolutionary leader and president of Mexico.",
+          "side": "front"
+        },
+        {
+          "name": "Hermila Galindo",
+          "es": "Activista feminista y defensora de los derechos políticos de las mujeres.",
+          "en": "Feminist activist and advocate for women's political rights.",
+          "side": "front"
+        },
+        {
+          "name": "Carmen Serdán",
+          "es": "Participante del movimiento antirreeleccionista y de la Revolución mexicana.",
+          "en": "Participant in the anti-reelection movement and Mexican Revolution.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banxico.org.mx/billetes-y-monedas/billete-1000-pesos-familia-.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "George Washington",
+          "es": "Primer presidente de Estados Unidos.",
+          "en": "First president of the United States.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-2": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Thomas Jefferson",
+          "es": "Tercer presidente y autor principal de la Declaración de Independencia.",
+          "en": "Third president and principal author of the Declaration of Independence.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Abraham Lincoln",
+          "es": "Presidente durante la Guerra Civil; impulsó la abolición de la esclavitud.",
+          "en": "Civil War president who advanced the abolition of slavery.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Alexander Hamilton",
+          "es": "Primer secretario del Tesoro; contribuyó a crear el sistema financiero federal.",
+          "en": "First Treasury secretary; helped establish the federal financial system.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Andrew Jackson",
+          "es": "Séptimo presidente, cuyo mandato incluyó la política de expulsión de pueblos indígenas.",
+          "en": "Seventh president, whose administration included Indian removal policies.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ulysses S. Grant",
+          "es": "General de la Unión durante la Guerra Civil y decimoctavo presidente.",
+          "en": "Union general during the Civil War and eighteenth president.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "us-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Benjamin Franklin",
+          "es": "Científico, diplomático y uno de los fundadores de Estados Unidos; nunca fue presidente.",
+          "en": "Scientist, diplomat and founding figure of the United States; he was never president.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.uscurrency.gov/denominations",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ca-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Wilfrid Laurier",
+          "es": "Primer ministro de Canadá y primer francófono en ocupar el cargo.",
+          "en": "Canadian prime minister and the first francophone to hold the office.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/5-polymer-note-security-features/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ca-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Viola Desmond",
+          "es": "Empresaria y pionera de los derechos civiles que desafió la segregación racial en 1946.",
+          "en": "Businesswoman and civil rights pioneer who challenged racial segregation in 1946.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/vertical-10-note-security-features/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ca-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Isabel II / Elizabeth II",
+          "es": "Monarca británica y reina de Canadá entre 1952 y 2022; corresponde al diseño catalogado.",
+          "en": "British monarch and Queen of Canada from 1952 to 2022; this refers to the catalogued design.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/20-polymer-note-security-features/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ca-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "William Lyon Mackenzie King",
+          "es": "Primer ministro canadiense durante gran parte de la primera mitad del siglo XX.",
+          "en": "Canadian prime minister for much of the first half of the twentieth century.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/50-polymer-note-security-features/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ca-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Robert Borden",
+          "es": "Primer ministro de Canadá durante la Primera Guerra Mundial.",
+          "en": "Canadian prime minister during the First World War.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofcanada.ca/banknotes/100-polymer-note-security-features/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "gb-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carlos III / Charles III",
+          "es": "Rey que sucedió a Isabel II en 2022; su retrato entró en los billetes en 2024.",
+          "en": "King who succeeded Elizabeth II in 2022; his portrait entered banknotes in 2024.",
+          "side": "front"
+        },
+        {
+          "name": "Winston Churchill",
+          "es": "Primer ministro británico durante gran parte de la Segunda Guerra Mundial.",
+          "en": "British prime minister during much of the Second World War.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/current-banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "gb-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carlos III / Charles III",
+          "es": "Rey que sucedió a Isabel II en 2022; su retrato entró en los billetes en 2024.",
+          "en": "King who succeeded Elizabeth II in 2022; his portrait entered banknotes in 2024.",
+          "side": "front"
+        },
+        {
+          "name": "Jane Austen",
+          "es": "Novelista inglesa, autora de Orgullo y prejuicio.",
+          "en": "English novelist, author of Pride and Prejudice.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/current-banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "gb-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carlos III / Charles III",
+          "es": "Rey que sucedió a Isabel II en 2022; su retrato entró en los billetes en 2024.",
+          "en": "King who succeeded Elizabeth II in 2022; his portrait entered banknotes in 2024.",
+          "side": "front"
+        },
+        {
+          "name": "J. M. W. Turner",
+          "es": "Pintor británico reconocido por sus paisajes y tratamiento de la luz.",
+          "en": "British painter known for landscapes and his treatment of light.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/current-banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "gb-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carlos III / Charles III",
+          "es": "Rey que sucedió a Isabel II en 2022; su retrato entró en los billetes en 2024.",
+          "en": "King who succeeded Elizabeth II in 2022; his portrait entered banknotes in 2024.",
+          "side": "front"
+        },
+        {
+          "name": "Alan Turing",
+          "es": "Matemático y pionero de la informática, contribuyó al descifrado de códigos durante la guerra.",
+          "en": "Mathematician and computing pioneer who contributed to wartime codebreaking.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bankofengland.co.uk/banknotes/current-banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "cl-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ignacio Carrera Pinto",
+          "es": "Oficial chileno recordado por la batalla de La Concepción.",
+          "en": "Chilean officer remembered for the Battle of La Concepción.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.billetesymonedas.cl/Billetes/BilleteActual/1000",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cl-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Manuel Rodríguez",
+          "es": "Dirigente y guerrillero de la independencia chilena.",
+          "en": "Leader and guerrilla in Chile's independence struggle.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.billetesymonedas.cl/Billetes/BilleteActual/2000",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cl-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gabriela Mistral",
+          "es": "Poeta y educadora, Premio Nobel de Literatura en 1945.",
+          "en": "Poet and educator, Nobel Prize in Literature in 1945.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.billetesymonedas.cl/Billetes/BilleteActual/5000",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cl-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Arturo Prat",
+          "es": "Oficial naval chileno recordado por el combate de Iquique.",
+          "en": "Chilean naval officer remembered for the Battle of Iquique.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.billetesymonedas.cl/Billetes/BilleteActual/10000",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cl-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Andrés Bello",
+          "es": "Humanista, jurista y educador, fundador de la Universidad de Chile.",
+          "en": "Humanist, jurist and educator, founding rector of the University of Chile.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.billetesymonedas.cl/Billetes/BilleteActual/20000",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "co-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Débora Arango",
+          "es": "Pintora colombiana conocida por su crítica social.",
+          "en": "Colombian painter known for social criticism.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banrep.gov.co/es/billetes-monedas/billete-2-mil-pesos-cinco-pasos-reconocerlo",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "co-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "José Asunción Silva",
+          "es": "Poeta precursor del modernismo literario hispanoamericano.",
+          "en": "Poet and precursor of Latin American literary modernism.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banrep.gov.co/es/billetes-monedas/billete-5-mil-pesos-cinco-pasos-reconocerlo",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "co-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Virginia Gutiérrez de Pineda",
+          "es": "Antropóloga pionera del estudio de la familia colombiana.",
+          "en": "Anthropologist who pioneered the study of Colombian family structures.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banrep.gov.co/es/billetes-monedas/billete-10-mil-pesos-cinco-pasos-reconocerlo",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "co-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Alfonso López Michelsen",
+          "es": "Presidente colombiano de 1974 a 1978.",
+          "en": "President of Colombia from 1974 to 1978.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banrep.gov.co/es/billetes-monedas/billete-20-mil-pesos-cinco-pasos-reconocerlo",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "co-50000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gabriel García Márquez",
+          "es": "Escritor y Premio Nobel de Literatura en 1982.",
+          "en": "Writer and Nobel Prize in Literature in 1982.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banrep.gov.co/es/billetes-monedas/billete-50-mil-pesos-cinco-pasos-reconocerlo",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "co-100000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carlos Lleras Restrepo",
+          "es": "Presidente colombiano de 1966 a 1970.",
+          "en": "President of Colombia from 1966 to 1970.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.banrep.gov.co/es/billetes-monedas/billete-100-mil-pesos-cinco-pasos-reconocerlo",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pe-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Chabuca Granda",
+          "es": "Cantautora peruana, autora de La flor de la canela.",
+          "en": "Peruvian singer-songwriter, author of La flor de la canela.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2021/nota-informativa-2021-07-22.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pe-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "José María Arguedas",
+          "es": "Escritor y antropólogo que retrató las culturas andinas.",
+          "en": "Writer and anthropologist who depicted Andean cultures.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2022/nota-informativa-2022-07-20.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pe-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "María Rostworowski",
+          "es": "Historiadora especializada en el mundo andino prehispánico.",
+          "en": "Historian specializing in the pre-Hispanic Andean world.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2022/nota-informativa-2022-07-20.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pe-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Pedro Paulet",
+          "es": "Ingeniero peruano recordado por sus propuestas de propulsión de cohetes.",
+          "en": "Peruvian engineer remembered for proposals involving rocket propulsion.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bcrp.gob.pe/docs/Transparencia/Notas-Informativas/2021/nota-informativa-2021-07-22.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pe-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tilsa Tsuchiya",
+          "es": "Pintora peruana reconocida por su universo mítico y simbólico.",
+          "en": "Peruvian painter known for her mythic and symbolic imagery.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bcrp.gob.pe/docs/Publicaciones/Memoria/2023/memoria-bcrp-2023-6.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "se-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Astrid Lindgren",
+          "es": "Escritora infantil, creadora de Pippi Calzaslargas.",
+          "en": "Children's author and creator of Pippi Longstocking.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/20-krona-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "se-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Evert Taube",
+          "es": "Poeta, cantante y compositor sueco.",
+          "en": "Swedish poet, singer and songwriter.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/50-krona-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "se-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Greta Garbo",
+          "es": "Actriz de cine sueca de reconocimiento internacional.",
+          "en": "Internationally acclaimed Swedish film actor.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/100-krona-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "se-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ingmar Bergman",
+          "es": "Director de cine y teatro sueco.",
+          "en": "Swedish film and theatre director.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/200-krona-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "se-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Birgit Nilsson",
+          "es": "Soprano de ópera célebre por sus interpretaciones de Wagner.",
+          "en": "Opera soprano renowned for Wagner performances.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/500-krona-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "se-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Dag Hammarskjöld",
+          "es": "Diplomático, secretario general de la ONU y Nobel de la Paz póstumo.",
+          "en": "Diplomat, UN secretary-general and posthumous Nobel Peace Prize laureate.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.riksbank.se/en-gb/payments--cash/notes--coins/notes/valid-banknotes/1000-krona-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pl-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mieszko I",
+          "es": "Primer gobernante polaco históricamente documentado.",
+          "en": "First historically documented ruler of Poland.",
+          "side": "front"
+        }
+      ],
+      "source": "https://static.nbp.pl/strony/bezpiecznepieniadze/10.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pl-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Boleslao I / Bolesław I",
+          "es": "Primer rey coronado de Polonia.",
+          "en": "First crowned king of Poland.",
+          "side": "front"
+        }
+      ],
+      "source": "https://static.nbp.pl/strony/bezpiecznepieniadze/20.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pl-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Casimiro III / Kazimierz III",
+          "es": "Rey conocido por reformas jurídicas y fundar la Universidad de Cracovia.",
+          "en": "King known for legal reforms and founding the University of Kraków.",
+          "side": "front"
+        }
+      ],
+      "source": "https://static.nbp.pl/strony/bezpiecznepieniadze/50.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pl-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ladislao II Jagellón / Władysław II Jagiełło",
+          "es": "Rey de Polonia y gran duque de Lituania.",
+          "en": "King of Poland and grand duke of Lithuania.",
+          "side": "front"
+        }
+      ],
+      "source": "https://static.nbp.pl/strony/bezpiecznepieniadze/100.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pl-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Segismundo I / Zygmunt I",
+          "es": "Rey de Polonia durante el Renacimiento.",
+          "en": "King of Poland during the Renaissance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://static.nbp.pl/strony/bezpiecznepieniadze/200.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "pl-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Juan III Sobieski / Jan III Sobieski",
+          "es": "Rey recordado por su participación en la defensa de Viena de 1683.",
+          "en": "King remembered for his role in the 1683 defence of Vienna.",
+          "side": "front"
+        }
+      ],
+      "source": "https://static.nbp.pl/strony/bezpiecznepieniadze/500.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "th-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Maha Vajiralongkorn (Rama X)",
+          "es": "Rey de Tailandia desde 2016, de la dinastía Chakri.",
+          "en": "King of Thailand since 2016, of the Chakri dynasty.",
+          "side": "front"
+        },
+        {
+          "name": "Rama I",
+          "es": "Fundador de la dinastía Chakri en 1782.",
+          "en": "Founder of the Chakri dynasty in 1782.",
+          "side": "back"
+        },
+        {
+          "name": "Rama II",
+          "es": "Rey recordado por su patrocinio de las artes.",
+          "en": "King remembered for patronage of the arts.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/banknotes-series/banknote-series17.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "th-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Maha Vajiralongkorn (Rama X)",
+          "es": "Rey de Tailandia desde 2016, de la dinastía Chakri.",
+          "en": "King of Thailand since 2016, of the Chakri dynasty.",
+          "side": "front"
+        },
+        {
+          "name": "Rama III",
+          "es": "Monarca que expandió el comercio exterior.",
+          "en": "Monarch who expanded foreign trade.",
+          "side": "back"
+        },
+        {
+          "name": "Rama IV",
+          "es": "Monarca conocido como Mongkut, impulsor de contactos científicos y diplomáticos.",
+          "en": "King known as Mongkut, who advanced scientific and diplomatic contacts.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/banknotes-series/banknote-series17.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "th-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Maha Vajiralongkorn (Rama X)",
+          "es": "Rey de Tailandia desde 2016, de la dinastía Chakri.",
+          "en": "King of Thailand since 2016, of the Chakri dynasty.",
+          "side": "front"
+        },
+        {
+          "name": "Rama V",
+          "es": "Chulalongkorn, modernizador del Estado y promotor de la abolición de la esclavitud.",
+          "en": "Chulalongkorn, modernized the state and advanced abolition of slavery.",
+          "side": "back"
+        },
+        {
+          "name": "Rama VI",
+          "es": "Vajiravudh, monarca y escritor.",
+          "en": "Vajiravudh, monarch and writer.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/banknotes-series/banknote-series17.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "th-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Maha Vajiralongkorn (Rama X)",
+          "es": "Rey de Tailandia desde 2016, de la dinastía Chakri.",
+          "en": "King of Thailand since 2016, of the Chakri dynasty.",
+          "side": "front"
+        },
+        {
+          "name": "Rama VII",
+          "es": "Prajadhipok, reinó durante la transición a la monarquía constitucional.",
+          "en": "Prajadhipok, reigned during the transition to constitutional monarchy.",
+          "side": "back"
+        },
+        {
+          "name": "Rama VIII",
+          "es": "Ananda Mahidol, monarca anterior a Rama IX.",
+          "en": "Ananda Mahidol, monarch before Rama IX.",
+          "side": "back"
+        }
+      ],
+      "source": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/banknotes-series/banknote-series17.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "th-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Maha Vajiralongkorn (Rama X)",
+          "es": "Rey de Tailandia desde 2016.",
+          "en": "King of Thailand since 2016.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bot.or.th/en/our-roles/banknotes/History-and-Series-of-Banknote-And-Commemorative/banknotes-series/banknote-series17.html",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sg-2": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yusof bin Ishak",
+          "es": "Primer presidente de Singapur; antes fue periodista y fundador de un periódico malayo.",
+          "en": "Singapore's first president; previously a journalist and founder of a Malay newspaper.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sg-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yusof bin Ishak",
+          "es": "Primer presidente de Singapur; antes fue periodista y fundador de un periódico malayo.",
+          "en": "Singapore's first president; previously a journalist and founder of a Malay newspaper.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sg-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yusof bin Ishak",
+          "es": "Primer presidente de Singapur; antes fue periodista y fundador de un periódico malayo.",
+          "en": "Singapore's first president; previously a journalist and founder of a Malay newspaper.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sg-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yusof bin Ishak",
+          "es": "Primer presidente de Singapur; antes fue periodista y fundador de un periódico malayo.",
+          "en": "Singapore's first president; previously a journalist and founder of a Malay newspaper.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sg-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yusof bin Ishak",
+          "es": "Primer presidente de Singapur; antes fue periodista y fundador de un periódico malayo.",
+          "en": "Singapore's first president; previously a journalist and founder of a Malay newspaper.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mas.gov.sg/currency/circulation-currency/circulation-currency-notes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "my-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tuanku Abdul Rahman",
+          "es": "Primer Yang di-Pertuan Agong (monarca federal) de Malasia, de 1957 a 1960; no debe confundirse con el primer ministro Tunku Abdul Rahman.",
+          "en": "First Yang di-Pertuan Agong (federal monarch) of Malaysia, 1957–1960; distinct from Prime Minister Tunku Abdul Rahman.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "my-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tuanku Abdul Rahman",
+          "es": "Primer Yang di-Pertuan Agong (monarca federal) de Malasia, de 1957 a 1960; no debe confundirse con el primer ministro Tunku Abdul Rahman.",
+          "en": "First Yang di-Pertuan Agong (federal monarch) of Malaysia, 1957–1960; distinct from Prime Minister Tunku Abdul Rahman.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "my-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tuanku Abdul Rahman",
+          "es": "Primer Yang di-Pertuan Agong (monarca federal) de Malasia, de 1957 a 1960; no debe confundirse con el primer ministro Tunku Abdul Rahman.",
+          "en": "First Yang di-Pertuan Agong (federal monarch) of Malaysia, 1957–1960; distinct from Prime Minister Tunku Abdul Rahman.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "my-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tuanku Abdul Rahman",
+          "es": "Primer Yang di-Pertuan Agong (monarca federal) de Malasia, de 1957 a 1960; no debe confundirse con el primer ministro Tunku Abdul Rahman.",
+          "en": "First Yang di-Pertuan Agong (federal monarch) of Malaysia, 1957–1960; distinct from Prime Minister Tunku Abdul Rahman.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "my-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tuanku Abdul Rahman",
+          "es": "Primer Yang di-Pertuan Agong (monarca federal) de Malasia, de 1957 a 1960; no debe confundirse con el primer ministro Tunku Abdul Rahman.",
+          "en": "First Yang di-Pertuan Agong (federal monarch) of Malaysia, 1957–1960; distinct from Prime Minister Tunku Abdul Rahman.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "my-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tuanku Abdul Rahman",
+          "es": "Primer Yang di-Pertuan Agong (monarca federal) de Malasia, de 1957 a 1960; no debe confundirse con el primer ministro Tunku Abdul Rahman.",
+          "en": "First Yang di-Pertuan Agong (federal monarch) of Malaysia, 1957–1960; distinct from Prime Minister Tunku Abdul Rahman.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.gov.my/web/bnm-bank-notes/distinctively-malaysia",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "za-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nelson Mandela",
+          "es": "Dirigente contra el apartheid, Nobel de la Paz y primer presidente de Sudáfrica elegido en sufragio universal.",
+          "en": "Anti-apartheid leader, Nobel Peace Prize laureate and South Africa's first president elected by universal suffrage.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "za-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nelson Mandela",
+          "es": "Dirigente contra el apartheid, Nobel de la Paz y primer presidente de Sudáfrica elegido en sufragio universal.",
+          "en": "Anti-apartheid leader, Nobel Peace Prize laureate and South Africa's first president elected by universal suffrage.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "za-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nelson Mandela",
+          "es": "Dirigente contra el apartheid, Nobel de la Paz y primer presidente de Sudáfrica elegido en sufragio universal.",
+          "en": "Anti-apartheid leader, Nobel Peace Prize laureate and South Africa's first president elected by universal suffrage.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "za-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nelson Mandela",
+          "es": "Dirigente contra el apartheid, Nobel de la Paz y primer presidente de Sudáfrica elegido en sufragio universal.",
+          "en": "Anti-apartheid leader, Nobel Peace Prize laureate and South Africa's first president elected by universal suffrage.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "za-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nelson Mandela",
+          "es": "Dirigente contra el apartheid, Nobel de la Paz y primer presidente de Sudáfrica elegido en sufragio universal.",
+          "en": "Anti-apartheid leader, Nobel Peace Prize laureate and South Africa's first president elected by universal suffrage.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.resbank.co.za/en/home/what-we-do/banknotes-and-coin/Banknotes",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ma-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mohammed VI",
+          "es": "Rey de Marruecos desde 1999, integrante de la dinastía alauí.",
+          "en": "King of Morocco since 1999, a member of the Alaouite dynasty.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bkam.ma/en/content/download/810715/8910395/CdP_nouvelle%20serie%2020dhs%20EN.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ma-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mohammed VI",
+          "es": "Rey de Marruecos desde 1999, integrante de la dinastía alauí.",
+          "en": "King of Morocco since 1999, a member of the Alaouite dynasty.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bkam.ma/en/content/download/809676/8903453/CdP_nouvelle%20serie%2050dhs%20EN.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ma-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mohammed VI",
+          "es": "Rey de Marruecos desde 1999, integrante de la dinastía alauí.",
+          "en": "King of Morocco since 1999, a member of the Alaouite dynasty.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bkam.ma/en/content/download/795904/8808984/CdP_nouvelle%20serie_En.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ma-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mohammed VI",
+          "es": "Rey de Marruecos desde 1999, integrante de la dinastía alauí.",
+          "en": "King of Morocco since 1999, a member of the Alaouite dynasty.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bkam.ma/en/content/download/798470/8826499/CdP_nouvelle%20serie_EN.pdf",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "mz-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Samora Moisés Machel",
+          "es": "Dirigente de la independencia y primer presidente de Mozambique, de 1975 a 1986.",
+          "en": "Independence leader and Mozambique's first president, 1975–1986.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "mz-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Samora Moisés Machel",
+          "es": "Dirigente de la independencia y primer presidente de Mozambique, de 1975 a 1986.",
+          "en": "Independence leader and Mozambique's first president, 1975–1986.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "mz-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Samora Moisés Machel",
+          "es": "Dirigente de la independencia y primer presidente de Mozambique, de 1975 a 1986.",
+          "en": "Independence leader and Mozambique's first president, 1975–1986.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "mz-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Samora Moisés Machel",
+          "es": "Dirigente de la independencia y primer presidente de Mozambique, de 1975 a 1986.",
+          "en": "Independence leader and Mozambique's first president, 1975–1986.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "mz-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Samora Moisés Machel",
+          "es": "Dirigente de la independencia y primer presidente de Mozambique, de 1975 a 1986.",
+          "en": "Independence leader and Mozambique's first president, 1975–1986.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "mz-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Samora Moisés Machel",
+          "es": "Dirigente de la independencia y primer presidente de Mozambique, de 1975 a 1986.",
+          "en": "Independence leader and Mozambique's first president, 1975–1986.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bancomoc.mz/en/media/highlights/governor-zandamela-announces-circulation-of-new-series-of-metical-banknotes-and-coins/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "sz-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mswati III",
+          "es": "Rey de Esuatini desde 1986; el retrato real es el motivo común de la familia de billetes.",
+          "en": "King of Eswatini since 1986; the royal portrait is a common feature of the banknote family.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.centralbank.org.sz/currency/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sz-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mswati III",
+          "es": "Rey de Esuatini desde 1986; el retrato real es el motivo común de la familia de billetes.",
+          "en": "King of Eswatini since 1986; the royal portrait is a common feature of the banknote family.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.centralbank.org.sz/currency/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sz-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mswati III",
+          "es": "Rey de Esuatini desde 1986; el retrato real es el motivo común de la familia de billetes.",
+          "en": "King of Eswatini since 1986; the royal portrait is a common feature of the banknote family.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.centralbank.org.sz/currency/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sz-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mswati III",
+          "es": "Rey de Esuatini desde 1986; el retrato real es el motivo común de la familia de billetes.",
+          "en": "King of Eswatini since 1986; the royal portrait is a common feature of the banknote family.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.centralbank.org.sz/currency/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "sz-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mswati III",
+          "es": "Rey de Esuatini desde 1986; el retrato real es el motivo común de la familia de billetes.",
+          "en": "King of Eswatini since 1986; the royal portrait is a common feature of the banknote family.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.centralbank.org.sz/currency/",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "ao-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Agostinho Neto",
+          "es": "Poeta y dirigente independentista, primer presidente de Angola entre 1975 y 1979.",
+          "en": "Poet and independence leader, Angola's first president from 1975 to 1979.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banknote.ws/COLLECTION/countries/AFR/ANG/ANG-BNA.htm",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ao-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Agostinho Neto",
+          "es": "Poeta y dirigente independentista, primer presidente de Angola entre 1975 y 1979.",
+          "en": "Poet and independence leader, Angola's first president from 1975 to 1979.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banknote.ws/COLLECTION/countries/AFR/ANG/ANG-BNA.htm",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ao-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Agostinho Neto",
+          "es": "Poeta y dirigente independentista, primer presidente de Angola entre 1975 y 1979.",
+          "en": "Poet and independence leader, Angola's first president from 1975 to 1979.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banknote.ws/COLLECTION/countries/AFR/ANG/ANG-BNA.htm",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ao-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Agostinho Neto",
+          "es": "Poeta y dirigente independentista, primer presidente de Angola entre 1975 y 1979.",
+          "en": "Poet and independence leader, Angola's first president from 1975 to 1979.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banknote.ws/COLLECTION/countries/AFR/ANG/ANG-BNA.htm",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ao-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Agostinho Neto",
+          "es": "Poeta y dirigente independentista, primer presidente de Angola entre 1975 y 1979.",
+          "en": "Poet and independence leader, Angola's first president from 1975 to 1979.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banknote.ws/COLLECTION/countries/AFR/ANG/ANG-BNA.htm",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "md-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban el Grande / Stephen the Great",
+          "es": "Príncipe de Moldavia de 1457 a 1504, figura histórica de la región.",
+          "en": "Prince of Moldavia from 1457 to 1504, a major historical figure of the region.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bnm.md/en/content/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "jp-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Shibasaburō Kitasato",
+          "es": "Médico y bacteriólogo, pionero en la investigación de enfermedades infecciosas.",
+          "en": "Physician and bacteriologist, pioneer in infectious disease research.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/valid/issue.htm",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jp-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Umeko Tsuda",
+          "es": "Educadora y pionera de la educación superior femenina en Japón.",
+          "en": "Educator and pioneer of women's higher education in Japan.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/valid/issue.htm",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "jp-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Eiichi Shibusawa",
+          "es": "Empresario y promotor de instituciones financieras modernas en Japón.",
+          "en": "Entrepreneur and promoter of modern financial institutions in Japan.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boj.or.jp/en/note_tfjgs/note/valid/issue.htm",
+      "basis": "issuer_reference",
+      "reviewedAt": "2026-11-26"
+    },
+    "kr-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yi Hwang",
+          "es": "Filósofo confuciano conocido como Toegye.",
+          "en": "Confucian philosopher known as Toegye.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bok.or.kr/eng/main/main.do",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "kr-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Yi I",
+          "es": "Filósofo confuciano conocido como Yulgok.",
+          "en": "Confucian philosopher known as Yulgok.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bok.or.kr/eng/main/main.do",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "kr-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sejong el Grande / Sejong the Great",
+          "es": "Rey de Joseon que impulsó la creación del alfabeto hangul.",
+          "en": "Joseon king who promoted the creation of the Hangul alphabet.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bok.or.kr/eng/main/main.do",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "kr-50000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Shin Saimdang",
+          "es": "Artista, poeta y calígrafa de la dinastía Joseon.",
+          "en": "Artist, poet and calligrapher of the Joseon dynasty.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bok.or.kr/eng/main/main.do",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "nz-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Edmund Hillary",
+          "es": "Montañista que alcanzó la cima del Everest con Tenzing Norgay en 1953.",
+          "en": "Mountaineer who summited Everest with Tenzing Norgay in 1953.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/5%20banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "nz-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Kate Sheppard",
+          "es": "Activista que impulsó el sufragio femenino neozelandés.",
+          "en": "Campaigner who advanced women's suffrage in New Zealand.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/10-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "nz-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Isabel II / Elizabeth II",
+          "es": "Reina de Nueva Zelanda de 1952 a 2022, en el diseño catalogado.",
+          "en": "Queen of New Zealand from 1952 to 2022, on the catalogued design.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/20-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "nz-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Āpirana Ngata",
+          "es": "Político maorí y promotor de la cultura y lengua maorí.",
+          "en": "Māori politician and advocate for Māori culture and language.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/50-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "nz-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ernest Rutherford",
+          "es": "Físico pionero del estudio del átomo, Nobel de Química de 1908.",
+          "en": "Pioneer in atomic physics and 1908 Nobel Prize in Chemistry laureate.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.rbnz.govt.nz/money-and-cash/banknotes-and-coins/banknotes-in-circulation/100-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cz-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carlos IV / Charles IV",
+          "es": "Rey de Bohemia y emperador del Sacro Imperio.",
+          "en": "King of Bohemia and Holy Roman Emperor.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/100-czk/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cz-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Jan Amos Comenius",
+          "es": "Educador y filósofo, pionero de la pedagogía moderna.",
+          "en": "Educator and philosopher, pioneer of modern pedagogy.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/200-czk/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cz-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Božena Němcová",
+          "es": "Escritora checa vinculada al renacimiento cultural nacional.",
+          "en": "Czech writer associated with the national cultural revival.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/500-czk/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cz-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "František Palacký",
+          "es": "Historiador y político del renacimiento nacional checo.",
+          "en": "Historian and politician of the Czech national revival.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/1000-czk/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cz-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ema Destinnová",
+          "es": "Soprano de ópera de fama internacional.",
+          "en": "Internationally acclaimed opera soprano.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/2000-czk/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cz-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tomáš Garrigue Masaryk",
+          "es": "Primer presidente de Checoslovaquia.",
+          "en": "First president of Czechoslovakia.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cnb.cz/en/banknotes-and-coins/banknotes/5000-czk/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "hu-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ferenc Rákóczi II",
+          "es": "Dirigente de una rebelión contra los Habsburgo.",
+          "en": "Leader of a rebellion against Habsburg rule.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-five-hundred-forint-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "hu-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Matías Corvino / Matthias Corvinus",
+          "es": "Rey húngaro del Renacimiento.",
+          "en": "Renaissance king of Hungary.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-one-thousand-forint-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "hu-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gábor Bethlen",
+          "es": "Príncipe de Transilvania en el siglo XVII.",
+          "en": "Seventeenth-century prince of Transylvania.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-two-thousand-forint-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "hu-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "István Széchenyi",
+          "es": "Reformador húngaro y promotor del desarrollo institucional.",
+          "en": "Hungarian reformer and advocate of institutional development.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-five-thousand-forint-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "hu-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Esteban I / Stephen I",
+          "es": "Primer rey de Hungría.",
+          "en": "First king of Hungary.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-ten-thousand-forint-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "hu-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ferenc Deák",
+          "es": "Estadista que contribuyó al compromiso austrohúngaro de 1867.",
+          "en": "Statesman who contributed to the Austro-Hungarian Compromise of 1867.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.mnb.hu/en/banknotes-and-coins/banknotes/new-twenty-thousand-forint-banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "is-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Jón Sigurðsson",
+          "es": "Dirigente del movimiento de independencia islandés.",
+          "en": "Leader of the Icelandic independence movement.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-hundred-kr-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "is-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Brynjólfur Sveinsson",
+          "es": "Obispo y protector de manuscritos islandeses.",
+          "en": "Bishop and patron of Icelandic manuscripts.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/one-thousand-kr-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "is-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Jóhannes S. Kjarval",
+          "es": "Pintor islandés de paisajes y motivos imaginarios.",
+          "en": "Icelandic painter of landscapes and imaginative motifs.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/two-thousand-kr-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "is-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ragnheiður Jónsdóttir",
+          "es": "Figura histórica vinculada al bordado y patrimonio textil islandés.",
+          "en": "Historical figure associated with Icelandic embroidery and textile heritage.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/five-thousand-kr-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "is-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Jónas Hallgrímsson",
+          "es": "Poeta y naturalista del renacimiento cultural islandés.",
+          "en": "Poet and naturalist of Iceland's cultural revival.",
+          "side": "front"
+        }
+      ],
+      "source": "https://cb.is/payments/banknotes-and-coin/valid-banknotes-in-circulation/ten-thousand-kr-banknote/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "il-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Rachel Bluwstein",
+          "es": "Poeta de lengua hebrea.",
+          "en": "Hebrew-language poet.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "il-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Shaul Tchernichovsky",
+          "es": "Poeta y traductor de lengua hebrea.",
+          "en": "Hebrew-language poet and translator.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "il-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Leah Goldberg",
+          "es": "Poeta, escritora y traductora israelí.",
+          "en": "Israeli poet, author and translator.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "il-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nathan Alterman",
+          "es": "Poeta, dramaturgo y periodista israelí.",
+          "en": "Israeli poet, playwright and journalist.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.boi.org.il/en/information-and-service-to-the-public/my-cash-banknotes/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cr-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Braulio Carrillo Colina",
+          "es": "Jefe de Estado y reformador de Costa Rica.",
+          "en": "Costa Rican head of state and reformer.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cr-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mauro Fernández Acuña",
+          "es": "Educador y promotor de reformas escolares.",
+          "en": "Educator and advocate of school reforms.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cr-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Alfredo González Flores",
+          "es": "Presidente y reformador financiero.",
+          "en": "President and financial reformer.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cr-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "José Figueres Ferrer",
+          "es": "Presidente y figura de la abolición del ejército costarricense.",
+          "en": "President and figure associated with abolition of Costa Rica's army.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "cr-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Carmen Lyra (María Isabel Carvajal)",
+          "es": "Escritora, educadora y activista costarricense.",
+          "en": "Costa Rican writer, educator and activist.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bccr.fi.cr/cr/es/billetes-y-monedas/billetes/billetes-en-circulacion.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "al-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Naim Frashëri",
+          "es": "Poeta del renacimiento nacional albanés.",
+          "en": "Poet of the Albanian national revival.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/200_lek/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "al-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ismail Qemali",
+          "es": "Dirigente de la independencia albanesa y primer jefe de gobierno.",
+          "en": "Albanian independence leader and first head of government.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/500_Lek/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "al-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Pjetër Bogdani",
+          "es": "Clérigo y escritor de la literatura albanesa temprana.",
+          "en": "Clergyman and early Albanian-language writer.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/1000_Lek/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "al-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gentius",
+          "es": "Rey ilirio de la Antigüedad.",
+          "en": "Ancient Illyrian king.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/2000_Lek/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "al-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Skanderbeg",
+          "es": "Dirigente albanés de la resistencia contra el Imperio otomano.",
+          "en": "Albanian leader of resistance to the Ottoman Empire.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/5000_Lek/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "al-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Asdreni",
+          "es": "Poeta autor de la letra del himno nacional albanés.",
+          "en": "Poet who wrote the lyrics of Albania's national anthem.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bankofalbania.org/Currency/Banknotes_in_circulation/10000_Lek/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Vuk Stefanović Karadžić",
+          "es": "Reformador de la lengua escrita serbia.",
+          "en": "Reformer of the Serbian written language.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Petar II Petrović-Njegoš",
+          "es": "Príncipe-obispo y poeta montenegrino.",
+          "en": "Montenegrin prince-bishop and poet.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Stevan Mokranjac",
+          "es": "Compositor y director coral serbio.",
+          "en": "Serbian composer and choral conductor.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nikola Tesla",
+          "es": "Inventor e ingeniero pionero de sistemas eléctricos de corriente alterna.",
+          "en": "Inventor and engineer who pioneered alternating-current electrical systems.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nadežda Petrović",
+          "es": "Pintora serbia y enfermera voluntaria.",
+          "en": "Serbian painter and volunteer nurse.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Jovan Cvijić",
+          "es": "Geógrafo e investigador de los Balcanes.",
+          "en": "Geographer and researcher of the Balkans.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Đorđe Vajfert",
+          "es": "Industrial y banquero serbio.",
+          "en": "Serbian industrialist and banker.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Milutin Milanković",
+          "es": "Científico conocido por sus ciclos astronómicos del clima.",
+          "en": "Scientist known for astronomical climate cycles.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "rs-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Slobodan Jovanović",
+          "es": "Jurista, historiador y político serbio.",
+          "en": "Serbian jurist, historian and politician.",
+          "side": "front"
+        }
+      ],
+      "source": "https://nbs.rs/en/novac-i-placanja/novcanice/index.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Paruyr Sevak",
+          "es": "Poeta armenio.",
+          "en": "Armenian poet.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/1000.2018",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tigran Petrosian",
+          "es": "Campeón mundial de ajedrez entre 1963 y 1969.",
+          "en": "World chess champion from 1963 to 1969.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/2000.2018/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-5000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "William Saroyan",
+          "es": "Escritor estadounidense de ascendencia armenia.",
+          "en": "American writer of Armenian descent.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/5000.2018/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-10000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Komitas Vardapet",
+          "es": "Compositor, sacerdote e investigador de la música armenia.",
+          "en": "Composer, priest and researcher of Armenian music.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/10000.2018/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-20000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Hovhannes Aivazovsky",
+          "es": "Pintor célebre por sus marinas.",
+          "en": "Painter renowned for seascapes.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/20000.2018/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-50000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Gregorio el Iluminador / Gregory the Illuminator",
+          "es": "Figura central de la cristianización de Armenia.",
+          "en": "Central figure in Armenia's Christianization.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/50000.2018/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "am-100000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Abgar V",
+          "es": "Rey de Edesa, asociado a una tradición cristiana temprana.",
+          "en": "King of Edessa, associated with an early Christian tradition.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cba.am/en/100000.2009/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mirzo Tursunzoda",
+          "es": "Poeta tayiko.",
+          "en": "Tajik poet.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-3": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Shirinsho Shotemur",
+          "es": "Dirigente político de la formación de Tayikistán soviético.",
+          "en": "Political leader in the formation of Soviet Tajikistan.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sadriddin Ayni",
+          "es": "Escritor y figura de la literatura moderna tayika.",
+          "en": "Writer and figure of modern Tajik literature.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-10": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Mir Said Ali Hamadoni",
+          "es": "Erudito y místico sufí.",
+          "en": "Scholar and Sufi mystic.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Avicena / Ibn Sina",
+          "es": "Médico y filósofo, autor del Canon de medicina.",
+          "en": "Physician and philosopher, author of the Canon of Medicine.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-50": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Bobojon Gafurov",
+          "es": "Historiador y estudioso de Asia Central.",
+          "en": "Historian and scholar of Central Asia.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Ismoil Somoni",
+          "es": "Gobernante de la dinastía samánida; da nombre a la moneda.",
+          "en": "Samanid ruler after whom the currency is named.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Nusratullo Makhsum",
+          "es": "Dirigente político del Tayikistán soviético temprano.",
+          "en": "Political leader of early Soviet Tajikistan.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tj-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Rudaki",
+          "es": "Poeta clásico de lengua persa.",
+          "en": "Classical Persian-language poet.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.nbt.tj/en/banknotes_coins/banknotes.php",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "sl-1": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Bai Bureh",
+          "es": "Líder de la resistencia contra el dominio colonial británico en 1898.",
+          "en": "Leader of resistance to British colonial rule in 1898.",
+          "side": "front"
+        }
+      ],
+      "source": "https://bsl.gov.sl/Banknotes_and_Coins.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "sl-2": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "I. T. A. Wallace-Johnson",
+          "es": "Sindicalista, periodista y activista político de África Occidental.",
+          "en": "West African trade unionist, journalist and political activist.",
+          "side": "front"
+        }
+      ],
+      "source": "https://bsl.gov.sl/Banknotes_and_Coins.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "sl-5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sengbe Pieh",
+          "es": "Figura de la rebelión de los cautivos del barco Amistad en 1839.",
+          "en": "Figure in the 1839 revolt of captives aboard the Amistad.",
+          "side": "front"
+        }
+      ],
+      "source": "https://bsl.gov.sl/Banknotes_and_Coins.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "sl-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Constance Cummings-John",
+          "es": "Educadora y política, promotora de la participación de las mujeres.",
+          "en": "Educator and politician who promoted women's participation.",
+          "side": "front"
+        }
+      ],
+      "source": "https://bsl.gov.sl/Banknotes_and_Coins.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "sl-10": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://bsl.gov.sl/Banknotes_and_Coins.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La paloma sobre el mapa nacional simboliza la paz; no es un retrato individual.",
+      "en": "The dove over the national map symbolizes peace rather than an individual portrait."
+    },
+    "ht-20": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Toussaint Louverture",
+          "es": "Dirigente de la Revolución haitiana y de la lucha contra la esclavitud.",
+          "en": "Leader of the Haitian Revolution and the struggle against slavery.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ht-25": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.brh.ht/moyens-de-paiements/billets-images-et-caracteristiques/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal documentado es el Palacio Nacional.",
+      "en": "The documented main motif is the National Palace."
+    },
+    "uy-2000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Dámaso Antonio Larrañaga",
+          "es": "Sacerdote, naturalista y figura de la fundación de la Biblioteca Nacional uruguaya.",
+          "en": "Priest, naturalist and figure in the founding of Uruguay's National Library.",
+          "side": "front"
+        }
+      ],
+      "source": "https://subsitio.bcu.gub.uy/billetes/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "gt-0.5": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Tecún Umán",
+          "es": "Dirigente k'iche' recordado como símbolo de resistencia indígena.",
+          "en": "K'iche' leader remembered as a symbol of Indigenous resistance.",
+          "side": "front"
+        }
+      ],
+      "source": "https://banguat.gob.gt/page/catalogos-de-billetes-de-actual-circulacion",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tw-100": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Sun Yat-sen",
+          "es": "Figura de la fundación de la República de China.",
+          "en": "Figure in the founding of the Republic of China.",
+          "side": "front"
+        }
+      ],
+      "source": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tw-200": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Chiang Kai-shek",
+          "es": "Dirigente de la República de China durante gran parte del siglo XX.",
+          "en": "Leader of the Republic of China for much of the twentieth century.",
+          "side": "front"
+        }
+      ],
+      "source": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tw-500": {
+      "kind": "scene",
+      "people": [],
+      "source": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "Equipo juvenil de béisbol, escena deportiva colectiva.",
+      "en": "Youth baseball team, a collective sporting scene."
+    },
+    "tw-1000": {
+      "kind": "scene",
+      "people": [],
+      "source": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "Escolares alrededor de un globo terrestre; escena educativa colectiva.",
+      "en": "Schoolchildren around a globe; a collective educational scene."
+    },
+    "tw-2000": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://museum.cbc.gov.tw/web/en-us/circulation/banknote",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal documentado son antenas de satélite.",
+      "en": "The documented main motif is satellite dishes."
+    },
+    "tz-1000": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Julius Nyerere",
+          "es": "Primer presidente de Tanzania y figura de la independencia de Tanganica.",
+          "en": "First president of Tanzania and figure in Tanganyika's independence.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.bot.go.tz/Currency/BanknotesAndCoinsIssued?lang=en",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "tz-2000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.bot.go.tz/Currency/BanknotesAndCoinsIssued?lang=en",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "León como motivo principal documentado.",
+      "en": "Lion as the documented main motif."
+    },
+    "tz-5000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.bot.go.tz/Currency/BanknotesAndCoinsIssued?lang=en",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "Rinoceronte como motivo principal documentado.",
+      "en": "Rhinoceros as the documented main motif."
+    },
+    "tz-10000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.bot.go.tz/Currency/BanknotesAndCoinsIssued?lang=en",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "Elefante como motivo principal documentado.",
+      "en": "Elephant as the documented main motif."
+    },
+    "ru-5": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/5rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "ru-10": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/10rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "ru-50": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/50rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "ru-100": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/cash_circulation/banknotes/100rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "Monumentos y arquitectura histórica; el reverso incluye un monumento conmemorativo, no un retrato individual.",
+      "en": "Historic architecture and monuments; the back includes a memorial rather than an individual portrait."
+    },
+    "ru-200": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/200rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "ru-500": {
+      "kind": "named",
+      "people": [
+        {
+          "name": "Pedro I / Peter the Great",
+          "es": "Zar y emperador ruso, representado mediante un monumento en Arcángel.",
+          "en": "Russian tsar and emperor, depicted as a monument in Arkhangelsk.",
+          "side": "front"
+        }
+      ],
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/500rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26"
+    },
+    "ru-1000": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/cash_circulation/banknotes/1000rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "ru-2000": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/eng/cash_circulation/banknotes/2000rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "ru-5000": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.cbr.ru/cash_circulation/banknotes/5000rub/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es arquitectónico o monumental.",
+      "en": "The main motif of the catalogued design is architectural or monumental."
+    },
+    "fr-5": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/html/index.es.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie Europa usa ventanas, arcos y puentes estilizados como motivo principal; incluye el rostro mitológico de Europa en elementos de seguridad.",
+      "en": "The Europa series uses stylized windows, arches and bridges as main motifs; security elements depict the mythological Europa."
+    },
+    "fr-10": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/html/index.es.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie Europa usa ventanas, arcos y puentes estilizados como motivo principal; incluye el rostro mitológico de Europa en elementos de seguridad.",
+      "en": "The Europa series uses stylized windows, arches and bridges as main motifs; security elements depict the mythological Europa."
+    },
+    "fr-20": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/html/index.es.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie Europa usa ventanas, arcos y puentes estilizados como motivo principal; incluye el rostro mitológico de Europa en elementos de seguridad.",
+      "en": "The Europa series uses stylized windows, arches and bridges as main motifs; security elements depict the mythological Europa."
+    },
+    "fr-50": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/html/index.es.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie Europa usa ventanas, arcos y puentes estilizados como motivo principal; incluye el rostro mitológico de Europa en elementos de seguridad.",
+      "en": "The Europa series uses stylized windows, arches and bridges as main motifs; security elements depict the mythological Europa."
+    },
+    "fr-100": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/html/index.es.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie Europa usa ventanas, arcos y puentes estilizados como motivo principal; incluye el rostro mitológico de Europa en elementos de seguridad.",
+      "en": "The Europa series uses stylized windows, arches and bridges as main motifs; security elements depict the mythological Europa."
+    },
+    "fr-200": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.ecb.europa.eu/euro/banknotes/current/html/index.es.html",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie Europa usa ventanas, arcos y puentes estilizados como motivo principal; incluye el rostro mitológico de Europa en elementos de seguridad.",
+      "en": "The Europa series uses stylized windows, arches and bridges as main motifs; security elements depict the mythological Europa."
+    },
+    "no-50": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/50-krone-note/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie VIII utiliza motivos marítimos y diseños pixelados, no retratos individuales principales.",
+      "en": "Series VIII uses maritime and pixelated motifs rather than main individual portraits."
+    },
+    "no-100": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/100-krone-note/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie VIII utiliza motivos marítimos y diseños pixelados, no retratos individuales principales.",
+      "en": "Series VIII uses maritime and pixelated motifs rather than main individual portraits."
+    },
+    "no-200": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/200-krone-note/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie VIII utiliza motivos marítimos y diseños pixelados, no retratos individuales principales.",
+      "en": "Series VIII uses maritime and pixelated motifs rather than main individual portraits."
+    },
+    "no-500": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/500-krone-note/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie VIII utiliza motivos marítimos y diseños pixelados, no retratos individuales principales.",
+      "en": "Series VIII uses maritime and pixelated motifs rather than main individual portraits."
+    },
+    "no-1000": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.norges-bank.no/en/topics/notes-and-coins/legal-tender-notes-coins/1000-krone-note/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie VIII utiliza motivos marítimos y diseños pixelados, no retratos individuales principales.",
+      "en": "Series VIII uses maritime and pixelated motifs rather than main individual portraits."
+    },
+    "dk-50": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/danish-banknotes-today",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal es un puente danés; el reverso representa objetos arqueológicos.",
+      "en": "The main motif is a Danish bridge; the back shows archaeological objects."
+    },
+    "dk-100": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/danish-banknotes-today",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal es un puente danés; el reverso representa objetos arqueológicos.",
+      "en": "The main motif is a Danish bridge; the back shows archaeological objects."
+    },
+    "dk-200": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/danish-banknotes-today",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal es un puente danés; el reverso representa objetos arqueológicos.",
+      "en": "The main motif is a Danish bridge; the back shows archaeological objects."
+    },
+    "dk-500": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nationalbanken.dk/en/what-we-do/notes-and-coins/danish-banknotes-today",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal es un puente danés; el reverso representa objetos arqueológicos.",
+      "en": "The main motif is a Danish bridge; the back shows archaeological objects."
+    },
+    "qa-1": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "qa-5": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "qa-10": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "qa-50": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "qa-100": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "qa-200": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "qa-500": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.qcb.gov.qa/en/pages/currentbanknotes.aspx",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso utiliza motivos geométricos, bandera y emblema; no un retrato individual principal.",
+      "en": "The front uses geometric patterns, flag and emblem rather than a main individual portrait."
+    },
+    "mg-100": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-200": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-500": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-1000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-2000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-5000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-10000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "mg-20000": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://nouveauxbillets.bfm.mg/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia destaca paisajes, biodiversidad y arquitectura; consulta los motivos específicos de esta denominación.",
+      "en": "The family highlights landscapes, biodiversity and architecture; see the motifs of this denomination."
+    },
+    "sc-25": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.cbs.sc/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie se centra en la biodiversidad de Seychelles, no en un retrato humano principal.",
+      "en": "The series focuses on Seychelles biodiversity rather than a main human portrait."
+    },
+    "sc-50": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.cbs.sc/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie se centra en la biodiversidad de Seychelles, no en un retrato humano principal.",
+      "en": "The series focuses on Seychelles biodiversity rather than a main human portrait."
+    },
+    "sc-100": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.cbs.sc/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie se centra en la biodiversidad de Seychelles, no en un retrato humano principal.",
+      "en": "The series focuses on Seychelles biodiversity rather than a main human portrait."
+    },
+    "sc-500": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.cbs.sc/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La serie se centra en la biodiversidad de Seychelles, no en un retrato humano principal.",
+      "en": "The series focuses on Seychelles biodiversity rather than a main human portrait."
+    },
+    "fj-5": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia representa flora y fauna de Fiji como motivos principales.",
+      "en": "The family depicts Fijian flora and fauna as main motifs."
+    },
+    "fj-10": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia representa flora y fauna de Fiji como motivos principales.",
+      "en": "The family depicts Fijian flora and fauna as main motifs."
+    },
+    "fj-20": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia representa flora y fauna de Fiji como motivos principales.",
+      "en": "The family depicts Fijian flora and fauna as main motifs."
+    },
+    "fj-50": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia representa flora y fauna de Fiji como motivos principales.",
+      "en": "The family depicts Fijian flora and fauna as main motifs."
+    },
+    "fj-100": {
+      "kind": "nature",
+      "people": [],
+      "source": "https://www.rbf.gov.fj/press-release-no-27-fijis-new-polymer-banknotes-officially-unveiled-by-the-president-of-fiji-his-excellency-ratu-naiqama-lalabalavu/",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La familia representa flora y fauna de Fiji como motivos principales.",
+      "en": "The family depicts Fijian flora and fauna as main motifs."
+    },
+    "by-5": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "by-10": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "by-20": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "by-50": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "by-100": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "by-200": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "by-500": {
+      "kind": "architecture",
+      "people": [],
+      "source": "https://www.nbrb.by/engl/coinsbanknotes/banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El motivo principal del diseño catalogado es un edificio o monumento, no un retrato individual.",
+      "en": "The main motif of the catalogued design is a building or monument rather than an individual portrait."
+    },
+    "ch-10": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La novena serie representa facetas de Suiza mediante manos, globos y motivos temáticos, no retratos individuales principales.",
+      "en": "The ninth series represents aspects of Switzerland through hands, globes and thematic imagery rather than main individual portraits."
+    },
+    "ch-20": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La novena serie representa facetas de Suiza mediante manos, globos y motivos temáticos, no retratos individuales principales.",
+      "en": "The ninth series represents aspects of Switzerland through hands, globes and thematic imagery rather than main individual portraits."
+    },
+    "ch-50": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La novena serie representa facetas de Suiza mediante manos, globos y motivos temáticos, no retratos individuales principales.",
+      "en": "The ninth series represents aspects of Switzerland through hands, globes and thematic imagery rather than main individual portraits."
+    },
+    "ch-100": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La novena serie representa facetas de Suiza mediante manos, globos y motivos temáticos, no retratos individuales principales.",
+      "en": "The ninth series represents aspects of Switzerland through hands, globes and thematic imagery rather than main individual portraits."
+    },
+    "ch-200": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La novena serie representa facetas de Suiza mediante manos, globos y motivos temáticos, no retratos individuales principales.",
+      "en": "The ninth series represents aspects of Switzerland through hands, globes and thematic imagery rather than main individual portraits."
+    },
+    "ch-1000": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.snb.ch/en/the-snb/mandates-goals/cash/new-banknotes",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "La novena serie representa facetas de Suiza mediante manos, globos y motivos temáticos, no retratos individuales principales.",
+      "en": "The ninth series represents aspects of Switzerland through hands, globes and thematic imagery rather than main individual portraits."
+    },
+    "br-2": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "br-5": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "br-10": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "br-20": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "br-50": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "br-100": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    },
+    "br-200": {
+      "kind": "symbolic",
+      "people": [],
+      "source": "https://www.bcb.gov.br/cedulasemoedas",
+      "basis": "existing_catalogue",
+      "reviewedAt": "2026-11-26",
+      "es": "El anverso representa la efigie alegórica de la República; no es el retrato de una persona histórica identificada.",
+      "en": "The front depicts the allegorical effigy of the Republic rather than a portrait of an identified historical person."
+    }
   }
 }

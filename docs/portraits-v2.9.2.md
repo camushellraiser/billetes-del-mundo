@@ -1,0 +1,3 @@
+# v2.9.2 — people on banknotes
+
+All 738 individual note profiles now include a bilingual section. 255 notes across 47 countries have initial curated context (178 have named people; 77 have non-portrait/main-motif context). 483 notes display an explicit identification pending message. Sources are existing denomination/issuer references and newly consulted official issuer pages; existing design descriptions are used as a basis and have not all been independently rechecked. No image recognition used; biographical summaries are newly authored. No guarantee every figure in a scene is listed. No images changed. No browser test.

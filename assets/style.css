@@ -123,3 +123,6 @@
  .country-card.has-image .country-card-thumb{top:54px;height:57px}
  .country-card.has-image .country-card-thumb img{max-height:57px}
 }
+
+/* v2.9.2 — historical figures and design context */
+.portrait-profile{margin-top:18px;border-top:1px solid #385645;padding:17px 0 0}.portrait-profile h4{font:800 17px var(--display);letter-spacing:-.025em;color:#e1efd8;margin:0 0 14px}.portrait-person{border-left:2px solid #82aa72;padding:3px 0 3px 13px;margin:0 0 15px}.portrait-side{display:block;font-size:9px;letter-spacing:.13em;color:#a4bf9f;font-weight:750;margin-bottom:5px}.portrait-person strong{display:block;font-size:15px;line-height:1.4;color:var(--accent)}.portrait-person p,.portrait-motif{font-size:13px;line-height:1.65;color:#c5d6c7;margin:5px 0}.portrait-pending{font-size:12px;line-height:1.6;color:#a5bcaa;margin:0}.portrait-profile .technical-source{margin-top:4px}.portrait-profile+.technical-motifs{margin-top:20px}
