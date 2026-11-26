@@ -16758,30 +16758,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=51728",
+    "referencePage": "https://banknotenews.com/?p=48470",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2025/11/West_African_States_BC_500_francs_2025.00.00_B120Kn_P719K_25650953630_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/11/West_African_States_BC_500_francs_2025.00.00_B120Kn_P719K_25650953630_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=51728",
+      "sourcePage": "https://banknotenews.com/?p=48470",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "publisher_listed_http_429",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "K",
-    "photoCountryCode": "A",
-    "nationalCodeMatch": false
+    "photoCountryCode": "K",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "code": "A"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=48470",
+      "back": "https://banknotenews.com/?p=48470"
+    }
   },
   {
     "id": "sn-1000",
@@ -16822,30 +16832,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50712",
+    "referencePage": "https://banknotenews.com/?p=45132",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2024/10/West_African_States_BC_2000_francs_2024.00.00_B122Kx_P716K_24662152690_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/10/West_African_States_BC_2000_francs_2024.00.00_B122Kx_P716K_24662152690_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50712",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=45132",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Both images visually reviewed. Country code matches. Browser rendering untested."
     },
     "expectedCountryCode": "K",
-    "photoCountryCode": "A",
-    "nationalCodeMatch": false
+    "photoCountryCode": "K",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "code": "A"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=45132",
+      "back": "https://banknotenews.com/?p=45132"
+    }
   },
   {
     "id": "sn-5000",
@@ -16886,30 +16906,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50439",
+    "referencePage": "https://banknotenews.com/?p=50202",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_10000_francs_2025.00.00_B124Ky_P718K_25690774034_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_10000_francs_2025.00.00_B124Ky_P718K_25690774034_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50439",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=50202",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Both images visually reviewed. Country code matches. Browser rendering untested."
     },
     "expectedCountryCode": "K",
-    "photoCountryCode": "S",
-    "nationalCodeMatch": false
+    "photoCountryCode": "K",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "code": "S"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=50202",
+      "back": "https://banknotenews.com/?p=50202"
+    }
   },
   {
     "id": "ci-500",
@@ -17046,30 +17076,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50439",
+    "referencePage": "https://banknotenews.com/?p=49427",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/02/West_African_States_BC_10000_francs_2026.00.00_B124Az_P118A_26266535769_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/02/West_African_States_BC_10000_francs_2026.00.00_B124Az_P118A_26266535769_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50439",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=49427",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Both images visually reviewed. Country code matches. Browser rendering untested."
     },
     "expectedCountryCode": "A",
-    "photoCountryCode": "S",
-    "nationalCodeMatch": false
+    "photoCountryCode": "A",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "code": "S"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=49427",
+      "back": "https://banknotenews.com/?p=49427"
+    }
   },
   {
     "id": "bj-500",
@@ -17206,30 +17246,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50439",
+    "referencePage": "https://banknotenews.com/?p=45744",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2024/12/West_African_States_BC_10000_francs_2024.00.00_B124Bx_P218B_24000718254_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/12/West_African_States_BC_10000_francs_2024.00.00_B124Bx_P218B_24000718254_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50439",
+      "sourcePage": "https://banknotenews.com/?p=45744",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "B",
-    "photoCountryCode": "S",
-    "nationalCodeMatch": false
+    "photoCountryCode": "B",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "code": "S"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=45744",
+      "back": "https://banknotenews.com/?p=45744"
+    }
   },
   {
     "id": "tg-500",
@@ -17238,30 +17288,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=51728",
+    "referencePage": "https://banknotenews.com/?p=49664",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_500_francs_2026.00.00_B120To_P819T_26802507114_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/03/West_African_States_BC_500_francs_2026.00.00_B120To_P819T_26802507114_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=51728",
+      "sourcePage": "https://banknotenews.com/?p=49664",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "publisher_listed_http_429",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "T",
-    "photoCountryCode": "A",
-    "nationalCodeMatch": false
+    "photoCountryCode": "T",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "code": "A"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=49664",
+      "back": "https://banknotenews.com/?p=49664"
+    }
   },
   {
     "id": "tg-1000",
@@ -17302,30 +17362,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50712",
+    "referencePage": "https://banknotenews.com/?p=50198",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_2000_francs_2025.00.00_B122Ty_P816T_25803723957_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_2000_francs_2025.00.00_B122Ty_P816T_25803723957_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50712",
+      "sourcePage": "https://banknotenews.com/?p=50198",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "publisher_listed_http_429",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "T",
-    "photoCountryCode": "A",
-    "nationalCodeMatch": false
+    "photoCountryCode": "T",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "code": "A"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=50198",
+      "back": "https://banknotenews.com/?p=50198"
+    }
   },
   {
     "id": "tg-5000",
@@ -17334,30 +17404,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50322",
+    "referencePage": "https://banknotenews.com/?p=45323",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2024/10/West_African_States_BC_5000_francs_2024.00.00_B123Tx_P817T_24804793283_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/10/West_African_States_BC_5000_francs_2024.00.00_B123Tx_P817T_24804793283_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50322",
+      "sourcePage": "https://banknotenews.com/?p=45323",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "publisher_listed_http_429",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "T",
-    "photoCountryCode": "K",
-    "nationalCodeMatch": false
+    "photoCountryCode": "T",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "code": "K"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=45323",
+      "back": "https://banknotenews.com/?p=45323"
+    }
   },
   {
     "id": "tg-10000",
@@ -17398,30 +17478,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=51728",
+    "referencePage": "https://banknotenews.com/?p=47382",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Hipopótamos.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Hippopotamuses.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2025/07/West_African_States_BC_500_francs_2024.00.00_B120Dm_P419D_24511004659_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/07/West_African_States_BC_500_francs_2024.00.00_B120Dm_P419D_24511004659_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=51728",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=47382",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Both images visually reviewed. Country code matches. Browser rendering untested."
     },
     "expectedCountryCode": "D",
-    "photoCountryCode": "A",
-    "nationalCodeMatch": false
+    "photoCountryCode": "D",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/11/West_African_States_BC_500_francs_2026.00.00_B120Ao_P119A_26218072887_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=51728",
+      "code": "A"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=47382",
+      "back": "https://banknotenews.com/?p=47382"
+    }
   },
   {
     "id": "ml-1000",
@@ -17462,30 +17552,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50712",
+    "referencePage": "https://banknotenews.com/?p=46458",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Peces.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Fish.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2025/03/West_African_States_BC_2000_francs_2024.00.00_B122Dx_P416D_24500312280_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/03/West_African_States_BC_2000_francs_2024.00.00_B122Dx_P416D_24500312280_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50712",
+      "sourcePage": "https://banknotenews.com/?p=46458",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "publisher_listed_http_429",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "D",
-    "photoCountryCode": "A",
-    "nationalCodeMatch": false
+    "photoCountryCode": "D",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/07/West_African_States_BC_2000_francs_2026.00.00_B122Az_P116A_26230911675_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50712",
+      "code": "A"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=46458",
+      "back": "https://banknotenews.com/?p=46458"
+    }
   },
   {
     "id": "ml-5000",
@@ -17494,30 +17594,40 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50322",
+    "referencePage": "https://banknotenews.com/?p=43321",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Antílopes.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Antelopes.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2024/03/West_African_States_BC_5000_francs_2023.00.00_B123Dw_P417D_23515156889_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2024/03/West_African_States_BC_5000_francs_2023.00.00_B123Dw_P417D_23515156889_r.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50322",
+      "sourcePage": "https://banknotenews.com/?p=43321",
       "verified": false,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "publisher_listed_http_429",
+        "back": "publisher_listed_http_429"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Exact publisher links identified; one or both requests returned HTTP 429. Country code matches catalogue listing; visual review incomplete."
     },
     "expectedCountryCode": "D",
-    "photoCountryCode": "K",
-    "nationalCodeMatch": false
+    "photoCountryCode": "D",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/05/West_African_States_BC_5000_francs_2026.00.00_B123Kz_P717K_26656681992_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50322",
+      "code": "K"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=43321",
+      "back": "https://banknotenews.com/?p=43321"
+    }
   },
   {
     "id": "ml-10000",
@@ -17526,29 +17636,39 @@
     "series": "Gama 2003–2012 · BCEAO",
     "seriesEn": "2003–2012 series · BCEAO",
     "officialPage": "https://www.bceao.int/fr/content/billets-et-pieces",
-    "referencePage": "https://banknotenews.com/?p=50439",
+    "referencePage": "https://banknotenews.com/?p=46770",
     "imageStatus": "curated",
     "reviewedAt": "2026-11-25",
     "fact": "Este país comparte el franco cfa de áfrica occidental con otros países de su unión monetaria. Los billetes ilustrados son ejemplos regionales, no diseños exclusivos del país. Motivo del reverso: Aves.",
     "factEn": "This country shares the West African CFA franc with other members of its monetary union. The illustrated notes are regional examples, not country-exclusive designs. Reverse theme: Birds.",
     "sharedCurrency": "XOF",
     "photos": {
-      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
-      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "front": "https://banknotenews.com/wp-content/uploads/2025/05/West_African_States_BC_10000_francs_2024.00.00_B124Dx_P418D_24503101235_f-1.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2025/05/West_African_States_BC_10000_francs_2024.00.00_B124Dx_P418D_24503101235_r-1.jpg",
       "provider": "BanknoteNews",
-      "sourcePage": "https://banknotenews.com/?p=50439",
-      "verified": false,
+      "sourcePage": "https://banknotenews.com/?p=46770",
+      "verified": true,
       "display": "individual_images",
       "sourceType": "external_reference",
       "visualReview": {
         "date": "2026-11-25",
-        "front": "listed_source_image",
-        "back": "listed_source_image"
+        "front": "visually_confirmed",
+        "back": "visually_confirmed"
       },
-      "note": "Regional reference only; the photographed code differs from the selected country. National variant pending."
+      "note": "Both images visually reviewed. Country code matches. Browser rendering untested."
     },
     "expectedCountryCode": "D",
-    "photoCountryCode": "S",
-    "nationalCodeMatch": false
+    "photoCountryCode": "D",
+    "nationalCodeMatch": true,
+    "regionalReference": {
+      "front": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_f.jpg",
+      "back": "https://banknotenews.com/wp-content/uploads/2026/06/West_African_States_BC_10000_francs_2025.00.00_B124Sy_P818S_25400705172_r.jpg",
+      "sourcePage": "https://banknotenews.com/?p=50439",
+      "code": "S"
+    },
+    "photoSources": {
+      "front": "https://banknotenews.com/?p=46770",
+      "back": "https://banknotenews.com/?p=46770"
+    }
   }
 ]
